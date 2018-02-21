@@ -1,0 +1,51 @@
+---
+title: "Principles of Data Science, BIOS 611"
+author: "Matthew Biggs"
+output: html_document
+---
+
+### Course information
+
+The goals of this class will be to:
+
+1. Achieve profficiency in R (specifically the ["Tidyverse"](https://www.tidyverse.org/))
+2. Gain familiarity with a suite of data science tools
+3. Master the practices of good data science
+
+Topics will include gaining proficiency with R, data wrangling, data quality control and cleaning, data visualization, exploratory data analysis, introductory applied optimization, with an overall emphasis on the principles of good data science-particularly reproducible research. Some emphasis will be given to large data settings such as genomics or claims data. 
+
+The course will also develop familiarity with software tools for data science best practices, such as Git, Docker, Jupyter, Make and Nextflow.
+
+The course will emphasize "learning by doing", with the bulk of the grade coming from several creative data science projects.
+
+### Course Schedule
+
+Fall 2018, class will be held on Mondays and Wednesdays from 9:05--10:20 AM. Wednesday afternoons there will be an additional lab period from 3:35--4:35 PM. 
+
+Before class, students will have read the assigned material from the textbook [R for Data Science](http://r4ds.had.co.nz/). The first 45 minutes of class (9:05--9:50) will be spent working through the exercises and getting hands-on practice with R. We will take a 2--5 minute break, then the remainder of the time will be spend discussing a tool (Mondays) or a topic (Wednesdays). 
+
+Lab time will be spent working on assigned data science projects.
+
+Class | R4DS | Tools and Topics | Project
+------|------|------------------|------------------------- 
+0     | NA   | Syllabus and Principles of Data Science |    
+1     | [1.4.2--1.6 ](http://r4ds.had.co.nz/introduction.html) | [Rstudio](https://www.rstudio.com/) |  
+2     | [3.1--3.4](http://r4ds.had.co.nz/data-visualisation.html) | Data Visualization |  
+...
+
+### Projects
+
+There will be four projects during the semester during which students will be asked to identify a data set, analyze it in R, apply new tools discussed in class, and effectively communicate the results. Prior to each project, the students will walk-through a prepared example that demonstrates the tools they will be expected to use.
+
+Walk-throughs will be graded on exactness of outputs (numbers and figures must be as expected).
+Projects will be graded using a [matrix]() based on the principles of data science emphasized in class.  
+
+#### Project 1
+
+* Find or generate data set
+* Create github repository
+* Read data into R
+* Produce a figure
+* Communicate results
+
+...
