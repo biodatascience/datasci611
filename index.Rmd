@@ -1,5 +1,5 @@
 ---
-title: "Principles of Data Science, BIOS 611"
+title: "Introduction to Data Science, BIOS 611"
 author: "Matthew Biggs"
 output: html_document
 ---
@@ -8,7 +8,7 @@ output: html_document
 
 The goals of this class will be to:
 
-1. Achieve profficiency in R (specifically the ["Tidyverse"](https://www.tidyverse.org/))
+1. Achieve profficiency in R (specifically the ["Tidyverse"](`r4ds`))
 2. Gain familiarity with a suite of data science tools
 3. Master the practices of good data science
 
@@ -18,6 +18,22 @@ The course will also develop familiarity with software tools for data science be
 
 The course will emphasize "learning by doing", with the bulk of the grade coming from several creative data science projects.
 
+### Practices of Good Data Science
+
+1. Analyses are reproducible and portable
+2. Collaboration is easy
+    + Data is accessible
+    + Code is easy to read and interpret
+    + Work is transparent
+3. Code is trustworthy and robust
+4. Clients can easily find and interpret analyses
+
+```{r clean_table, include = FALSE}
+manif_url = url('https://www.oreilly.com/ideas/a-manifesto-for-agile-data-science')
+bash_url = 'http://cs.lmu.edu/~ray/notes/bash/'
+rprdc_url = 'http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285'
+```
+
 ### Course Schedule
 
 Fall 2018, class will be held on Mondays and Wednesdays from 9:05--10:20 AM. Wednesday afternoons there will be an additional lab period from 3:35--4:35 PM. 
@@ -26,11 +42,43 @@ Before class, students will have read the assigned material from the textbook [R
 
 Lab time will be spent working on assigned data science projects.
 
-Class | R4DS | Tools and Topics | Project
-------|------|------------------|------------------------- 
-0     | NA   | Syllabus and Principles of Data Science |    
-1     | [1.4.2--1.6 ](http://r4ds.had.co.nz/introduction.html) | [Rstudio](https://www.rstudio.com/) |  
-2     | [3.1--3.4](http://r4ds.had.co.nz/data-visualisation.html) | Data Visualization |  
+Class | R4DS | Tools and Topics | Project  | Slides
+------|------|------------------|----------|-------------- 
+Introduction to the course  | NA                                                                                    | Syllabus and Principles of Data Science | Start brainstorming P1  | 
+Getting started with R      | [1.4.2--1.6 ](http://r4ds.had.co.nz/introduction.html)                                | [Rstudio](https://www.rstudio.com/)     |                         |
+Data visualization          | [3](http://r4ds.had.co.nz/data-visualisation.html)                                    | Data Visualization                      | Look for data sets      | 
+Programming and scripts     | [4](http://r4ds.had.co.nz/workflow-basics.html) and [6](http://r4ds.had.co.nz/workflow-scripts.html)  | Git and GitHub          |                         |
+Dplyr                       | [5](http://r4ds.had.co.nz/transform.html#introduction-2)                              | [Iteration](`manif_url`)                | Start visualizing       |
+Exploratory data analysis   | [7.1--7.4](http://r4ds.had.co.nz/exploratory-data-analysis.html#introduction-3)       | [Intro to bash](`bash_url`)             |                         |
+Visualizing covariation     | [7.5](http://r4ds.had.co.nz/exploratory-data-analysis.html#covariation)               | [Reproducibility](`rprdc_url`)          | Put draft on github     |
+Walkthrough 1               | NA                                                                                    |                                         |                         |
+Project 1 presentations     | NA                                                                                    |                                         | Start brainstorming P2  |
+Models in R                 | [7.6--7.8](http://r4ds.had.co.nz/exploratory-data-analysis.html#patterns-and-models)  |  |  |
+Tibbles and data import     | [9--11.2](http://r4ds.had.co.nz/wrangle-intro.html)                                   | Project 2 Presentations |   |
+Parsing and writing files   | [11.3--11.6](http://r4ds.had.co.nz/data-import.html#parsing-a-vector)                 |  |  |
+Project 2 work day          | NA                                                                                    |  |  |
+Relational data: table Joins| [13.1--13.4](http://r4ds.had.co.nz/relational-data.html#introduction-7)               |  |   |
+Joins continued and set ops | [13.5--13.7](http://r4ds.had.co.nz/relational-data.html#filtering-joins)              |  |   |
+Strings and intro to regex  | [14.1--14.3.1](http://r4ds.had.co.nz/strings.html)                                    |  |   |
+Regular expressions         | [14.3.2--14.4.7, 14.6](http://r4ds.had.co.nz/strings.html#anchors)                    |  |   |
+Factors                     | [15](http://r4ds.had.co.nz/factors.html)                                              |  |   |
+Dates and times             | [16](http://r4ds.had.co.nz/dates-and-times.html)                                      |  |   |
+Programming and pipes       | [17--18](http://r4ds.had.co.nz/program-intro.html)                                    |  |   |
+Functions                   | [19](http://r4ds.had.co.nz/functions.html#introduction-12)                            |  |   |
+Vectors                     | [20](http://r4ds.had.co.nz/vectors.html)                                              | Project 3 Presentations |   |
+For loops                   | [21.1--21.3](http://r4ds.had.co.nz/iteration.html)                                    |  |   |
+Map functions               | [21.4--21.7](http://r4ds.had.co.nz/iteration.html#for-loops-vs.functionals)           |  |   |
+Linear models               | [23.1--23.3](http://r4ds.had.co.nz/model-basics.html#introduction-15)                 |  |   |
+Optimization and modeling   | NA                                                                                    |  |   |
+More modeling in R          | [23.4--23.6](http://r4ds.had.co.nz/model-basics.html#formulas-and-model-families)     |  |   |
+Modeling diamonds           | [24.1--24.2](http://r4ds.had.co.nz/model-building.html#introduction-16)               |  |   |
+Graphics for communication  | [28](http://r4ds.had.co.nz/graphics-for-communication.html)                           |  |   |
+Rmd                         | [29--30](http://r4ds.had.co.nz/r-markdown-formats.html)                               |  |   |
+    | NA               |  |   |
+    | NA               |  |   |
+ 
+
+
 ...
 
 ### Projects
