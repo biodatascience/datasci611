@@ -1,0 +1,75 @@
+---
+title: "PCA"
+output: html_notebook
+---
+
+Text copied from [A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c). 
+
+We start with a matrix where the three of the columns are correlated to each other.
+
+```{r}
+X = matrix( 
+    c(1, 0, 1, 0, 1, 0, 
+      0, 1, 1, 0, 0, 0, 
+      3, 2, 3, 2, 3, 2,
+      2, 4, 2, 4, 2, 4), 
+    nrow=6, 
+    ncol=4) 
+
+print(X)
+```
+
+```{r}
+plot(X[,1],X[,2])
+```
+
+Take the matrix of independent variables *X* and, for each column, subtract the mean of that column from each entry. (This ensures that each column has a mean of zero). Call the centered matrix *Z*. 
+
+```{r}
+Z = t(t(X) / colMeans(X))
+
+print(Z)
+```
+
+
+```{r}
+Z_transpose = t(Z)
+
+print(Z_transpose)
+```
+
+Take the matrix **Z**, transpose it, and multiply the transposed matrix by **Z**. (Writing this out mathematically, we would write this as **Z^T^Z**.) The resulting matrix is the covariance matrix of **Z**, up to a constant.
+```{r}
+Z_cov = t(Z) %*% Z
+
+print(Z_cov)
+```
+
+(This is probably the toughest step to follow---stick with me here.) Calculate the eigenvectors and their corresponding eigenvalues of **Z^T^Z**. This is quite easily done in most computing packages---in fact, the eigendecomposition of **Z^T^Z** is where we decompose **Z^T^Z** into **PDP^-1^**, where **P** is the matrix of eigenvectors and **D** is the diagonal matrix with eigenvalues on the diagonal and values of zero everywhere else. The eigenvalues on the diagonal of **D** will be associated with the corresponding column in **P**---that is, the first element of **D** is **$\lambda_1$** and the corresponding eigenvector is the first column of **P**. This holds for all elements in **D** and their corresponding eigenvectors in **P**. We will always be able to calculate **PDP^-1^** in this fashion. (Bonus: for those interested, we can always calculate **PDP^-1^** in this fashion because **Z^T^Z** is a symmetric, positive semidefinite matrix.)
+
+Take the eigenvalues **$\lambda_1$**, **$\lambda_2$**, ..., **$\lambda_P$** and sort them from largest to smallest. In doing so, sort the eigenvectors in **P** accordingly. (For example, if **$\lambda_2$** is the largest eigenvalue, then take the second column of **P** and place it in the first column position.) Depending on the computing package, this may be done automatically. Call this sorted matrix of eigenvectors **P\***. (The columns of **P\*** should be the same as the columns of **P**, but perhaps in a different order.) Note that these eigenvectors are independent of one another.
+```{r}
+E = eigen(Z_cov)
+
+print(E)
+```
+
+```{r}
+plot(cumsum(E$values), 
+     type='l', 
+     xlab='Eigen Value',
+     ylab='Sum',
+     main='Cumulative Sum of Eigenvalues')
+lines(cumsum(E$values), type='p', col='red')
+```
+Calculate **Z\*** = **ZP\***. This new matrix, **Z\***, is a centered/standardized version of **X** but now each observation is a combination of the original variables, where the weights are determined by the eigenvector. As a bonus, because our eigenvectors in **P\*** are independent of one another, each column of **Z\*** is also independent of one another!
+```{r}
+Z_star = Z %*% E$vectors
+
+print(Z_star)
+```
+
+```{r}
+plot(Z_star[,1],Z_star[,2])
+```
+
