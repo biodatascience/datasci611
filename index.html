@@ -153,7 +153,7 @@ $(document).ready(function () {
 </div>
 <div id="course-schedule" class="section level3">
 <h3>Course Schedule</h3>
-<p>Fall 2018, class will be held on Mondays and Wednesdays from 3:35–4:50 PM. Monday mornings there will be an additional lab period from 11:15 AM–12:15 PM run by the teaching assistant. The lab schedule can be found <a href="lab_schedule.html">here</a>. Office hours will be held Mondays after class from 2:00–3:30 PM.</p>
+<p>Fall 2018, class will be held on Mondays and Wednesdays from 3:35–4:50 PM. Monday mornings there will be an additional lab period from 11:15 AM–12:15 PM run by the teaching assistant. The <a href="lab_schedule.html">lab schedule can be found here</a>. Office hours will be held Mondays before class from 2:00–3:30 PM.</p>
 <p>Before class, students will have read the assigned material from the textbook <a href="http://r4ds.had.co.nz/">R for Data Science</a>. The first 45 minutes of class (3:35–4:20) will be spent working through the exercises and getting hands-on practice with R. We will take a 2–5 minute break, then the remainder of the time will be spend discussing a “tool” or a “topic”.</p>
 <p>Lab time will be spent working on assigned data science projects, with occasional reviews offered by the course teaching assistant.</p>
 <table style="width:90%;">
@@ -206,7 +206,7 @@ $(document).ready(function () {
 <td>09/05/18</td>
 <td><a href="https://docs.google.com/presentation/d/1Lq7JeOlCkMcC9mmBN_nojMHqKvmVL53A6vwO_7HK-Ao/edit?usp=sharing">Dplyr</a></td>
 <td><a href="http://r4ds.had.co.nz/transform.html#introduction-2">5</a></td>
-<td><a href="https://www.oreilly.com/ideas/a-manifesto-for-agile-data-science">Agile iteration</a></td>
+<td><a href="http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenting-your-work/">Communication</a>, <a href="http://r4ds.had.co.nz/r-markdown-formats.html">Rmd</a></td>
 <td>Start visualizing</td>
 </tr>
 <tr class="even">
@@ -234,7 +234,7 @@ $(document).ready(function () {
 <td>09/19/18</td>
 <td><a href="https://docs.google.com/presentation/d/1AoVwR998ClZRWVEd9XI4j5e3ErN01IcVVg2GK5M09qY/edit?usp=sharing">Tibbles and data import</a></td>
 <td><a href="http://r4ds.had.co.nz/wrangle-intro.html">9–11.2</a></td>
-<td><a href="http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenting-your-work/">Communication</a>, <a href="http://r4ds.had.co.nz/r-markdown-formats.html">Rmd</a></td>
+<td><a href="https://www.oreilly.com/ideas/a-manifesto-for-agile-data-science">Agile iteration</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -269,7 +269,7 @@ $(document).ready(function () {
 <td>10/08/18</td>
 <td>Walkthrough 2 &amp; Review</td>
 <td>NA</td>
-<td>Data Science Spotlight</td>
+<td><a href="https://rmarkdown.rstudio.com/flexdashboard/shiny.html">Shiny and flexdashboard</a></td>
 <td>Put draft on github</td>
 </tr>
 <tr class="odd">
@@ -397,56 +397,56 @@ $(document).ready(function () {
 </div>
 <div id="projects" class="section level3">
 <h3>Projects</h3>
-<p>There will be four projects during the semester during which students will be asked to identify a data set, analyze it in R, apply new tools discussed in class, and effectively communicate the results. Prior to each project, the students will walk through a prepared example that demonstrates the tools they will be expected to use.</p>
-<p>Walk-throughs will be graded on exactness of outputs (numbers and figures must be as expected). Projects will be graded using a <a href="grading_rubric.html">rubric</a> based on the principles of data science emphasized in class.</p>
+<p>There will be four projects during the semester during which students will be asked to identify data sets, analyze them in R, apply the new tools discussed in class, and effectively communicate the results. All code used in the project must be uploaded to the student’s GitHub repository. The results of the first three projects will be communicated as blog posts. The final will be comunicated as a poster.</p>
+<p>Prior to each project, the class will walk through a prepared example that demonstrates the type of analyses they will be expected to complete on their own data.</p>
+<p>Projects will be graded using a <a href="grading_rubric.html">rubric</a> based on the principles of data science emphasized in class.</p>
 <div id="project-1" class="section level4">
 <h4>Project 1</h4>
 <p>See the <a href="walkthrough1.html">Walkthrough for project 1</a>.</p>
 <ul>
 <li>Choose four existing data sets in R</li>
-<li>Create GitHub repository</li>
 <li>Read data into R</li>
 <li>Produce a figure for each data set</li>
-<li>Write a paragraph about each data set. Give context, descibe patterns you see and further questions you would ask.</li>
+<li>Use Dyplr functions to filter, mutate or summarize</li>
+<li>Write a paragraph about each data set. Give context, descibe patterns you see and further questions you would ask</li>
+<li>Submit as an R markdown blog post</li>
 </ul>
 </div>
 <div id="project-2" class="section level4">
 <h4>Project 2</h4>
 <p>See the <a href="walkthrough2.html">Walkthrough for project 2</a>.</p>
 <ul>
-<li>Find or generate data set</li>
-<li>Create GitHub repository</li>
+<li>Find or generate data set consisting of at least two tables that share an attribute (e.g. both relate to states, as in walkthrough)</li>
 <li>Wrangle the data using Dplyr</li>
 <li>Perform at least one table join</li>
 <li>Produce two figures</li>
-<li>Communicate results</li>
+<li>Communicate results as an R markdown blog post</li>
 </ul>
 </div>
 <div id="project-3" class="section level4">
 <h4>Project 3</h4>
+<p>See the Walkthrough for project 3</p>
 <ul>
 <li>Find or generate data set</li>
-<li>Create GitHub repository</li>
 <li>Organize code into functions</li>
-<li>Use the pipe in your code (R and/or Bash)</li>
-<li>Write at least one unit test for a function</li>
+<li>Use the pipe in your code (R and Bash)</li>
+<li>Write at least one unit test for a function and</li>
 <li>Produce a figure, and output a file</li>
-<li>Use a Makefile or Nextflow script to organize project</li>
-<li>Run your code on a remote server</li>
-<li>Communicate results</li>
+<li>Use a Makefile or Nextflow script to organize the project</li>
+<li>Run your code on the Virtual Computing Lab</li>
+<li>Communicate results as an R markdown blog post</li>
 </ul>
 </div>
 <div id="final-exam-project-4" class="section level4">
 <h4>Final Exam (Project 4)</h4>
 <ul>
 <li>Find or generate a meaningful data set</li>
-<li>Create GitHub repository</li>
 <li>Include a Python script in your project</li>
 <li>Use a Makefile or Nextflow script to organize project</li>
 <li>Use a model to describe patterns in your data</li>
 <li>Run your code in a Docker container</li>
 <li>Communicate results in a blog post formatted in R markdown</li>
-<li>Present your results to the class during the final exam period</li>
+<li>Present your results as a poster</li>
 </ul>
 <hr />
 </div>
@@ -475,7 +475,7 @@ $(document).ready(function () {
 </div>
 <div id="connecting-to-uncs-virtual-computing-lab-vcl" class="section level3">
 <h3>Connecting to UNC’s Virtual Computing Lab (VCL)</h3>
-<p><a href="vcl.html">Instructions</a> to connect to the VCL.</p>
+<p><a href="vcl.html">Instructions</a> to connect to the VCL. The VCL provides transient, remote compute environments with pre-installed software where students can complete assignments. Because VCL resources are transient, students <a href="data_access_from_vcl.html">can connect VCL instances to longer-term storage on Longleaf</a>.</p>
 </div>
 <div id="more-resources" class="section level3">
 <h3>More Resources</h3>
