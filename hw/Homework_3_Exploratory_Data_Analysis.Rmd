@@ -1,0 +1,347 @@
+---
+  title: "BIOS 611 HW3 Exploratory Analysis, tibbles, and data import (Chapters 7, 10, and 11.2)"
+  author: "(Your full name here)"
+  date: "`r format(Sys.time(), '%m/%d/%Y')`"
+  output: html_document
+---
+
+  This homework is due `Monday September 17th by 6pm`.  
+  Both `.Rmd` and `.html` files should be submitted.  
+  (This set of exercise is mostly taken from R for Data Science by Garrett Grolemund and Hadley Wickham.)
+  
+    ```{r, include = FALSE}
+    library(tidyverse)
+    ```
+
+
+# Exercise 1
+
+1.  Explore the distribution of `price`. Do you discover anything unusual
+    or surprising? (Hint: Carefully think about the `binwidth` and make sure
+    you try a wide range of values.)
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  Compare and contrast `coord_cartesian()` vs `xlim()` or `ylim()` when
+    zooming in on a histogram.
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+
+# Exercise 2
+
+    
+1.  There are several ways of getting complete data (i.e. ignoring the incomplete cases). 
+    Using each of the following functions, try to get complete data.
+    
+    Answer: 
+
+    ```{r}
+    # Use this dataset
+    data.a = data.frame(no = 1:5, abc = letters[1:5], ABC = LETTERS[11:15], rand = rnorm(5))
+    data.a[3,3] <- data.a[2,1] <- NA
+    data.a
+    
+    # A. na.omit
+    
+    # B. complete.cases
+    
+    ```
+
+2.  What does `na.rm = TRUE` do in `mean()` and `sum()`?
+
+    Answer: 
+
+    ```{r}
+    
+    ```
+
+
+3.  We want to see if there is a pattern of delay according to the scheduled departure time.
+    Criticize the following graph. (If you cannot notice the problem, go back to the example in
+    the note and see why they used `mutate` function. Note only a small sample was used for
+    convenience.)
+    
+    ```{r}
+    set.seed(1)
+    newdata = sample_n(nycflights13::flights, 1000)
+    newdata %>% ggplot(aes(sched_dep_time, dep_delay)) + geom_point()
+    ```
+
+    Answer:
+    
+
+# Exercise 3
+
+1.  Use what you've learned to improve the visualisation of the departure times
+    of cancelled vs. non-cancelled flights. (Hint: normalize them.)
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  What variable in the diamonds dataset is most important for predicting
+    the price of a diamond? How is that variable correlated with cut?
+    Why does the combination of those two relationships lead to lower quality
+    diamonds being more expensive?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+3.  Install the ggstance package, and create a horizontal boxplot. (Use `geom_boxploth()`.)
+    How does this compare to using `coord_flip()` in terms of syntax?
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+
+
+# Exercise 4
+
+1.  How could you rescale the count dataset (`diamonds %>% count(color, cut)`) 
+    to more clearly show the distribution of cut within colour, or colour within cut?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  Use `geom_tile()` together with dplyr to explore how average flight
+    delays vary by destination and month of year.  (Hint: Summarize the data first.)
+    What makes the plot difficult to read? How could you improve it (an open question)?
+
+    Answer: 
+
+    ```{r}
+    # nycflights13::flights
+    
+    ```
+
+3.  Why is it slightly better to use `aes(x = color, y = cut)` rather
+    than `aes(x = cut, y = color)` in the following example (an open question)?
+
+    ```{r}
+    diamonds %>% 
+      count(color, cut) %>%  
+      ggplot(mapping = aes(x = color, y = cut)) +
+        geom_tile(mapping = aes(fill = n))
+    ```
+
+    Answer: 
+
+# Exercise 5
+
+1.  Instead of summarising the conditional distribution with a boxplot, you
+    could use a frequency polygon. What do you need to consider when using
+    `cut_width()` vs `cut_number()`? How does that impact a visualisation of
+    the 2d distribution of `carat` and `price`?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  Visualise the distribution of carat, partitioned by price. (Hint: consider a boxplot)
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+3.  How does the price distribution of very large diamonds compare to small 
+    diamonds? Is it as you expect, or does it surprise you?
+    (Hint: Assuming you want to do a linear regression, is there any violation?)
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+
+4.  Combine two of the techniques you've learned to visualise the 
+    joint distribution of cut, carat, and price.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+5. Two dimensional plots reveal outliers that are not visible in one 
+   dimensional plots. For example, some points in the plot below have an 
+   unusual combination of `x` and `y` values, which makes the points outliers 
+   even though their `x` and `y` values appear normal when examined separately.
+  
+    ```{r, dev = "png"}
+    ggplot(data = diamonds) +
+      geom_point(mapping = aes(x = x, y = y)) +
+      coord_cartesian(xlim = c(4, 11), ylim = c(4, 11))
+    ```
+    
+    Why is a scatterplot a better display than a binned plot for this case?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+
+# Exercise 6
+
+1.  Compare and contrast the following operations on a `data.frame` and 
+    equivalent tibble. What is different? Why might the default data frame
+    behaviours cause you frustration?
+    
+    ```{r, eval = FALSE}
+    df <- data.frame(abc = 1, xyz = "a")
+    df$x
+    df[, "xyz"]
+    df[, c("abc", "xyz")]
+    ```
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  If you have the name of a variable stored in an object, e.g. `var <- "mpg"`,
+    how can you extract the reference variable from a tibble?
+    For example, you simply could have done `mtcars$mpg`. But later on if you 
+    want to extract other variables as well, say `cyl`, which is given as an object
+    `var`, you don't want to manually put the variable names by typing `mtcars$cyl`.
+    How would you do this without explicitly writing `"mpg"` or `"cyl"`?
+
+    Answer: 
+
+    ```{r}
+    newdata <- `as.tibble(mtcars)'
+    var <- "mpg"
+    
+    
+
+    ```
+
+3.  Practice referring to non-syntactic names in the following data frame by:
+  
+    ```{r}
+    newdata = tibble(`1` = rnorm(1:5), `2` = `1` + runif(5))
+    ```
+
+    1.  Extracting the variable called `1`.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+    2.  Plotting a scatterplot of `1` vs `2`.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+    3.  Creating a new column called `3` which is `2` divided by `1`.
+        
+    Answer: 
+
+    ```{r}
+
+    ```
+
+    4.  Renaming the columns to `one`, `two` and `three`. 
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+4.  What does `tibble::enframe()` do? When might you use it?  
+    (How can you simply generate a tibble of two vectors (1 2 3 ... 26, a b c ... z)?)
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+
+# Exercise 7
+
+1.  What function would you use to read a file where fields were separated with  
+    "|"?
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  If you want to read a file from the third line, how would you code using `read_csv()` or
+    `read_tsv()`?
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+
+
+3.  Sometimes strings in a CSV file contain commas. To prevent them from
+    causing problems they need to be surrounded by a quoting character, like
+    `"` or `'`. By convention, `read_csv()` assumes that the quoting
+    character will be `"`, and if you want to change it you'll need to
+    use `read_delim()` instead. What arguments do you need to specify
+    to read the following text into a data frame?
+    (Hint: Sometimes special characters act as a wild card. e.g. `.` represents
+    any charaters, `*` stands for repetition, and so on. So,
+    in order for R to recognize special characters as they are not as a wild card, 
+    we need to put a back-slash `\` in front of the character.
+    e.g. `\.` does not mean everything, but it means `.`)
+    
+    ```{r, eval = FALSE}
+    "x,y\n1,'a,b'"
+    ```
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+
+4.  Identify what is wrong with each of the following inline CSV files. 
+    What happens when you run the code?
+    
+    ```{r, eval = FALSE}
+    read_csv("a,b\n1,2,3\n4,5,6")
+    read_csv("a,b,c\n1,2\n1,2,3,4")
+    read_csv("a,b\n\"1")
+    ```
+
+    Answer: 
+
+    ```{r}
+
+    ```
