@@ -1,0 +1,298 @@
+---
+  title: "BIOS 611 HW4 Relational data (Chapter 13) and Strings (Chapter 14-15)"
+  author: "(Your full name here)"
+  date: "`r format(Sys.time(), '%m/%d/%Y')`"
+  output: html_document
+---
+  (Due date: September 28 at 6 pm)
+
+  This set of exercise is mostly taken from R for Data Science by Garrett Grolemund and Hadley Wickham.
+
+# Exercise 1
+
+1.  Imagine you wanted to draw on a map the route each plane flies from
+    its origin to its destination. What variables would you need? What tables
+    would you need to combine?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+
+2.  We know that some days of the year are "special", and fewer people than
+    usual fly on them. How might you represent that data as a data frame?
+    What would be the primary keys of that table? How would it connect to the
+    existing tables?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+# Exercise 2
+
+1.  Add a surrogate key to `flights`.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  Identify the keys in the following datasets
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+    1.  `Lahman::Batting`,
+    Answer: 
+
+    ```{r}
+
+    ```
+
+    2.  `babynames::babynames`
+    Answer: 
+
+    ```{r}
+
+    ```
+
+    3.  `nasaweather::atmos`
+    Answer: 
+
+    ```{r}
+
+    ```
+
+
+3.  Draw a diagram illustrating the connections between the `Batting`,
+    `Master`, and `Salaries` tables in the Lahman package.  
+    (A diagram does not have to be a perfect picture. It can be tables 
+    with some explanation, or it can be a scanned image of your sketch.)
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+# Exercise 3
+
+1.  Compute the average arrival delay by destination, then join on the `airports`
+    data frame so you can show the spatial distribution of delays. Here's an
+    easy way to draw a map of the United States:
+
+    ```{r, eval = FALSE}
+    airports %>%
+      semi_join(flights, c("faa" = "dest")) %>%
+      ggplot(aes(lon, lat)) +
+        borders("state") +
+        geom_point() +
+        coord_quickmap()
+    ```
+
+    (Don't worry if you don't understand what `semi_join()` does --- you'll
+    learn about it next.)
+
+    You might want to use the `colour` of the points to display
+    the average delay for each airport.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  Add the location of the origin _and_ destination (i.e. the `lat` and `lon`)
+    to `flights`.
+
+    Answer: 
+
+    ```{r}
+    
+    ```
+
+3.  Is there a relationship between the age of a plane and its delays? 
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+4.  What happened on June 13 2013? Display the spatial pattern of delays,
+    and then use Google to cross-reference with the weather.
+
+    ```{r, eval = FALSE, include = FALSE}
+    worst <- filter(flights, !is.na(dep_time), month == 6, day == 13)
+    worst %>%
+      group_by(dest) %>%
+      summarise(delay = mean(arr_delay), n = n()) %>%
+      filter(n > 5) %>%
+      inner_join(airports, by = c("dest" = "faa")) %>%
+      ggplot(aes(lon, lat)) +
+        borders("state") +
+        geom_point(aes(size = n, colour = delay)) +
+        coord_quickmap()
+    ```
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+# Exercise 4
+
+1.  Filter flights to only show flights with planes that have flown at least 100
+    flights.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  Combine `fueleconomy::vehicles` and `fueleconomy::common` to find only the
+    records for the most common models.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+3.  What does `anti_join(flights, airports, by = c("dest" = "faa"))` tell you?
+    What does `anti_join(airports, flights, by = c("faa" = "dest"))` tell you?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+4.  You might expect that there's an implicit relationship between plane
+    and airline, because each plane is flown by a single airline. Confirm
+    or reject this hypothesis using the tools you've learned above.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+# Exercise 5
+
+1.  Given the corpus of common words in `stringr::words`, create regular
+    expressions that find all words that:  
+    
+    (Put the regular expression after "Answer: " below. Feel free to experiment in the r code chunks. We will grade only the regular expression you put after "Answer: ")
+```{r}
+```
+
+    1. Start with "y".  
+    Answer: 
+```{r}
+```
+
+    1. End with "x"  
+    Answer: 
+```{r}
+```
+
+    1. Are exactly three letters long. (Don't cheat by using `str_length()`!)  
+    Answer: 
+```{r}
+```
+
+    1. Have seven letters or more.
+
+    Since this list is long, you might want to use the `match` argument to
+    `str_view()` to show only the matching or non-matching words.  
+    Answer: 
+```{r}
+```
+
+2.  Create regular expressions to find all words that:  
+  (Put the regular expression after "Answer: " below. Feel free to experiment in the r code chunks. We will grade only the regular expression you put after "Answer: ")
+```{r}
+```
+
+    1. Start with a vowel.  
+    Answer:
+```{r}
+```
+
+    1. That only contain consonants. (Hint: thinking about matching
+       "not"-vowels.)  
+    Answer:
+```{r}
+```
+
+    1. End with `ed`, but not with `eed`.  
+    Answer:
+```{r}
+```
+
+    1. End with `ing` or `ise`.  
+    Answer:
+```{r}
+```
+
+3.  Create regular expressions to find all words that:  
+  (Put the regular expression after "Answer: " below. Feel free to experiment in the r code chunks. We will grade only the regular expression you put after "Answer: ")
+```{r}
+```
+
+    1. Start with three consonants.  
+    Answer:
+```{r}
+```
+
+    1. Have three or more vowels in a row.  
+    Answer:
+```{r}
+```
+
+    1. Have two or more vowel-consonant pairs in a row.  
+    Answer:
+```{r}
+```
+
+4.  From the Harvard sentences data, extract:
+
+```{r}
+```
+
+    1. The first word from each sentence.  
+    (Assign this list of words to a variable called "first.words")  
+```{r}
+```
+
+    1. All words ending in `ing`.  
+    (Assign this list of words to a variable called "ing.words")
+```{r}
+```
+
+    1. All plurals.  
+    (Assign this list of words to a variable called "plural.words")
+```{r}
+```
+
+5.   Switch the first and last letters in `words`.  
+    (Note `words` here refer to the the corpus of common words in `stringr::words`. Assign this newly created corpus after switching to a variable called `words.switched`)
+    
+```{r}
+```
+
+6.  Split up a string like `"apples, pears, and bananas"` into individual components.  
+    (Assign this vector of strings to a variable called `fruits`. Make sure to convert this into a vector by doing "%>% .[[1]]")
+```{r}
+```
