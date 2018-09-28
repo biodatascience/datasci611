@@ -6,7 +6,7 @@ thee_count_grep.txt: shakespeare.txt count_thee.sh
 	./count_thee.sh > thee_count_grep.txt
 
 top_ten_grep.txt: shakespeare.txt count_b4_thee.sh
-	./count_b4_thee.sh > top_ten_grep.txt
+	./count_b4_thee.sh shakespeare.txt > top_ten_grep.txt
 
 .PHONY: print_results
 print_results: thee_count_grep.txt top_ten_grep.txt
@@ -28,4 +28,4 @@ clear:
 	rm -f project_fig.png
 
 project_fig.png: clear
-	make all -Bnd | ../makefile2graph/make2graph | dot -Tpng -o project_fig.png
+	make all -Bnd | ./makefile2graph/make2graph | dot -Tpng -o project_fig.png
