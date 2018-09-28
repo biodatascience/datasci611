@@ -6,5 +6,5 @@ grep -Eio "\w+ thee" $1 | \
 	cut -d ' ' -f 1 | \
 	sort | \
 	uniq -c | \
-	sort -r | \
+	sort -rn | \
 	head -10
