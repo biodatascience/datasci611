@@ -1,0 +1,114 @@
+---
+title: "book_joins"
+author: "Matthew Biggs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(knitr)
+```
+
+Make two tibbles with the book character data
+
+```{r }
+characters_tb = tibble(
+  name = c("Harry", "Ron", "Frodo", "Merry"),
+  fav_food = c("Pumpkin pasties", "Chocoloate Frogs", "Lembas bread", "Mushrooms"),
+  friends = c("Hermione, Ron", "Harry, Hermione", "Samwise", "Pippin"), 
+  book = c("Harry Potter", "Harry Potter", "Lord of the Rings", "Lord of the Rings")
+)
+kable(characters_tb)
+
+books_tb = tibble(
+  book = c("Harry Potter", "Lord of the Rings"),
+  pages = c(865, 1624),
+  author = c("J.K. Rowling", "J.R.R. Tolkein")
+)
+kable(books_tb)
+```
+
+We want to select characters from books with greater than 1,000 pages. 
+What steps do we need to follow?
+
+```{r}
+char_books = characters_tb %>% left_join(books_tb, by = "book")
+kable(char_books)
+```
+
+Why the duplicate entries in the book column?
+What would happen if we put books_tb on the left-hand side and do a join?
+
+```{r}
+char_books2 = books_tb %>% left_join(characters_tb, by = "book")
+kable(char_books2)
+```
+
+What would happen if we added different volumes of each book, and repeat the joins?
+
+```{r}
+booksv_tb = tibble(
+  book = c("Harry Potter", "Harry Potter", "Lord of the Rings", "Lord of the Rings"),
+  volume = c("And the sorcerer's stone", "And the chamber of secrets", "The fellowship of the ring", "The two towers"),
+  pages = c(382, 865, 732, 1624),
+  author = c("J.K. Rowling", "J.K. Rowling", "J.R.R. Tolkein", "J.R.R. Tolkein")
+)
+kable(booksv_tb)
+```
+
+```{r}
+char_books3 = characters_tb %>% left_join(booksv_tb, by = "book")
+kable(char_books3)
+```
+
+What would happen if we have a character whose book is not in the book tibble?
+
+```{r}
+characters2_tb = tibble(
+  name = c("Harry", "Ron", "Frodo", "Merry", "Ender"),
+  fav_food = c("Pumpkin pasties", "Chocoloate Frogs", "Lembas bread", "Mushrooms", "Unknown"),
+  friends = c("Hermione, Ron", "Harry, Hermione", "Samwise", "Pippin", "Bean"), 
+  book = c("Harry Potter", "Harry Potter", "Lord of the Rings", "Lord of the Rings", "Ender's Game")
+)
+kable(characters2_tb)
+```
+
+
+```{r}
+char_books4 = characters2_tb %>% left_join(books_tb, by = "book")
+kable(char_books4)
+```
+
+What if we perform a right_join with the new characters tibble?
+```{r}
+char_books5 = characters2_tb %>% right_join(books_tb, by = "book")
+kable(char_books5)
+```
+
+Suppose we perform a right_join with a book that doesn't have a corresponding character?
+```{r}
+booksv2_tb = tibble(
+  book = c("Harry Potter", "Harry Potter", "Lord of the Rings", "Lord of the Rings", "Mistborn"),
+  volume = c("And the sorcerer's stone", "And the chamber of secrets", "The fellowship of the ring", "The two towers", "The final empire"),
+  pages = c(382, 865, 732, 1624, 412),
+  author = c("J.K. Rowling", "J.K. Rowling", "J.R.R. Tolkein", "J.R.R. Tolkein", "Brandon Sanderson")
+)
+kable(booksv2_tb)
+```
+```{r}
+char_books6 = characters2_tb %>% right_join(booksv2_tb, by = "book")
+kable(char_books6)
+```
+
+What do we expect from a full join?
+```{r}
+char_books6 = characters2_tb %>% full_join(booksv2_tb, by = "book")
+kable(char_books6)
+```
+
+What do we expect from an inner join?
+```{r}
+char_books7 = characters2_tb %>% inner_join(booksv2_tb, by = "book")
+kable(char_books7)
+```
+```
