@@ -95,6 +95,7 @@ booksv2_tb = tibble(
 )
 kable(booksv2_tb)
 ```
+
 ```{r}
 char_books6 = characters2_tb %>% right_join(booksv2_tb, by = "book")
 kable(char_books6)
