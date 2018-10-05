@@ -1,0 +1,109 @@
+---
+title: "who_functions"
+author: "Matthew Biggs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+First, let's get the WHO suicide data for 2016
+All values are displayed as suicides per 100,000 people.
+
+```{r message=FALSE}
+# http://apps.who.int/gho/data/node.main.MHSUICIDE10YEARAGEGROUPS?lang=en
+who_df = read_csv(url("http://apps.who.int/gho/athena/data/GHO/SDGSUICIDE?filter=COUNTRY:*;REGION:*;AGEGROUP:YEARS10-19;AGEGROUP:YEARS20-29;AGEGROUP:YEARS30-39;AGEGROUP:YEARS40-49;AGEGROUP:YEARS50-59;AGEGROUP:YEARS60-69;AGEGROUP:YEARS70-79;AGEGROUP:YEARS80PLUS&x-sideaxis=COUNTRY;SEX&x-topaxis=GHO;YEAR;AGEGROUP&profile=crosstable&format=csv"), skip = 2) %>% 
+  gather(contains("years"), key = "age_group", value = "suicide_rate")
+
+who_df
+```
+
+
+Let's also download a mapping from country to continent
+
+```{r message=FALSE}
+continent_df = read_csv(url("https://raw.githubusercontent.com/dbouquin/IS_608/master/NanosatDB_munging/Countries-Continents.csv"))
+
+continent_df
+```
+
+Let's say we want to identify the highest risk demographics in Asia.
+
+First, how do we filter on continent data?
+
+```{r}
+
+```
+
+Let's only consider individual geners, not the combination:
+
+```{r}
+
+```
+
+And finally, we sort to identify the demographic most likely to commit suicide:
+
+```{r} 
+
+```
+
+Suppose we wanted to do the same analysis, but for South America. 
+And then Oceania?
+And then Europe?
+
+What are some reasons not to just copy paste the code and swap out continent names?
+
+How can we wite a function to identify the most vulnerable demographic within a specific continent?
+
+```{r}
+
+```
+
+So, we've written a function. Why didn't it show any results?
+How do you use the function?
+
+```{r}
+
+```
+
+What is the function returning?
+How can we explicitly return an object, as opposed to just printing results to the console?
+
+What if the continent variable a user enters is not spelled correctly, or 
+for some other reason doesn't exist? 
+How can we make errors like this impossible using `if` statements?
+How are if/else commands structured?
+
+```{r}
+
+```
+
+Hint(%in% operator)
+How about the stopifnot command?
+
+```{r}
+
+```
+
+How can we use our new function with the %>% pipe operator?
+
+```{r}
+
+```
+
+How can we store the function in another file, and use it in our code right here?
+Why might we want to keep the function in another file?
+```{r}
+
+```
+
+Why should we test this function?
+
+What files do we need in order to run tests?
+What tests are important, and which might be overkill?
+
+
+
+
+
