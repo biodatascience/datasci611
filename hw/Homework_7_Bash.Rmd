@@ -1,0 +1,56 @@
+---
+  title: "BIOS 611 HW7: Basic Bash Commands"
+  author: "(Your full name here)"
+  date: "`r format(Sys.time(), '%m/%d/%Y')`"
+  output: html_document
+---
+  (This homework is due Mon. Oct. 15th at 6 PM.)
+
+# Exercise 1
+
+1. Write a bash command that displays the file sizes in a "Human-readable" output (ie. Kilobyte, Megabyte) for the files in the current folder.
+
+Answer: 
+
+2. Write a bash command that output the number of items(both files and folders) in the current folder.
+
+Answer:
+
+3. Write a bash command that output a list of files in long format sorted by the file size with the biggest files at the top
+
+Answer:
+
+# Exercise 2
+
+1. Write a bash command that concatenate three files named file1.txt, file2.txt, file3.txt into a file called file.txt  
+(Hint use the 'cat' command with the '>' operator)  
+
+Answer:
+
+2. Write a bash command that output the current working directory
+
+Answer: 
+
+3. Write a bash command that rename a file called "file1.txt" to "file2.txt"  
+
+Answer:
+
+4. Write a bash command that delete a folder called "folder1"  
+
+Answer:
+
+#Exercise 3
+
+1. Write a bash command that output the number of lines in a text file called "text1.txt"  
+
+Answer:
+
+2. Suppose you have an image file called "plot.png" in your home directory on the remote computer with the address: 192.19.196.98. Your username is "user1". Write a bash command(on your local machine) that copy that image from remote computer to your local current directory.
+
+Answer:
+
+3. Suppose you have a csv file called "bmi.csv" with three columns: Name, ID, BMI in that order. Write a bash command that numerically sort the rows by bmi in decreasing order and save the output into a file called "bmi_sorted.csv".  
+(Hint: use the command sort)  
+
+Answer:
+
