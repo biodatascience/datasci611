@@ -1,0 +1,68 @@
+---
+title: "who_iteration"
+author: "Matthew Biggs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+First, let's get the WHO suicide data for 2016
+All values are displayed as suicides per 100,000 people.
+
+```{r message=FALSE}
+# http://apps.who.int/gho/data/node.main.MHSUICIDE10YEARAGEGROUPS?lang=en
+who_df = read_csv(url("http://apps.who.int/gho/athena/data/GHO/SDGSUICIDE?filter=COUNTRY:*;REGION:*;AGEGROUP:YEARS10-19;AGEGROUP:YEARS20-29;AGEGROUP:YEARS30-39;AGEGROUP:YEARS40-49;AGEGROUP:YEARS50-59;AGEGROUP:YEARS60-69;AGEGROUP:YEARS70-79;AGEGROUP:YEARS80PLUS&x-sideaxis=COUNTRY;SEX&x-topaxis=GHO;YEAR;AGEGROUP&profile=crosstable&format=csv"), skip = 2) %>% 
+  gather(contains("years"), key = "age_group", value = "suicide_rate")
+
+who_df
+```
+
+Let's also download a mapping from country to continent
+
+```{r message=FALSE}
+continent_df = read_csv(url("https://raw.githubusercontent.com/dbouquin/IS_608/master/NanosatDB_munging/Countries-Continents.csv"))
+
+continent_df
+```
+
+If we want to filter the WHO data based on continent, how would we start?
+```{r}
+
+```
+
+
+
+How can we be sure the join worked? What if a country is missing, or is mispelled?
+
+What kind of join should we perform to capture the differentially spelled country names from both data sets?
+
+```{r}
+
+```
+
+
+How can we match up Countries with slight variations in spelling so that the join works better?
+
+
+
+
+
+
+Let's use the stringdist package to compare country names.
+First, let's write a function to find the best match for a single Country name.
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+Let's turn this into a function.
+
+Now, let's iterate over all the countries and apply our "best match" function.
+
+Let's fix the join. What steps should we follow?
