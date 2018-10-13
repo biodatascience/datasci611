@@ -7,6 +7,7 @@ ggplot(co2_t, aes(x=conc, y=uptake, group=Type)) +
   geom_point(size=3, alpha=0.3, aes(color=Type)) + 
   geom_smooth(alpha=0.1, size=2, se=FALSE, aes(color=Type)) +
   geom_vline(xintercept=375, linetype='dashed') +
+  annotate('text', x=400, y=27, label = 'Uptake plateaus after 375 mL/L', hjust='left') +
   theme_minimal() +
   labs(
     title = expression(paste("Quebec grasses uptake more CO"[2])),
@@ -15,4 +16,4 @@ ggplot(co2_t, aes(x=conc, y=uptake, group=Type)) +
     color = "Grass origin"
   )
 
-ggsave("datasci611_src/data/co2_uptake.png", width=6, height=3.5)
+ggsave("data/co2_uptake.png", width=6, height=3.5)
