@@ -1,0 +1,51 @@
+---
+title: "police_residence_dash"
+output: flexdashboard::flex_dashboard
+runtime: shiny
+---
+
+```{r global, include=FALSE}
+library(tidyverse)
+
+city_df = read_csv(url("https://gist.githubusercontent.com/Miserlou/11500b2345d3fe850c92/raw/e36859a9eef58c231865429ade1c142a2b75f16e/gistfile1.txt"), skip=3)
+
+```
+
+Column {.sidebar}
+-----------------------------------------------------------------------
+
+Population size of US cities.
+
+```{r}
+numericInput(inputId = "bins",
+                  label = "Number of bins:",
+                  min = 1,
+                  max = 50,
+                  value = 30)
+
+```
+
+Column
+-----------------------------------------------------------------------
+
+### Population histogram
+
+```{r}
+renderPlot({
+    bins = seq(min(city_df$population, na.rm = T), 
+               max(city_df$population, na.rm = T), 
+               length.out = input$bins + 1)
+    
+    ggplot(city_df, aes(x=population)) +
+      geom_histogram(breaks = bins) +
+         labs(x = "Population size",
+              title = "Histogram of US city populations") +
+      scale_y_log10()
+  })
+```
+
+### City data table
+
+```{r}
+renderDataTable({city_df})
+```
