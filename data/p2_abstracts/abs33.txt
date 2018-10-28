@@ -1,0 +1,75 @@
+
+
+34. PLoS One. 2018 Oct 11;13(10):e0203921. doi: 10.1371/journal.pone.0203921.
+eCollection 2018.
+
+Costs and cost-effectiveness of LEEP versus cryotherapy for treating cervical
+dysplasia among HIV-positive women in Johannesburg, South Africa.
+
+Lince-Deroche N(1), van Rensburg C(1), Roseleur J(1), Sanusi B(2), Phiri J(1),
+Michelow P(3), Smith JS(2)(4), Firnhaber C(5)(6).
+
+Author information: 
+(1)Health Economics and Epidemiology Research Office, Department of Internal
+Medicine, School of Clinical Medicine, Faculty of Health Sciences, University of 
+the Witwatersrand, Johannesburg, South Africa.
+(2)Gillings School of Public Health, University of North Carolina, Chapel Hill,
+NC, United States of America.
+(3)Cytology Unit, National Health Laboratory Service and Department of Anatomical
+Pathology, Faculty of Health Sciences, University of the Witwatersrand,
+Johannesburg, South Africa.
+(4)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
+Hill, NC, United States of America.
+(5)Right to Care, Johannesburg, South Africa.
+(6)Clinical HIV Research Unit, Department of Internal Medicine, Faculty of Health
+Sciences, University of Witwatersrand, Johannesburg, South Africa.
+
+BACKGROUND: Cervical cancer incidence is significant in countries, such as South 
+Africa, with high burdens of both HIV and human papillomavirus (HPV). Cervical
+cancer is largely preventable if dysplasia is diagnosed and treated early, but
+there is debate regarding the best approaches for screening and treatment,
+especially for low-resource settings. Currently South Africa provides Pap smears 
+followed by colposcopic biopsy and LEEP if needed in its public health
+facilities. We estimated the costs and cost-effectiveness of two approaches for
+treating cervical intraepithelial neoplasia grade 2 or higher (CIN2+) among
+HIV-infected women, most of whom were taking antiretroviral treatment, at a
+public HIV treatment facility in Johannesburg, South Africa.
+METHODS: Method effectiveness was derived from an intention-to-treat analysis of 
+data gathered in a clinical trial completed previously at the study facility. In 
+the trial, women who were diagnosed with CIN2+ and eligible for cryotherapy were 
+randomized to cryotherapy or LEEP. If women were CIN2+ at six months as
+determined via Pap smear and colposcopic biopsy, all women-regardless of their
+original treatment assignment-received LEEP. "Cure" was then defined as the
+absence of disease at 12 months based on Pap smear and colposcopic biopsy. Health
+service costs were estimated using micro-costing between June 2013 and April
+2014. Capital costs were annualized using a discount rate of 3%. Two different
+service volume scenarios were considered, and results from an as-treated analysis
+were considered in sensitivity analysis.
+RESULTS: In total, 166 women with CIN2+ were enrolled (86 had LEEP; 80 had
+cryotherapy). At 12 months, cumulative loss to follow-up was 12.8% (11/86) for
+the LEEP group and 13.8% (11/80) for cryotherapy. Based on the unadjusted
+intention-to-treat analysis conducted for this economic evaluation, there was no 
+significant difference in efficacy. At 12 months, 83.8% (95% CI 73.8-91.1) of
+women with CIN2+ at baseline and randomized to cryotherapy were free of CIN2+
+disease. In contrast, 76.7% (95% CI 66.4-85.2) of women assigned to LEEP were
+free from disease. On average, women initially treated with cryotherapy were less
+costly per patient randomized at US$ 118.00 (113.91-122.10), and per case "cured"
+at US$ 140.90 (136.01-145.79). Women in the LEEP group cost US$ 162.56
+(157.90-167.22) per patient randomized and US$ 205.59 (199.70-211.49) per case
+cured. In the as-treated analysis, which was based on trial data, LEEP was more
+efficacious than cryotherapy; however, the difference was not significant.
+Cryotherapy remained more cost-effective than LEEP in all sensitivity and
+scenario analyses.
+CONCLUSIONS: For this cost-effectiveness analysis, using an intention-to-treat
+approach and taking into consideration uncertainty in the clinical and cost
+outcomes, a strategy involving cryotherapy plus LEEP if needed at six months was 
+dominant to LEEP plus LEEP again at six months if needed for retreatment.
+However, compared to other studies comparing LEEP and cryotherapy, the efficacy
+results were low in both treatment groups-possibly due to the HIV-positivity of
+the participants. Further research is needed, but at present choosing the "right"
+treatment option may be less important than ensuring access to treatment and
+providing careful monitoring of treatment outcomes.
+
+DOI: 10.1371/journal.pone.0203921 
+PMCID: PMC6181291
+PMID: 30308014 

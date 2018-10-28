@@ -1,0 +1,63 @@
+
+
+90. Eur J Clin Pharmacol. 2018 Sep 15. doi: 10.1007/s00228-018-2552-z. [Epub ahead of
+print]
+
+Pharmacokinetic determinants of cisplatin-induced subclinical kidney injury in
+oncology patients.
+
+Ibrahim ME(1), Chang C(1), Hu Y(2), Hogan SL(2), Mercke N(1), Gomez M(1),
+O'Bryant CL(1)(3), Bowles DW(3), George B(4), Wen X(4), Buckley B(5), Aleksunes
+L(4)(5), Joy MS(6)(7)(8).
+
+Author information: 
+(1)Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and
+Pharmaceutical Sciences, University of Colorado, Anschutz Medical Campus, 12850
+E. Montview Blvd, Mail Stop C238, Room V20-4108, Aurora, CO, 80045, USA.
+(2)Kidney Center, University of North Carolina School of Medicine, Division of
+Nephology and Hypertension, Chapel Hill, NC, 27516, USA.
+(3)Cancer Center, University of Colorado, Anschutz Medical Campus, 1665 Aurora
+Ct, Aurora, CO, 80045, USA.
+(4)Department of Pharmacology and Toxicology, Ernest Mario School of Pharmacy,
+Rutgers University, Davidson Hall, 96 Davidson Rd, Piscataway, NJ, 08854, USA.
+(5)Environmental and Occupational Health Sciences Institute, Rutgers University, 
+170 Frelinghuysen Rd, Piscataway, NJ, 08854, USA.
+(6)Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and
+Pharmaceutical Sciences, University of Colorado, Anschutz Medical Campus, 12850
+E. Montview Blvd, Mail Stop C238, Room V20-4108, Aurora, CO, 80045, USA.
+Melanie.Joy@ucdenver.edu.
+(7)Cancer Center, University of Colorado, Anschutz Medical Campus, 1665 Aurora
+Ct, Aurora, CO, 80045, USA. Melanie.Joy@ucdenver.edu.
+(8)Division of Renal Diseases and Hypertension, University of Colorado, Anschutz 
+Medical Campus, School of Medicine, 13001 E 17th Pl, Aurora, CO, 80045, USA.
+Melanie.Joy@ucdenver.edu.
+
+PURPOSE: The ability to predict and detect clinical and subclinical
+nephrotoxicity early in the course of therapy has the potential to improve
+long-term outcomes in cancer patients receiving cisplatin chemotherapy.
+Pharmacokinetic parameters could serve as predictors of cisplatin-induced
+nephrotoxicity.
+METHODS: Participants [n = 13] were treated with a 1-h cisplatin infusion
+[30-75 mg/m2]. Blood was collected pre-dose and up to 6 h post-dose. Urinary
+biomarkers [KIM-1, calbindin, clusterin, GST-pi, β2M, albumin, NGAL, osteopontin,
+clusterin, MCP-1, cystatin C, and TFF3] were measured at baseline, days 3 and 10.
+Total and unbound platinum concentrations were measured using ICP/MS.
+Noncompartmental analysis was performed, and correlation and regression analyses 
+evaluated the relationships between platinum pharmacokinetics and nephrotoxicity.
+RESULTS: Peak platinum urinary concentrations correlated with urinary levels of
+KIM-1, calbindin, clusterin, GST-pi, β2M, albumin, NGAL, osteopontin, clusterin, 
+cystatin C, and TFF3 at day 10. Unbound platinum plasma concentrations at 2 h
+also correlated with urinary clusterin, β2M, cystatin C, NGAL, osteopontin, and
+TFF3 at day 3. Regression analyses suggested 2-h total plasma platinum
+concentrations greater than 2000 ng/ml, and peak urinary platinum concentrations 
+above 24,000 ng/ml may serve as potential approximations for elevated risk of
+nephrotoxicity. Platinum area under the plasma concentration time curve was
+associated with serum creatinine and estimated glomerular filtration rate.
+CONCLUSIONS: Peak plasma and urinary platinum concentrations and pharmacokinetic 
+parameters were associated with risk of subclinical cisplatin-induced kidney
+injury as assessed using novel urinary biomarkers. Future studies will examine
+these relationships in larger clinical populations of cisplatin-induced acute
+kidney injury.
+
+DOI: 10.1007/s00228-018-2552-z 
+PMID: 30220072 

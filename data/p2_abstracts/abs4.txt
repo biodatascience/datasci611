@@ -1,0 +1,35 @@
+
+
+5. Adv Exp Med Biol. 2018;1032:127-143. doi: 10.1007/978-3-319-98788-0_10.
+
+ALDH1L1 and ALDH1L2 Folate Regulatory Enzymes in Cancer.
+
+Krupenko SA(1)(2), Krupenko NI(3)(4).
+
+Author information: 
+(1)Department of Nutrition, University of North Carolina, Chapel Hill, NC, USA.
+sergey_krupenko@unc.edu.
+(2)UNC Nutrition Research Institute, Chapel Hill, NC, USA.
+sergey_krupenko@unc.edu.
+(3)Department of Nutrition, University of North Carolina, Chapel Hill, NC, USA.
+(4)UNC Nutrition Research Institute, Chapel Hill, NC, USA.
+
+Epidemiological studies implicate excess ethanol ingestion as a risk factor for
+several cancers and support the concept of a synergistic effect of chronic
+alcohol consumption and folate deficiency on carcinogenesis. Alcohol consumption 
+affects folate-related genes and enzymes including two major folate-metabolizing 
+enzymes, ALDH1L1 and ALDH1L2. ALDH1L1 (cytosolic 10-formyltetrahydrofolate
+dehydrogenase) is a regulatory enzyme in folate metabolism that controls the
+overall flux of one-carbon groups in folate-dependent biosynthetic pathways. It
+is strongly and ubiquitously down-regulated in malignant tumors via promoter
+methylation, and recent studies underscored this enzyme as a candidate tumor
+suppressor and potential marker of aggressive cancers. A related enzyme, ALDH1L2,
+is the mitochondrial homolog of ALDH1L1 encoded by a separate gene. In contrast
+to its cytosolic counterpart, ALDH1L2 is expressed in malignant tumors and cancer
+cell lines and was implicated in metastasis regulation. This review discusses the
+link between folate and cancer, modifying effects of alcohol consumption on
+folate-associated carcinogenesis, and putative roles of ALDH1L1 and ALDH1L2 in
+this process.
+
+DOI: 10.1007/978-3-319-98788-0_10 
+PMID: 30362096 

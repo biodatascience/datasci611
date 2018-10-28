@@ -1,0 +1,43 @@
+
+
+3. Int J Breast Cancer. 2018 Sep 30;2018:2063540. doi: 10.1155/2018/2063540.
+eCollection 2018.
+
+Stable Isotope-Resolved Metabolomic Differences between Hormone-Responsive and
+Triple-Negative Breast Cancer Cell Lines.
+
+Winnike JH(1), Stewart DA(2), Pathmasiri WW(2), McRitchie SL(2), Sumner SJ(2).
+
+Author information: 
+(1)Analytical Sciences, David H. Murdock Research Institute, Kannapolis, NC
+28081, USA.
+(2)NIH Eastern Regional Comprehensive Metabolomics Resource Core, Department of
+Nutrition, University of North Carolina at Chapel Hill Nutrition Research
+Institute, Kannapolis, NC 28081, USA.
+
+Purpose: To conduct an exploratory study to identify mechanisms that
+differentiate Luminal A (BT474 and MCF-7) and triple-negative (MDA-MB-231 and
+MDA-MB-468) breast cancer (BCa) cell lines to potentially provide novel
+therapeutic targets based on differences in energy utilization.
+Methods: Cells were cultured in media containing either [U-13C]-glucose or
+[U-13C]-glutamine for 48 hours. Conditioned media and cellular extracts were
+analyzed by 1H and 13C NMR spectroscopy.
+Results: MCF-7 cells consumed the most glucose, producing the most lactate,
+demonstrating the greatest Warburg effect-associated energy utilization. BT474
+cells had the highest tricarboxylic acid cycle (TCA) activity. The majority of
+energy utilization patterns in MCF-7 cells were more similar to MDA-MB-468 cells,
+while the patterns for BT474 cells were more similar to MDA-MB-231 cells.
+Compared to the Luminal A cell lines, TNBC cell lines consumed more glutamine and
+less glucose. BT474 and MDA-MB-468 cells produced high amounts of 13C-glycine
+from media [U-13C]-glucose which was integrated into glutathione, indicating de
+novo synthesis.
+Conclusions: Stable isotopic resolved metabolomics using 13C substrates provided 
+mechanistic information about energy utilization that was difficult to interpret 
+using 1H data alone. Overall, cell lines that have different hormone receptor
+status have different energy utilization requirements, even if they are
+classified by the same clinical BCa subtype; and these differences offer clues
+about optimizing treatment strategies.
+
+DOI: 10.1155/2018/2063540 
+PMCID: PMC6186330
+PMID: 30363973 

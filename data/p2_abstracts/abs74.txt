@@ -1,0 +1,53 @@
+
+
+75. J Natl Cancer Inst. 2018 Sep 20. doi: 10.1093/jnci/djy136. [Epub ahead of print]
+
+Endocrine Therapy Nonadherence and Discontinuation in Black and White Women.
+
+Wheeler SB(1)(2), Spencer J(1), Pinheiro LC(3), Murphy CC(4), Earp JA(2)(5),
+Carey L(2)(6), Olshan A(7), Tse CK(7), Bell ME(2), Weinberger M(1), Reeder-Hayes 
+KE(2)(6).
+
+Author information: 
+(1)Department of Health Policy and Management.
+(2)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, NC.
+(3)Division of General Internal Medicine, Weill Cornell Medical College, New
+York, NY.
+(4)Division of Epidemiology, Department of Clinical Sciences, University of Texas
+Southwestern Medical Center, Dallas, TX.
+(5)Department of Health Behavior.
+(6)Division of Hematology and Oncology.
+(7)Department of Epidemiology, University of North Carolina at Chapel Hill,
+Chapel Hill, NC.
+
+Background: Differential use of endocrine therapy (ET) by race may contribute to 
+breast cancer outcome disparities, but racial differences in ET behaviors are
+poorly understood.
+Methods: Women aged 20-74 years with a first primary, stage I-III, hormone
+receptor-positive (HR+) breast cancer were included. At 2 years postdiagnosis, we
+assessed nonadherence, defined as not taking ET every day or missing more than
+two pills in the past 14 days, discontinuation, and a composite measure of
+underuse, defined as either missing pills or discontinuing completely. Using
+logistic regression, we evaluated the relationship between race and nonadherence,
+discontinuation, and overall underuse in unadjusted, clinically adjusted, and
+socioeconomically adjusted models.
+Results: A total of 1280 women were included; 43.2% self-identified as black.
+Compared to white women, black women more often reported nonadherence (13.7% vs
+5.2%) but not discontinuation (10.0% vs 10.7%). Black women also more often
+reported the following: hot flashes, night sweats, breast sensitivity, and joint 
+pain; believing that their recurrence risk would not change if they stopped ET;
+forgetting to take ET; and cost-related barriers. In multivariable analysis,
+black race remained statistically significantly associated with nonadherence
+after adjusting for clinical characteristics (adjusted odds ratio = 2.72, 95%
+confidence interval = 1.75 to 4.24) and after adding socioeconomic to clinical
+characteristics (adjusted odds ratio = 2.44, 95% confidence interval = 1.50 to
+3.97) but was not independently associated with discontinuation after adjustment.
+Low recurrence risk perception and lack of a shared decision making were strongly
+predictive of ET underuse across races.
+Conclusions: Our results highlight important racial differences in ET-adherence
+behaviors, perceptions of benefits/harms, and shared decision making that may be 
+targeted with culturally tailored interventions.
+
+DOI: 10.1093/jnci/djy136 
+PMID: 30239824 

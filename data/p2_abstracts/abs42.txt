@@ -1,0 +1,111 @@
+
+
+43. Gastroenterology. 2018 Oct 5. pii: S0016-5085(18)35088-1. doi:
+10.1053/j.gastro.2018.09.054. [Epub ahead of print]
+
+Serological response to Helicobacter pylori proteins associate with risk of
+colorectal cancer among diverse populations in the United States.
+
+Butt J(1), Varga MG(2), Blot WJ(3), Teras L(4), Visvanathan K(5), Le Marchand
+L(6), Haiman C(7), Chen Y(8), Bao Y(9), Sesso HD(10), Wassertheil-Smoller S(11), 
+Ho GYF(12), Tinker LE(13), Peek RM(14), Potter JD(15), Cover TL(16), Hendrix
+LH(17), Huang LC(18), Hyslop T(19), Um C(4), Grodstein F(20), Song M(21),
+Zeleniuch-Jacquotte A(8), Berndt S(22), Hildesheim A(22), Waterboer T(23),
+Pawlita M(23), Epplein M(24).
+
+Author information: 
+(1)Infection and Cancer Epidemiology, Division of Molecular Diagnostics of
+Oncogenic Infections, German Cancer Research Center (DKFZ), Im Neuenheimer Feld
+280, 69120 Heidelberg, Germany; Cancer Control and Population Sciences Program,
+Duke Cancer Institute, and Department of Population Health Sciences, Duke
+University, 2424 Erwin Road, Suite 602, Durham, NC 27705, USA.
+(2)University of North Carolina at Chapel Hill, Department of Epidemiology,
+Gillings School for Global Public Health and Lineberger Comprehensive Cancer
+Center, 2102E McGavran Greenberg Hall, Chapel Hill, NC 27599, USA.
+(3)Division of Epidemiology, Vanderbilt University Medical Center, 2525 West End 
+Avenue Nashville, TN 37203, USA.
+(4)Behavioral and Epidemiology Research Group, American Cancer Society, 250
+Williams St, Atlanta, GA 30303, USA.
+(5)Department of Epidemiology, Johns Hopkins School of Public Health, 615 N.
+Wolfe Street, Baltimore, MD 21205 USA.
+(6)Epidemiology Program, University of Hawai'i Cancer Center, 701 Ilalo Street,
+Honolulu, HI 96813 USA.
+(7)University of Southern California and USC Norris Comprehensive Cancer Center, 
+Los Angeles, CA, USA.
+(8)Department of Population Health, New York University School of Medicine, 650
+First Avenue, New York, NY 10016 USA.
+(9)Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115 USA.
+(10)Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115 USA;
+Department of Epidemiology, Harvard T.H. Chan School of Public Health, 667
+Huntington Avenue, Boston, MA 02115 USA.
+(11)Department of Epidemiology & Population Health, Albert Einstein College of
+Medicine, 1300 Morris Park Avenue, Bronx, NY 10461 USA.
+(12)Department of Occupational Medicine, Epidemiology and Prevention, Feinstein
+Institute for Medical Research, Northwell Health; Donald and Barbara Zucker
+School of Medicine at Hofstra/Northwell, Great Neck, NY 11021 USA.
+(13)Cancer Prevention Program, Division of Public Health Sciences at Fred
+Hutchinson Cancer Research Center, 1100 Fairview Avenue, Seattle, WA 98109 USA.
+(14)Division of Gastroenterology, Department of Medicine, Vanderbilt University
+Medical Center, 2215 Garland Avenue, 1030C MRB IV (1025C), Nashville, TN 37232
+USA.
+(15)Fred Hutchinson Cancer Research Center, 1100 Fairview Avenue, Seattle WA
+98109 USA.
+(16)Department of Medicine and Department of Pathology, Microbiology and
+Immunology, Vanderbilt University Medical Center, Nashville, TN 37232 USA;
+Veterans Affairs Tennessee Valley Healthcare System, Nashville, TN USA.
+(17)Department of Biostatistics and Bioinformatics, Duke University, 2424 Erwin
+Road, Durham, NC 27705 USA.
+(18)Department of Biostatistics, Vanderbilt University Medical Center, Nashville,
+TN 37203 USA.
+(19)Cancer Control and Population Sciences Program, Duke Cancer Institute, and
+Department of Population Health Sciences, Duke University, 2424 Erwin Road, Suite
+602, Durham, NC 27705, USA; Department of Biostatistics and Bioinformatics, Duke 
+University, 2424 Erwin Road, Durham, NC 27705 USA.
+(20)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 667
+Huntington Avenue, Boston, MA 02115 USA.
+(21)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 667
+Huntington Avenue, Boston, MA 02115 USA; Department of Nutrition, Harvard T.H.
+Chan School of Public Health, Boston, MA 02115 USA; Clinical and Translational
+Epidemiology Unit and Division of Gastroenterology, Massachusetts General
+Hospital and Harvard Medical School, Boston, MA 02115 USA.
+(22)Infections and Immunoepidemiology Branch, Division of Cancer Epidemiology and
+Genetics, National Cancer Institute, National Institutes of Health, 9609 Medical 
+Center Drive, Room SG/6E102, Rockville, MD 20850 USA.
+(23)Infection and Cancer Epidemiology, Division of Molecular Diagnostics of
+Oncogenic Infections, German Cancer Research Center (DKFZ), Im Neuenheimer Feld
+280, 69120 Heidelberg, Germany.
+(24)Cancer Control and Population Sciences Program, Duke Cancer Institute, and
+Department of Population Health Sciences, Duke University, 2424 Erwin Road, Suite
+602, Durham, NC 27705, USA. Electronic address: meira.epplein@duke.edu.
+
+BACKGROUND & AIMS: Previous studies reported an association of the bacteria
+Helicobacter pylori, the primary cause of gastric cancer, and risk of colorectal 
+cancer (CRC). However, these findings have been inconsistent, appear to vary with
+population characteristics, and may be specific for virulence factor VacA. To
+more thoroughly evaluate the potential association of H pylori antibodies with
+CRC risk, we assembled a large consortium of cohorts representing diverse
+populations in the United States.
+METHODS: We used H pylori multiplex serologic assays to analyze serum samples
+from 4063 incident cases of CRC, collected before diagnosis, and 4063 matched
+individuals without CRC (controls) from 10 prospective cohorts for antibody
+responses to 13 H pylori proteins, including virulence factors VacA and CagA. The
+association of sero-positivity to H pylori proteins, as well as protein-specific 
+antibody level, with odds of CRC was determined by conditional logistic
+regression.
+RESULTS: Overall 40% of controls and 41% of cases were H. pylori sero-positive
+(odds ratio [OR], 1.09; 95% CI, 0.99-1.20). H pylori VacA-specific
+sero-positivity was associated with an 11% increased odds of CRC (OR, 1.11; 95%
+CI, 1.01-1.22), and this association was particularly strong among African
+Americans (OR, 1.45; 95% CI, 1.08-1.95). Additionally, odds of CRC increased with
+level of VacA antibody in the overall cohort (P=.008) and specifically among
+African Americans (P=.007).
+CONCLUSION: In an analysis of a large consortium of cohorts representing diverse 
+populations, we found serologic responses to H pylori VacA to associate with
+increased risk of CRC risk-particularly for African Americans. Future studies
+should seek to understand whether this marker is related to virulent H pylori
+strains carried in these populations.
+
+Copyright © 2018 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2018.09.054 
+PMID: 30296434 

@@ -1,0 +1,46 @@
+
+
+33. Hum Mutat. 2018 Nov;39(11):1542-1552. doi: 10.1002/humu.23640.
+
+Integrating somatic variant data and biomarkers for germline variant
+classification in cancer predisposition genes.
+
+Walsh MF(1), Ritter DI(2), Kesserwan C(3), Sonkin D(4), Chakravarty D(1), Chao
+E(5), Ghosh R(2), Kemel Y(1), Wu G(3), Lee K(6), Kulkarni S(2), Hedges D(3),
+Mandelker D(1), Ceyhan-Birsoy O(1), Luo M(7), Drazer M(8), Zhang L(1), Offit
+K(1), Plon SE(2).
+
+Author information: 
+(1)Memorial Sloan Kettering Cancer Center, New York City, New York, USA.
+(2)Baylor College of Medicine, Houston, Texas, USA.
+(3)St. Jude Children's Hospital, Memphis, Tennessee, USA.
+(4)National Cancer Institute, Bethesda, Maryland, USA.
+(5)University of California, Irvine, California, USA.
+(6)University of North Carolina, Chapel Hill, North Carolina, USA.
+(7)Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.
+(8)University of Chicago, Chicago, Illinois, USA.
+
+In its landmark paper about Standards and Guidelines for the Interpretation of
+Sequence Variants, the American College of Medical Genetics and Genomics (ACMG), 
+and Association for Molecular Pathology (AMP) did not address how to use tumor
+data when assessing the pathogenicity of germline variants. The Clinical Genome
+Resource (ClinGen) established a multidisciplinary working group, the
+Germline/Somatic Variant Subcommittee (GSVS) with this focus. The GSVS
+implemented a survey to determine current practices of integrating somatic data
+when classifying germline variants in cancer predisposition genes. The GSVS then 
+reviewed and analyzed available resources of relevant somatic data, and performed
+integrative germline variant curation exercises. The committee determined that
+somatic hotspots could be systematically integrated into moderate evidence of
+pathogenicity (PM1). Tumor RNA sequencing data showing altered splicing may be
+considered as strong evidence in support of germline pathogenicity (PVS1) and
+tumor phenotypic features such as mutational signatures be considered supporting 
+evidence of pathogenicity (PP4). However, at present, somatic data such as focal 
+loss of heterozygosity and mutations occurring on the alternative allele are not 
+recommended to be systematically integrated, instead, incorporation of this type 
+of data should take place under the advisement of multidisciplinary cancer center
+tumor-normal sequencing boards.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/humu.23640 
+PMID: 30311369 

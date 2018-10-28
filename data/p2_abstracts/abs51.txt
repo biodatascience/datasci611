@@ -1,0 +1,64 @@
+
+
+52. JCI Insight. 2018 Oct 4;3(19). pii: 122788. doi: 10.1172/jci.insight.122788.
+[Epub ahead of print]
+
+Colonic epithelial miR-31 associates with the development of Crohn's phenotypes.
+
+Keith BP(1)(2), Barrow JB(2), Toyonaga T(2), Kazgan N(2), O'Connor MH(2)(3), Shah
+ND(2), Schaner MS(2), Wolber EA(2), Trad OK(2), Gipson GR(2), Pitman WA(4), Kanke
+M(4), Saxena SJ(2), Chaumont N(5), Sadiq TS(5), Koruda MJ(5), Cotney PA(6),
+Allbritton N(7), Trembath DG(8), Sylvester F(9), Furey TS(1)(2)(6)(10)(11),
+Sethupathy P(4), Sheikh SZ(2)(3)(6).
+
+Author information: 
+(1)Curriculum in Bioinformatics and Computational Biology.
+(2)Center for Gastrointestinal Biology and Disease, and.
+(3)Curriculum in Genetics and Molecular Biology, University of North Carolina
+(UNC) at Chapel Hill, Chapel Hill, North Carolina, USA.
+(4)Department of Biomedical Sciences, College of Veterinary Medicine, Cornell
+University, Ithaca, New York, USA.
+(5)Department of Surgery and.
+(6)Department of Genetics, UNC at Chapel Hill, Chapel Hill, North Carolina, USA.
+(7)Joint Department of Biomedical Engineering, UNC, Chapel Hill, North Carolina, 
+USA, and North Carolina State University, Raleigh, North Carolina, USA.
+(8)Department of Pathology and Laboratory Medicine.
+(9)Department of Pediatrics.
+(10)Lineberger Comprehensive Cancer Center, and.
+(11)Department of Biology, UNC at Chapel Hill, Chapel Hill, North Carolina, USA.
+
+BACKGROUND: Crohn's disease (CD) is highly heterogeneous, due in large part to
+variability in cellular processes that underlie the natural history of CD,
+thereby confounding effective therapy. There is a critical need to advance
+understanding of the cellular mechanisms that drive CD heterogeneity.
+METHODS: We performed small RNA sequencing of adult colon tissue from CD and NIBD
+controls. Colonic epithelial cells and immune cells were isolated from colonic
+tissues, and microRNA-31 (miR-31) expression was measured. miR-31 expression was 
+measured in colonoid cultures generated from controls and patients with CD. We
+performed small RNA-sequencing of formalin-fixed paraffin-embedded colon and
+ileum biopsies from treatment-naive pediatric patients with CD and controls and
+collected data on disease features and outcomes.
+RESULTS: Small RNA-sequencing and microRNA profiling in the colon revealed 2
+distinct molecular subtypes, each with different clinical associations. Notably, 
+we found that miR-31 expression was a driver of these 2 subtypes and, further,
+that miR-31 expression was particularly pronounced in epithelial cells. Colonoids
+revealed that miR-31 expression differences are preserved in this ex vivo system.
+In adult patients, low colonic miR-31 expression levels at the time of surgery
+were associated with worse disease outcome as measured by need for an end
+ileostomy and recurrence of disease in the neoterminal ileum. In pediatric
+patients, lower miR-31 expression at the time of diagnosis was associated with
+future development of fibrostenotic ileal CD requiring surgeryCONCLUSIONS. These 
+findings represent an important step forward in designing more effective clinical
+trials and developing personalized CD therapies.
+FUNDING: This work was supported by CCF Career Development Award (SZS),
+R01-ES024983 from NIEHS (SZS and TSF), 1R01DK104828-01A1 from NIDDK (SZS and
+TSF), P01-DK094779-01A1 from NIDDK (SZS), P30-DK034987 from NIDDK (SZS),
+1-16-ACE-47 ADA Pathway Award (PS), UNC Nutrition Obesity Research Center Pilot &
+Feasibility Grant P30DK056350 (PS), CCF PRO-KIIDS NETWORK (SZS and PS), UNC CGIBD
+T32 Training Grant from NIDDK (JBB), T32 Training Grant (5T32GM007092-42) from
+NIGMS (MH), and SHARE from the Helmsley Trust (SZS). The UNC Translational
+Pathology Laboratory is supported, in part, by grants from the National Cancer
+Institute (3P30CA016086) and the UNC University Cancer Research Fund (UCRF) (PS).
+
+DOI: 10.1172/jci.insight.122788 
+PMID: 30282822 

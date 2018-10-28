@@ -1,0 +1,64 @@
+
+
+78. AJR Am J Roentgenol. 2018 Nov;211(5):957-963. doi: 10.2214/AJR.17.19350. Epub
+2018 Sep 20.
+
+The Effect of Digital Breast Tomosynthesis Adoption on Facility-Level Breast
+Cancer Screening Volume.
+
+Lee CI(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Zhu W(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),
+Onega TL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Germino
+J(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), O'Meara ES(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),
+Lehman CD(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Henderson
+LM(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Haas JS(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),
+Kerlikowske K(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Sprague
+BL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Rauscher GH(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),
+Tosteson ANA(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Alford-Teaster
+J(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Wernli KJ(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),
+Miglioretti DL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10).
+
+Author information: 
+(1)1 Department of Radiology, University of Washington School of Medicine, 825
+Eastlake Ave E, G3-200, Seattle, WA 98109.
+(2)2 Kaiser Permanente Washington Health Research Institute, Seattle, WA.
+(3)3 Dartmouth Institute for Health Policy & Clinical Practice, Norris Cotton
+Cancer Center, Geisel School of Medicine, Lebanon, NH.
+(4)4 Department of Radiology, Massachusetts General Hospital, Harvard Medical
+School, Boston, MA.
+(5)5 Department of Radiology, University of North Carolina, Chapel Hill, Chapel
+Hill, NC.
+(6)6 Department of Medicine, Brigham and Women's Hospital, Harvard Medical
+School, Dana Farber Harvard Cancer Institute, Harvard School of Public Health,
+Boston, MA.
+(7)7 Department of Medicine, University of California, San Francisco, San
+Francisco, CA.
+(8)8 Department of Surgery, University of Vermont, Burlington, VT.
+(9)9 Department of Epidemiology, University of Illinois at Chicago, Chicago, IL.
+(10)10 Division of Biostatistics, University of California, Davis, Davis, CA.
+
+OBJECTIVE: The purpose of this study was to determine whether digital breast
+tomosynthesis (DBT) adoption was associated with a decrease in screening
+mammography capacity across Breast Cancer Screening Consortium facilities, given 
+concerns about increasing imaging and interpretation times associated with DBT.
+SUBJECTS AND METHODS: Facility characteristics and examination volume data were
+collected prospectively from Breast Cancer Screening Consortium facilities that
+adopted DBT between 2011 and 2014. Interrupted time series analyses using Poisson
+regression models in which facility was considered a random effect were used to
+evaluate differences between monthly screening volumes during the 12-month
+preadoption period and the 12-month postadoption period (with the two periods
+separated by a 3-month lag) and to test for changes in month-to-month
+facility-level screening volume during the preadoption and postadoption periods.
+RESULTS: Across five regional breast imaging registries, 15 of 83 facilities
+(18.1%) adopted DBT for screening between 2011 and 2014. Most had no academic
+affiliation (73.3% [11/15]), were nonprofit (80.0% [12/15]), and were general
+radiology practices (66.7% [10/15]). Facility-level monthly screening volumes
+were slightly higher during the postadoption versus preadoption periods (relative
+risk [RR], 1.09; 95% CI, 1.06-1.11). Monthly screening volumes remained
+relatively stable within the preadoption period (RR, 1.00 per month; 95% CI
+1.00-1.01 per month) and the postadoption period (RR, 1.00; 95% CI, 1.00-1.01 per
+month).
+CONCLUSION: In a cohort of facilities with varied characteristics, monthly
+screening examination volumes did not decrease after DBT adoption.
+
+DOI: 10.2214/AJR.17.19350 
+PMID: 30235000 

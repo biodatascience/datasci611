@@ -1,0 +1,47 @@
+
+
+10. Psychooncology. 2018 Oct 23. doi: 10.1002/pon.4928. [Epub ahead of print]
+
+Associations of functional, psychosocial, medical, and socio-demographic factors 
+with cognitive screening in chemotherapy naïve patients with breast cancer.
+
+Nakamura ZM(1), Deal AM(2), Nyrop KA(2)(3), Choi SK(4), Wood WA(2)(3), Muss
+HB(2)(3).
+
+Author information: 
+(1)Department of Psychiatry, University of North Carolina at Chapel Hill, Chapel 
+Hill, NC, USA.
+(2)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, NC, USA.
+(3)Department of Medicine, Division of Hematology/Oncology, University of North
+Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(4)Department of Health Behavior, Gillings School of Global Public Health,
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+
+OBJECTIVE: To describe associations of functional, psychosocial, medical, and
+socio-demographic factors with performance on a cognitive screening test in
+chemotherapy naïve patients with breast cancer.
+METHODS: Women with breast cancer were recruited between 2009 and 2018. The
+Blessed Orientation Memory Concentration Test (BOMC) was administered prior to
+chemotherapy. Associations between baseline BOMC and functional (Karnofsky
+Self-Reported Performance Rating Scale (KPS), Time Up and Go Test (TUG), Medical 
+Outcomes Study (MOS) Physical Function, Instrumental Activities of Daily Living
+(IADL)), psychosocial (Mental Health Inventory-13, MOS Social Activity Limitation
+and Social Support Survey), medical, and socio-demographic variables were
+assessed using linear regression analysis.
+RESULTS: In a sample of 331 women with breast cancer, the mean age was 65.2 years
+and 68.6% were 65 and older. Mean BOMC score was 3.60 on a scale from 0 (best) to
+28 (worst). After controlling for demographic factors, worse BOMC screening test 
+results were associated with KPS < 80 (p=0.01), IADL< 14 (p=0.02), TUG ≥ 14
+seconds (p=0.001), worse MOS Physical Function (p=0.0006), depressive symptoms
+(p=0.04), and social activity limitations (p=0.01).
+CONCLUSION: In a sample of women with breast cancer, pre-treatment cognitive
+screening scores did not reveal profound cognitive impairment. BOMC screening
+scores were associated with multiple measures of physical function, but further
+research is needed to determine a clinically meaningful cut point in the BOMC for
+screening of cancer-related cognitive impairment.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/pon.4928 
+PMID: 30353629 

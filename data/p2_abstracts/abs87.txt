@@ -1,0 +1,42 @@
+
+
+88. Anal Chem. 2018 Oct 16;90(20):11981-11988. doi: 10.1021/acs.analchem.8b02486.
+Epub 2018 Oct 4.
+
+Screening Estrogen Receptor Modulators in a Paper-Based Breast Cancer Model.
+
+Whitman NA(1), Lin ZW(1), DiProspero TJ(1), McIntosh JC(1), Lockett MR(1)(2).
+
+Author information: 
+(1)Department of Chemistry, Kenan and Caudill Laboratories , University of North 
+Carolina at Chapel Hill , 125 South Road , Chapel Hill , North Carolina
+27599-3290 , United States.
+(2)Lineberger Comprehensive Cancer Center , University of North Carolina at
+Chapel Hill , 450 West Drive , Chapel Hill , North Carolina 27599-7295 , United
+States.
+
+The health risks associated with acute and prolonged exposure to estrogen
+receptor (ER) modulators has led to a concerted effort to identify and prioritize
+potential disruptors present in the environment. ER agonists and antagonists are 
+identified with end-point assays, quantifying changes in cellular proliferation
+or gene transactivation in monolayers of estrogen receptor alpha expressing (ER+)
+cells upon exposure. While these monolayer cultures can be prepared, dosed, and
+analyzed in a highly parallelized manner, they are unable to predict the
+potencies of ER modulators in vivo accurately. Physiologically relevant model
+systems that better predict tissue- or organ-level responses are needed. To
+address this need, we describe here a screening platform capable of
+quantitatively assessing ER modulators in 96 chemically isolated 3D cultures.
+These cultures are supported in wax-patterned paper scaffolds whose design has
+improved performance and throughput over previously described paper-based setups.
+To highlight the potential of paper-based cultures for toxicity screens, we
+measured the potency of known ER modulators with a luciferase-based reporter
+assay. We also quantified the proliferation and invasion of two ER+ cell lines in
+the presence of estradiol. Despite the inability of the current setup to better
+predict in vivo potencies of ER modulators than monolayer cultures, the results
+demonstrate the potential of this platform to support increasingly complex and
+physiologically relevant tissue-like structures for environmental chemical risk
+assessment.
+
+DOI: 10.1021/acs.analchem.8b02486 
+PMCID: PMC6200649 [Available on 2019-10-16]
+PMID: 30226366 

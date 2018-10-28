@@ -1,0 +1,50 @@
+
+
+4. J Laparoendosc Adv Surg Tech A. 2018 Oct 25. doi: 10.1089/lap.2018.0434. [Epub
+ahead of print]
+
+Influence of Patients' Age in the Utilization of Esophagectomy for Esophageal
+Adenocarcinoma.
+
+Schlottmann F(1)(2), Strassle PD(1)(3), Molena D(4), Patti MG(1)(5).
+
+Author information: 
+(1)1 Department of Surgery, University of North Carolina School of Medicine ,
+Chapel Hill, North Carolina.
+(2)2 Department of Surgery, Hospital Alemán of Buenos Aires, University of Buenos
+Aires , Buenos Aires, Argentina .
+(3)3 Department of Epidemiology, Gillings School of Global Public Health,
+University of North Carolina at Chapel Hill , Chapel Hill, North Carolina.
+(4)4 Department of Surgery, Memorial Sloan Kettering Cancer Center , New York,
+New York.
+(5)5 Department of Medicine, University of North Carolina , Chapel Hill, North
+Carolina.
+
+BACKGROUND: The indication of surgical resection in esophageal cancer is often
+conditioned by patient's age. We aimed to assess the trends in utilization of
+surgical treatment for esophageal adenocarcinoma (EAC) in the United States,
+stratified by age groups.
+METHODS: We performed a retrospective analysis of the National Cancer Institute's
+Surveillance, Epidemiology, and End Results program registry for the period
+2004-2014. Adult patients (aged ≥18 years) diagnosed with EAC were eligible for
+inclusion. The yearly incidence of esophagectomy, stratified by age groups
+(18-49, 50-70, and >70 years old), was calculated using Poisson regression.
+Weighted log-binomial regression was used to compare the proportion of patients
+undergoing esophagectomy, within each age group. Inverse probability of treatment
+weights were used to account for potential confounders.
+RESULTS: A total of 21,301 patients were included. During the study period, the
+rate of esophagectomy decreased from 34.1% to 28.2% (P = .40) in patients between
+18 and 49 years old, from 38.6% to 33.3% (P = .06) in patients between 50 and 70 
+years old, and from 21.4% to 16.9% (P = .04) in patients older than 70 years.
+After accounting for patient and cancer characteristics, patients older than 70
+years were 50% less likely to undergo esophagectomy compared with both patients
+between 18 and 49 years old (risk ratio [RR] 0.51, 95% confidence interval [CI]
+0.45-0.57, P < .0001) and patients between 50 and 70 years old (RR 0.53, 95% CI
+0.50-0.56, P < .0001).
+CONCLUSION: Surgical resection is scarcely used in patients older than 70 years
+in the United States. Further investigation of surgical outcomes in elderly
+patients is warranted to determine if surgical treatment is underutilized in a
+large proportion of EAC patients.
+
+DOI: 10.1089/lap.2018.0434 
+PMID: 30362867 

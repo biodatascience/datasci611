@@ -1,0 +1,49 @@
+
+
+67. Int J Infect Dis. 2018 Sep 19. pii: S1201-9712(18)34524-7. doi:
+10.1016/j.ijid.2018.09.012. [Epub ahead of print]
+
+Bloodstream infections in Oncology patients at Red Cross War Memorial Children`s 
+Hospital, Cape Town from 2012 to 2014.
+
+Mvalo T(1), Eley B(2), Bamford C(3), Stanley C(4), Chagomerana M(4), Hendricks
+M(5), Van Eyssen A(5), Davidson A(5).
+
+Author information: 
+(1)Department of Paediatrics, University of Cape Town, Cape Town, South Africa.
+Electronic address: tisungemvalo@yahoo.com.
+(2)Paediatric Infectious Diseases Unit, Red Cross War Memorial Children's
+Hospital, and the Department of Paediatrics and Child Health, University of Cape 
+Town, Cape Town, South Africa.
+(3)National Health Laboratory Service, Groote Schuur Hospital, Cape Town, South
+Africa; Department of Medical Microbiology, University of Cape Town, Cape Town,
+South Africa.
+(4)University of North Carolina Project Malawi, Lilongwe, Malawi.
+(5)Haematology/Oncology Unit, Red Cross War Memorial Children's Hospital, Cape
+Town, South Africa.
+
+OBJECTIVES: This study investigated the epidemiology of bloodstream infection
+(BSI) in oncology patients at Red Cross War Memorial Children's Hospital
+(RCWMCH), Cape Town with focus on the commonest causes, complications and
+antimicrobial susceptibilities in BSI.
+METHODS: A retrospective cross-sectional study was conducted at the
+haematology-oncology unit of RCWMCH. All positive blood cultures from RCWMCH
+oncology patients taken in 2012 to 2014 were retrieved to identify BSI cases.
+RESULTS: From 343 positive cultures, 150 BSI episodes were identified amongst 89 
+patients; 49.1% of the culture isolates were gram-positive bacteria, 41.6% were
+gram-negative bacteria and 9.3% fungal. Coagulase Negative Staphylococcus and
+Viridans Group Streptococcus were the commonest gram-positive isolates.
+Escherichia coli and Klebsiella species were the commonest gram-negative
+isolates. The majority of BSI episodes occurred in patients with haematological
+malignancies (74%), in the presence of severe neutropaenia (76.4%) and was
+associated with chemotherapy (88%). Complications occurred in 14% of BSI. Fungal 
+infections had the highest prevalence of complications (21.4%). Three children
+died during BSI giving a case-fatality rate of 2%.
+CONCLUSION: BSI in our patients are mainly caused by gram-positive bacteria and
+associated with a low case-fatality rate. These results are consistent with
+worldwide experience of BSI in paediatric oncology.
+
+Copyright © 2018. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ijid.2018.09.012 
+PMID: 30244075 

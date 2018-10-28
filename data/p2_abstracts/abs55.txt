@@ -1,0 +1,73 @@
+
+
+56. Mol Cell. 2018 Oct 18;72(2):341-354.e6. doi: 10.1016/j.molcel.2018.08.029. Epub
+2018 Sep 27.
+
+ZFX Mediates Non-canonical Oncogenic Functions of the Androgen Receptor Splice
+Variant 7 in Castrate-Resistant Prostate Cancer.
+
+Cai L(1), Tsai YH(2), Wang P(3), Wang J(4), Li D(4), Fan H(4), Zhao Y(3), Bareja 
+R(5), Lu R(4), Wilson EM(4), Sboner A(5), Whang YE(6), Zheng D(7), Parker JS(8), 
+Earp HS(9), Wang GG(10).
+
+Author information: 
+(1)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill School of Medicine, Chapel Hill, NC 27599, USA; Department of Biochemistry
+and Biophysics, University of North Carolina at Chapel Hill School of Medicine,
+Chapel Hill, NC 27599, USA; Department of Genetics, University of North Carolina 
+at Chapel Hill School of Medicine, Chapel Hill, NC 27599, USA.
+(2)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill School of Medicine, Chapel Hill, NC 27599, USA.
+(3)Department of Genetics, Albert Einstein College of Medicine, Bronx, NY 10461, 
+USA.
+(4)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill School of Medicine, Chapel Hill, NC 27599, USA; Department of Biochemistry
+and Biophysics, University of North Carolina at Chapel Hill School of Medicine,
+Chapel Hill, NC 27599, USA.
+(5)Meyer Cancer Center and Englander Institute for Precision Medicine, Weill
+Cornell Medicine, New York, NY 10065, USA; Department of Pathology and Laboratory
+Medicine, Weill Cornell Medicine, New York, NY 10065, USA.
+(6)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill School of Medicine, Chapel Hill, NC 27599, USA; Department of Medicine,
+University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC
+27599, USA.
+(7)Department of Genetics, Albert Einstein College of Medicine, Bronx, NY 10461, 
+USA; Department of Neuroscience, Albert Einstein College of Medicine, Bronx, NY
+10461, USA; Department of Neurology, Albert Einstein College of Medicine, Bronx, 
+NY 10461, USA.
+(8)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill School of Medicine, Chapel Hill, NC 27599, USA; Department of Genetics,
+University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC
+27599, USA.
+(9)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill School of Medicine, Chapel Hill, NC 27599, USA; Department of Medicine,
+University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC
+27599, USA; Department of Pharmacology, University of North Carolina at Chapel
+Hill School of Medicine, Chapel Hill, NC 27599, USA. Electronic address:
+hse@med.unc.edu.
+(10)Lineberger Comprehensive Cancer Center, University of North Carolina at
+Chapel Hill School of Medicine, Chapel Hill, NC 27599, USA; Department of
+Biochemistry and Biophysics, University of North Carolina at Chapel Hill School
+of Medicine, Chapel Hill, NC 27599, USA. Electronic address:
+greg_wang@med.unc.edu.
+
+Androgen receptor splice variant 7 (AR-V7) is crucial for prostate cancer
+progression and therapeutic resistance. We show that, independent of ligand,
+AR-V7 binds both androgen-responsive elements (AREs) and non-canonical sites
+distinct from full-length AR (AR-FL) targets. Consequently, AR-V7 not only
+recapitulates AR-FL's partial functions but also regulates an additional gene
+expression program uniquely via binding to gene promoters rather than ARE
+enhancers. AR-V7 binding and AR-V7-mediated activation at these unique targets do
+not require FOXA1 but rely on ZFX and BRD4. Knockdown of ZFX or select unique
+targets of AR-V7/ZFX, or BRD4 inhibition, suppresses growth of
+castration-resistant prostate cancer cells. We also define an AR-V7 direct target
+gene signature that correlates with AR-V7 expression in primary tumors,
+differentiates metastatic prostate cancer from normal, and predicts poor
+prognosis. Thus, AR-V7 has both ARE/FOXA1 canonical and ZFX-directed
+non-canonical regulatory functions in the evolution of anti-androgen therapeutic 
+resistance, providing information to guide effective therapeutic strategies.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2018.08.029 
+PMID: 30270106 

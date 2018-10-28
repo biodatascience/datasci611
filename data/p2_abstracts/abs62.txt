@@ -1,0 +1,41 @@
+
+
+63. Epidemiology. 2018 Sep 24. doi: 10.1097/EDE.0000000000000926. [Epub ahead of
+print]
+
+Diagnostic assessment of assumptions for external validity: An example using data
+in metastatic colorectal cancer.
+
+Webster-Clark MA(1), Sanoff HK, Stürmer T, Peacock Hinton S, Lund JL.
+
+Author information: 
+(1)Department of Epidemiology, University of North Carolina, Chapel Hill, NC
+(Michael Webster-Clark, Til Stürmer, Sharon Peacock Hinton Jennifer L. Lund)
+Department of Medicine, University of North Carolina, Chapel Hill, NC (Hanna
+Sanoff).
+
+BACKGROUND: Methods developed to estimate intervention effects in external target
+populations assume that all important effect measure modifiers have been
+identified and appropriately modeled. Propensity score-based diagnostics can be
+used to assess the plausibility of these assumptions for weighting methods.
+METHODS: We demonstrate the use of these diagnostics when assessing the
+transportability of treatment effects from the standard of care for metastatic
+colorectal cancer control arm in a phase III trial (HORIZON III) to a target
+population of 1,942 Medicare beneficiaries aged 65+ years.
+RESULTS: In an unadjusted comparison, control arm participants had lower
+mortality compared with target population patients treated with the standard of
+care therapy [trial vs. target hazard ratio (HR)= 0.72, 95% confidence interval
+(CI): 0.58, 0.89]. Applying inverse odds of sampling weights attenuated the trial
+vs. target HR (weighted HR=0.96, 95% CI: 0.73, 1.26). However, whether unadjusted
+or weighted, hazards did not appear proportional. At 6 months of follow-up,
+mortality was lower in the weighted trial population than the target population
+(weighted trial vs. target risk difference (RD) = -0.07, 95% CI -0.13, -0.01),
+but not at 12 months (weighted RD= 0.00, 95% CI: -0.09, 0.09).
+CONCLUSION: These diagnostics suggest direct transport of treatment effects from 
+HORIZON III to the Medicare population is not valid. However, the proposed
+sampling model might allow valid transport of the treatment effects on
+longer-term mortality from HORIZON III to the Medicare population treated in
+clinical practice.
+
+DOI: 10.1097/EDE.0000000000000926 
+PMID: 30252687 

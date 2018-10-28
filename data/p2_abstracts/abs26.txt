@@ -1,0 +1,49 @@
+
+
+27. Laryngoscope. 2018 Oct 16. doi: 10.1002/lary.27351. [Epub ahead of print]
+
+Radiographic muscle invasion not a recurrence predictor in HPV-associated
+oropharyngeal squamous cell carcinoma.
+
+Farzal Z(1), Du E(1), Yim E(2), Mazul A(3), Zevallos JP(3), Huang BY(4), Hackman 
+TG(1).
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, University of North
+Carolina, Chapel Hill, North Carolina.
+(2)University of North Carolina School of Medicine, Chapel Hill, North Carolina.
+(3)Department of Otolaryngology/Head and Neck Surgery, Washington University, St.
+Louis, Missouri, U.S.A.
+(4)Department of Radiology, University of North Carolina, Chapel Hill, North
+Carolina.
+
+OBJECTIVE: To determine whether muscle invasion evident on pretreatment imaging
+in p16 + oropharyngeal squamous cell carcinoma (OPSCC) correlates with
+recurrence.
+STUDY DESIGN: Retrospective review.
+METHODS: Two-hundred and seventy-six patients with p16 + OPSCC treated at a
+tertiary referral center from 2003 to 2015 were analyzed. All scans were reviewed
+by a dedicated neuroradiologist with subspecialty expertise in head and neck
+imaging. Radiographic evidence of muscle invasion to the genioglossus,
+hyoglossus, medial pterygoid, and prevertebral muscles was analyzed. Local and
+regional recurrence rates were compared between the muscle invasion and no muscle
+invasion groups.
+RESULTS: One hundred and ninety patients met inclusion criteria with adequate
+follow-up data and pretreatment imaging. Patients were predominantly male (87.5% 
+male) and smokers (65.6% smokers) with a mean age of 56.7 (standard deviation:
+9.0 years). Most commonly invaded muscles in the muscle invasion group were
+hyoglossus (57.8%) and genioglossus (56.3%). There was no statistically
+significant difference in primary site or nodal recurrence between the combined
+group, including definite or possible muscle invasion and the group without
+muscle invasion (P = 0.205 and P = 0.569, respectively). Additionally, no
+statistically significant difference was present in recurrence-free and
+disease-specific survival between the two groups at 3- and 5-year follow-up
+(P > 0.05).
+CONCLUSION: Radiographic evidence of muscle invasion does not appear to be a
+predictor of human papilloma virus (+) OPSCC recurrence. Additional studies are
+needed to validate our findings. Level of Evidence 4. Laryngoscope, 2018.
+
+© 2018 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.27351 
+PMID: 30325502 

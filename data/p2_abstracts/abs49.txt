@@ -1,0 +1,45 @@
+
+
+50. Nat Biomed Eng. 2018;2:443-452. Epub 2018 Apr 23.
+
+Organ-specific metastases obtained by culturing colorectal cancer cells on
+tissue-specific decellularized scaffolds.
+
+Tian X(1), Werner ME(1), Roche KC(1), Hanson AD(2), Foote HP(1), Yu SK(1), Warner
+SB(1), Copp JA(1), Lara H(1), Wauthier EL(2), Caster JM(1), Herring LE(3), Zhang 
+L(4), Tepper JE(1), Hsu DS(5), Zhang T(5), Reid LM(2), Wang AZ(1).
+
+Author information: 
+(1)Laboratory of Nano- and Translational Medicine, Department of Radiation
+Oncology Lineberger Comprehensive Cancer Center, Carolina Center for Cancer
+Nanotechnology Excellence, Carolina Institute of Nanomedicine, University of
+North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.
+(2)Department of Cell and Molecular Physiology, University of North Carolina at
+Chapel Hill, Chapel Hill, NC 27599, USA.
+(3)Department of Pharmacology, UNC Proteomics Core Facility, University of North 
+Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.
+(4)Jiangsu Center for the Collaboration and Innovation of Cancer Biotherapy,
+Affiliated Hospital of Xuzhou Medical College, Cancer Institute of Xuzhou Medical
+College, Jiangsu, China.
+(5)Division of Medical Oncology, Department of Medicine, Duke Cancer Institute,
+Duke University Medical Center, Durham, NC 27705.
+
+Metastatic disease remains the primary cause of mortality in cancer patients. Yet
+the number of available in vitro models to study metastasis is limited by
+challenges in the recapitulation of the metastatic microenvironment in vitro, and
+by difficulties in maintaining colonized-tissue specificity in the expansion and 
+maintenance of metastatic cells. Here, we show that decellularized scaffolds that
+retain tissue-specific extracellular-matrix (ECM) components and bound signaling 
+molecules enable, when seeded with colorectal cancer (CRC) cells, the spontaneous
+formation of three-dimensional cell colonies that histologically, molecularly and
+phenotypically resemble in vivo metastases. Lung and liver metastases obtained by
+culturing CRC cells on, respectively, liver and lung decellularized scaffolds
+retained their tissue-specific tropism when injected in mice. We also found that 
+the engineered metastases contained signet ring cells, which has not previously
+been observed ex vivo. A culture system with tissue-specific decellularized
+scaffolds represents a simple and powerful approach for the study of
+organ-specific cancer metastases.
+
+
+PMCID: PMC6166886
+PMID: 30288339 

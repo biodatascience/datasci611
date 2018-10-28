@@ -1,0 +1,52 @@
+
+
+20. Sci Rep. 2018 Oct 17;8(1):15304. doi: 10.1038/s41598-018-33601-w.
+
+The Cancer/Testes (CT) Antigen HORMAD1 promotes Homologous Recombinational DNA
+Repair and Radioresistance in Lung adenocarcinoma cells.
+
+Gao Y(1), Kardos J(2), Yang Y(1), Tamir TY(3), Mutter-Rottmayer E(1), Weissman
+B(1)(2), Major MB(3), Kim WY(2), Vaziri C(4)(5).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, University of North Carolina 
+at Chapel Hill, 614 Brinkhous-Bullitt Building, Chapel Hill, NC, 27599, USA.
+(2)Lineberger Comprehensive Cancer Center, Curriculum in Genetics and Molecular
+Biology, and Department of Biochemistry and Biophysics, University of North
+Carolina, Chapel Hill, NC, 27599, USA.
+(3)Department of Cell Biology and Physiology, Lineberger Comprehensive Cancer
+Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.
+(4)Department of Pathology and Laboratory Medicine, University of North Carolina 
+at Chapel Hill, 614 Brinkhous-Bullitt Building, Chapel Hill, NC, 27599, USA.
+cyrus_vaziri@med.unc.edu.
+(5)Lineberger Comprehensive Cancer Center, Curriculum in Genetics and Molecular
+Biology, and Department of Biochemistry and Biophysics, University of North
+Carolina, Chapel Hill, NC, 27599, USA. cyrus_vaziri@med.unc.edu.
+
+The Cancer/Testes (CT) Antigen HORMAD1 is germ cell-restricted and plays
+developmental roles in generation and processing of meiotic DNA Double Strand
+Breaks (DSB). Many tumors aberrantly overexpress HORMAD1 yet the potential impact
+of this CT antigen on cancer biology is unclear. We tested a potential role of
+HORMAD1 in genome maintenance in lung adenocarcinoma cells. We show that HORMAD1 
+re-distributes to nuclear foci and co-localizes with the DSB marker γH2AX in
+response to ionizing radiation (IR) and chemotherapeutic agents. The HORMA domain
+and C-term disordered oligomerization motif are necessary for localization of
+HORMAD1 to IR-induced foci (IRIF). HORMAD1-depleted cells are sensitive to IR and
+camptothecin. In reporter assays, Homologous Recombination (HR)-mediated repair
+of targeted ISce1-induced DSBs is attenuated in HORMAD1-depleted cells. In
+Non-Homologous End Joining (NHEJ) reporter assays, HORMAD1-depletion does not
+affect repair of ISce1-induced DSB. Early DSB signaling events (including ATM
+phosphorylation and formation of γH2AX, 53BP1 and NBS1 foci) are intact in
+HORMAD1-depleted cells. However, generation of RPA-ssDNA foci and redistribution 
+of RAD51 to DSB are compromised in HORMAD1-depleted cells, suggesting that
+HORMAD1 promotes DSB resection. HORMAD1-mediated HR is a neomorphic activity that
+is independent of its meiotic partners (including HORMAD2 and CCDC36.
+Bioinformatic analysis of TCGA data show that similar to known HR pathway genes
+HORMAD1 is overexpressed in lung adenocarcinomas. Overexpression of HR genes is
+associated with specific mutational profiles (including copy number variation).
+Taken together, we identify HORMAD1-dependent DSB repair as a new mechanism of
+radioresistance and a probable determinant of mutability in lung adenocarcinoma.
+
+DOI: 10.1038/s41598-018-33601-w 
+PMCID: PMC6192992
+PMID: 30333500 

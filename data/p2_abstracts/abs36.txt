@@ -1,0 +1,36 @@
+
+
+37. Breast Cancer Res Treat. 2018 Oct 11. doi: 10.1007/s10549-018-4975-8. [Epub ahead
+of print]
+
+Correction to: Measuring and understanding adherence in a home-based exercise
+intervention during chemotherapy for early breast cancer.
+
+Nyrop KA(1)(2), Deal AM(3), Choi SK(4), Wagoner CW(5), Lee JT(5), Wood WA(6)(3), 
+Anders C(6)(3), Carey LA(6)(3), Dees EC(6)(3), Jolly TA(6)(3), Reeder-Hayes
+KE(6)(3), Muss HB(6)(3).
+
+Author information: 
+(1)Division of Hematology/Oncology, School of Medicine, University of North
+Carolina at Chapel Hill, 170 Manning Drive, Campus, PO Box 7305, Chapel Hill, NC,
+27599-7305, USA. kirsten_nyrop@med.unc.edu.
+(2)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, NC, USA. kirsten_nyrop@med.unc.edu.
+(3)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, NC, USA.
+(4)Department of Health Behavior, Gillings School of Global Public Health,
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(5)Department of Exercise and Sport Science, University of North Carolina at
+Chapel Hill, Chapel Hill, NC, USA.
+(6)Division of Hematology/Oncology, School of Medicine, University of North
+Carolina at Chapel Hill, 170 Manning Drive, Campus, PO Box 7305, Chapel Hill, NC,
+27599-7305, USA.
+
+Erratum for
+    Breast Cancer Res Treat. 2018 Feb;168(1):43-55.
+
+In the original publication, the sixth author name was published incorrectly as
+A. Wood. The correct author name should read as W. A. Wood.
+
+DOI: 10.1007/s10549-018-4975-8 
+PMID: 30306432 

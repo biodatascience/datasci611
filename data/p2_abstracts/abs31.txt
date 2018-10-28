@@ -1,0 +1,59 @@
+
+
+32. Hum Mutat. 2018 Nov;39(11):1553-1568. doi: 10.1002/humu.23650.
+
+Specifications of the ACMG/AMP variant curation guidelines for the analysis of
+germline CDH1 sequence variants.
+
+Lee K(1), Krempely K(2), Roberts ME(3), Anderson MJ(4), Carneiro F(5), Chao
+E(2)(6), Dixon K(7), Figueiredo J(5), Ghosh R(8), Huntsman D(7), Kaurah P(7),
+Kesserwan C(9), Landrith T(2), Li S(2), Mensenkamp AR(10), Oliveira C(5), Pardo
+C(4), Pesaran T(2), Richardson M(7), Slavin TP(11), Spurdle AB(12), Trapp M(1),
+Witkowski L(13), Yi CS(2), Zhang L(14), Plon SE(8), Schrader KA(7), Karam R(2).
+
+Author information: 
+(1)Department of Genetics, University of North Carolina at Chapel Hill, Chapel
+Hill, North Carolina.
+(2)Ambry Genetics, Aliso Viejo, California.
+(3)GeneDx, Gaithersburg, Maryland.
+(4)Invitae Corporation, San Francisco, California.
+(5)i3S, Istituto de Investigação e Inovação em Saúde & Ipatimup, Institute of
+Molecular Pathology and Immunology of the University of Porto, Porto, Portugal.
+(6)University of California Irvine, Irvine, California.
+(7)University of British Columbia, Vancouver, BC, Canada.
+(8)Baylor College of Medicine, Houston, Texas.
+(9)St. Jude Children's Research Hospital, Memphis, Tennessee.
+(10)Radboud University Medical Centre, Nijmegen, the Netherlands.
+(11)Department of Medical Oncology and Therapeutics Research, City of Hope,
+Duarte, California.
+(12)QIMR Berghofer Medical Research Institute, Brisbane, Australia.
+(13)Laboratory for Molecular Medicine, Partners Healthcare Personalized Medicine,
+Cambridge, Massachusetts.
+(14)Memorial Sloan Kettering, Memorial Sloan Kettering Cancer Center, New York,
+New York.
+
+The variant curation guidelines published in 2015 by the American College of
+Medical Genetics and Genomics and the Association for Molecular Pathology
+(ACMG/AMP) provided the genetics community with a framework to assess variant
+pathogenicity; however, these rules are not gene specific. Germline pathogenic
+variants in the CDH1 gene cause hereditary diffuse gastric cancer and lobular
+breast cancer, a clinically challenging cancer predisposition syndrome that often
+requires a multidisciplinary team of experts to be properly managed. Given this
+challenge, the Clinical Genome Resource (ClinGen) Hereditary Cancer Domain
+prioritized the development of the CDH1 variant curation expert panel (VCEP) to
+develop and implement rules for CDH1 variant classifications. Here, we describe
+the CDH1 specifications of the ACMG/AMP guidelines, which were developed and
+validated after a systematic evaluation of variants obtained from a cohort of
+clinical laboratory data encompassing ∼827,000 CDH1 sequenced alleles. Comparing 
+previously reported germline variants that were classified using the 2015
+ACMG/AMP guidelines to the CDH1 VCEP recommendations resulted in reduced variants
+of uncertain significance and facilitated resolution of variants with conflicted 
+assertions in ClinVar. The ClinGen CDH1 VCEP recommends the use of these
+CDH1-specific guidelines for the assessment and classification of variants
+identified in this clinically actionable gene.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/humu.23650 
+PMCID: PMC6188664 [Available on 2019-11-01]
+PMID: 30311375 

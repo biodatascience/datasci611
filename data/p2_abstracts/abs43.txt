@@ -1,0 +1,45 @@
+
+
+44. Chem Rev. 2018 Oct 8. doi: 10.1021/acs.chemrev.8b00211. [Epub ahead of print]
+
+Transition Metal Complexes and Photodynamic Therapy from a Tumor-Centered
+Approach: Challenges, Opportunities, and Highlights from the Development of
+TLD1433.
+
+Monro S(1), Colón KL(2), Yin H(1), Roque J 3rd(2), Konda P, Gujar S(3), Thummel
+RP(4), Lilge L(5), Cameron CG(2), McFarland SA(1)(2).
+
+Author information: 
+(1)Department of Chemistry , Acadia University , Wolfville , Nova Scotia , Canada
+B4P 2R6.
+(2)Department of Chemistry and Biochemistry , The University of North Carolina at
+Greensboro , Greensboro , North Carolina 27402 , United States.
+(3)Centre for Innovative and Collaborative Health Services Research , IWK Health 
+Centre , Halifax , Nova Scotia Canada B3K 6R8.
+(4)Department of Chemistry , University of Houston , Houston , Texas 77204-5003 ,
+United States.
+(5)Princess Margaret Cancer Centre, University Health Network , 101 College
+Street , Toronto , Ontario , Canada M6R 1Z7.
+
+Transition metal complexes are of increasing interest as photosensitizers in
+photodynamic therapy (PDT) and, more recently, for photochemotherapy (PCT). In
+recent years, Ru(II) polypyridyl complexes have emerged as promising systems for 
+both PDT and PCT. Their rich photochemical and photophysical properties derive
+from a variety of excited-state electronic configurations accessible with visible
+and near-infrared light, and these properties can be exploited for both energy-
+and electron-transfer processes that can yield highly potent oxygen-dependent
+and/or oxygen-independent photobiological activity. Selected examples highlight
+the use of rational design in coordination chemistry to control the lowest-energy
+triplet excited-state configurations for eliciting a particular type of
+photoreactivity for PDT and/or PCT effects. These principles are also discussed
+in the context of the development of TLD1433, the first Ru(II)-based
+photosensitizer for PDT to enter a human clinical trial. The design of TLD1433
+arose from a tumor-centered approach, as part of a complete PDT package that
+includes the light component and the protocol for treating non-muscle invasive
+bladder cancer. Briefly, this review summarizes the challenges to bringing PDT
+into mainstream cancer therapy. It considers the chemical and photophysical
+solutions that transition metal complexes offer, and it puts into context the
+multidisciplinary effort needed to bring a new drug to clinical trial.
+
+DOI: 10.1021/acs.chemrev.8b00211 
+PMID: 30295467 

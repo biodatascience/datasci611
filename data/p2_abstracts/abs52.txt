@@ -1,0 +1,46 @@
+
+
+53. Am J Health Syst Pharm. 2018 Nov 1;75(21):1736-1741. doi: 10.2146/ajhp170367.
+Epub 2018 Oct 3.
+
+Development of an operational productivity tool within a cancer treatment center 
+pharmacy.
+
+Achey TS(1), Riffle AR(2), Rose RM(3), Earl M(2).
+
+Author information: 
+(1)Duke University Hospital, Durham, NC thomas.achey@duke.edu.
+(2)Cleveland Clinic, Cleveland, OH.
+(3)University of North Carolina Medical Center, Chapel Hill, NC.
+
+PURPOSE: The development and implementation of an operational productivity tool
+in an academic cancer treatment center are described.
+SUMMARY: Based on the increasing complexity of care delivery within the oncology 
+setting, solutions were explored within Cleveland Clinic pharmacy's productivity 
+model. Data were electronically captured based on orders processed through the
+outpatient oncology setting, including hazardous and nonhazardous medications.
+Based on current workflow, inpatient and outpatient orders were reviewed in
+productivity metrics. The metric defining the variability of the workload itself 
+was weighted dispense type as it was the best representation of a mixed-skill
+workflow. After conducting workflow process mapping, discrete measurable steps
+were assessed and evaluated daily. Operational components of interest included
+pharmacist verification activities and technician compounding activities.
+Historical production data were sampled for assigning relative value units (RVUs)
+respective to time to normalize workload into a common unit (i.e., 1 hour) and to
+relate work demand in a highly variable setting. RVUs were assigned and
+delineated by cognitive and distributive activities for pharmacists and
+technicians, respectively. The Cleveland Clinic department of pharmacy developed 
+a productivity tool to retrospectively measure workload involving time to review,
+verify, reconstitute, admix, and deliver chemotherapeutic agents. The weighting
+of each medication allowed for precise and meaningful evaluation of productivity.
+With RVUs assigned to 2 years of operational metrics, there now exists an
+opportunity to monitor performance trends within the cancer treatment center
+pharmacy. The data are readily retrievable within the electronic health record.
+CONCLUSION: The productivity data provided precise information to assess trends
+in operations within the pharmacy of an outpatient cancer treatment center.
+
+Copyright © 2018 by the American Society of Health-System Pharmacists, Inc. All
+rights reserved.
+
+DOI: 10.2146/ajhp170367 
+PMID: 30282665 

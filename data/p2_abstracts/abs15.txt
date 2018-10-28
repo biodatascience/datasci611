@@ -1,0 +1,53 @@
+
+
+16. Clin Pharmacol Ther. 2018 Oct 19. doi: 10.1002/cpt.1257. [Epub ahead of print]
+
+The genotype for DPYD risk variants in colorectal cancer patients and the related
+toxicity management costs in clinical practice.
+
+Toffoli G(1), Innocenti F(2), Polesel J(3), De Mattia E(1), Sartor F(1), Fratte
+CD(1), Ecca F(1), Dreussi E(1), Palazzari E(4), Guardascione M(1), Buonadonna
+A(5), Foltran L(5), Garziera M(1), Bignucolo A(1), Nobili S(6), Mini E(6),
+Favaretto A(7), Berretta M(5), D'Andrea M(8), De Paoli A(4), Roncato R(1),
+Cecchin E(1).
+
+Author information: 
+(1)Experimental and Clinical Pharmacology Unit, CRO Aviano National Cancer
+Institute, IRCCS, via F. Gallini 2, 33081, Aviano, PN, Italy.
+(2)Eshelman School of Pharmacy, Center for Pharmacogenomics and Individualized
+Therapy, Lineberger Comprehensive Cancer Center, University of North Carolina,
+Chapel Hill, NC, USA.
+(3)Cancer Epidemiology Unit, CRO Aviano National Cancer Institute, IRCCS, via F. 
+Gallini 2, Aviano, PN, Italy.
+(4)Radiation Oncology Unit, CRO Aviano National Cancer Institute, IRCCS, via F.
+Gallini 2, Aviano, PN, Italy.
+(5)Department of Medical Oncology, CRO Aviano National Cancer Institute, IRCCS,
+via F. Gallini 2, Aviano, PN, Italy.
+(6)Department of Health Sciences, University of Florence, VialePieraccini 6,
+50139, Firenze, Italy.
+(7)Medical Oncology Unit, Ospedale Cà Foncello, Piazzale Ospedale 1, Treviso,
+Italy.
+(8)Medical Oncology Unit, San Filippo Neri Hospital", Piazza Di S. Maria Della
+Pietà, Rome, Italy.
+
+Lack of information on the clinical utility of preemptive DPYD screening prior to
+fluoropyrimidine treatment is a major barrier preventing its utilization in
+clinical practice. This study aimed to define the association between DPYD
+variants and fluoropyrimidine-related toxicity management costs. A cost analysis 
+was conducted on the toxicities experienced by 550 colorectal cancer patients
+treated with fluoropyrimidine-based chemotherapy. Genotyping for DPYD*2A,
+DPYD*13, DPYDc.2846A>T, DPYD-HapB3, and UGT1A1*28 was done retrospectively, and
+did not affect patients' treatments. Carriers of at least one DPYD variant
+experienced higher toxicity management costs (2,972€, 95%CI 2,456-3,505) than
+noncarriers (825€, 95%CI 785-864) (P<0.0001) and had a higher risk for toxicity
+requiring hospitalization (OR=4.14, 95%CI 1.87-9.14). In patients receiving
+fluoropyrimidine/irinotecan, the incremental cost between DPYD variant and
+UGT1A1*28/*28 carriers and noncarriers was 2,975€. This study suggests that the
+toxicity management costs during fluoropyrimidine-based therapy are associated
+with DPYD and UGT1A1*28 variants, and supports the utility of genotyping. This
+article is protected by copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/cpt.1257 
+PMID: 30339275 

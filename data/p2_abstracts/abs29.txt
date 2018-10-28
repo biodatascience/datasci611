@@ -1,0 +1,55 @@
+
+
+30. Nat Commun. 2018 Oct 12;9(1):4241. doi: 10.1038/s41467-018-06630-2.
+
+Local generation of hydrogen for enhanced photothermal therapy.
+
+Zhao P(1), Jin Z(1), Chen Q(2)(3)(4), Yang T(1), Chen D(1), Meng J(1), Lu X(1),
+Gu Z(5)(6)(7), He Q(8).
+
+Author information: 
+(1)Guangdong Provincial Key Laboratory of Biomedicalim Measurements and
+Ultrasound Imaging, National-Regional Key Technology Engineering Laboratory for
+Medical Ultrasound, School of Biomedical Engineering, Health Science Center,
+Shenzhen University, No. 1066 Xuyuan Road, Nanshan District, Shenzhen, 518055,
+Guangdong, China.
+(2)Department of Bioengineering, University of California, Los Angeles, Los
+Angeles, CA, 90095, USA.
+(3)California NanoSystems Institute, Jonsson Comprehensive Cancer Center, Center 
+for Minimally Invasive Therapeutics, University of California, Los Angeles, Los
+Angeles, CA, 90095, USA.
+(4)Joint Department of Biomedical Engineering, University of North Carolina at
+Chapel Hill and North Carolina State University, Raleigh, 27695, NC, USA.
+(5)Department of Bioengineering, University of California, Los Angeles, Los
+Angeles, CA, 90095, USA. guzhen@ucla.edu.
+(6)California NanoSystems Institute, Jonsson Comprehensive Cancer Center, Center 
+for Minimally Invasive Therapeutics, University of California, Los Angeles, Los
+Angeles, CA, 90095, USA. guzhen@ucla.edu.
+(7)Joint Department of Biomedical Engineering, University of North Carolina at
+Chapel Hill and North Carolina State University, Raleigh, 27695, NC, USA.
+guzhen@ucla.edu.
+(8)Guangdong Provincial Key Laboratory of Biomedicalim Measurements and
+Ultrasound Imaging, National-Regional Key Technology Engineering Laboratory for
+Medical Ultrasound, School of Biomedical Engineering, Health Science Center,
+Shenzhen University, No. 1066 Xuyuan Road, Nanshan District, Shenzhen, 518055,
+Guangdong, China. nanoflower@126.com.
+
+By delivering the concept of clean hydrogen energy and green catalysis to the
+biomedical field, engineering of hydrogen-generating nanomaterials for treatment 
+of major diseases holds great promise. Leveraging virtue of versatile abilities
+of Pd hydride nanomaterials in high/stable hydrogen storage, self-catalytic
+hydrogenation, near-infrared (NIR) light absorption and photothermal conversion, 
+here we utilize the cubic PdH0.2 nanocrystals for tumour-targeted and
+photoacoustic imaging (PAI)-guided hydrogenothermal therapy of cancer. The
+synthesized PdH0.2 nanocrystals have exhibited high intratumoural accumulation
+capability, clear NIR-controlled hydrogen release behaviours, NIR-enhanced
+self-catalysis bio-reductivity, high NIR-photothermal effect and PAI performance.
+With these unique properties of PdH0.2 nanocrystals, synergetic hydrogenothermal 
+therapy with limited systematic toxicity has been achieved by tumour-targeted
+delivery and PAI-guided NIR-controlled release of bio-reductive hydrogen as well 
+as generation of heat. This hydrogenothermal approach has presented
+a cancer-selective strategy for synergistic cancer treatment.
+
+DOI: 10.1038/s41467-018-06630-2 
+PMCID: PMC6185976
+PMID: 30315173 

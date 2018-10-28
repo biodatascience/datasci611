@@ -1,0 +1,50 @@
+
+
+19. J Cancer Surviv. 2018 Oct 18. doi: 10.1007/s11764-018-0716-6. [Epub ahead of
+print]
+
+Patterns of medication adherence in a multi-ethnic cohort of prevalent statin
+users diagnosed with breast, prostate, or colorectal cancer.
+
+Banegas MP(1), Emerson MA(2), Adams AS(3), Achacoso NS(3), Chawla N(3), Alexeeff 
+S(3), Habel LA(3).
+
+Author information: 
+(1)Center for Health Research, Kaiser Permanente Northwest, 3800 N. Interstate
+Ave, Portland, OR, 97227-1110, USA. Matthew.P.Banegas@kpchr.org.
+(2)Gillings School of Global Public Health, University of North Carolina, Chapel 
+Hill, NC, USA.
+(3)Division of Research, Kaiser Permanente, Oakland, CA, USA.
+
+PURPOSE: To investigate the implications of a cancer diagnosis on medication
+adherence for pre-existing comorbid conditions, we explored statin adherence
+patterns prior to and following a new diagnosis of breast, colorectal, or
+prostate cancer among a multi-ethnic cohort.
+METHODS: We identified adults enrolled at Kaiser Permanente Northern California
+who were prevalent statin medication users, newly diagnosed with breast,
+colorectal, or prostate cancer between 2000 and 2012. Statin adherence was
+measured using the proportion of days covered (PDC) during the 2-year pre-cancer 
+diagnosis and the 2-year post-cancer diagnosis. Adherence patterns were assessed 
+using generalized estimating equations, for all cancers combined and stratified
+by cancer type and race/ethnicity, adjusted for demographic, clinical, and tumor 
+characteristics.
+RESULTS: Among 10,177 cancer patients, statin adherence decreased from pre- to
+post-cancer diagnosis (adjusted odds ratio (ORadj):0.91, 95% confidence interval 
+(95% CI):0.88-0.94). Statin adherence decreased from pre- to post-cancer
+diagnosis among breast (ORadj:0.94, 95% CI:0.90-0.99) and colorectal (ORadj:0.79,
+95% CI:0.74-0.85) cancer patients. No difference in adherence was observed among 
+prostate cancer patients (ORadj:1.01, 95% CI:0.97-1.05). Prior to cancer
+diagnosis, adherence to statins was generally higher among non-Hispanic whites
+and multi-race patients than other groups. However, statin adherence after
+diagnosis decreased only among these two populations (ORadj:0.85, 95%
+CI:0.85-0.92 and ORadj:0.86, 95% CI:0.76-0.97), respectively.
+CONCLUSIONS: We found substantial variation in statin medication adherence
+following diagnosis by cancer type and race/ethnicity among a large cohort of
+prevalent statin users in an integrated health care setting.
+IMPLICATIONS FOR CANCER SURVIVORS: Improving our understanding of comorbidity
+management and polypharmacy across diverse cancer patient populations is
+warranted to develop tailored interventions that improve medication adherence and
+reduce disparities in health outcomes.
+
+DOI: 10.1007/s11764-018-0716-6 
+PMID: 30338462 

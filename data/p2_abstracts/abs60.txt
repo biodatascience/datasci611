@@ -1,0 +1,51 @@
+
+
+61. Inflamm Bowel Dis. 2018 Sep 25. doi: 10.1093/ibd/izy293. [Epub ahead of print]
+
+Preventive Health Care Among Postpartum Women With Inflammatory Bowel Disease:
+Results From the PIANO Registry.
+
+Mao EJ(1), Sheibani S(2), Martin C(3), Bloomfeld RS(4), Isaacs K(3), Saha S(5),
+Mahadevan U(1).
+
+Author information: 
+(1)Department of Medicine, Division of Gastroenterology, University of
+California, San Francisco, San Francisco, California.
+(2)Department of Medicine, Division of Gastroenterology, University of Southern
+California, Los Angeles, California.
+(3)Department of Medicine, Division of Gastroenterology and Hepatology,
+University of North Carolina, Chapel Hill, North Carolina.
+(4)Department of Medicine, Section of Gastroenterology, Wake Forest University
+School of Medicine, Winston-Salem, North Carolina.
+(5)Department of Medicine, Division of Gastroenterology and Hepatology,
+University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin.
+
+Background: Health care maintenance (HCM) is reduced among inflammatory bowel
+disease (IBD) patients. This study aims to characterize rates of HCM in a closely
+monitored subpopulation-postpartum women with IBD-and identify predictors of
+noncompliance.
+Methods: A national prospective pregnancy registry was utilized to collect
+completion rates of HCM recommendations (cervical cancer screening; osteoporosis 
+screening; pneumococcal, hepatitis A, hepatitis B, and influenza vaccines).
+Completion of a recommendation at least once during follow-up was sufficient,
+except for influenza vaccine, which was assessed yearly. Patients were classified
+by drug exposures: immunomodulator (Group A), biologic (Group B), combination
+therapy (Group AB), and unexposed. Confounders assessed were steroid exposure,
+IBD flare, IBD care site, primary care provider (PCP) access, marital status,
+income, education level, and race.
+Results: There were 628 postpartum IBD women with at least 1 year of follow-up.
+HCM rates were as follows: cervical cancer screening (84%), osteoporosis
+screening (54%), pneumococcal (50%), hepatitis A (61%), hepatitis B (81%), and
+influenza (72%) vaccines. The unexposed group demonstrated lower pneumococcal
+vaccination rates than groups A, B, and AB. Group B demonstrated lower cervical
+cancer screening rates than the unexposed. PCP access and low education predicted
+hepatitis vaccine noncompliance. Unmarried status and low income predicted
+cervical cancer screening noncompliance. Low income predicted influenza vaccine
+noncompliance.
+Conclusions: Postpartum women have multiple providers, yet they complete HCM at
+suboptimal rates. Risk factors include biologic exposure, unmarried status, low
+income, low education, and access to a PCP. Awareness among providers and
+patients is important and needs to be enhanced.
+
+DOI: 10.1093/ibd/izy293 
+PMID: 30256951 

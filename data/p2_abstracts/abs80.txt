@@ -1,0 +1,42 @@
+
+
+81. Am Soc Clin Oncol Educ Book. 2018 May 23;(38):813-821. doi: 10.1200/EDBK_201307.
+
+Best Practices in Oncology Distress Management: Beyond the Screen.
+
+Smith SK(1), Loscalzo M(1), Mayer C(1), Rosenstein DL(1).
+
+Author information: 
+(1)From the Duke University School of Nursing, Durham, NC; Sheri & Les Biller
+Patient and Family Resource Center, Department of Supportive Care Medicine,
+Department of Population Sciences, City of Hope, Duarte, CA; Supportive Care
+Oncology Program, Northeast Cancer Centre, Sudbury, ON, Canada; Departments of
+Psychiatry and Medicine, University of North Carolina at Chapel Hill, Chapel
+Hill, NC.
+
+The field of psychosocial oncology is a young discipline with a rapidly expanding
+evidence base. Over the past few decades, several lines of research have
+established that psychosocial problems, such as anxiety, depression,
+post-traumatic stress, fatigue, sexual dysfunction, and cognitive complaints, are
+common and consequential in patients with cancer. The word "distress" was chosen 
+deliberately to capture a broad concept; consequently, distress screening is
+meant to function as an initial step in the more targeted evaluation of the
+source(s) of the patient's distress. In 2015, the American College of Surgeons'
+Commission on Cancer mandated psychosocial distress screening as part of their
+accreditation process. Similar screening requirements are in place
+internationally, including in Canada, where screening for distress is endorsed as
+the sixth vital sign and a standard of care that must be met by any Canadian
+health care organization providing cancer services that seeks to be accredited.
+Over the past few years, cancer centers around the world have been exploring
+optimum ways to implement and evaluate distress screening initiatives. This paper
+presents three approaches to distress screening implementation: (1) a model that 
+incorporates the importance of shared values, perceived benefits, and relevant
+outcomes in the implementation of distress management protocols; (2) a Canadian
+knowledge translation application to distress screening, including triage
+considerations and interventions; and (3) a novel approach to distress management
+via the use of a mobile application to manage post-traumatic stress symptoms. In 
+closing, future opportunities and challenges associated with the emergence of
+technology will be discussed.
+
+DOI: 10.1200/EDBK_201307 
+PMID: 30231391 

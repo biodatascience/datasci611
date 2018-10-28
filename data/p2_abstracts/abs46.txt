@@ -1,0 +1,48 @@
+
+
+47. Cancer. 2018 Oct 6. doi: 10.1002/cncr.31775. [Epub ahead of print]
+
+Changes in cardiovascular disease risk and risk factors among women with and
+without breast cancer.
+
+Anderson C(1), Nichols HB(1), Deal AM(2), Park YM(3), Sandler DP(3).
+
+Author information: 
+(1)Department of Epidemiology, University of North Carolina at Chapel Hill,
+Chapel Hill, North Carolina.
+(2)Biostatistics and Clinical Data Management Core, University of North Carolina 
+Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, North Carolina.
+(3)Epidemiology Branch, National Institute of Environmental Health Sciences,
+Research Triangle Park, North Carolina.
+
+BACKGROUND: Cardiovascular disease (CVD) risk is an important health concern
+among survivors of breast cancer. However, few studies to date have examined
+whether trajectories of CVD risk and major risk factors are worse among women
+with a breast cancer diagnosis compared with those without.
+METHODS: Changes in weight, body mass index, waist circumference, systolic blood 
+pressure, and 10-year CVD risk were compared between women with (813 women) and
+without (1049 women) an incident breast cancer diagnosis while they were enrolled
+in the National Institute of Environmental Health Sciences Sister Study cohort.
+Blood pressure and adiposity measures were collected by trained examiners at an
+enrollment visit (≥1 year before breast cancer diagnosis) and a second home visit
+4 to 11 years later (≥1 year after breast cancer diagnosis). The
+non-laboratory-based Framingham risk score, a measure of 10-year general CVD
+risk, was calculated at both the enrollment and second visits. All analyses were 
+stratified by menopausal status at the time of enrollment.
+RESULTS: Women who were premenopausal at the time of enrollment experienced
+moderate increases in weight, waist circumference, systolic blood pressure, and
+CVD risk over the study period. Those who were postmenopausal at the time of
+enrollment demonstrated little change in weight, but were found to have increases
+in waist circumference, systolic blood pressure, and CVD risk. In both groups,
+changes over time did not differ significantly according to breast cancer status.
+Neither chemotherapy nor endocrine therapy were found to be associated with
+greater increases in CVD risk or risk factors.
+CONCLUSIONS: In the current study cohort, changes over time in CVD risk,
+adiposity measures, and blood pressure were similar between women who developed
+an incident breast cancer and those who did not.
+
+© 2018 American Cancer Society.
+
+DOI: 10.1002/cncr.31775 
+PMID: 30291812 

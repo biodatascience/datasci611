@@ -1,0 +1,44 @@
+
+
+87. Mol Pharm. 2018 Oct 1. doi: 10.1021/acs.molpharmaceut.8b00672. [Epub ahead of
+print]
+
+Synthesis and Characterization of Cetuximab-Docetaxel and Panitumumab-Docetaxel
+Antibody-Drug Conjugates for EGFR-Overexpressing Cancer Therapy.
+
+Glatt DM(1), Beckford Vera DR(2), Prabhu SS(1), Mumper RJ(1), Luft JC(1),
+Benhabbour SR(1)(3), Parrott MC(2).
+
+Author information: 
+(1)Division of Pharmacoengineering and Molecular Pharmaceutics, UNC Eshelman
+School of Pharmacy , University of North Carolina at Chapel Hill , 125 Mason Farm
+Road , Chapel Hill , North Carolina 27599 , United States.
+(2)Department of Radiology, Biomedical Research Imaging Center , University of
+North Carolina at Chapel Hill , Marsico Hall, 125 Mason Farm Road , Chapel Hill ,
+North Carolina 27599 , United States.
+(3)UNC-NCSU Joint Department of Biomedical Engineering , University of North
+Carolina at Chapel Hill , Marsico Hall, 125 Mason Farm Road , Chapel Hill , North
+Carolina 27599 , United States.
+
+The safety and efficacy of anticancer antibody-drug conjugates (ADCs) depend on
+the selection of tumor-targeting monoclonal antibody (mAb), linker, and drug, as 
+well as their specific chemical arrangement and linkage chemistry. In this study,
+we used a heterobifunctional cross-linker to conjugate docetaxel (DX) to
+cetuximab (CET) or panitumumab (PAN). The resulting ADCs were investigated for
+their in vitro EGFR-specific cytotoxicity and in vivo anticancer activity.
+Reaction conditions, such as reducing agent, time, temperature, and alkylation
+buffer, were optimized to yield potent and stable ADCs with consistent
+batch-to-batch drug-to-antibody ratios (DARs). ADCs were synthesized with DARs
+from 0.4 to 3.0, and all retained their EGFR affinity and specificity after
+modification. ADCs were sensitive to cell surface wildtype EGFR expression,
+demonstrating more cytotoxicity in EGFR-expressing A431 and MDA-MB-231 cell lines
+compared to U87MG cells. A431 tumor-bearing mice treated once weekly for four
+weeks with 100 mg/kg cetuximab-docetaxel ADC (C-SC-DX, DAR 2.5) showed durable
+anticancer responses and improved overall survival compared to the same treatment
+regimen with 1 mg/kg DX, 100 mg/kg CET, or a combination 1 mg/kg DX and 100 mg/kg
+CET. New treatment options are emerging for patients with both wild-type and
+mutated EGFR-overexpressing cancers, and these studies highlight the potential
+role of EGFR-targeted ADC therapies as a promising new treatment option.
+
+DOI: 10.1021/acs.molpharmaceut.8b00672 
+PMID: 30226780 

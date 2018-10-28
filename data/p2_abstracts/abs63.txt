@@ -1,0 +1,35 @@
+
+
+64. Adv Sci (Weinh). 2018 Jul 23;5(9):1800640. doi: 10.1002/advs.201800640.
+eCollection 2018 Sep.
+
+MaxMIF: A New Method for Identifying Cancer Driver Genes through Effective Data
+Integration.
+
+Hou Y(1)(2), Gao B(1)(2), Li G(1)(2)(3), Su Z(3).
+
+Author information: 
+(1)School of Mathematics Shandong University Jinan 250100 P. R. China.
+(2)State Key Laboratory of Microbial Technology Shandong University Jinan 250100 
+P. R. China.
+(3)Department of Bioinformatics and Genomics The University of North Carolina at 
+Charlotte 9201, University City Blvd Charlotte NC 28223 USA.
+
+Identification of a few cancer driver mutation genes from a much larger number of
+passenger mutation genes in cancer samples remains a highly challenging task.
+Here, a novel method for distinguishing the driver genes from the passenger genes
+by effective integration of somatic mutation data and molecular interaction data 
+using a maximal mutational impact function (MaxMIF) is presented. When evaluated 
+on six somatic mutation datasets of Pan-Cancer and 19 datasets of different
+cancer types from TCGA, MaxMIF almost always significantly outperforms all the
+existing state-of-the-art methods in terms of predictive accuracy, sensitivity,
+and specificity. It recovers about 30% more known cancer genes in 500 top-ranked 
+candidate genes than the best among the other tools evaluated. MaxMIF is also
+highly robust to data perturbation. Intriguingly, MaxMIF is able to identify
+potential cancer driver genes, with strong experimental data support. Therefore, 
+MaxMIF can be very useful for identifying or prioritizing cancer driver genes in 
+the increasing number of available cancer genomic data.
+
+DOI: 10.1002/advs.201800640 
+PMCID: PMC6145398
+PMID: 30250803 

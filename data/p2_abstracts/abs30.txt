@@ -1,0 +1,56 @@
+
+
+31. Hum Mutat. 2018 Nov;39(11):1581-1592. doi: 10.1002/humu.23636.
+
+Gene-specific criteria for PTEN variant curation: Recommendations from the
+ClinGen PTEN Expert Panel.
+
+Mester JL(1), Ghosh R(2), Pesaran T(3), Huether R(4), Karam R(3), Hruska KS(1),
+Costa HA(5), Lachlan K(6)(7), Ngeow J(8), Barnholtz-Sloan J(9)(10), Sesock K(11),
+Hernandez F(3), Zhang L(12), Milko L(13), Plon SE(2), Hegde M(14)(15), Eng
+C(9)(10)(16).
+
+Author information: 
+(1)GeneDx, Inc., Gaithersburg, Maryland.
+(2)Baylor College of Medicine, Houston, Texas.
+(3)Ambry Genetics, Aliso Viejo, California.
+(4)Tempus Labs, Chicago, Illinois.
+(5)Stanford University School of Medicine, Stanford, California.
+(6)Wessex Clinical Genetics Service, University Hospitals Southampton,
+Southampton, UK.
+(7)Human Genetics and Genomic Medicine, Faculty of Medicine, University of
+Southampton, Southampton, UK.
+(8)National Cancer Centre Singapore, Singapore.
+(9)Case Comprehensive Cancer Center, Cleveland, Ohio.
+(10)Case Western Reserve University School of Medicine, Cleveland, Ohio.
+(11)Counsyl, Inc., San Francisco, California.
+(12)Memorial Sloan Kettering Cancer Center, New York, New York.
+(13)University of North Carolina, Chapel Hill, North Carolina.
+(14)Emory University, Atlanta, Georgia.
+(15)PerkinElmer Genetics, Pittsburgh, Pennsylvania.
+(16)Cleveland Clinic Genomic Medicine Institute, Cleveland, Ohio.
+
+The ClinGen PTEN Expert Panel was organized by the ClinGen Hereditary Cancer
+Clinical Domain Working Group to assemble clinicians, researchers, and molecular 
+diagnosticians with PTEN expertise to develop specifications to the 2015 ACMG/AMP
+Sequence Variant Interpretation Guidelines for PTEN variant interpretation. We
+describe finalized PTEN-specific variant classification criteria and outcomes
+from pilot testing of 42 variants with benign/likely benign (BEN/LBEN),
+pathogenic/likely pathogenic (PATH/LPATH), uncertain significance (VUS), and
+conflicting (CONF) ClinVar assertions. Utilizing these rules, classifications
+concordant with ClinVar assertions were achieved for 14/15 (93.3%) BEN/LBEN and
+16/16 (100%) PATH/LPATH ClinVar consensus variants for an overall concordance of 
+96.8% (30/31). The variant where agreement was not reached was a synonymous
+variant near a splice donor with noncanonical sequence for which in silico models
+cannot predict the native site. Applying these rules to six VUS and five CONF
+variants, adding shared internal laboratory data enabled one VUS to be classified
+as LBEN and two CONF variants to be as classified as PATH and LPATH. This study
+highlights the benefit of gene-specific criteria and the value of sharing
+internal laboratory data for variant interpretation. Our PTEN-specific criteria
+and expertly reviewed assertions should prove helpful for laboratories and others
+curating PTEN variants.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/humu.23636 
+PMID: 30311380 

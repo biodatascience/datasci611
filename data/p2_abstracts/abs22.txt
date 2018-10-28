@@ -1,0 +1,59 @@
+
+
+23. Cell Rep. 2018 Oct 16;25(3):702-714.e6. doi: 10.1016/j.celrep.2018.09.056.
+
+Cdh1 and Pik3ca Mutations Cooperate to Induce Immune-Related Invasive Lobular
+Carcinoma of the Breast.
+
+An Y(1), Adams JR(2), Hollern DP(3), Zhao A(4), Chang SG(4), Gams MS(4), Chung
+PED(5), He X(3), Jangra R(2), Shah JS(2), Yang J(2), Beck LA(2), Raghuram N(1),
+Kozma KJ(1), Loch AJ(2), Wang W(2), Fan C(3), Done SJ(6), Zacksenhaus E(5),
+Guidos CJ(4), Perou CM(7), Egan SE(8).
+
+Author information: 
+(1)Program in Cell Biology, The Peter Gilgan Center for Research and Learning,
+The Hospital for Sick Children, Toronto, ON M5G-0A4, Canada; Department of
+Molecular Genetics, University of Toronto, Toronto, ON, Canada.
+(2)Program in Cell Biology, The Peter Gilgan Center for Research and Learning,
+The Hospital for Sick Children, Toronto, ON M5G-0A4, Canada.
+(3)Lineberger Comprehensive Cancer Center, Departments of Genetics and Pathology,
+University of North Carolina, Chapel Hill, NC 27599, USA.
+(4)Program in Developmental and Stem Cell Biology, The Peter Gilgan Center for
+Research and Learning, The Hospital for Sick Children, Toronto, ON M5G-0A4,
+Canada; Department of Immunology, University of Toronto, Toronto, ON, Canada.
+(5)Division of Cell and Molecular Biology, Toronto General Research Institute,
+University Health Network, and Department of Medicine, University of Toronto,
+Toronto, ON, Canada; Department of Laboratory Medicine and Pathobiology,
+University of Toronto, Toronto, ON, Canada.
+(6)Department of Laboratory Medicine and Pathobiology, University of Toronto,
+Toronto, ON, Canada; Department of Medical Biophysics, University of Toronto,
+Toronto, ON, Canada; The Campbell Family Institute for Breast Cancer Research at 
+the Princess Margaret Cancer Centre and The Laboratory Medicine Program,
+University Health Network, Toronto, ON, Canada.
+(7)Lineberger Comprehensive Cancer Center, Departments of Genetics and Pathology,
+University of North Carolina, Chapel Hill, NC 27599, USA. Electronic address:
+cperou@med.unc.edu.
+(8)Program in Cell Biology, The Peter Gilgan Center for Research and Learning,
+The Hospital for Sick Children, Toronto, ON M5G-0A4, Canada; Department of
+Molecular Genetics, University of Toronto, Toronto, ON, Canada. Electronic
+address: segan@sickkids.ca.
+
+CDH1 and PIK3CA are the two most frequently mutated genes in invasive lobular
+carcinoma (ILC) of the breast. Transcription profiling has identified molecular
+subtypes for ILC, one of which, immune-related (IR), is associated with gene
+expression linked to lymphocyte and macrophage infiltration. Here, we report that
+deletion of Cdh1, together with activation of Pik3ca in mammary epithelium of
+genetically modified mice, leads to formation of IR-ILC-like tumors with immune
+cell infiltration, as well as gene expression linked to T-regulatory (Treg) cell 
+signaling and activation of targetable immune checkpoint pathways. Interestingly,
+these tumors show enhanced Rac1- and Yap-dependent transcription and signaling,
+as well as sensitivity to PI3K, Rac1, and Yap inhibitors in culture. Finally,
+high-dimensional immunophenotyping in control mouse mammary gland and IR-ILC
+tumors by mass cytometry shows dramatic alterations in myeloid and lymphoid
+populations associated with immune suppression and exhaustion, highlighting the
+potential for therapeutic intervention via immune checkpoint regulators.
+
+Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2018.09.056 
+PMID: 30332649 

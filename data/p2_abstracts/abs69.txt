@@ -1,0 +1,53 @@
+
+
+70. J Glob Oncol. 2018 Sep;(4):1-9. doi: 10.1200/JGO.17.00163.
+
+The African Esophageal Cancer Consortium: A Call to Action.
+
+Van Loon K(1), Mwachiro MM(1), Abnet CC(1), Akoko L(1), Assefa M(1), Burgert
+SL(1), Chasimpha S(1), Dzamalala C(1), Fleischer DE(1), Gopal S(1), Iyer PG(1),
+Kaimila B(1), Kayamba V(1), Kelly P(1), Leon ME(1), Mathew CG(1), Menya D(1),
+Middleton D(1), Mlombe Y(1), Mmbaga BT(1), Mmbaga E(1), Mulima G(1), Murphy G(1),
+Mushi B(1), Mwanga A(1), Mwasamwaja A(1), Parker MI(1), Pritchett N(1), Schüz
+J(1), Topazian MD(1), White RE(1), McCormack V(1), Dawsey SM(1).
+
+Author information: 
+(1)Katherine Van Loon, University of California, San Francisco, San Francisco,
+CA; Michael M. Mwachiro, Stephen L. Burgert, and Russell E. White, Tenwek
+Hospital, Bomet; Diana Menya, Moi University, Eldoret, Kenya; Christian C. Abnet,
+Gwen Murphy, Natalie Pritchett, and Sanford M. Dawsey, National Cancer Institute,
+Bethesda, MD; Larry Akoko, Elia Mmbaga, Beatrice Mushi, and Ally Mwanga,
+Muhimbili University of Health and Allied Sciences, Dar es Salaam; Blandina T.
+Mmbaga and Amos Mwasamwaja, Kilimanjaro Clinical Research Institute, Moshi,
+Tanzania; Mathewos Assefa, Addis Ababa University, Addis Ababa, Ethiopia; Steady 
+Chasimpha and Charles Dzamalala, Queen Elizabeth Central Hospital; Charles
+Dzamalala, Satish Gopal, Bongani Kaimila, and Yohannie Mlombe, University of
+Malawi College of Medicine, Blantyre; Gift Mulima, Kamuzu Central Hospital,
+Lilongwe, Malawi; David E. Fleischer, Mayo Clinic, Phoenix, AZ; Satish Gopal,
+University of North Carolina, Chapel Hill, NC; Prasad G. Iyer and Mark D.
+Topazian, Mayo Clinic, Rochester, MN; Violet Kayamba and Paul Kelly, University
+of Zambia, Lusaka, Zambia; Paul Kelly, Queen Mary University of London;
+Christopher G. Mathew, King's College London, London, United Kingdom; Maria E.
+Leon, Daniel Middleton, Joachim Schüz, and Valerie McCormack, International
+Agency for Research on Cancer, Lyon, France; Christopher G. Mathew, University of
+the Witwatersrand, Johannesburg; and M. Iqbal Parker, University of Cape Town,
+Cape Town, South Africa.
+
+Esophageal cancer is the eighth most common cancer worldwide and the sixth most
+common cause of cancer-related death; however, worldwide incidence and mortality 
+rates do not reflect the geographic variations in the occurrence of this disease.
+In recent years, increased attention has been focused on the high incidence of
+esophageal squamous cell carcinoma (ESCC) throughout the eastern corridor of
+Africa, extending from Ethiopia to South Africa. Nascent investigations are
+underway at a number of sites throughout the region in an effort to improve our
+understanding of the etiology behind the high incidence of ESCC in this region.
+In 2017, these sites established the African Esophageal Cancer Consortium. Here, 
+we summarize the priorities of this newly established consortium: to implement
+coordinated multisite investigations into etiology and identify targets for
+primary prevention; to address the impact of the clinical burden of ESCC via
+capacity building and shared resources in treatment and palliative care; and to
+heighten awareness of ESCC among physicians, at-risk populations, policy makers, 
+and funding agencies.
+
+DOI: 10.1200/JGO.17.00163 
+PMID: 30241229 

@@ -1,0 +1,52 @@
+
+
+49. MDM Policy Pract. 2018 May 2;3(1):2381468318765172. doi:
+10.1177/2381468318765172. eCollection 2018 Jan-Jun.
+
+Individualized Colorectal Cancer Screening Discussions Between Older Adults and
+Their Primary Care Providers: A Cross-Sectional Study.
+
+Kistler CE(1), Golin C(2), Sundaram A(3), Morris C(1), Dalton AF(4), Ferrari
+R(5), Lewis CL(4).
+
+Author information: 
+(1)Department of Family Medicine, University of North Carolina at Chapel Hill
+School of Medicine, Chapel Hill, NC, USA.
+(2)Department of Medicine, and Department of Health Behavior, Gillings School of 
+Global Health, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(3)School of Medicine, Northeast Ohio Medical University, Rootstown, OH, USA.
+(4)Division of General Internal Medicine, University of Colorado School of
+Medicine, Aurora, CO, USA.
+(5)Cecil G. Sheps Center for Health Services Research, University of North
+Carolina at Chapel Hill, Chapel Hill, NC, USA.
+
+Introduction. Discussions of colorectal cancer (CRC) screening with older adults 
+should be individualized to maximize appropriate screening. Our aim was to
+describe CRC screening discussions and explore their associations with patient
+characteristics and screening intentions. Methods. Cross-sectional survey of 422 
+primary care patients aged ≥70 years and eligible for CRC screening, including
+open-ended questions about CRC screening discussions. Primary outcomes were the
+frequency with which CRC screening discussions occurred, who had those
+discussions, and the domains that emerged from thematic analysis of participants'
+brief reports of their discussions. We also examined the associations between 1) 
+patient characteristics and whether a screening discussion occurred and 2) the
+domains discussed and what screening decisions were made. Results. Of 422
+participants, 209 reported having discussions and 201 responded to open-ended
+questions about CRC discussions. In a regression analysis, several factors were
+associated with increased odds of having a discussion: participants' preference
+to pursue screening (odds ratio [OR] 2.3, 95% confidence interval [CI] 1.3, 3.9),
+good health (OR 2.9, 95% CI 1.7, 4.8), and receipt of the decision aid (OR 2.1,
+95% CI 1.4, 3.2). Our thematic analysis identified five domains related to
+discussion content and three related to discussion process. The CRC
+screening-related information domain was the most commonly discussed content
+domain, and the timing/frequency domain was associated with increased odds of
+intent to pursue screening. Decision-making role, the most commonly discussed
+process domain, was associated with increased odds of the intent to forgo CRC
+screening. Conclusions and Relevance. CRC screening discussions varied by type of
+participant and content. Future work is needed to determine if interventions
+focused on specific domains alters the appropriateness of participants'
+colorectal cancer screening intentions.
+
+DOI: 10.1177/2381468318765172 
+PMCID: PMC6157429
+PMID: 30288441 

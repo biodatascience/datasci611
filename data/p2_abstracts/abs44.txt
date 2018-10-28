@@ -1,0 +1,49 @@
+
+
+45. Br J Cancer. 2018 Oct;119(7):801-807. doi: 10.1038/s41416-018-0229-0. Epub 2018
+Oct 8.
+
+Phase II trial of palbociclib in patients with metastatic urothelial cancer after
+failure of first-line chemotherapy.
+
+Rose TL(1), Chism DD(2), Alva AS(3), Deal AM(4), Maygarden SJ(5), Whang YE(1),
+Kardos J(4), Drier A(4), Basch E(1), Godley PA(1), Dunn MW(1), Kim WY(1),
+Milowsky MI(6).
+
+Author information: 
+(1)Division of Hematology/Oncology, Lineberger Comprehensive Cancer Center,
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(2)Division of Hematology and Oncology, Department of Medicine, Vanderbilt-Ingram
+Cancer Center, Vanderbilt University Medical Center, Nashville, TN, USA.
+(3)Division of Hematology/Oncology, University of Michigan, Ann Arbor, MI, USA.
+(4)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, NC, USA.
+(5)Department of Pathology and Laboratory Medicine, University of North Carolina 
+at Chapel Hill, Chapel Hill, NC, USA.
+(6)Division of Hematology/Oncology, Lineberger Comprehensive Cancer Center,
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+matt_milowsky@med.unc.edu.
+
+BACKGROUND: The majority of urothelial cancers (UC) harbor alterations in
+retinoblastoma (Rb) pathway genes that can lead to loss of Rb tumour suppressor
+function. Palbociclib is an oral, selective inhibitor of CDK 4/6 that restores Rb
+function and promotes cell cycle arrest.
+METHODS: In this phase II trial, patients with metastatic platinum-refractory UC 
+molecularly selected for p16 loss and intact Rb by tumour immunohistochemistry
+received palbociclib 125 mg p.o. daily for 21 days of a 28-day cycle. Primary
+endpoint was progression-free survival at 4 months (PFS4) using a Simon's
+two-stage design. Next-generation sequencing including Rb pathway alterations was
+conducted.
+RESULTS: Twelve patients were enrolled and two patients (17%) achieved PFS4 with 
+insufficient activity to advance to stage 2. No responses were seen. Median PFS
+was 1.9 months (95% CI 1.8-3.7 months) and median overall survival was 6.3 months
+(95% CI 2.2-12.6 months). Fifty-eight percent of patients had grade ≥3
+hematologic toxicity. There were no CDKN2A alterations found and no correlation
+of Rb pathway alterations with clinical outcome.
+CONCLUSIONS: Palbociclib did not demonstrate meaningful activity in selected
+patients with platinum-refractory metastatic UC. Further development of
+palbociclib should only be considered with improved integral biomarker selection 
+or in rational combination with other therapies.
+
+DOI: 10.1038/s41416-018-0229-0 
+PMID: 30293995 

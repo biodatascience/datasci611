@@ -1,0 +1,44 @@
+
+
+13. J Oncol Pharm Pract. 2018 Oct 22:1078155218808084. doi: 10.1177/1078155218808084.
+[Epub ahead of print]
+
+Infusion reactions following administration of intravenous rolapitant at an
+academic medical center.
+
+Cass AS(1), Odinet JS(1), Valgus JM(1)(2), Crona DJ(1)(3)(4).
+
+Author information: 
+(1)1 Department of Pharmacy, University of North Carolina Hospitals and Clinics, 
+Chapel Hill, NC, USA.
+(2)2 Division of Practice Advancement and Continuing Education, Eshelman School
+of Pharmacy, University of North Carolina, Chapel Hill, NC, USA.
+(3)3 Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School
+of Pharmacy, University of North Carolina, Chapel Hill, NC, USA.
+(4)4 Lineberger Comprehensive Cancer Center, School of Medicine, University of
+North Carolina, Chapel Hill, NC, USA.
+
+In 2017, due to a fluid shortage secondary to Hurricane Maria's devastation of
+Puerto Rico, hospitals and health-systems began to substitute rolapitant for
+fosaprepitant as part of chemotherapy-induced nausea and vomiting prevention and 
+treatment strategies. However, despite advantageous pharmacologic and formulation
+(e.g. long half-life, quicker time to onset, and lack of first-pass hepatic
+metabolism) profiles, there seems to be significant risk of infusion-related
+hypersensitivity reactions associated with the administration of intravenous
+rolapitant. In January 2018, the U.S. FDA issued a Health Care Provider Letter
+stating that anaphylaxis, anaphylactic shock, and other serious hypersensitivity 
+reactions have been reported in the postmarketing setting. Importantly, these
+reactions were observed at a higher rate than initially reported in the phase 1
+bioequivalence study that led to FDA approval of intravenous rolapitant (2.8%),
+with many resulting in hospitalizations. At our institution, rolapitant-induced
+infusion-related reactions also occurred in more patients than expected (8.7%).
+Described herein are six cases of infusion-related hypersensitivity reactions
+with intravenous rolapitant at the North Carolina Cancer Hospital. Due to the
+quick onset of the infusion-related hypersensitivity reactions with intravenous
+rolapitant, interpatient differences in pharmacokinetics or pharmacodynamics are 
+unlikely to be the cause. An objective assessment utilizing the Naranjo Causality
+Scale rates these infusion-related hypersensitivity reactions as definite adverse
+drug reactions.
+
+DOI: 10.1177/1078155218808084 
+PMID: 30348072 

@@ -1,0 +1,48 @@
+
+
+22. Cancer Epidemiol Biomarkers Prev. 2018 Oct 17. pii: cebp.0674.2018. doi:
+10.1158/1055-9965.EPI-18-0674. [Epub ahead of print]
+
+Adult physical activity and breast cancer risk in women with a family history of 
+breast cancer.
+
+Niehoff NM(1), Nichols HB(2), Zhao S(3), White AJ(4), Sandler DP(4).
+
+Author information: 
+(1)Epidemiology, University of North Carolina at Chapel Hill
+nicolen@live.unc.edu.
+(2)Department of Epidemiology, University of North Carolina at Chapel Hill.
+(3)Biostatistics & Computational Biology Branch, National Institute of
+Environmental Health Sciences.
+(4)Epidemiology Branch, National Institute of Environmental Health Sciences.
+
+BACKGROUND: Recreational physical activity has been consistently associated with 
+reduced breast cancer risk. Less is known about how family history of breast
+cancer impacts the association, and whether it varies by menopausal status.
+METHODS: The Sister Study is a cohort of 50,884 women who had a sister with
+breast cancer, but no prior breast cancer themselves. Women reported all
+recreational sport/exercise activities they participated in over the past 12
+months. Hours/week and MET-hours/week of physical activity were considered in
+association with breast cancer risk. Hazard ratios (HRs) and 95% confidence
+intervals (CIs) were calculated with Cox regression. Extent of family history,
+examined as a modifier, was characterized by a Bayesian score incorporating
+characteristics of the family structure.
+RESULTS: During follow-up (average 8.4 years), 3,023 cases were diagnosed. Higher
+hours/week (HR>=7vs<1=0.77; 95%CI: 0.66-0.90) and MET-hours/week
+(HRquartile4vs1=0.75; 95%CI: 0.67-0.85) of physical activity were associated with
+reduced postmenopausal breast cancer risk. Hours/week and MET-hours/week were
+associated with suggestive increased premenopausal breast cancer risk
+(MET-hours/week HRquartile4vs1=1.25; 95%CI: 0.98-1.60). Associations did not vary
+with extent of family history. However, the increased risk in premenopausal women
+may be limited to those with stronger family history.
+CONCLUSIONS: In women with a family history of breast cancer, physical activity
+was associated with reduced postmenopausal, but not premenopausal, breast cancer 
+risk and was not modified by extent of family history.
+IMPACT: This was the first study to examine the association between physical
+activity and breast cancer risk in a large population with a family history of
+breast cancer.
+
+Copyright ©2018, American Association for Cancer Research.
+
+DOI: 10.1158/1055-9965.EPI-18-0674 
+PMID: 30333218 

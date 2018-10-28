@@ -1,0 +1,51 @@
+
+
+84. Breast J. 2018 Sep 19. doi: 10.1111/tbj.13112. [Epub ahead of print]
+
+PD-L1 expression and CD8-positive T cells are associated with favorable survival 
+in HER2-positive invasive breast cancer.
+
+Hou Y(1), Nitta H(2), Wei L(3), Banks PM(2)(4), Lustberg M(5), Wesolowski R(5),
+Ramaswamy B(5), Parwani AV(1), Li Z(1).
+
+Author information: 
+(1)Department of Pathology, Wexner Medical Center, The Ohio State University,
+Columbus, Ohio.
+(2)Ventana Medical Systems, Inc, Tucson, Arizona.
+(3)Center for Biostatistics, Department of Biomedical Informatics, The Ohio State
+University, Columbus, Ohio.
+(4)Department of Laboratory Medicine and Pathology, University of North Carolina,
+Chapel Hill, North Carolina.
+(5)Department of Medical Oncology, Wexner Medical Center, The Ohio State
+University, Columbus, Ohio.
+
+Programmed cell death 1 (PD-1) and its ligand (PD-L1) are key physiologic
+suppressors of the cytotoxic immune reaction. However, to date, the combination
+of PD1/PD-L1 expression and tumor-infiltrating lymphocytes (TILs) and
+antigen-presenting cells has been only minimally reported in breast carcinoma, in
+particular in relation to HER2-positive cases. The goal of this study was to
+evaluate both cellular tumoral immune reaction and PD-L1/PD1 distribution in
+HER2-positive cases, as well as any associations with clinical outcome using
+conventional chemotherapy combined with HER2 blocking. Multicolor
+immunohistochemical multiplex assays simultaneously demonstrating PD1, PD-L1, and
+CD8 or PD-L1, CD3, and CD163 were performed on tissue microarrays (TMA)
+representing 216 pretreatment cases of HER2-positive invasive breast carcinoma.
+PD-L1 expression was identified in 38 cases (18%), including 12 cases (6%) with
+PD-L1 labeling of tumor cells and 26 cases (12%) with PD-L1 labeling of immune
+cells only. Ten of 12 cases with PD-L1 staining of tumor cells showed staining of
+associated immune cells as well. With this assay method, PD1 was detectable in
+many fewer cases (6 cases or 3%). PD-L1 expression was positively associated with
+high Nottingham grade, negative ER and PR, the absence of lymph node metastasis, 
+and high levels of CD8+ cells. The overall survival by univariate analysis was
+positively associated with lower tumor stage, the absence of lymph node
+metastasis, PD-L1 expression, and high levels of CD8+ cells. Therefore, our data 
+suggest cytotoxic immune reaction mediated by CD8-positive T cells and PD-L1
+expression may predict a better outcome in patients with HER2-positive breast
+carcinoma managed with conventional chemotherapy and HER2-blocking therapy. These
+findings recommend clinical trials utilizing checkpoint blocking immunotherapy in
+some form for HER2-positive breast cancer.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1111/tbj.13112 
+PMID: 30230111 

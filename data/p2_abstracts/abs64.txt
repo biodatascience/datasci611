@@ -1,0 +1,44 @@
+
+
+65. J Altern Complement Med. 2018 Sep/Oct;24(9-10):981-987. doi:
+10.1089/acm.2018.0183.
+
+Use of Dietary Supplements at a Comprehensive Cancer Center.
+
+Luo Q(1), Asher GN(2)(3).
+
+Author information: 
+(1)1 Department of Epidemiology, Gillings School of Global Public Health,
+University of North Carolina at Chapel Hill , Chapel Hill, NC.
+(2)2 Department of Family Medicine, School of Medicine, University of North
+Carolina at Chapel Hill , Chapel Hill, NC.
+(3)3 Integrative Medicine Services, UNC Lineberger Comprehensive Cancer Center , 
+Chapel Hill, NC.
+
+OBJECTIVES: The objectives of this study were to define dietary supplement (DS)
+use by cancer patients and to investigate factors associated with DS use during
+cancer treatment.
+METHODS: A cross-sectional survey of adults diagnosed with breast, colorectal,
+lung, or prostate cancer in 2010-2012 at the University of North Carolina
+Comprehensive Cancer Center was conducted. Questionnaires were sent to 1794
+patients. Phone calls were made to nonrespondents. The authors described type of 
+DS use before, during, and after initial cancer treatment, source of advice on DS
+use, and used logistic regression to investigate the association of DS use during
+or after cancer treatment with clinical/sociodemographic characteristics and
+source of advice.
+RESULTS: Six hundred and three (34%) patients completed the questionnaires.
+Nonvitamin nonmineral DS use during initial cancer treatments was common: any
+cancer treatment (49%), chemotherapy (52%), and radiation therapy (51%). Among
+patients seeking advice on DS use, 75% reported professional sources, 44%
+reported media sources, and 47% reported lay sources. DS use during cancer
+treatment was strongly predicted by prior DS use, followed by prior complementary
+therapies' use, receiving DS advice from a cancer care provider, being female,
+and higher education level.
+CONCLUSION: DS use is common and persists during cancer treatment. Among DS users
+during treatment, 18% used an herbal supplement, which are likely to carry
+greater risk of interaction with chemotherapy agents compared with vitamin,
+mineral, and other supplements. Although many respondents sought DS advice from
+professional sources, the use of nonprofessional sources remains high.
+
+DOI: 10.1089/acm.2018.0183 
+PMID: 30247972  [Indexed for MEDLINE]

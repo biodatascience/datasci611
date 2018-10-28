@@ -1,0 +1,54 @@
+
+
+79. J Racial Ethn Health Disparities. 2018 Sep 19. doi: 10.1007/s40615-018-0522-x.
+[Epub ahead of print]
+
+What Happened to Disparities in CRC Screening Among FFS Medicare Enrollees
+Following Medicare Modernization?
+
+Mobley LR(1), Kuo TM(2), Zhou M(3), Rutherford Y(4), Meador S(4), Koschinsky
+J(5).
+
+Author information: 
+(1)School of Public Health, Georgia State University, Atlanta, GA, USA.
+lmobley@gsu.edu.
+(2)Lineberger Cancer Center, University of North Carolina Chapel Hill, Chapel
+Hill, NC, USA.
+(3)Georgia Health Policy Center, Georgia State University, Atlanta, GA, USA.
+(4)School of Public Health, Georgia State University, Atlanta, GA, USA.
+(5)Center for Spatial Data Science, University of Chicago, Chicago, IL, USA.
+
+The Medicare Modernization Act of 2003, implemented in 2006, increased managed
+care options for seniors. It introduced insurance plans for prescription drug
+coverage for all Medicare beneficiaries, whether they were enrolled in FFS or
+managed care (Medicare Advantage) plans. The availability of drug coverage
+beginning in 2006 served to free up budgets for FFS Medicare enrollees that could
+be used to make copayments for colorectal cancer (CRC) screening using endoscopy 
+(colonoscopy or sigmoidoscopy). In 2007, Medicare eliminated the copayments
+required by seniors for CRC screening by endoscopy. Later in 2008, CRC screening 
+by colonoscopy became part of the gold standard for CRC screening. This
+legitimized its use and offered even further encouragement to seniors, who may
+have been reluctant to undergo the procedure because of the non-pecuniary risks
+associated with it. In addition, 37 CRC screening interventions occurred during
+this timeframe to enhance compliance with screening standards. Using multilevel
+analysis of individuals' endoscopy utilization, derived from 100% FFS Medicare
+claims, along with county-level market and contextual factors, we compare the
+periods before and after the MMA (2001-2005 to 2006-2009) to determine whether
+disparities in the utilization of endoscopic CRC screening occurred or changed
+over the decade. We examined Blacks, Asians, and Hispanics relative to Whites,
+and Females relative to Males (with race or ethnicity combined). We examined each
+state separately for evidence of disparities within states, to avoid confounding 
+by geographic disparities. We expected that the net effect of the policy changes 
+and the targeted interventions over the decade would be to increase CRC screening
+by endoscopy, reducing disparities. We saw improvements over time (reduced
+disparities relative to Whites) for Blacks and Hispanics residing in several
+states, and improvements over time for Females relative to Males in many states. 
+For the vast majority of states, however, disparities persisted with Whites and
+Males exhibiting greater rates of utilization than other groups. States that
+undertook the interventions were more likely to have had improvements in
+disparities or positive disparities for women and minorities. While some gains
+were made over this time period, the gains were unevenly distributed across the
+USA and more work needs to be done to reduce remaining disparities.
+
+DOI: 10.1007/s40615-018-0522-x 
+PMID: 30232793 

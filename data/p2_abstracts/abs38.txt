@@ -1,0 +1,51 @@
+
+
+39. SSM Popul Health. 2018 Sep 25;6:158-168. doi: 10.1016/j.ssmph.2018.09.009.
+eCollection 2018 Dec.
+
+Canadian report card on health equity across the life-course: Analysis of time
+trends and cross-national comparisons with the United Kingdom.
+
+Blair A(1)(2)(3), Siddiqi A(4)(5), Frank J(3)(6).
+
+Author information: 
+(1)Département de Médecine Sociale et Préventive, École de Santé Publique,
+Université de Montréal, 7101 Park Ave, Montréal, Québec, Canada H3N 1X9.
+(2)Centre de Recherche du Centre hospitalier de l'Université de Montréal
+(CRCHUM), 850 St Denis St, Montréal, Québec, Canada H2X 0A9.
+(3)Scottish Collaboration for Public Health Research and Policy, University of
+Edinburgh, 20 West Richmond Street, Edinburgh EH8 9DX, United Kingdom.
+(4)Division of Epidemiology, Dalla Lana School of Public Health, University of
+Toronto, 155 College Street, Toronto, Ontario, Canada M5T 3M7.
+(5)Department of Health Behavior, Gillings School of Global Public Health,
+University of North Carolina at Chapel Hill, 302 Rosenau Hall, CB #7440, Chapel
+Hill, NC 27599-7440, United States.
+(6)Usher Institute of Population Health Sciences and Informatics, University of
+Edinburgh, Old Medical School, Teviot Place, Edinburgh EH8 9AG, United Kingdom.
+
+Addressing social determinants of health (SDoH) has been acknowledged as an
+essential objective for the promotion of both population health and health
+equity. Extant literature has identified seven potential areas of investment to
+address SDoH: investments in sexual and reproductive health and family planning, 
+early learning and child care, education, universal health care, as well as
+investments to reduce child poverty, ensure sustainable economic development, and
+control health hazards. The aim of this paper is to produce a 'report card' on
+Canada's success in reducing socioeconomic and health inequities pertaining to
+these seven policy domains, and to assess how Canadian trends compare to those in
+the United Kingdom (UK), a country with a similar health and welfare system.
+Summarising evidence from published studies and national statistics, we found
+that Canada's best successes were in reducing socioeconomic inequalities in early
+learning and child care and reproductive health-specifically in improving equity 
+in maternal employment and infant mortality. Comparative data suggest that
+Canada's outcomes in the latter areas were like those in the UK. In contrast,
+Canada's least promising equity outcomes were in relation to health hazard
+control (specifically, tobacco) and child poverty. Though Canada and the UK
+observed similar inequities in smoking, Canada's slow upward trend in child
+poverty prevalence is distinct from the UK's small but steady reduction of child 
+poverty. This divergence from the UK's trends indicates that alternative
+investment types and levels may be needed in Canada to achieve similar outcomes
+to those in the UK.
+
+DOI: 10.1016/j.ssmph.2018.09.009 
+PMCID: PMC6174919
+PMID: 30302366 

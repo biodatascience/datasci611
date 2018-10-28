@@ -1,0 +1,76 @@
+
+
+36. Hum Mol Genet. 2018 Oct 10. doi: 10.1093/hmg/ddy360. [Epub ahead of print]
+
+Whole genome sequence association with E-selectin levels reveals Loss-of-function
+variant in African Americans.
+
+Polfus LM(1), Raffield LM(2), Wheeler MM(3), Tracy RP(4)(5), Lange LA(6), Lettre 
+G(7), Miller A(8), Correa A(9), Bowler RP(10), Bis JC(11), Salimi S(12), Jenny
+NS(4), Pankratz N(13), Wang B(14), Preuss MH(15)(16), Zhou L(15), Moscati A(15), 
+Nadkarni GN(15), Loos RJF(15)(16)(17), Zhong X(18)(19), Li B(18)(19), Johnsen
+JM(20)(21), Nickerson DA(3), Reiner AP(22)(23), Auer PL(8), Precision Medicine
+Consortium NTF.
+
+Author information: 
+(1)Center for Genetic Epidemiology, Department of Preventive Medicine, Keck
+School of Medicine, University of Southern California, Los Angeles, CA, USA.
+(2)Department of Genetics, University of North Carolina, Chapel Hill, NC, USA.
+(3)Department of Genome Sciences, University of Washington Center for Mendelian
+Genomics, Seattle, WA, USA.
+(4)Department of Pathology and Laboratory Medicine, Larner College of Medicine,
+University of Vermont, Burlington, VT, USA.
+(5)Department of Biochemistry, Larner College of Medicine, University of Vermont,
+Burlington, VT, USA.
+(6)Department of Medicine, University of Colorado Denver,Anschutz Medical Campus,
+Aurora, CO, USA.
+(7)Department of Medicine, Université de Montréal, Montréal, QC, Canada;Montreal 
+Heart Institute, Montréal, QC, Canada.
+(8)Zilber School of Public Health, University of Wisconsin-Milwaukee, Milwaukee, 
+Wisconsin, USA.
+(9)Department of Pediatrics and Medicine, University of Mississippi Medical
+Center, Jackson, MS, USA.
+(10)Department of Medicine, National Jewish Health, Denver, CO, USA.
+(11)Cardiovascular Health Research Unit, University of Washington, Seattle, WA,
+USA.
+(12)School of Medicine, University of Maryland, Baltimore, MD, USA.
+(13)Department of Laboratory Medicine and Pathology, University of Minnesota,
+Minneapolis, MN, USA.
+(14)Department of Biostatistics, Boston University School of Public Health,
+Boston, MA. USA.
+(15)Charles Bronfman Institute for Personalized Medicine,Icahn School of Medicine
+at Mount Sinai, New York, NY, USA.
+(16)Genetics of Obesity and Related Metabolic Traits Program, Icahn School of
+Medicine at Mount Sinai, New York, NY, USA.
+(17)Mindich Child Health and Development Institute,Icahn School of Medicine at
+Mount Sinai, New York, NY, USA.
+(18)Vanderbilt Genetics Institute, Nashville, TN, USA.
+(19)Center for Public Health Genomics, University of Virginia, Charlottesville,
+VA, USA.
+(20)Bloodworks NW Research Institute, Seattle, WA, USA.
+(21)Department of Medicine, University of Washington, Seattle, WA, USA.
+(22)Department of Epidemiology, University of Washington, Seattle, WA, USA.
+(23)Division of Public Health Sciences, Fred Hutchinson Cancer Research Center,
+Seattle, WA, USA.
+
+E-selectin mediates the rolling of circulating leukocytes during inflammatory
+processes. Previous genome-wide association studies (GWAS) in European and Asian 
+individuals have identified the ABO locus associated with E-selectin levels.
+Using Trans-Omics for Precision Medicine (TOPMed) whole-genome sequencing (WGS)
+data in 2,249 African Americans (AAs) from the Jackson Heart Study (JHS), we
+examined genome-wide associations with soluble E-selectin levels. In addition to 
+replicating known signals at ABO, we identified a novel association of a common
+loss-of-function, missense variant in FUT6 (rs17855739,p.Glu274Lys, p=9.02 x
+10-24) with higher soluble E-selectin levels. This variant is considerably more
+common in populations of African-ancestry compared to non-African ancestry
+populations. We replicated the association of FUT6 p.Glu274Lys with higher
+soluble E-selectin in an independent population of 748 AAs from the Women's
+Health Initiative and identified an additional pleiotropic association with
+vitamin B12 levels. Despite the broad role of both selectins and
+fucosyltransferases in various inflammatory, immune and cancer-related processes,
+we were unable to identify any additional disease associations of the FUT6
+p.Glu274Lys variant in an EMR-based phenome-wide association scan of over 9,000
+African Americans.
+
+DOI: 10.1093/hmg/ddy360 
+PMID: 30307499 

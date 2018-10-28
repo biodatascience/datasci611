@@ -1,0 +1,52 @@
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+97. Am J Cancer Res. 2018 Aug 1;8(8):1551-1563. eCollection 2018.
+
+ONC201 demonstrates anti-tumorigenic and anti-metastatic activity in uterine
+serous carcinoma in vitro.
+
+Fang Z(1)(2), Wang J(3), Clark LH(2)(4), Sun W(2), Yin Y(2), Kong W(3), Pierce
+SR(2), West L(2), Sullivan SA(2), Tran AQ(2), Prabhu VV(5), Zhou C(2)(4),
+Bae-Jump V(2)(4).
+
+Author information: 
+(1)Department of Obstetrics, Beijing Obstetrics and Gynecology Hospital, Capital 
+Medical University Beijing, P. R. China.
+(2)Division of Gynecologic Oncology, University of North Carolina at Chapel Hill 
+Chapel Hill, NC, USA.
+(3)Department of Gynecologic Oncology, Beijing Obstetrics and Gynecology
+Hospital, Capital Medical University Beijing, P. R. China.
+(4)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill Chapel Hill, NC, USA.
+(5)Oncoceutics Philadelphia, PA, USA.
+
+Uterine serous carcinoma (USC) represents an aggressive histologic subtype of
+endometrial cancer. It is associated with a poor prognosis, and improved
+therapies for women battling USCs are greatly needed. ONC201 is an orally
+bioavailable, first-in-class small molecule that induces tumor necrosis
+factor-related apoptosis-inducing ligand (TRAIL) independent of p53. ONC201 has
+demonstrated anti-tumorigenic activity in pre-clinical models of solid tumors
+through induction of apoptosis and inactivation of the AKT/MAPK pathways. Recent 
+phase I and II clinical trials have shown that ONC201 is well tolerated and may
+have single agent activity in high grade glioma patients among others. We sought 
+to determine the effects of ONC201 on cell proliferation in USC and identify the 
+mechanisms by which ONC201 inhibits cell growth in this disease. ONC201 inhibited
+cell proliferation in a dose-dependent manner in ARK1, ARK2 and SPEC-2 cell
+lines. The anti-proliferative activity of ONC201 in ARK1 and SPEC-2 cells was
+associated with induction apoptosis independent of p53 via both a TRAIL mediated 
+apoptotic pathway and a mitochondrial apoptosis pathway. Treatment with ONC201
+resulted in significant reduction in adhesion and invasion as well as inhibition 
+of the AKT and MAPK pathways. In addition, ONC201 markedly potentiated the
+anti-tumorigenic effects of paclitaxel in USC cells. Our results suggest that
+ONC201 has significant anti-proliferative and anti-metastatic effects in USC
+cells through both induction of apoptosis and inhibition of the AKT and MAPK
+pathways. ONC201 and paclitaxel are a promising therapeutic combination in USC
+cells. Thus, ONC201 should be evaluated as a single agent and as a therapeutic
+partner with paclitaxel in future clinical trials of USC.
+
+
+PMCID: PMC6129479
+PMID: 30210923 

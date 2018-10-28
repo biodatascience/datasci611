@@ -1,0 +1,54 @@
+
+
+85. Ultrasound Med Biol. 2018 Sep 15. pii: S0301-5629(18)30336-3. doi:
+10.1016/j.ultrasmedbio.2018.08.003. [Epub ahead of print]
+
+Optimization of Phase-Change Contrast Agents for Targeting MDA-MB-231 Breast
+Cancer Cells.
+
+Hadinger KP(1), Marshalek JP(1), Sheeran PS(2), Dayton PA(3), Matsunaga TO(4).
+
+Author information: 
+(1)Department of Medical Imaging, University of Arizona, Tucson, Arizona, USA.
+(2)Physical Sciences Department, Sunnybrook Research Institute, Toronto, Ontario,
+Canada; Department of Medical Biophysics, University of Toronto, Toronto,
+Ontario, Canada.
+(3)Joint Department of Biomedical Engineering, University of North Carolina and
+North Carolina State University, Chapel Hill, North Carolina, USA.
+(4)Department of Medical Imaging, University of Arizona, Tucson, Arizona, USA.
+Electronic address: Tmatsunaga@radiology.arizona.edu.
+
+Breast cancer remains a leading cause of death for women throughout the world.
+Recent advances in medical imaging technologies and tumor targeting agents
+signify vast potential for progress toward improved management of this global
+problem. Phase-change contrast agents (PCCAs) are dynamic imaging agents with
+practical applications in both the research and clinical settings. PCCAs possess 
+characteristics that allow for cellular uptake where they can be converted from
+liquid-phase PCCAs to gaseous microbubbles via ultrasound energy. Previously, we 
+reported successful internalization of folate-targeted PCCAs in MDA-MB-231 breast
+cancer cells followed by ultrasound-mediated activation to produce internalized
+microbubbles. This study examines the binding, internalization and activation of 
+folate-receptor targeted PCCAs in MDA-MB-231 breast cancer cells as a function of
+gaseous core compositions, incubation time and ultrasound exposure period. In
+vitro results indicate that internalization and ultrasound-mediated activation of
+PCCAs were significantly greater using a 50:50 mixture of
+decafluorobutane:dodecafluoropentane compared with other core compositions: 50:50
+octafluoropropane:decafluorobutane (p < 0.0001), decafluorobutane (p < 0.04) and 
+dodecafluoropentane (p < 0.0001). Furthermore, it was found that PCCAs composed
+of perfluorocarbons with higher boiling points responded with greater activation 
+efficiency when exposed to 12s of ultrasound exposure as opposed to 4s of
+ultrasound exposure. When evaluating different incubation times, it was found
+that incubating the PCCAs with breast cancer cells for 60min did not produce
+significantly greater internalization and activation compared with incubation for
+10 min; this was concluded after comparing the number of microbubbles present per
+cell before ultrasound versus post-ultrasound, and finding a ratio of
+intracellular microbubbles post-ultrasound/pre-ultrasound, 3.46 versus 3.14,
+respectively. The data collected in this study helps illustrate further
+optimization of folate-receptor targeted PCCAs for breast cancer targeting and
+imaging.
+
+Copyright © 2018 World Federation for Ultrasound in Medicine 8 Biology. Published
+by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ultrasmedbio.2018.08.003 
+PMID: 30228045 

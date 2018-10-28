@@ -1,0 +1,54 @@
+
+
+6. HPB (Oxford). 2018 Oct 23. pii: S1365-182X(18)34468-X. doi:
+10.1016/j.hpb.2018.09.018. [Epub ahead of print]
+
+Cyst location and presence of high grade dysplasia or invasive cancer in
+intraductal papillary mucinous neoplasms of the pancreas: a seven institution
+study from the central pancreas consortium.
+
+Kerlakian S(1), Dhar VK(1), Abbott DE(2), Kooby DA(3), Merchant NB(4), Kim HJ(5),
+Martin RC(6), Scoggins CR(6), Bentrem DJ(7), Weber SM(2), Maithel SK(3), Ahmad
+SA(1), Patel SH(8).
+
+Author information: 
+(1)Department of Surgery, University of Cincinnati College of Medicine,
+Cincinnati, OH, USA.
+(2)Department of Surgery, University of Wisconsin School of Medicine and Public
+Health, Madison, WI, USA.
+(3)Department of Surgery, Emory University School of Medicine, Atlanta, GA, USA.
+(4)Department of Surgery, University of Miami Miller School of Medicine, Miami,
+FL, USA.
+(5)Department of Surgery, University of North Carolina, Chapel Hill, NC, USA.
+(6)Department of Surgery, University of Louisville College of Medicine,
+Louisville, KY, USA.
+(7)Department of Surgery, Northwestern University Feinberg School of Medicine,
+Chicago, IL, USA.
+(8)Department of Surgery, University of Cincinnati College of Medicine,
+Cincinnati, OH, USA. Electronic address: patel5se@ucmail.uc.edu.
+
+BACKGROUND: Traditionally, intraductal papillary mucinous neoplasms (IPMNs) of
+the pancreas with "high risk stigmata" (HRS) or "worrisome features" (WF) are
+referred for resection. We aim to assess if IPMN location is predictive of
+harboring either high grade dysplasia (HGD) or invasive cancer (IC).
+METHODS: Patients undergoing resection for IPMN from seven institutions between
+2000 and 2015 (n = 275) were analyzed. HRS and WF were defined by the 2012
+Fukuoka international consensus guidelines.
+RESULTS: 168 (61%) patients had head/uncinate cysts, while 107 (39%) had
+neck/body/tail cysts. No differences were noted between groups with regard to
+age, duct type, cyst size, or presence of at least one WF. Patients with cysts in
+the head/uncinate were more often male (55% vs. 40%), had at least one HRS (24%
+vs. 11%), and more often harbored HGD or IC(49% vs. 27%)[all p < 0.05]. On
+multivariate analysis, only cyst location in the head/uncinate remained
+associated with presence of HGD or IC(odds ratio 4.76, p = 0.02).
+DISCUSSION: Cyst location is predictive of HGD or IC in patients with IPMNs.
+Head/uncinated cysts are more likely to harbor malignancy compared to those of
+the neck/body/tail. Additional studies are needed to confirm these findings,
+however, cyst location should be considered part of the decision making process
+for surveillance vs. resection for IPMNs.
+
+Copyright © 2018 International Hepato-Pancreato-Biliary Association Inc.
+Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.hpb.2018.09.018 
+PMID: 30361110 

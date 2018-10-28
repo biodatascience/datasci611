@@ -1,0 +1,47 @@
+
+
+71. J Glob Oncol. 2018 Sep;(4):1-7. doi: 10.1200/JGO.17.00003. Epub 2017 Jul 17.
+
+Cost of Providing Quality Cancer Care at the Butaro Cancer Center of Excellence
+in Rwanda.
+
+Neal C(1), Rusangwa C(1), Borg R(1), Tapela N(1), Mugunga JC(1), Pritchett N(1), 
+Shyirambere C(1), Ntakirutimana E(1), Park PH(1), Shulman LN(1), Mpunga T(1).
+
+Author information: 
+(1)Claire Neal, University of North Carolina Gillings School of Global Public
+Health, University of North Carolina, Chapel Hill, NC; Christian Rusangwa, Ryan
+Borg, Natalie Pritchett, Cyprien Shyirambere, Elisephan Ntakirutimana, and Paul
+H. Park, Partners In Health/Inshuti Mu Buzima, Kigali; Tharcisse Mpunga, Ministry
+of Health, Butaro, Rwanda; Neo Tapela and Paul H. Park, Brigham and Women's
+Hospital; Jean Claude Mugunga, Partners In Health, Boston, MA; and Lawrence N.
+Shulman, Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA.
+
+PURPOSE: The cost of providing cancer care in low-income countries remains
+largely unknown, which creates a significant barrier to effective planning and
+resource allocation. This study examines the cost of providing comprehensive
+cancer care at the Butaro Cancer Center of Excellence (BCCOE) in Rwanda.
+METHODS: A retrospective costing analysis was conducted from the provider
+perspective by using secondary data from the administrative systems of the BCCOE.
+We identified the start-up funds necessary to begin initial implementation and
+determined the fiscal year 2013-2014 operating cost of the cancer program,
+including capital expenditures and fixed and variable costs.
+RESULTS: A total of $556,105 US dollars was assessed as necessary start-up
+funding to implement the program. The annual operating cost of the cancer program
+was found to be $957,203 US dollars. Radiotherapy, labor, and chemotherapy were
+the most significant cost drivers. Radiotherapy services, which require sending
+patients out of country because there are no radiation units in Rwanda, comprised
+25% of program costs, labor accounted for 21%, and chemotherapy, supportive
+medications, and consumables accounted for 15%. Overhead, training, computed
+tomography scans, surgeries, blood products, pathology, and social services
+accounted for less than 10% of the total.
+CONCLUSION: This study is one of the first to examine operating costs for
+implementing a cancer center in a low-income country. Having a strong commitment 
+to cancer care, adapting clinical protocols to the local setting, shifting tasks,
+and creating collaborative partnerships make it possible for BCCOE to provide
+quality cancer care at a fraction of the cost seen in middle- and high-income
+countries, which has saved many lives and improved survival. Not all therapies,
+though, were available because of limited financial resources.
+
+DOI: 10.1200/JGO.17.00003 
+PMID: 30241219 

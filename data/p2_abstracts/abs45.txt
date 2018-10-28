@@ -1,0 +1,61 @@
+
+
+46. Support Care Cancer. 2018 Oct 6. doi: 10.1007/s00520-018-4479-4. [Epub ahead of
+print]
+
+Peer support opportunities across the cancer care continuum: a systematic scoping
+review of recent peer-reviewed literature.
+
+Kowitt SD(1), Ellis KR(2), Carlisle V(3)(4), Bhushan NL(4)(5), Black KZ(6),
+Brodar K(7), Cranley NM(5), Davis KL(8), Eng E(3)(5), Martin MY(9), McGuirt
+J(10), Sokol RL(5), Tang PY(4)(5), Vines AI(3)(11), Walker JS(12), Fisher
+EB(3)(4)(5).
+
+Author information: 
+(1)Department of Family Medicine, School of Medicine, University of North
+Carolina at Chapel Hill, Chapel Hill, NC, USA. kowitt@unc.edu.
+(2)School of Social Work, University of Michigan, Ann Arbor, MI, USA.
+(3)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, NC, USA.
+(4)Peers for Progress, Gillings School of Global Public Health, University of
+North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(5)Department of Health Behavior, Gillings School of Global Public Health,
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(6)Department of Health Education and Promotion, College of Health and Human
+Performance, East Carolina University, Greenville, NC, USA.
+(7)Department of Psychology, University of Miami, Coral Gables, FL, USA.
+(8)Division of Public Health Sciences, Washington University School of Medicine, 
+St. Louis, MO, USA.
+(9)Center for Innovation in Health Equity Research and Department of Preventive
+Medicine, University of Tennessee Health Science Center, Memphis, TN, USA.
+(10)Department of Nutrition, University of North Carolina at Greensboro,
+Greensboro, NC, USA.
+(11)Department of Epidemiology, Gillings School of Global Public Health,
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(12)Health Sciences Library, University of North Carolina at Chapel Hill, Chapel 
+Hill, NC, USA.
+
+OBJECTIVE: Evidence suggests peer support (PS) is as an effective strategy for
+enhancing prevention and control of chronic and infectious diseases, including
+cancer. This systematic scoping review examines the range and variety of
+interventions on the use of PS across the cancer care continuum.
+METHOD: We used a broad definition of PS to capture a wide-range of interventions
+and characterize the current status of the field. Literature searches were
+conducted using PubMed, SCOPUS, and CINAHL to identify relevant articles
+published from January 2011 to June 2016. We screened the title and abstracts of 
+2087 articles, followed by full-text screening of 420 articles, resulting in a
+final sample of 242 articles of which the most recent 100 articles were reviewed 
+(published June 2014 to May 2016).
+RESULTS: A number of the recent intervention studies focused on breast cancer
+(32%, breast cancer only) or multiple cancer sites (23%). Although the
+interventions spanned all phases of the cancer care continuum, only 2% targeted
+end-of-life care. Seventy-six percent focused on clinical outcomes (e.g.,
+screening, treatment adherence) and 72% on reducing health disparities.
+Interventions were primarily phone-based (44%) or delivered in a clinic setting
+(44%). Only a few studies (22%) described the impact of providing PS on peer
+supporters.
+CONCLUSION: PS appears to be a widely used approach to address needs across the
+cancer care continuum, with many opportunities to expand its reach.
+
+DOI: 10.1007/s00520-018-4479-4 
+PMID: 30293093 

@@ -1,0 +1,33 @@
+
+
+14. Stat Sin. 2018 Oct;28(4):1867-1886. doi: 10.5705/ss.202016.0350.
+
+Functional Linear Regression Models for Nonignorable Missing Scalar Responses.
+
+Li T(1), Xie F(2), Feng X(3), Ibrahim JG(4), Zhu H(1)(4).
+
+Author information: 
+(1)University of Texas MD Anderson Cancer Center.
+(2)Nanjing Normal University.
+(3)The Chinese University of Hong Kong.
+(4)University of North Carolina at Chapel Hill.
+
+As an important part of modern health care, medical imaging data, which can be
+regarded as densely sampled functional data, have been widely used for diagnosis,
+screening, treatment, and prognosis, such as finding breast cancer through
+mammograms. The aim of this paper is to propose a functional linear regression
+model for using functional (or imaging) predictors to predict clinical outcomes
+(e.g., disease status), while addressing missing clinical outcomes. We introduce 
+an exponential tilting semiparametric model to account for the nonignorable
+missing data mechanism. We develop a set of estimating equations and its
+associated computational methods for both parameter estimation and the selection 
+of the tuning parameters. We also propose a bootstrap resampling procedure for
+carrying out statistical inference. Under some regularity conditions, we
+systematically establish the asymptotic properties (e.g., consistency and
+convergence rate) of the estimates calculated from the proposed estimating
+equations. Simulation studies and a real data analysis are used to illustrate the
+finite sample performance of the proposed methods.
+
+DOI: 10.5705/ss.202016.0350 
+PMCID: PMC6191855 [Available on 2019-04-01]
+PMID: 30344426 

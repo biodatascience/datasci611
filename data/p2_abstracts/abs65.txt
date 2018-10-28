@@ -1,0 +1,48 @@
+
+
+66. Biomaterials. 2018 Dec;185:205-218. doi: 10.1016/j.biomaterials.2018.09.016. Epub
+2018 Sep 13.
+
+Immune lipoprotein nanostructures inspired relay drug delivery for amplifying
+antitumor efficiency.
+
+Han Y(1), Ding B(1), Zhao Z(1), Zhang H(1), Sun B(2), Zhao Y(1), Jiang L(1), Zhou
+J(3), Ding Y(4).
+
+Author information: 
+(1)State Key Laboratory of Natural Medicines, Department of Pharmaceutics, China 
+Pharmaceutical University, 24 Tongjiaxiang, Nanjing, 210009, China.
+(2)Department of Radiation Oncology, Lineberger Comprehensive Cancer Center,
+Carolina Center for Cancer Nanotechnology Excellence, Carolina Institute of
+Nanomedicine, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599,
+USA.
+(3)State Key Laboratory of Natural Medicines, Department of Pharmaceutics, China 
+Pharmaceutical University, 24 Tongjiaxiang, Nanjing, 210009, China. Electronic
+address: zhoujianp60@163.com.
+(4)State Key Laboratory of Natural Medicines, Department of Pharmaceutics, China 
+Pharmaceutical University, 24 Tongjiaxiang, Nanjing, 210009, China. Electronic
+address: dydszyzf@163.com.
+
+Chemo-immunotherapy represents an appealing approach to improving cancer
+treatment. Simultaneously administrating chemotherapeutics with immunoadjuvants
+can elicit potent tumor death and immune responses. Herein, high density
+lipoprotein (HDL) inspired immune lipoprotein was proposed for relay drug
+delivery and amplifying antitumor therapy. Lipophilic AS1411
+aptamer-immunoadjuvant CpG fused sequences (Apt-CpG-DSPE) were conjugated to
+facilitate decoration onto HDLs; and doxorubicin (Dox) was successively
+intercalated into the consecutive base pairs of Apt-CpG to complete immune HDL
+nanodrug imHDL/Apt-CpG-Dox. For relay drug delivery, imHDL/Apt-CpG-Dox underwent 
+site-specific structure collapse in tumor intercellular substances inspired from 
+HDL biofunctions (sequential module I); subsequently, dissociated Apt-CpG-Dox was
+endocytosed into tumor cells mediated by the recognition of AS1411 and nucleolin 
+(sequential module II), translocating Dox to nucleus and enabling tumor ablation 
+and antigens release. The liberated CpG motif further evoked antigen recognition,
+induced vast secretion of pro-inflammatory cytokines and potentiated host
+antitumor immunity. Our studies demonstrated that HDL biomimetic platform based
+relay drug delivery strategy outperformed the monotherapy counterparts in
+malignant tumor models, eventually generating an augmented antitumor efficacy.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biomaterials.2018.09.016 
+PMID: 30245388 

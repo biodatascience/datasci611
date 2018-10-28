@@ -1,0 +1,46 @@
+
+Conflict of interest statement: None.
+
+
+98. Hosp Pharm. 2018 Oct;53(5):296-302. doi: 10.1177/0018578717749926. Epub 2018 Jan 
+10.
+
+Pharmacy Operationalization of the Intralesional Oncolytic Immunotherapy
+Talimogene Laherparepvec.
+
+McBride A(1), Valgus J(2), Parsad S(3), Sommermann EM(4), Nunan R(5).
+
+Author information: 
+(1)The University of Arizona Cancer Center, Tucson, USA.
+(2)University of North Carolina Medical Center, Chapel Hill, USA.
+(3)University of Chicago Medicine, Chicago, IL, USA.
+(4)Amgen Inc., Thousand Oaks, CA, USA.
+(5)Mary Crowley Cancer Research Center, Dallas, TX, USA.
+
+Objective: Oncolytic immunotherapy involves the use of viruses to target and
+destroy cancer cells and to induce immune responses for an enhanced antitumor
+effect. Talimogene laherparepvec, a genetically modified herpes simplex virus
+type 1 (HSV-1) that selectively replicates in tumors to induce lytic cell death, 
+tumor antigen release, and the local production of granulocyte-macrophage
+colony-stimulating factor (GM-CSF), has been approved for the treatment of a
+defined population of patients with metastatic melanoma. Talimogene laherparepvec
+is administered as a series of intralesional injections, and specific procedures 
+are implemented to minimize the risk of viral exposure. Because talimogene
+laherparepvec represents a novel therapeutic modality, its preparation,
+administration, and handling requirements differ from current therapies;
+pharmacists have an important role in developing new procedures to incorporate it
+into clinical practice. Methods: In this review, pharmacists with experience
+dispensing talimogene laherparepvec, in the clinical trial setting and/or as a
+commercially available product at US academic institutions, synthesized their
+personal experiences through group discussions to provide insights on the
+ordering, receipt, storage, preparation, administration, and handling of
+talimogene laherparepvec. Results: Suggestions for patient education and
+practical guidance to assist hospital pharmacists and decision makers with
+implementing talimogene laherparepvec at their institutions are provided.
+Conclusion: These insights may further inform the development of policies or
+procedures to incorporate talimogene laherparepvec into clinical settings and
+improve patient outcomes.
+
+DOI: 10.1177/0018578717749926 
+PMCID: PMC6130110 [Available on 2019-10-01]
+PMID: 30210146 

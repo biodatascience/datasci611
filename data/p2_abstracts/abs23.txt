@@ -1,0 +1,59 @@
+
+
+24. Cancer Chemother Pharmacol. 2018 Oct 16. doi: 10.1007/s00280-018-3702-9. [Epub
+ahead of print]
+
+Mononuclear phagocyte system function and nanoparticle pharmacology in obese and 
+normal weight ovarian and endometrial cancer patients.
+
+Starling BR(1), Kumar P(1)(2), Lucas AT(1), Barrow D(3), Farnan L(4), Hendrix
+L(4), Giovinazzo H(1)(5), Song G(1)(6), Gehrig P(7), Bensen JT(4)(8), Zamboni
+WC(9)(10)(11).
+
+Author information: 
+(1)Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman School
+of Pharmacy, University of North Carolina at Chapel Hill, 120 Mason Farm Road,
+Suite 1013, CB 7361, Chapel Hill, NC, 27599-7361, USA.
+(2)Clinical Pharmacology, Otsuka Pharmaceutical Companies, Rockville, MD, 20850, 
+USA.
+(3)UNC Cytokine and Biomarker Core Facility, UNC School of Dentistry, University 
+of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.
+(4)UNC Lineberger Comprehensive Cancer Center, University of North Carolina at
+Chapel Hill, Chapel Hill, NC, 27514, USA.
+(5)Department of Pharmacology and Molecular Sciences, Johns Hopkins University
+School of Medicine, Baltimore, MD, 21205, USA.
+(6)ScitoVation LLC, Research Triangle Park, NC, 27709, USA.
+(7)Department of Gynecologic Oncology, UNC School of Medicine, University of
+North Carolina Medical Center, Chapel Hill, NC, 27514, USA.
+(8)Department of Epidemiology, UNC Gillings School of Public Health, University
+of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.
+(9)Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman School
+of Pharmacy, University of North Carolina at Chapel Hill, 120 Mason Farm Road,
+Suite 1013, CB 7361, Chapel Hill, NC, 27599-7361, USA. zamboni@email.unc.edu.
+(10)UNC Lineberger Comprehensive Cancer Center, University of North Carolina at
+Chapel Hill, Chapel Hill, NC, 27514, USA. zamboni@email.unc.edu.
+(11)Carolina Center of Cancer Nanotechnology Excellence, University of North
+Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA. zamboni@email.unc.edu.
+
+PURPOSE: Obesity may alter mononuclear phagocyte system (MPS) function and the
+pharmacology and efficacy of nanoparticles therapies, such as PEGylated liposomal
+doxorubicin (PLD). We aimed to evaluate the relationships between hormone and
+chemokine mediators of MPS function and the pharmacokinetic (PK) exposure of PLD 
+in obese and normal weight patients with ovarian and endometrial cancer.
+METHODS: Hormone and chemokine mediators in obese and normal weight ovarian and
+endometrial cancer patients were measured. A separate pharmacology study was
+performed that evaluated the relationship between serum hormone concentrations,
+MPS function, and PK disposition of PLD in refractory ovarian cancer patients.
+RESULTS: Univariate analysis revealed a significant relationship between serum
+estradiol and body mass index (OR 8.64, 95% CI 2.67-28.0, p < 0.001). Estrone and
+testosterone concentrations were positively correlated with MPS function
+(ρ = 0.57 and 0.53, p = 0.14 and 0.18, respectively) and inversely correlated
+with PLD PK exposure (ρ = - 0.75 and - 0.76, respectively, p = 0.02 for both).
+CONCLUSIONS: Higher MPS function resulting in reduced PLD exposure is a potential
+mechanism for reduced efficacy of PLD and other nanoparticles observed in obese
+patients with cancer. PK simulations suggest higher doses of PLD are required in 
+obese patients to achieve similar exposures as standard dosing in normal weight
+patients.
+
+DOI: 10.1007/s00280-018-3702-9 
+PMID: 30327876 

@@ -1,0 +1,51 @@
+
+
+29. Gastroenterology. 2018 Oct 10. pii: S0016-5085(18)35147-3. doi:
+10.1053/j.gastro.2018.08.063. [Epub ahead of print]
+
+Burden and Cost of Gastrointestinal, Liver, and Pancreatic Diseases in the United
+States: Update 2018.
+
+Peery AF(1), Crockett SD(2), Murphy CC(3), Lund JL(4), Dellon ES(2), Williams
+JL(5), Jensen ET(6), Shaheen NJ(2), Barritt AS(2), Lieber SR(2), Kochar B(2),
+Barnes EL(2), Fan YC(2), Pate V(4), Galanko J(2), Baron TH(2), Sandler RS(2).
+
+Author information: 
+(1)University of North Carolina School of Medicine, Chapel Hill, NC. Electronic
+address: Anne_Peery@med.unc.edu.
+(2)University of North Carolina School of Medicine, Chapel Hill, NC.
+(3)University of Texas Southwestern Medical Center, Dallas, Texas.
+(4)Gillings School of Global Public Health, Chapel Hill, NC.
+(5)GI Quality Improvement Consortium.
+(6)Wake Forest School of Medicine, Winston-Salem, NC.
+
+BACKGROUND & AIMS: Estimates of disease burden can inform national health
+priorities for research, clinical care, and policy. We aimed to estimate health
+care use and spending among gastrointestinal (GI) (including luminal, liver, and 
+pancreatic) diseases in the United States.
+METHODS: We estimated health care use and spending based on the most currently
+available administrative claims from commercial and Medicare Supplemental plans, 
+data from the GI Quality Improvement Consortium Registry, and national databases.
+RESULTS: In 2015, annual health care expenditures for gastrointestinal diseases
+totaled $135.9 billion. Hepatitis ($23.3 billion), esophageal disorders ($18.1
+billion), biliary tract disease ($10.3 billion), abdominal pain ($10.2 billion), 
+and inflammatory bowel disease ($7.2 billion) were the most expensive. Yearly,
+there were more than 54.4 million ambulatory visits with a primary diagnosis for 
+a GI disease, 3.0 million hospital admissions, and 540,500 all-cause 30-day
+readmissions. There were 266,600 new cases of GI cancers diagnosed and 144,300
+cancer deaths. Each year, there were 97,700 deaths from non-malignant GI
+diseases. An estimated 11.0 million colonoscopies, 6.1 million upper endoscopies,
+313,000 flexible sigmoidoscopies, 178,400 upper endoscopic ultrasound
+examinations, and 169,500 endoscopic retrograde cholangiopancreatography
+procedures were performed annually. Among average-risk persons ages 50-75 years
+who underwent colonoscopy, 34.6% had 1 or more adenomatous polyps, 4.7% had 1 or 
+more advanced adenomatous polyps, and 5.7% had 1 or more serrated polyps removed.
+CONCLUSIONS: GI diseases contribute substantially to health care use in the
+United States. Total expenditures for GI diseases are $135.9 billion dollars
+annually-greater than for other common diseases. Expenditures are likely to
+continue increasing.
+
+Copyright © 2018 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2018.08.063 
+PMID: 30315778 

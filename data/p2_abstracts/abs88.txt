@@ -1,0 +1,32 @@
+
+
+89. Cells. 2018 Sep 15;7(9). pii: E139. doi: 10.3390/cells7090139.
+
+Roles for the IKK-Related Kinases TBK1 and IKKε in Cancer.
+
+Durand JK(1)(2), Zhang Q(3)(4), Baldwin AS(5)(6).
+
+Author information: 
+(1)Curriculum in Genetics and Molecular Biology, University of North Carolina at 
+Chapel Hill, Chapel Hill, NC 27599, USA. joel_durand@med.unc.edu.
+(2)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
+Hill, NC 27599, USA. joel_durand@med.unc.edu.
+(3)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
+Hill, NC 27599, USA. qing_zhang@med.unc.edu.
+(4)Department of Pathology, University of North Carolina School of Medicine,
+Chapel Hill, NC 27599, USA. qing_zhang@med.unc.edu.
+(5)Curriculum in Genetics and Molecular Biology, University of North Carolina at 
+Chapel Hill, Chapel Hill, NC 27599, USA. abaldwin@med.unc.edu.
+(6)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
+Hill, NC 27599, USA. abaldwin@med.unc.edu.
+
+While primarily studied for their roles in innate immune response, the IκB kinase
+(IKK)-related kinases TANK-binding kinase 1 (TBK1) and IKKε also promote the
+oncogenic phenotype in a variety of cancers. Additionally, several substrates of 
+these kinases control proliferation, autophagy, cell survival, and cancer immune 
+responses. Here we review the involvement of TBK1 and IKKε in controlling
+different cancers and in regulating responses to cancer immunotherapy.
+
+DOI: 10.3390/cells7090139 
+PMCID: PMC6162516
+PMID: 30223576 

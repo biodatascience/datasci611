@@ -1,0 +1,46 @@
+
+
+38. Int J Hyperthermia. 2018 Oct 10:1-6. doi: 10.1080/02656736.2018.1506167. [Epub
+ahead of print]
+
+An analysis of the survival impact of dexmedetomidine in children undergoing
+cytoreductive surgery with hyperthermic intraperitoneal chemotherapy.
+
+Owusu-Agyemang P(1)(2), Cata JP(1)(2), Kapoor R(1), Zavala AM(1), Williams UU(1),
+Van Meter A(1), Tsai JY(1), Zhang WH(1), Feng L(3), Hayes-Jordan A(4).
+
+Author information: 
+(1)a Department of Anesthesiology and Perioperative Medicine , The University of 
+Texas MD Anderson Cancer Center , Houston , TX , USA.
+(2)b Anesthesiology and Surgical Oncology Research Group , Houston , TX , USA.
+(3)c Department of Biostatistics , The University of Texas MD Anderson Cancer
+Center , Houston , TX , USA.
+(4)d Division of Pediatric Surgery , University of North Carolina School of
+Medicine , Chapel Hill , NC , USA.
+
+OBJECTIVE: Recent evidence suggests the α2-adrenoreceptor agonist dexmedetomidine
+may promote metastasis of cancer cells. In this study we sought to evaluate the
+impact of dexmedetomidine administration on the survival of children and
+adolescents with cancer.
+DESIGN: Retrospective chart review.
+SETTING: Comprehensive cancer center.
+PATIENTS: Children and adolescents who had undergone cytoreductive surgery with
+hyperthermic intraperitoneal chemotherapy for peritoneal carcinomatosis.
+INTERVENTION: Intraoperative and/or early postoperative (within 24 hours of
+surgery) administration of dexmedetomidine.
+MEASUREMENTS: Multivariable cox proportional hazard models were used to assess
+the association between dexmedetomidine administration and progression free
+survival (PFS) or overall survival (OS).
+MAIN RESULTS: Ninety-three patients were identified. The median age was 12 years,
+42% were female, and 35% received dexmedetomidine. There were no significant
+differences between the baseline and perioperative characteristics of patients
+who received dexmedetomidine and those who did not. In the multivariable
+analysis, the administration of dexmedetomidine was not associated with PFS
+(HR = 1.20, 95% CI [0.60-2.41], p = .606) or OS (HR = 0.81, 95% CI [0.35-1.85],
+p = .611).
+CONCLUSION: In this retrospective study of children and adolescents who had
+undergone a major oncologic surgery, the intraoperative and/or early
+postoperative administration of dexmedetomidine was not associated with survival.
+
+DOI: 10.1080/02656736.2018.1506167 
+PMID: 30303410 

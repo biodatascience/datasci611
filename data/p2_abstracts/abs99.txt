@@ -1,0 +1,50 @@
+
+
+100. Cancer Immunol Res. 2018 Sep 12. doi: 10.1158/2326-6066.CIR-18-0086. [Epub ahead 
+of print]
+
+Stromal Fibroblasts Mediate Anti-PD-1 Resistance via MMP-9 and Dictate TGFβ
+Inhibitor Sequencing in Melanoma.
+
+Zhao F(1), Evans K(1), Xiao C(1), DeVito N(1), Theivanthiran B(1), Holtzhausen
+A(2), Siska PJ(3), Blobe GC(1)(4), Hanks BA(5)(4).
+
+Author information: 
+(1)Department of Medicine, Division of Medical Oncology, Duke Cancer Institute,
+Duke University Medical Center, Durham, North Carolina.
+(2)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, North Carolina.
+(3)Department of Internal Medicine III, University Hospital Regensburg,
+Regensburg, Germany.
+(4)Department of Pharmacology and Cancer Biology, Duke University, Durham, North 
+Carolina.
+(5)Department of Medicine, Division of Medical Oncology, Duke Cancer Institute,
+Duke University Medical Center, Durham, North Carolina. hanks004@mc.duke.edu.
+
+Although anti-PD-1 therapy has improved clinical outcomes for select patients
+with advanced cancer, many patients exhibit either primary or adaptive resistance
+to checkpoint inhibitor immunotherapy. The role of the tumor stroma in the
+development of these mechanisms of resistance to checkpoint inhibitors remains
+unclear. We demonstrated that pharmacologic inhibition of the TGFβ signaling
+pathway synergistically enhanced the efficacy of anti-CTLA-4 immunotherapy but
+failed to augment anti-PD-1/PD-L1 responses in an autochthonous model of
+BRAFV600E melanoma. Additional mechanistic studies revealed that TGFβ pathway
+inhibition promoted the proliferative expansion of stromal fibroblasts, thereby
+facilitating MMP-9-dependent cleavage of PD-L1 surface expression, leading to
+anti-PD-1 resistance in this model. Further work demonstrated that melanomas
+escaping anti-PD-1 therapy exhibited a mesenchymal phenotype associated with
+enhanced TGFβ signaling activity. Delayed TGFβ inhibitor therapy, following
+anti-PD-1 escape, better served to control further disease progression and was
+superior to a continuous combination of anti-PD-1 and TGFβ inhibition. This work 
+illustrates that formulating immunotherapy combination regimens to enhance the
+efficacy of checkpoint blockade requires an in-depth understanding of the impact 
+of these agents on the tumor microenvironment. These data indicated that stromal 
+fibroblast MMP-9 may desensitize tumors to anti-PD-1 and suggests that TGFβ
+inhibition may generate greater immunologic efficacy when administered following 
+the development of acquired anti-PD-1 resistance. Cancer Immunol Res; 1-13. ©2018
+AACR.
+
+©2018 American Association for Cancer Research.
+
+DOI: 10.1158/2326-6066.CIR-18-0086 
+PMID: 30209062 

@@ -1,0 +1,32 @@
+
+
+82. Am Soc Clin Oncol Educ Book. 2018 May 23;(38):515-522. doi: 10.1200/EDBK_201087.
+
+Personalizing Postoperative Treatment of Head and Neck Cancers.
+
+Maghami E(1), Koyfman SA(1), Weiss J(1).
+
+Author information: 
+(1)From the Division of Head and Neck Surgery, City of Hope National Medical
+Center, Duarte, CA; Department of Radiation Oncology, Cleveland Clinic,
+Cleveland, OH; Department of Medical Oncology, University of North Carolina
+Hospitals, Chapel Hill, NC.
+
+Head and neck cancer (HNC) treatment is a complex multidisciplinary undertaking. 
+Although overtreatment can result in functional and cosmetic defects,
+undertreatment can result in cancer recurrence. Surgery and chemoradiotherapy are
+both accepted standards for the curative intent treatment of locally advanced
+mucosal squamous cell carcinoma of the head and neck, but are often prioritized
+differently depending on the site of tumor origin (e.g., oral cavity/sinonasal
+vs. oropharynx/larynx), tumor burden, tumor biology, quality-life considerations,
+and patient preference. Regardless of modalities chosen, failure to cure remains 
+a considerable problem in locally advanced disease. For patients treated with
+primary surgery, high-risk pathologic features portend higher recurrence rates,
+and adjuvant therapy can reduce these rates and improve outcomes. This report
+details which tumor- and nodal-related factors are indications for adjuvant
+therapy, examines the impact of tumor HPV status on adjuvant treatment paradigms,
+and considers which systemic therapies should be used for which patients when
+trimodality therapy is indicated.
+
+DOI: 10.1200/EDBK_201087 
+PMID: 30231315 

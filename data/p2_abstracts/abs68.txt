@@ -1,0 +1,58 @@
+
+
+69. JAMA Oncol. 2018 Sep 13. doi: 10.1001/jamaoncol.2018.3701. [Epub ahead of print]
+
+Total Medicare Costs Associated With Diagnosis and Treatment of Prostate Cancer
+in Elderly Men.
+
+Trogdon JG(1)(2), Falchook AD(3), Basak R(4), Carpenter WR(1), Chen RC(2)(4)(5).
+
+Author information: 
+(1)Department of Health Policy and Management, Gillings School of Global Public
+Health, University of North Carolina at Chapel Hill, Chapel Hill.
+(2)Lineberger Comprehensive Cancer Center, Chapel Hill, North Carolina.
+(3)Department of Radiation Oncology, Memorial Cancer Institute, Memorial
+Healthcare System, Pembroke Pines, Florida.
+(4)Department of Radiation Oncology, University of North Carolina at Chapel Hill,
+Chapel Hill.
+(5)Cecil G. Sheps Center for Health Services Research, University of North
+Carolina at Chapel Hill, Chapel Hill.
+
+Importance: Localized prostate cancer diagnosis and treatment among elderly men
+who are not likely to benefit represents a potential source of low-value health
+care services.
+Objective: To quantify the costs to the Medicare program associated with
+detection and treatment of prostate cancer among elderly men in the United
+States.
+Design, Setting, and Participants: This nationwide, population-based,
+retrospective cohort study uses the Surveillance, Epidemiology, and End Results
+(SEER)-Medicare linked database to identify men 70 years or older diagnosed with 
+localized prostate cancer between 2004 and 2007 and to ascertain Medicare costs
+associated with diagnosis and workup, treatment, follow-up, and morbidity
+management of the disease. National Medicare costs were estimated using
+per-person costs, stage-adjusted prostate cancer incidence rates by age from SEER
+2007 through 2011, and 2010 Census population estimates by age.
+Main Outcomes and Measures: Estimated costs to the Medicare program overall, and 
+in each (mutually exclusive) category related to diagnosis and workup, treatment,
+follow-up, and morbidity management.
+Results: This nationwide, population-based, retrospective cohort study included
+49 692 men with nonmetastatic prostate cancer from the SEER-Medicare database
+(all participants were 70 years or older; 25 981 [52.3%] were 76 years or older).
+The median per-patient cost within 3 years after prostate cancer diagnosis was
+$14 453 (interquartile range [IQR], $4887-$27 899). The majority of this cost was
+attributable to treatment costs (median, $10 558; IQR, $1990-$23 718). Patients
+with a Gleason score of 6 or lower who pursued initial conservative management
+(no treatment within 12 months of diagnosis) had a 3-year median total cost of
+$1914 per patient. The estimated total 3-year cost to the Medicare program
+associated with the annual detection of prostate cancer in men 70 years or older 
+is approximately $1.2 billion. Increasing active surveillance use in those with
+Gleason score of 6 or lower could reduce this cost by $320 million.
+Conclusions and Relevance: There is substantial cost to the Medicare program
+associated with the diagnosis and treatment of localized prostate cancer among
+elderly men in the United States, despite the fact that these men are unlikely to
+die of prostate cancer. The majority of costs are related to treatment. Reducing 
+provision of low-value health care services among this patient population could
+result in significant health care savings.
+
+DOI: 10.1001/jamaoncol.2018.3701 
+PMID: 30242397 

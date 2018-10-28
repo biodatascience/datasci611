@@ -1,0 +1,57 @@
+
+
+80. Mol Cancer Ther. 2018 Sep 19. pii: molcanther.0348.2018. doi:
+10.1158/1535-7163.MCT-18-0348. [Epub ahead of print]
+
+Histone deacetylase inhibitors synergizes with catalytic inhibitors of EZH2 to
+exhibit anti-tumor activity in small cell carcinoma of the ovary, hypercalcemic
+type.
+
+Wang Y(1), Chen SY(2), Colborne S(3), Lambert G(4), Shin CY(4), Dos Santos N(5), 
+Orlando KA(6), Lang JD(7), Hendricks WPD(7), Bally MB(8), Karnezis AN(2), Hass
+R(9), Underhill TM(10), Morin GB(11), Trent JM(7), Weissman BE(6), Huntsman
+DG(12).
+
+Author information: 
+(1)Pathology and Laboratory Medicine, University of British Columbia
+yewang@bccrc.ca.
+(2)Pathology and Laboratory Medicine, University of British Columbia.
+(3)Michael Smith Genome Science Centre, British Columbia Cancer Agency.
+(4)Department of Molecular Oncology, British Columbia Cancer Research Centre.
+(5)Department of Experimental Therapeutics, British Columbia Cancer Research
+Centre.
+(6)Department of Pathology and Laboratory Medicine, University of North Carolina 
+at Chapel Hill.
+(7)Division of Integrated Cancer Genomics, Translational Genomics Research
+Institute (TGen).
+(8)Experimental Therapeutics, British Columbia Cancer Research Centre.
+(9)Department of Obstetrics and Gynecology, Hannover Medical School.
+(10)Department of Cellular and Physiological Sciences, Biomedical Research
+Centre, University of British Columbia.
+(11)Michael Smith Genome Science Centre, Brtish Columbia Cancer Agency.
+(12)Department of Pathology and Laboratory Medicine, University of British
+Columbia.
+
+Small cell carcinoma of the ovary, hypercalcemic type (SCCOHT) is a rare but
+extremely lethal malignancy that mainly impacts young women. SCCOHT is
+characterized by a diploid genome with loss of SMARCA4 and lack of SMARCA2
+expression, two mutually exclusive ATPases of the SWI/SNF chromatin-remodeling
+complex. We and others have identified the histone methyltransferase EZH2 as a
+promising therapeutic target for SCCOHT, suggesting that SCCOHT cells depend on
+the alternation of epigenetic pathways for survival. In this study, we found that
+SCCOHT cells were more sensitive to pan-HDAC inhibitors compared to other ovarian
+cancer lines or immortalized cell lines tested. Pan-HDAC inhibitors, such as
+quisinostat, reversed the expression of a group of proteins that were deregulated
+in SCCOHT cells due to SMARCA4 loss, leading to growth arrest, apoptosis and
+differentiation in vitro and suppressed tumor growth of xenografted tumors of
+SCCOHT cells. Moreover, combined treatment of HDAC inhibitors and EZH2 inhibitors
+at sub-lethal doses synergistically induced histone H3K27 acetylation and target 
+gene expression, leading to rapid induction of apoptosis and growth suppression
+of SCCOHT cells and xenografted tumors. Therefore, our preclinical study
+highlighted the therapeutic potential of combined treatment of HDAC inhibitors
+with EZH2 catalytic inhibitors to treat SCCOHT.
+
+Copyright ©2018, American Association for Cancer Research.
+
+DOI: 10.1158/1535-7163.MCT-18-0348 
+PMID: 30232145 

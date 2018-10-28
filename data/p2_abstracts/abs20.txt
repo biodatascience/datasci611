@@ -1,0 +1,70 @@
+
+
+21. Cancer Epidemiol Biomarkers Prev. 2018 Oct 17. pii: cebp.0654.2018. doi:
+10.1158/1055-9965.EPI-18-0654. [Epub ahead of print]
+
+Body fatness, adipose tissue compartments and biomarkers of inflammation and
+angiogenesis in colorectal cancer: the ColoCare Study.
+
+Himbert C(1), Ose J(2), Nattenmüller J(3), Warby CA(4), Holowatyj AN(5), Böhm
+J(6), Lin T(7), Haffa M(8), Gigic B(9), Hardikar S(1), Scherer D(10), Zielske
+L(11), Schrotz-King P(12), Koelsch T(11), Siegel EM(13), Shibata D(14), Ulrich
+A(15), Schneider M(16), Hursting SD(17), Kauczor HU(18), Ulrich CM(19).
+
+Author information: 
+(1)Population Sciences, Huntsman Cancer Institute.
+(2)Population Health Sciences, Huntsman Cancer Institute.
+(3)Diagnostic and Interventional Radiology, University Hospital Heidelberg.
+(4)Cancer Control and Population Sciences, Huntsman Cancer Institute.
+(5)Population Health Sciences, Huntsman Cancer Institute, University of Utah.
+(6)Huntsman Cancer Insitute.
+(7)Huntsman Cancer Institute.
+(8)Translational Oncology, German Cancer Research Center.
+(9)Department of General, Visceral and Transplantation Surgery, Heidelberg
+University Hospital.
+(10)University Hospital Heidelberg.
+(11)Department of Surgery, University Clinic of Heidelberg.
+(12)Department of Preventive Oncology, National Center for Tumor Diseases, German
+Cancer Research Center.
+(13)Cancer Epidemiology Program, Division of Population Sciences, H. Lee Moffitt 
+Cancer Center & Research Institute.
+(14)University of Tennessee Health Science Center.
+(15)General, Visceral and Transplantation Surgery, Heidelberg University
+Hospital.
+(16)Department of General, Visceral and Transplantation Surgery, University of
+Heidelberg.
+(17)Nutrition, University of North Carolina at Chapel Hill.
+(18)Radiology, University of Heidelberg.
+(19)Huntsman Cancer Insitute neli.ulrich@hci.utah.edu.
+
+BACKGROUND: Adiposity has been linked to both risk and prognosis of colorectal
+cancer; however, the impact of different fat areas [visceral (VFA) vs.
+subcutaneous fat area (SFA)] is unclear. We investigated associations between
+adiposity and biomarkers of inflammation and angiogenesis among patients with
+colorectal cancer.
+METHODS: Preoperative serum samples and computed tomography scans were obtained
+from 188 patients diagnosed with primary invasive stage I-IV colorectal cancer
+enrolled in the ColoCare Study. Adiposity was assessed by area-based
+quantification of VFA, SFA, and VFA:SFA ratio on spinal levels L3/L4 and L4/L5.
+Circulating levels of inflammation (CRP, SAA, sICAM-1, sVCAM-1) and angiogenesis 
+(VEGF-A, VEGF-D) were assessed from patient sera on the Meso-Scale-Discoveries
+platform. Partial correlations and regression analyses, adjusted for age, sex,
+and tumor stage, were performed.
+RESULTS: VFA was moderately correlated with CRP and SAA (CRP: L3/L4 and
+L4/L5:r=0.21, p=0.01; SAA: L3/L4:r=0.17, p=0.04). The correlation between SFA and
+the measured biomarkers were weak (r≤0.13, not significant). The ratio of VFA:SFA
+at L3/L4 was moderately correlated with VEGF-A (r=0.28, p=0.0008), and SAA
+(r=0.24, p=0.006), and less so with CRP (r=0.18, p=0.04) and sICAM-1 (r=0.18,
+p=0.04). Similar correlations were found for VFA:SFA ratio at L4/L5.
+CONCLUSIONS: We observed an association between visceral adiposity and biomarkers
+of inflammation and angiogenesis in colorectal cancer patients. In particular,
+the VFA:SFA ratio was correlated with circulating levels of pro-angiogenic
+biomarker VEGF-A.
+IMPACT: Our findings support a direct association of visceral adipose tissue with
+inflammatory and angiogenic processes, which play fundamental roles in the
+development and progression of colorectal cancer.
+
+Copyright ©2018, American Association for Cancer Research.
+
+DOI: 10.1158/1055-9965.EPI-18-0654 
+PMID: 30333223 

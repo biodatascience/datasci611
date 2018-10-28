@@ -1,0 +1,41 @@
+
+
+96. PLoS Pathog. 2018 Sep 13;14(9):e1007267. doi: 10.1371/journal.ppat.1007267.
+eCollection 2018 Sep.
+
+Chromatin remodeling controls Kaposi's sarcoma-associated herpesvirus
+reactivation from latency.
+
+Hopcraft SE(1), Pattenden SG(2), James LI(2), Frye S(2), Dittmer DP(1), Damania
+B(1).
+
+Author information: 
+(1)Lineberger Comprehensive Cancer Center, Department of Microbiology and
+Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC, United 
+States of America.
+(2)Center for Integrative Chemical Biology and Drug Discovery, Division of
+Chemical Biology and Medicinal Chemistry, Eshelman School of Pharmacy, University
+of North Carolina at Chapel Hill, Chapel Hill, NC, United States of America.
+
+Kaposi's sarcoma-associated herpesvirus (KSHV) is the etiologic agent of three
+human malignancies, the endothelial cell cancer Kaposi's sarcoma, and two B cell 
+cancers, Primary Effusion Lymphoma and multicentric Castleman's disease. KSHV has
+latent and lytic phases of the viral life cycle, and while both contribute to
+viral pathogenesis, lytic proteins contribute to KSHV-mediated oncogenesis.
+Reactivation from latency is driven by the KSHV lytic gene transactivator RTA,
+and RTA transcription is controlled by epigenetic modifications. To identify host
+chromatin-modifying proteins that are involved in the latent to lytic transition,
+we screened a panel of inhibitors that target epigenetic regulatory proteins for 
+their ability to stimulate KSHV reactivation. We found several novel regulators
+of viral reactivation: an inhibitor of Bmi1, PTC-209, two additional histone
+deacetylase inhibitors, Romidepsin and Panobinostat, and the bromodomain
+inhibitor (+)-JQ1. All of these compounds stimulate lytic gene expression, viral 
+genome replication, and release of infectious virions. Treatment with Romidepsin,
+Panobinostat, and PTC-209 induces histone modifications at the RTA promoter, and 
+results in nucleosome depletion at this locus. Finally, silencing Bmi1 induces
+KSHV reactivation, indicating that Bmi1, a member of the Polycomb repressive
+complex 1, is critical for maintaining KSHV latency.
+
+DOI: 10.1371/journal.ppat.1007267 
+PMCID: PMC6136816
+PMID: 30212584 

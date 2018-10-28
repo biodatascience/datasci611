@@ -1,0 +1,60 @@
+
+
+48. Cancer. 2018 Oct 5. doi: 10.1002/cncr.31705. [Epub ahead of print]
+
+Association between treatment of superficial bladder cancer and 10-year mortality
+in older adults with multiple chronic conditions.
+
+Garg T(1)(2), Young AJ(3)(4), O'Keeffe-Rosetti M(5), McMullen CK(5), Nielsen
+ME(5)(6)(7)(8), Lester Kirchner H(3)(4), Murphy TE(9).
+
+Author information: 
+(1)Department of Urology, Geisinger, Danville, Pennsylvania.
+(2)Department of Epidemiology and Health Services Research, Geisinger, Danville, 
+Pennsylvania.
+(3)Biostatistics Core, Geisinger, Danville, Pennsylvania.
+(4)Biomedical and Translational Informatics Institute, Geisinger, Danville,
+Pennsylvania.
+(5)Center for Health Research, Kaiser Permanente Northwest, Portland, Oregon.
+(6)Department of Urology, University of North Carolina at Chapel Hill, Chapel
+Hill, North Carolina.
+(7)Department of Epidemiology, University of North Carolina at Chapel Hill,
+Chapel Hill, North Carolina.
+(8)Department of Health Policy and Management, University of North Carolina at
+Chapel Hill, Chapel Hill, North Carolina.
+(9)Section of Geriatrics, Department of Internal Medicine, Yale University School
+of Medicine, New Haven, Connecticut.
+
+BACKGROUND: Multiple chronic conditions (MCC) are common among older patients
+with cancer; however, the exclusion of these patients from clinical trials has
+resulted in scarce knowledge concerning outcomes, resulting in variations in
+treatment. Superficial bladder cancer (SBC) disproportionately affects older
+adults, yet to the authors' knowledge few studies to date have examined whether
+treatment improves long-term survival. In the current study, the authors
+evaluated the association between treatment of SBC and 10-year mortality in
+medically complex older adults.
+METHODS: The authors identified 1800 older (aged ≥60 years) patients with SBC
+(American Joint Committee on Cancer stage ≤I) from 2 community-based health
+systems who received treatment (bladder instillation and/or transurethral
+resection) or observation. Cox proportional hazards regression was performed
+adjusting for age, sex, race, health system, stage of disease/grade, and MCC (≥2 
+baseline chronic conditions). Propensity score analysis using stabilized inverse 
+probability of treatment weights was used to compare 10-year mortality in the 2
+treatment groups with adjustment for covariates.
+RESULTS: Overall, 1485 patients (82.5%) and 315 patients (17.5%) received
+treatment and observation, respectively. In unweighted multivariable analysis,
+treatment was associated with a 30% reduction in death (adjusted hazard ratio
+[HR], 0.70; 95% confidence interval [95% CI], 0.58-0.85 [P<.01]) and MCC with a
+72% increase in death (adjusted HR, 1.72; 95% CI, 1.44-2.05 [P<.01]). Weighted
+analysis with adjustment (doubly robust) also demonstrated a survival benefit for
+treatment (adjusted HR, 0.66; 95% CI, 0.52-0.84 [P<.01]).
+CONCLUSIONS: The results of the current study demonstrated a clinically
+meaningful association between cancer treatment and survival benefit in older,
+medically complex patients with SBC, even after adjustment for medical
+complexity. These data provide a foundation for future work aimed at
+personalizing the treatment guidance of older patients with cancer with MCC.
+
+© 2018 American Cancer Society.
+
+DOI: 10.1002/cncr.31705 
+PMID: 30289971 

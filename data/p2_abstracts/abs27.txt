@@ -1,0 +1,105 @@
+
+
+28. Cancer Discov. 2018 Oct 15. pii: CD-18-0804. doi: 10.1158/2159-8290.CD-18-0804.
+[Epub ahead of print]
+
+Integrative Molecular Characterization of Malignant Pleural Mesothelioma.
+
+Hmeljak J(1), Sanchez-Vega F(2), Hoadley KA(3), Shih J(4), Stewart C(5), Heiman
+DI(6), Tarpey P(7), Danilova L(8), Drill E(9), Gibb EA(10), Bowlby R(11), Kanchi 
+R(12), Osmanbeyoglu HU(13), Sekido Y(14), Takeshita J(15), Newton Y(16), Graim
+K(16), Gupta M(17), Gay CM(18), Diao L(19), Gibbs DL(20), Thorsson V(21), Iype
+L(21), Kantheti HS(22), Severson DT(23), Ravegnini G(24), Desmeules P(25),
+Jungbluth AA(26), Travis WD(27), Dacic S(28), Chirieac LR(29), Galateau-Salle
+F(30), Fujimoto J(31), Husain AN(32), Silveira HC(33), Rusch VW(34), Rintoul
+RC(35), Pass H(36), Kindler H(37), Zauderer MG(38), Kwiatkowski DJ(39), Bueno
+R(40), Tsao AS(41), Creaney J(42), Lichtenberg T(43), Leraas K(44), Bowen J(45), 
+Research Network T(46), Felau I(46), Zenklusen JC(46), Akbani R(47), Cherniack
+AD(4), Byers LA(18), Noble MS(48), Fletcher JA(49), Robertson G(50), Shen R(51), 
+Aburatani H(52), Robinson BW(53), Campbell P(7), Ladanyi M(54).
+
+Author information: 
+(1)MSKCC.
+(2)Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer
+Center.
+(3)Department of Genetics, Lineberger Comprehensive Cancer Center, University of 
+North Carolina at Chapel Hill.
+(4)Cancer Program, Broad Institute of Harvard and MIT.
+(5)Cancer Program, Broad Institute.
+(6)Cancer, The Eli and Edythe L. Broad Institute of MIT and Harvard.
+(7)Cancer Genome Project, Wellcome Trust Sanger Institute.
+(8)Oncology, Johns Hopkins University.
+(9)Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center.
+(10)R&D, GenomeDx Biosciences.
+(11)Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, and
+Department of Medical Genetics, University of British Columbia.
+(12)University of Texas MD Anderson Cancer Center.
+(13)Computational and Systems Biology, Memorial Sloan Kettering Cancer Center.
+(14)Division of Cancer Biology, Aichi Cancer Center Research Institute.
+(15)Genome Science Division, The University of Tokyo.
+(16)Biomolecular Engineering, UCSC Genomics Institute, UCSC.
+(17)The Eli and Edythe L. Broad Institute of MIT and Harvard.
+(18)Department of Thoracic Head and Neck Medical Oncology, University of Texas MD
+Anderson Cancer Center.
+(19)Department of Bioinformatics and Computational Biology, The University of
+Texas MD Anderson Cancer Center.
+(20)Shmulevich Lab, Institute for Systems Biology.
+(21)Institute for Systems Biology.
+(22)The University of Texas at Dallas.
+(23)Division of Thoracic Surgery, The Lung Center and International Mesothelioma 
+Program, Brigham and Women's Hospital.
+(24)Department of Pharmacy and Biotechnology, FaBit, University of Bologna.
+(25)Pathology, Quebec Heart and Lung Institute.
+(26)Department of Pathology, Memorial Sloan Kettering Cancer Center.
+(27)Pathology, Memorial Sloan Kettering Cancer Center.
+(28)Pathology, UPMC.
+(29)Pathology, Brigham and Women's Hospital.
+(30)MESOPATH-MESOBANK, Cancer Center Leon Berard.
+(31)Department of Translational Molecular Pathology, The University of Texas MD
+Anderson Cancer Center.
+(32)Department of Pathology, University of Chicago.
+(33)Molecular Oncology Research Center, Barretos Cancer Hospital.
+(34)Department of Surgery, Memorial Sloan Kettering Cancer Center.
+(35)Dept of Oncology, University of Cambridge.
+(36)Department of Cardiothoracic Surgery, NYU Langone Medical Center.
+(37)Department of Medicine, Section of Hematology/Oncology, University of Chicago
+Medical Center and Biological Sciences.
+(38)Medicine, Division of Solid Tumor Oncology, Thoracic Oncology Service,
+Memorial Sloan Kettering Cancer Center.
+(39)Division of Pulmonary Medicine, Brigham and Women's Hospital.
+(40)Division of Thoracic Surgery, Brigham and Women's Hospital, Harvard Medical
+School.
+(41)Thoracic/Head & Neck Medical Oncology, University of Texas MD Anderson Cancer
+Center.
+(42)School of Medicine and Pharmacology, University of Western Australia.
+(43)Nationwide Children's Hospital.
+(44)Biospecimen Core Resource, The Research Institute at Nationwide Children's
+Hospital.
+(45)Nationwide Children's, Nationwide Children's.
+(46)National Cancer Institute.
+(47)Bioinformatics and Computational Biology, UT MD Anderson Cancer Center.
+(48)Cancer Genome Analysis, Broad Institute of MIT & Harvard.
+(49)Harvard Medical School.
+(50)Bioinformatics, BC Cancer Agency Genome Sciences Centre.
+(51)Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer
+Center.
+(52)Genome Science Division, Research Center for Advanced Science and Technology,
+University of Tokyo.
+(53)Medicine and Pharmacology, University of Western Australia.
+(54)Memorial Sloan Kettering Cancer Center ladanyim@mskcc.org.
+
+Malignant pleural mesothelioma (MPM) is a highly lethal cancer of the lining of
+the chest cavity. To expand our understanding of MPM, we conducted a
+comprehensive integrated genomic study, including the most detailed analysis of
+BAP1 alterations to date. We identified histology-independent molecular
+prognostic subsets, and defined a novel genomic subtype with TP53 and SETDB1
+mutations and extensive loss of heterozygosity. We also report strong expression 
+of the immune checkpoint gene VISTA in epithelioid MPM, strikingly higher than in
+other solid cancers, with implications for the immune response to MPM and for its
+immunotherapy. Our findings highlight new avenues for further investigation of
+MPM biology and novel therapeutic options.
+
+Copyright ©2018, American Association for Cancer Research.
+
+DOI: 10.1158/2159-8290.CD-18-0804 
+PMID: 30322867 
