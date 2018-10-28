@@ -3,7 +3,7 @@ import os
 from random import choice, seed, randint, normalvariate
 
 OUTDIR = sys.argv[1]
-NUM_FASTAS = 1000
+NUM_FASTAS = 20
 ALPHABET = 'ATGC'
 SEQ_LEN = 1000
 LINE_LEN = 60
