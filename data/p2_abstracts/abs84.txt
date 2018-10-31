@@ -1,54 +1,5 @@
-
-
-85. Ultrasound Med Biol. 2018 Sep 15. pii: S0301-5629(18)30336-3. doi:
-10.1016/j.ultrasmedbio.2018.08.003. [Epub ahead of print]
-
-Optimization of Phase-Change Contrast Agents for Targeting MDA-MB-231 Breast
-Cancer Cells.
-
-Hadinger KP(1), Marshalek JP(1), Sheeran PS(2), Dayton PA(3), Matsunaga TO(4).
-
-Author information: 
-(1)Department of Medical Imaging, University of Arizona, Tucson, Arizona, USA.
-(2)Physical Sciences Department, Sunnybrook Research Institute, Toronto, Ontario,
-Canada; Department of Medical Biophysics, University of Toronto, Toronto,
-Ontario, Canada.
-(3)Joint Department of Biomedical Engineering, University of North Carolina and
-North Carolina State University, Chapel Hill, North Carolina, USA.
-(4)Department of Medical Imaging, University of Arizona, Tucson, Arizona, USA.
-Electronic address: Tmatsunaga@radiology.arizona.edu.
-
-Breast cancer remains a leading cause of death for women throughout the world.
-Recent advances in medical imaging technologies and tumor targeting agents
-signify vast potential for progress toward improved management of this global
-problem. Phase-change contrast agents (PCCAs) are dynamic imaging agents with
-practical applications in both the research and clinical settings. PCCAs possess 
-characteristics that allow for cellular uptake where they can be converted from
-liquid-phase PCCAs to gaseous microbubbles via ultrasound energy. Previously, we 
-reported successful internalization of folate-targeted PCCAs in MDA-MB-231 breast
-cancer cells followed by ultrasound-mediated activation to produce internalized
-microbubbles. This study examines the binding, internalization and activation of 
-folate-receptor targeted PCCAs in MDA-MB-231 breast cancer cells as a function of
-gaseous core compositions, incubation time and ultrasound exposure period. In
-vitro results indicate that internalization and ultrasound-mediated activation of
-PCCAs were significantly greater using a 50:50 mixture of
-decafluorobutane:dodecafluoropentane compared with other core compositions: 50:50
-octafluoropropane:decafluorobutane (p < 0.0001), decafluorobutane (p < 0.04) and 
-dodecafluoropentane (p < 0.0001). Furthermore, it was found that PCCAs composed
-of perfluorocarbons with higher boiling points responded with greater activation 
-efficiency when exposed to 12s of ultrasound exposure as opposed to 4s of
-ultrasound exposure. When evaluating different incubation times, it was found
-that incubating the PCCAs with breast cancer cells for 60min did not produce
-significantly greater internalization and activation compared with incubation for
-10 min; this was concluded after comparing the number of microbubbles present per
-cell before ultrasound versus post-ultrasound, and finding a ratio of
-intracellular microbubbles post-ultrasound/pre-ultrasound, 3.46 versus 3.14,
-respectively. The data collected in this study helps illustrate further
-optimization of folate-receptor targeted PCCAs for breast cancer targeting and
-imaging.
-
-Copyright © 2018 World Federation for Ultrasound in Medicine 8 Biology. Published
-by Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.ultrasmedbio.2018.08.003 
-PMID: 30228045 
+Anal Chem. 2018 Oct 16;90(20):11981-11988. doi: 10.1021/acs.analchem.8b02486.Epub 2018 Oct 4.
+Screening Estrogen Receptor Modulators in a Paper-Based Breast Cancer Model.
+Whitman NA(1), Lin ZW(1), DiProspero TJ(1), McIntosh JC(1), Lockett MR(1)(2).
+Author information:(1)Department of Chemistry, Kenan and Caudill Laboratories , University of NorthCarolina at Chapel Hill , 125 South Road , Chapel Hill , North Carolina27599-3290 , United States.(2)Lineberger Comprehensive Cancer Center , University of North Carolina atChapel Hill , 450 West Drive , Chapel Hill , North Carolina 27599-7295 , UnitedStates.
+The health risks associated with acute and prolonged exposure to estrogenreceptor (ER) modulators has led to a concerted effort to identify and prioritizepotential disruptors present in the environment. ER agonists and antagonists areidentified with end-point assays, quantifying changes in cellular proliferationor gene transactivation in monolayers of estrogen receptor alpha expressing (ER+)cells upon exposure. While these monolayer cultures can be prepared, dosed, andanalyzed in a highly parallelized manner, they are unable to predict thepotencies of ER modulators in vivo accurately. Physiologically relevant modelsystems that better predict tissue- or organ-level responses are needed. Toaddress this need, we describe here a screening platform capable ofquantitatively assessing ER modulators in 96 chemically isolated 3D cultures.These cultures are supported in wax-patterned paper scaffolds whose design hasimproved performance and throughput over previously described paper-based setups.To highlight the potential of paper-based cultures for toxicity screens, wemeasured the potency of known ER modulators with a luciferase-based reporterassay. We also quantified the proliferation and invasion of two ER+ cell lines inthe presence of estradiol. Despite the inability of the current setup to betterpredict in vivo potencies of ER modulators than monolayer cultures, the resultsdemonstrate the potential of this platform to support increasingly complex andphysiologically relevant tissue-like structures for environmental chemical riskassessment.

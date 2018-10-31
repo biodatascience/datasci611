@@ -1,52 +1,6 @@
-
-1. Gynecol Oncol Rep. 2018 Oct 4;26:60-65. doi: 10.1016/j.gore.2018.10.001.
-eCollection 2018 Nov.
-
-A tailored approach to building specialized surgical oncology capacity: Early
-experiences and outcomes in Malawi.
-
-Chinula L(1)(2)(3)(4), Hicks M(1)(5), Chiudzu G(3)(4), Tang JH(1)(2)(3)(4), Gopal
-S(2)(6), Tomoka T(2), Kachingwe J(3)(4), Pinder L(1)(5), Hicks M(7),
-Sahasrabuddhe V(8), Parham G(1)(5).
-
-Author information: 
-(1)University of North Carolina at Chapel Hill, Department of Obstetrics &
-Gynecology, Chapel Hill, USA.
-(2)UNC Project-Malawi, Lilongwe, Malawi.
-(3)Malawi College of Medicine, Department of Obstetrics & Gynecology, Blantyre,
-Malawi.
-(4)Department of Obstetrics and Gynecology, Kamuzu Central Hospital, Lilongwe,
-Malawi.
-(5)Department of Obstetrics and Gynecology, University Teaching Hospital - Women 
-and Newborn Hospital, Lusaka, Zambia.
-(6)University of North Carolina at Chapel Hill, Lineberger Comprehensive Cancer
-Center, Chapel Hill, USA.
-(7)Howard University College of Medicine, Washington, DC, USA.
-(8)National Cancer Institute, Bethesda, MD, USA.
-
-Objectives: Cervical cancer can often be cured by surgery alone, if diagnosed and
-treated early. However, of the cancer patients who live in the world's poorest
-countries less that 5% have access to safe, effective and timely cancer surgery. 
-We designed a novel, competency-based curriculum to rapidly build surgical
-capacity for the treatment of cervical cancer. Here we report experiences and
-early outcomes of its implementation in Malawi.
-Methods: Curriculum implementation consisted of preoperative evaluation of
-patients and surgical video review, discussion of surgical instruments and suture
-material, deconstruction of the surgical procedure into critical subcomponents
-including trainees walking through the steps of the procedure with the master
-trainers, high-volume surgical repetition over a short time interval,
-intra-operative mentoring, post-operative case review, and mental narration. This
-was preceded by self-directed learning and followed by clinical mentorship
-through electronic communication and quarterly on-site visits.
-Results: Between June 2015-June 2017, 28 patients underwent radical abdominal
-hysterectomy with bilateral pelvic lymphadenectomy. The first 8 surgeries were
-performed over 5 days. After the 7th case the trainee could perform the procedure
-alone. During and between quarterly mentoring-visits the trainee independently
-performed the procedure on 20 additional patients. Major surgical complications
-were rare.
-Conclusions: Life-saving surgical treatment for cervical cancer is now available 
-for the first time, as a routine clinical service, in Central/Northern, Malawi.
-
-DOI: 10.1016/j.gore.2018.10.001 
-PMCID: PMC6197742
-PMID: 30364674 
+Adv Mater. 2018 Oct 11:e1805557. doi: 10.1002/adma.201805557. [Epub ahead ofprint]
+Nanoparticle-Laden Macrophages for Tumor-Tropic Drug Delivery.
+Zhang W(1), Wang M(2), Tang W(1), Wen R(1), Zhou S(1), Lee C(1), Wang H(2), JiangW(1), Delahunty IM(1), Zhen Z(1), Chen H(1), Chapman M(1), Wu Z(2), HowerthEW(3), Cai H(4), Li Z(2), Xie J(1).
+Author information:(1)Department of Chemistry, University of Georgia, Athens, GA, 30602, USA.(2)Department of Radiology and Biomedical Research Imaging Center, University ofNorth Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.(3)Department of Pathology, College of Veterinary Medicine, University ofGeorgia, Athens, GA, 30602, USA.(4)Department of Pharmaceutical and Biomedical Sciences, College of Pharmacy,University of Georgia Athens, Athens, GA, 30602, USA.
+Macrophages hold great potential in cancer drug delivery because they can sensechemotactic cues and home to tumors with high efficiency. However, it remains achallenge to load large amounts of therapeutics into macrophages withoutcompromising cell functions. This study reports a silica-based drug nanocapsuleapproach to solve this issue. The nanocapsule consists of a drug-silica complexfilling and a solid silica sheath, and it is designed to minimally release drugmolecules in the early hours of cell entry. While taken up by macrophages at highrates, the nanocapsules minimally affect cell migration in the first 6-12 h,buying time for macrophages to home to tumors and release drugs in situ. Inparticular, it is shown that doxorubicin (Dox) as a representative drug can beloaded into macrophages up to 16.6 pg per cell using this approach. When testedin a U87MG xenograft model, intravenously (i.v.) injected Dox-laden macrophagesshow comparable tumor accumulation as untreated macrophages. Therapy leads toefficient tumor growth suppression, while causing little systematic toxicity.This study suggests a new cell platform for selective drug delivery, which can bereadily extended to the treatment of other types of diseases.
+© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.

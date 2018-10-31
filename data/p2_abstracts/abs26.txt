@@ -1,49 +1,5 @@
-
-
-27. Laryngoscope. 2018 Oct 16. doi: 10.1002/lary.27351. [Epub ahead of print]
-
-Radiographic muscle invasion not a recurrence predictor in HPV-associated
-oropharyngeal squamous cell carcinoma.
-
-Farzal Z(1), Du E(1), Yim E(2), Mazul A(3), Zevallos JP(3), Huang BY(4), Hackman 
-TG(1).
-
-Author information: 
-(1)Department of Otolaryngology/Head and Neck Surgery, University of North
-Carolina, Chapel Hill, North Carolina.
-(2)University of North Carolina School of Medicine, Chapel Hill, North Carolina.
-(3)Department of Otolaryngology/Head and Neck Surgery, Washington University, St.
-Louis, Missouri, U.S.A.
-(4)Department of Radiology, University of North Carolina, Chapel Hill, North
-Carolina.
-
-OBJECTIVE: To determine whether muscle invasion evident on pretreatment imaging
-in p16 + oropharyngeal squamous cell carcinoma (OPSCC) correlates with
-recurrence.
-STUDY DESIGN: Retrospective review.
-METHODS: Two-hundred and seventy-six patients with p16 + OPSCC treated at a
-tertiary referral center from 2003 to 2015 were analyzed. All scans were reviewed
-by a dedicated neuroradiologist with subspecialty expertise in head and neck
-imaging. Radiographic evidence of muscle invasion to the genioglossus,
-hyoglossus, medial pterygoid, and prevertebral muscles was analyzed. Local and
-regional recurrence rates were compared between the muscle invasion and no muscle
-invasion groups.
-RESULTS: One hundred and ninety patients met inclusion criteria with adequate
-follow-up data and pretreatment imaging. Patients were predominantly male (87.5% 
-male) and smokers (65.6% smokers) with a mean age of 56.7 (standard deviation:
-9.0 years). Most commonly invaded muscles in the muscle invasion group were
-hyoglossus (57.8%) and genioglossus (56.3%). There was no statistically
-significant difference in primary site or nodal recurrence between the combined
-group, including definite or possible muscle invasion and the group without
-muscle invasion (P = 0.205 and P = 0.569, respectively). Additionally, no
-statistically significant difference was present in recurrence-free and
-disease-specific survival between the two groups at 3- and 5-year follow-up
-(P > 0.05).
-CONCLUSION: Radiographic evidence of muscle invasion does not appear to be a
-predictor of human papilloma virus (+) OPSCC recurrence. Additional studies are
-needed to validate our findings. Level of Evidence 4. Laryngoscope, 2018.
-
-© 2018 The American Laryngological, Rhinological and Otological Society, Inc.
-
-DOI: 10.1002/lary.27351 
-PMID: 30325502 
+JAMA Intern Med. 2018 Oct 15. doi: 10.1001/jamainternmed.2018.4637. [Epub aheadof print]
+Evaluation of Interventions Intended to Increase Colorectal Cancer ScreeningRates in the United States: A Systematic Review and Meta-analysis.
+Dougherty MK(1), Brenner AT(2)(3), Crockett SD(1), Gupta S(4), WheelerSB(2)(3)(5), Coker-Schwimmer M(2), Cubillos L(2)(3), Malo T(3), ReulandDS(2)(3)(6).
+Author information:(1)Division of Gastroenterology and Hepatology, Department of Medicine,University of North Carolina at Chapel Hill.(2)Cecil G. Sheps Center for Health Services Research, University of NorthCarolina at Chapel Hill.(3)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill.(4)Division of Gastroenterology and Hepatology, Icahn School of Medicine at MountSinai, New York, New York.(5)Department of Health Policy and Management, University of North Carolina atChapel Hill.(6)Division of General Medicine and Clinical Epidemiology, Department ofMedicine, University of North Carolina at Chapel Hill.
+Importance: Colorectal cancer screening (CRC) is recommended by all major USmedical organizations but remains underused.Objective: To identify interventions associated with increasing CRC screeningrates and their effect sizes.Data Sources: PubMed, Cumulative Index to Nursing and Allied Health Literature,the Cochrane Library, and ClinicalTrials.gov were searched from January 1, 1996,to August 31, 2017. Key search terms included colorectal cancer and screening.Study Selection: Randomized clinical trials of US-based interventions in clinicalsettings designed to improve CRC screening test completion in average-riskadults.Data Extraction and Synthesis: At least 2 investigators independently extracteddata and appraised each study's risk of bias. Where sufficient data wereavailable, random-effects meta-analysis was used to obtain either a pooled riskratio (RR) or risk difference (RD) for screening completion for each type ofintervention.Main Outcomes and Measures: The main outcome was completion of CRC screening.Examination included interventions to increase completion of (1) initial CRCscreening by any recommended modality, (2) colonoscopy after an abnormal initialscreening test result, and (3) continued rounds of annual fecal blood tests(FBTs).Results: The main review included 73 randomized clinical trials comprising366 766 patients at low or medium risk of bias. Interventions that wereassociated with increased CRC screening completion rates compared with usual careincluded FBT outreach (RR, 2.26; 95% CI, 1.81-2.81; RD, 22%; 95% CI, 17%-27%),patient navigation (RR, 2.01; 95% CI, 1.64-2.46; RD, 18%; 95% CI, 13%-23%),patient education (RR, 1.20; 95% CI, 1.06-1.36; RD, 4%; 95% CI, 1%-6%), patientreminders (RR, 1.20; 95% CI, 1.02-1.41; RD, 3%; 95% CI, 0%-5%), clinicianinterventions of academic detailing (RD, 10%; 95% CI, 3%-17%), and clinicianreminders (RD, 13%; 95% CI, 8%-19%). Combinations of interventions (clinicianinterventions or navigation added to FBT outreach) were associated with greaterincreases than single components (RR, 1.18; 95% CI, 1.09-1.29; RD, 7%; 95% CI,3%-11%). Repeated mailed FBTs with navigation were associated with increasedannual FBT completion (RR, 2.09; 95% CI, 1.91-2.29; RD, 39%; 95% CI, 29%-49%).Patient navigation was not associated with colonoscopy completion after aninitial abnormal screening test result (RR, 1.21; 95% CI, 0.92-1.60; RD, 14%; 95%CI, 0%-29%).Conclusions and Relevance: Fecal blood test outreach and patient navigation,particularly in the context of multicomponent interventions, were associated withincreased CRC screening rates in US trials. Fecal blood test outreach should beincorporated into population-based screening programs. More research is needed oninterventions to increase adherence to continued FBTs, follow-up of abnormalinitial screening test results, and cost-effectiveness and other implementationbarriers for more intensive interventions, such as navigation.

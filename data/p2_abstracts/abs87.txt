@@ -1,42 +1,6 @@
-
-
-88. Anal Chem. 2018 Oct 16;90(20):11981-11988. doi: 10.1021/acs.analchem.8b02486.
-Epub 2018 Oct 4.
-
-Screening Estrogen Receptor Modulators in a Paper-Based Breast Cancer Model.
-
-Whitman NA(1), Lin ZW(1), DiProspero TJ(1), McIntosh JC(1), Lockett MR(1)(2).
-
-Author information: 
-(1)Department of Chemistry, Kenan and Caudill Laboratories , University of North 
-Carolina at Chapel Hill , 125 South Road , Chapel Hill , North Carolina
-27599-3290 , United States.
-(2)Lineberger Comprehensive Cancer Center , University of North Carolina at
-Chapel Hill , 450 West Drive , Chapel Hill , North Carolina 27599-7295 , United
-States.
-
-The health risks associated with acute and prolonged exposure to estrogen
-receptor (ER) modulators has led to a concerted effort to identify and prioritize
-potential disruptors present in the environment. ER agonists and antagonists are 
-identified with end-point assays, quantifying changes in cellular proliferation
-or gene transactivation in monolayers of estrogen receptor alpha expressing (ER+)
-cells upon exposure. While these monolayer cultures can be prepared, dosed, and
-analyzed in a highly parallelized manner, they are unable to predict the
-potencies of ER modulators in vivo accurately. Physiologically relevant model
-systems that better predict tissue- or organ-level responses are needed. To
-address this need, we describe here a screening platform capable of
-quantitatively assessing ER modulators in 96 chemically isolated 3D cultures.
-These cultures are supported in wax-patterned paper scaffolds whose design has
-improved performance and throughput over previously described paper-based setups.
-To highlight the potential of paper-based cultures for toxicity screens, we
-measured the potency of known ER modulators with a luciferase-based reporter
-assay. We also quantified the proliferation and invasion of two ER+ cell lines in
-the presence of estradiol. Despite the inability of the current setup to better
-predict in vivo potencies of ER modulators than monolayer cultures, the results
-demonstrate the potential of this platform to support increasingly complex and
-physiologically relevant tissue-like structures for environmental chemical risk
-assessment.
-
-DOI: 10.1021/acs.analchem.8b02486 
-PMCID: PMC6200649 [Available on 2019-10-16]
-PMID: 30226366 
+Prev Med. 2018 Nov;116:143-149. doi: 10.1016/j.ypmed.2018.09.004. Epub 2018 Sep13.
+Florida physicians' reported use of AFIX-based strategies for humanpapillomavirus vaccination.
+Kasting ML(1), Christy SM(2), Sutton SK(3), Lake P(4), Malo TL(5), RoetzheimRG(6), Schechtman T(7), Zimet GD(8), Walkosz BJ(9), Salmon D(10), Kahn JA(11),Giuliano AR(12), Vadaparampil ST(13).
+Author information:(1)Moffitt Cancer Center & Research Institute, Division of Population Science,12902 Magnolia Drive, MRC-CANCONT, Tampa, FL 33612, United States; Moffitt CancerCenter & Research Institute, Center for Immunization and Infection Research inCancer, 12902 Magnolia Drive, Tampa, FL 33612, United States. Electronic address:mlkastin@purdue.edu.(2)Moffitt Cancer Center & Research Institute, Division of Population Science,12902 Magnolia Drive, MRC-CANCONT, Tampa, FL 33612, United States; University ofTennessee Health Science Center, College of Medicine, 66. N. Pauline St., Suite322, Memphis, TN 38163, United States; University of South Florida, MorsaniCollege of Medicine, 13330 USF Laurel Drive, Tampa, FL 33612, United States.Electronic address: shannon.christy@moffitt.org.(3)University of South Florida, Morsani College of Medicine, 13330 USF LaurelDrive, Tampa, FL 33612, United States; Moffitt Cancer Center & ResearchInstitute, Division of Quantitative Sciences, 12902 Magnolia Drive, MRC-CANCONT,Tampa, FL 33612, United States. Electronic address: steve.sutton@moffitt.org.(4)Moffitt Cancer Center & Research Institute, Division of Population Science,12902 Magnolia Drive, MRC-CANCONT, Tampa, FL 33612, United States. Electronicaddress: paige.lake@moffitt.org.(5)University of North Carolina, Lineberger Comprehensive Cancer Center, 101 EastWeaver Street, Ste 203, Campus Box 7293, Carrboro, NC 27510, United States.Electronic address: malotl@email.unc.edu.(6)Moffitt Cancer Center & Research Institute, Division of Population Science,12902 Magnolia Drive, MRC-CANCONT, Tampa, FL 33612, United States; University ofSouth Florida, Morsani College of Medicine, 13330 USF Laurel Drive, Tampa, FL33612, United States. Electronic address: roetzhe@health.usf.edu.(7)Pediatric Partners, 3401 PGA Blvd, Suite 300, Palm Beach Gardens, FL 33410,United States. Electronic address: tschechtman@pediatricpartners.com.(8)Indiana University School of Medicine, Department of Pediatrics, 410 W. 10thStreet, HS 1001, Indianapolis, IN 46202, United States. Electronic address:gzimet@iu.edu.(9)Klein Buendel, Inc., 1667 Cole Blvd. Ste. 225, Golden, CO 80401, UnitedStates. Electronic address: bwalkosz@kleinbuendel.com.(10)Johns Hopkins University, Bloomberg School of Public Health, 615 N. WolfeStreet Room W5035, Baltimore, MD 21205, United States. Electronic address:dsalmon1@jhu.edu.(11)Cincinnati Children's Hospital Medical Center, 3333 Burnet Avenue MLC 4000,Cincinnati, OH 45229, United States; University of Cincinnati, College ofMedicine, 3230 Eden Avenue, Cincinnati, OH 45267, United States. Electronicaddress: jessica.kahn@cchmc.org.(12)Moffitt Cancer Center & Research Institute, Division of Population Science,12902 Magnolia Drive, MRC-CANCONT, Tampa, FL 33612, United States; Moffitt CancerCenter & Research Institute, Center for Immunization and Infection Research inCancer, 12902 Magnolia Drive, Tampa, FL 33612, United States. Electronic address:anna.giuliano@moffitt.org.(13)Moffitt Cancer Center & Research Institute, Division of Population Science,12902 Magnolia Drive, MRC-CANCONT, Tampa, FL 33612, United States; Moffitt CancerCenter & Research Institute, Center for Immunization and Infection Research inCancer, 12902 Magnolia Drive, Tampa, FL 33612, United States; University of SouthFlorida, Morsani College of Medicine, 13330 USF Laurel Drive, Tampa, FL 33612,United States. Electronic address: susan.vadaparampil@moffitt.org.
+HPV vaccination rates in Florida are low. To increase rates, the CDC recommendsclinics adhere to components of their evidence-based quality improvement program,AFIX (Assessment, Feedback, Incentives, and eXchange of information). We exploredfactors associated with engaging in HPV-specific AFIX-related activities. In2016, we conducted a cross-sectional survey of a representative sample of 770pediatric and family medicine physicians in Florida and assessed vaccinationpractices, clinic characteristics, and HPV-related knowledge. Data were analyzedin 2017. The primary outcome was whether physicians' clinics engaged in ≥1 AFIXactivity. We stratified by physician specialty and developed multivariable modelsusing a backward selection approach. Of the participants in the analytic sample(n = 340), 52% were male, 60% were White of any ethnicity, and 55% werenon-Hispanic. Pediatricians and family medicine physicians differed on: yearspracticing medicine (p < 0.001), HPV-related knowledge (p < 0.001), and VFCprovider status (p < 0.001), among others. Only 39% of physicians reportedengaging in ≥1 AFIX activity. In the stratified multivariable model forpediatricians, AFIX activity was significantly associated with HPV-relatedknowledge (aOR = 1.33;95%CI = 1.08-1.63) and provider use of vaccine reminderprompts (aOR = 3.61;95%CI = 1.02-12.77). For family medicine physicians,HPV-related knowledge was significant (aOR = 1.57;95%CI = 1.20-2.05) as wasmajority race of patient population (non-Hispanic White vs. Other:aOR = 3.02;95%CI = 1.08-8.43), daily patient load (<20 vs. 20-24:aOR = 9.05;95%CI = 2.72-30.10), and vaccine administration to male patients(aOR = 2.98;95%CI = 1.11-8.02). Fewer than half of Florida pediatric and familymedicine physicians engaged in any AFIX activities. Future interventions toincrease AFIX engagement should focus on implementing and evaluating AFIXactivities in groups identified as having low engagement in AFIX activities.
+Copyright © 2018 Elsevier Inc. All rights reserved.

@@ -1,42 +1,6 @@
-
-
-81. Am Soc Clin Oncol Educ Book. 2018 May 23;(38):813-821. doi: 10.1200/EDBK_201307.
-
-Best Practices in Oncology Distress Management: Beyond the Screen.
-
-Smith SK(1), Loscalzo M(1), Mayer C(1), Rosenstein DL(1).
-
-Author information: 
-(1)From the Duke University School of Nursing, Durham, NC; Sheri & Les Biller
-Patient and Family Resource Center, Department of Supportive Care Medicine,
-Department of Population Sciences, City of Hope, Duarte, CA; Supportive Care
-Oncology Program, Northeast Cancer Centre, Sudbury, ON, Canada; Departments of
-Psychiatry and Medicine, University of North Carolina at Chapel Hill, Chapel
-Hill, NC.
-
-The field of psychosocial oncology is a young discipline with a rapidly expanding
-evidence base. Over the past few decades, several lines of research have
-established that psychosocial problems, such as anxiety, depression,
-post-traumatic stress, fatigue, sexual dysfunction, and cognitive complaints, are
-common and consequential in patients with cancer. The word "distress" was chosen 
-deliberately to capture a broad concept; consequently, distress screening is
-meant to function as an initial step in the more targeted evaluation of the
-source(s) of the patient's distress. In 2015, the American College of Surgeons'
-Commission on Cancer mandated psychosocial distress screening as part of their
-accreditation process. Similar screening requirements are in place
-internationally, including in Canada, where screening for distress is endorsed as
-the sixth vital sign and a standard of care that must be met by any Canadian
-health care organization providing cancer services that seeks to be accredited.
-Over the past few years, cancer centers around the world have been exploring
-optimum ways to implement and evaluate distress screening initiatives. This paper
-presents three approaches to distress screening implementation: (1) a model that 
-incorporates the importance of shared values, perceived benefits, and relevant
-outcomes in the implementation of distress management protocols; (2) a Canadian
-knowledge translation application to distress screening, including triage
-considerations and interventions; and (3) a novel approach to distress management
-via the use of a mobile application to manage post-traumatic stress symptoms. In 
-closing, future opportunities and challenges associated with the emergence of
-technology will be discussed.
-
-DOI: 10.1200/EDBK_201307 
-PMID: 30231391 
+Breast J. 2018 Sep 19. doi: 10.1111/tbj.13112. [Epub ahead of print]
+PD-L1 expression and CD8-positive T cells are associated with favorable survivalin HER2-positive invasive breast cancer.
+Hou Y(1), Nitta H(2), Wei L(3), Banks PM(2)(4), Lustberg M(5), Wesolowski R(5),Ramaswamy B(5), Parwani AV(1), Li Z(1).
+Author information:(1)Department of Pathology, Wexner Medical Center, The Ohio State University,Columbus, Ohio.(2)Ventana Medical Systems, Inc, Tucson, Arizona.(3)Center for Biostatistics, Department of Biomedical Informatics, The Ohio StateUniversity, Columbus, Ohio.(4)Department of Laboratory Medicine and Pathology, University of North Carolina,Chapel Hill, North Carolina.(5)Department of Medical Oncology, Wexner Medical Center, The Ohio StateUniversity, Columbus, Ohio.
+Programmed cell death 1 (PD-1) and its ligand (PD-L1) are key physiologicsuppressors of the cytotoxic immune reaction. However, to date, the combinationof PD1/PD-L1 expression and tumor-infiltrating lymphocytes (TILs) andantigen-presenting cells has been only minimally reported in breast carcinoma, inparticular in relation to HER2-positive cases. The goal of this study was toevaluate both cellular tumoral immune reaction and PD-L1/PD1 distribution inHER2-positive cases, as well as any associations with clinical outcome usingconventional chemotherapy combined with HER2 blocking. Multicolorimmunohistochemical multiplex assays simultaneously demonstrating PD1, PD-L1, andCD8 or PD-L1, CD3, and CD163 were performed on tissue microarrays (TMA)representing 216 pretreatment cases of HER2-positive invasive breast carcinoma.PD-L1 expression was identified in 38 cases (18%), including 12 cases (6%) withPD-L1 labeling of tumor cells and 26 cases (12%) with PD-L1 labeling of immunecells only. Ten of 12 cases with PD-L1 staining of tumor cells showed staining ofassociated immune cells as well. With this assay method, PD1 was detectable inmany fewer cases (6 cases or 3%). PD-L1 expression was positively associated withhigh Nottingham grade, negative ER and PR, the absence of lymph node metastasis,and high levels of CD8+ cells. The overall survival by univariate analysis waspositively associated with lower tumor stage, the absence of lymph nodemetastasis, PD-L1 expression, and high levels of CD8+ cells. Therefore, our datasuggest cytotoxic immune reaction mediated by CD8-positive T cells and PD-L1expression may predict a better outcome in patients with HER2-positive breastcarcinoma managed with conventional chemotherapy and HER2-blocking therapy. Thesefindings recommend clinical trials utilizing checkpoint blocking immunotherapy insome form for HER2-positive breast cancer.
+© 2018 Wiley Periodicals, Inc.

@@ -1,36 +1,7 @@
-
-
-37. Breast Cancer Res Treat. 2018 Oct 11. doi: 10.1007/s10549-018-4975-8. [Epub ahead
-of print]
-
-Correction to: Measuring and understanding adherence in a home-based exercise
-intervention during chemotherapy for early breast cancer.
-
-Nyrop KA(1)(2), Deal AM(3), Choi SK(4), Wagoner CW(5), Lee JT(5), Wood WA(6)(3), 
-Anders C(6)(3), Carey LA(6)(3), Dees EC(6)(3), Jolly TA(6)(3), Reeder-Hayes
-KE(6)(3), Muss HB(6)(3).
-
-Author information: 
-(1)Division of Hematology/Oncology, School of Medicine, University of North
-Carolina at Chapel Hill, 170 Manning Drive, Campus, PO Box 7305, Chapel Hill, NC,
-27599-7305, USA. kirsten_nyrop@med.unc.edu.
-(2)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
-Hill, Chapel Hill, NC, USA. kirsten_nyrop@med.unc.edu.
-(3)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
-Hill, Chapel Hill, NC, USA.
-(4)Department of Health Behavior, Gillings School of Global Public Health,
-University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
-(5)Department of Exercise and Sport Science, University of North Carolina at
-Chapel Hill, Chapel Hill, NC, USA.
-(6)Division of Hematology/Oncology, School of Medicine, University of North
-Carolina at Chapel Hill, 170 Manning Drive, Campus, PO Box 7305, Chapel Hill, NC,
-27599-7305, USA.
-
-Erratum for
-    Breast Cancer Res Treat. 2018 Feb;168(1):43-55.
-
-In the original publication, the sixth author name was published incorrectly as
-A. Wood. The correct author name should read as W. A. Wood.
-
-DOI: 10.1007/s10549-018-4975-8 
-PMID: 30306432 
+Conflict of interest statement: The authors have declared that no competinginterests exist.
+J Med Virol. 2018 Oct 11. doi: 10.1002/jmv.25336. [Epub ahead of print]
+Epstein-Barr virus, but not human cytomegalovirus, is associated with a highgrade human papillomavirus-associated cervical lesions among women in NorthCarolina.
+Kienka T(1), Varga MG(2)(3), Caves J(2), Smith JS(2)(3), Sivaraman V(1).
+Author information:(1)Department of Biological and Biomedical Sciences, North Carolina CentralUniversity, Durham, NC, USA.(2)Department of Epidemiology, UNC Gillings School of Global Public Health,University of North Carolina Chapel Hill, NC, USA.(3)Lineberger Comprehensive Cancer Center, University of North Carolina ChapelHill, NC, USA.
+STATEMENT OF THE PROBLEM: Human papillomavirus (HPV) infection is known tocontribute to cervical carcinogenesis, yet other co-factors that may contributeto oncogenesis are poorly understood. Herein, we examine whether Epstein-Barrvirus (EBV) and human cytomegalovirus (CMV), two onco-modulatory viruses, areassociated with HPV-mediated cervical neoplastic progression.METHODS OF STUDY: Sixty patient cervical brush samples from a study of NorthCarolina women were obtained. HPV RNA positivity was determined by Aptima testing(Hologic Corporation). The level of viral transcripts for EBV and CMV werequantified (RT-PCR analysis), and co-infection status with HPV was then comparedto the patient's cervical cytology grade.RESULTS: Over one third (38.3%) of the study population was CMV-positive, while43.3% was EBV-positive. When sample data were stratified by cytology grade, 36.5%(19/52) of normal patients, 75% (3/4) of low-grade squamous intraepitheliallesions (LSIL) and 100% (4/4) of patients with high-grade SIL (HSIL) were EBVpositive. Conversely, 35.2% (18/52) of normal patients, 25% (1/4) of patientswith LSIL and 50% (2/4) of patients with HSIL were CMV positive. When examiningonly HPV-positive associated HSIL,100% (4/4) were positive for both HPV and EBVdetection. This suggests co-viral detection with HPV and EBV is associated withmore advanced HSIL cervical lesions, while CMV displayed no clear associationwith higher grade of cervical cytology.CONCLUSIONS: Co-viral detection with EBV may increase the oncogenicity and/orserve as a viral marker of progression to HPV-associated high-grade cervicaldysplasia. This article is protected by copyright. All rights reserved.
+This article is protected by copyright. All rights reserved.

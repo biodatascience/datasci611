@@ -1,45 +1,5 @@
-
-
-44. Chem Rev. 2018 Oct 8. doi: 10.1021/acs.chemrev.8b00211. [Epub ahead of print]
-
-Transition Metal Complexes and Photodynamic Therapy from a Tumor-Centered
-Approach: Challenges, Opportunities, and Highlights from the Development of
-TLD1433.
-
-Monro S(1), Colón KL(2), Yin H(1), Roque J 3rd(2), Konda P, Gujar S(3), Thummel
-RP(4), Lilge L(5), Cameron CG(2), McFarland SA(1)(2).
-
-Author information: 
-(1)Department of Chemistry , Acadia University , Wolfville , Nova Scotia , Canada
-B4P 2R6.
-(2)Department of Chemistry and Biochemistry , The University of North Carolina at
-Greensboro , Greensboro , North Carolina 27402 , United States.
-(3)Centre for Innovative and Collaborative Health Services Research , IWK Health 
-Centre , Halifax , Nova Scotia Canada B3K 6R8.
-(4)Department of Chemistry , University of Houston , Houston , Texas 77204-5003 ,
-United States.
-(5)Princess Margaret Cancer Centre, University Health Network , 101 College
-Street , Toronto , Ontario , Canada M6R 1Z7.
-
-Transition metal complexes are of increasing interest as photosensitizers in
-photodynamic therapy (PDT) and, more recently, for photochemotherapy (PCT). In
-recent years, Ru(II) polypyridyl complexes have emerged as promising systems for 
-both PDT and PCT. Their rich photochemical and photophysical properties derive
-from a variety of excited-state electronic configurations accessible with visible
-and near-infrared light, and these properties can be exploited for both energy-
-and electron-transfer processes that can yield highly potent oxygen-dependent
-and/or oxygen-independent photobiological activity. Selected examples highlight
-the use of rational design in coordination chemistry to control the lowest-energy
-triplet excited-state configurations for eliciting a particular type of
-photoreactivity for PDT and/or PCT effects. These principles are also discussed
-in the context of the development of TLD1433, the first Ru(II)-based
-photosensitizer for PDT to enter a human clinical trial. The design of TLD1433
-arose from a tumor-centered approach, as part of a complete PDT package that
-includes the light component and the protocol for treating non-muscle invasive
-bladder cancer. Briefly, this review summarizes the challenges to bringing PDT
-into mainstream cancer therapy. It considers the chemical and photophysical
-solutions that transition metal complexes offer, and it puts into context the
-multidisciplinary effort needed to bring a new drug to clinical trial.
-
-DOI: 10.1021/acs.chemrev.8b00211 
-PMID: 30295467 
+Nat Med. 2018 Oct;24(10):1536-1544. doi: 10.1038/s41591-018-0205-5. Epub 2018 Oct8.
+Late-stage tumors induce anemia and immunosuppressive extramedullary erythroidprogenitor cells.
+Zhao L(1), He R(2), Long H(1), Guo B(3), Jia Q(1), Qin D(4), Liu SQ(4), WangZ(1), Xiang T(1), Zhang J(1), Tan Y(3), Huang J(1), Chen J(1), Wang F(5), XiaoM(3), Gao J(1), Yang X(3), Zeng H(6), Wang X(1), Hu C(1), Alexander PB(4),Symonds ALJ(7), Yu J(5), Wan Y(8)(9), Li QJ(10), Ye L(11), Zhu B(12)(13).
+Author information:(1)Institute of Cancer, Xinqiao Hospital, Third Military Medical University,Chongqing, China.(2)Department of Immunology, School of Basic Medicine, Tongji Medical College,Huazhong University of Science and Technology, Wuhan, China.(3)Institute of Immunology, Third Military Medical University, Chongqing, China.(4)Department of Immunology, Duke University Medical Center, Durham, NC, USA.(5)State Key Laboratory of Medical Molecular Biology, Department of Biochemistry& Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy ofMedical Sciences (CAMS) & Peking Union Medical College (PUMC), Beijing, China.(6)College of Pharmacy, Third Military Medical University, Chongqing, China.(7)Institute of Cell and Molecular Science, Barts and London School of Medicineand Dentistry, University of London, London, UK.(8)Departement of Microbiology and Immunology, School of Medicine, University ofNorth Carolina at Chapel Hill, Chapel Hill, NC, USA.(9)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, NC, USA.(10)Department of Immunology, Duke University Medical Center, Durham, NC, USA.qi-jing.li@duke.edu.(11)Institute of Immunology, Third Military Medical University, Chongqing, China.yelilinlcmv@163.com.(12)Institute of Cancer, Xinqiao Hospital, Third Military Medical University,Chongqing, China. b.davis.zhu@gmail.com.(13)Chongqing Key Laboratory of Immunotherapy, Xinqiao Hospital, Third MilitaryMedical University, Chongqing, China. b.davis.zhu@gmail.com.
+Impaired immunity in patients with late-stage cancer is not limited to antitumorresponses, as demonstrated by poor vaccination protection and high susceptibilityto infection1-3. This has been largely attributed to chemotherapy-inducedimpairment of innate immunity, such as neutropenia2, whereas systemic effects oftumors on hematopoiesis and adoptive immunity remain incompletely understood.Here we observed anemia associated with severe deficiency of CD8+ T cellresponses against pathogens in treatment-naive mice bearing large tumors.Specifically, we identify CD45+ erythroid progenitor cells (CD71+TER119+; EPCs)as robust immunosuppressors. CD45+ EPCs, induced by tumor growth-associatedextramedullary hematopoiesis, accumulate in the spleen to become a majorpopulation, outnumbering regulatory T cells (Tregs) and myeloid-derivedsuppressor cells (MDSCs). The CD45+ EPC transcriptome closely resembles that ofMDSCs, and, like MDSCs, reactive oxygen species production is a major mechanismunderlying CD45+ EPC-mediated immunosuppression. Similarly, an immunosuppressiveCD45+ EPC population was detected in patients with cancer who have anemia. Thesefindings identify a major population of immunosuppressive cells that likelycontributes to the impaired T cell responses commonly observed in patients withadvanced cancer.

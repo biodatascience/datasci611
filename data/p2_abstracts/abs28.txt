@@ -1,51 +1,6 @@
-
-
-29. Gastroenterology. 2018 Oct 10. pii: S0016-5085(18)35147-3. doi:
-10.1053/j.gastro.2018.08.063. [Epub ahead of print]
-
-Burden and Cost of Gastrointestinal, Liver, and Pancreatic Diseases in the United
-States: Update 2018.
-
-Peery AF(1), Crockett SD(2), Murphy CC(3), Lund JL(4), Dellon ES(2), Williams
-JL(5), Jensen ET(6), Shaheen NJ(2), Barritt AS(2), Lieber SR(2), Kochar B(2),
-Barnes EL(2), Fan YC(2), Pate V(4), Galanko J(2), Baron TH(2), Sandler RS(2).
-
-Author information: 
-(1)University of North Carolina School of Medicine, Chapel Hill, NC. Electronic
-address: Anne_Peery@med.unc.edu.
-(2)University of North Carolina School of Medicine, Chapel Hill, NC.
-(3)University of Texas Southwestern Medical Center, Dallas, Texas.
-(4)Gillings School of Global Public Health, Chapel Hill, NC.
-(5)GI Quality Improvement Consortium.
-(6)Wake Forest School of Medicine, Winston-Salem, NC.
-
-BACKGROUND & AIMS: Estimates of disease burden can inform national health
-priorities for research, clinical care, and policy. We aimed to estimate health
-care use and spending among gastrointestinal (GI) (including luminal, liver, and 
-pancreatic) diseases in the United States.
-METHODS: We estimated health care use and spending based on the most currently
-available administrative claims from commercial and Medicare Supplemental plans, 
-data from the GI Quality Improvement Consortium Registry, and national databases.
-RESULTS: In 2015, annual health care expenditures for gastrointestinal diseases
-totaled $135.9 billion. Hepatitis ($23.3 billion), esophageal disorders ($18.1
-billion), biliary tract disease ($10.3 billion), abdominal pain ($10.2 billion), 
-and inflammatory bowel disease ($7.2 billion) were the most expensive. Yearly,
-there were more than 54.4 million ambulatory visits with a primary diagnosis for 
-a GI disease, 3.0 million hospital admissions, and 540,500 all-cause 30-day
-readmissions. There were 266,600 new cases of GI cancers diagnosed and 144,300
-cancer deaths. Each year, there were 97,700 deaths from non-malignant GI
-diseases. An estimated 11.0 million colonoscopies, 6.1 million upper endoscopies,
-313,000 flexible sigmoidoscopies, 178,400 upper endoscopic ultrasound
-examinations, and 169,500 endoscopic retrograde cholangiopancreatography
-procedures were performed annually. Among average-risk persons ages 50-75 years
-who underwent colonoscopy, 34.6% had 1 or more adenomatous polyps, 4.7% had 1 or 
-more advanced adenomatous polyps, and 5.7% had 1 or more serrated polyps removed.
-CONCLUSIONS: GI diseases contribute substantially to health care use in the
-United States. Total expenditures for GI diseases are $135.9 billion dollars
-annually-greater than for other common diseases. Expenditures are likely to
-continue increasing.
-
-Copyright © 2018 AGA Institute. Published by Elsevier Inc. All rights reserved.
-
-DOI: 10.1053/j.gastro.2018.08.063 
-PMID: 30315778 
+Laryngoscope. 2018 Oct 16. doi: 10.1002/lary.27351. [Epub ahead of print]
+Radiographic muscle invasion not a recurrence predictor in HPV-associatedoropharyngeal squamous cell carcinoma.
+Farzal Z(1), Du E(1), Yim E(2), Mazul A(3), Zevallos JP(3), Huang BY(4), HackmanTG(1).
+Author information:(1)Department of Otolaryngology/Head and Neck Surgery, University of NorthCarolina, Chapel Hill, North Carolina.(2)University of North Carolina School of Medicine, Chapel Hill, North Carolina.(3)Department of Otolaryngology/Head and Neck Surgery, Washington University, St.Louis, Missouri, U.S.A.(4)Department of Radiology, University of North Carolina, Chapel Hill, NorthCarolina.
+OBJECTIVE: To determine whether muscle invasion evident on pretreatment imagingin p16 + oropharyngeal squamous cell carcinoma (OPSCC) correlates withrecurrence.STUDY DESIGN: Retrospective review.METHODS: Two-hundred and seventy-six patients with p16 + OPSCC treated at atertiary referral center from 2003 to 2015 were analyzed. All scans were reviewedby a dedicated neuroradiologist with subspecialty expertise in head and neckimaging. Radiographic evidence of muscle invasion to the genioglossus,hyoglossus, medial pterygoid, and prevertebral muscles was analyzed. Local andregional recurrence rates were compared between the muscle invasion and no muscleinvasion groups.RESULTS: One hundred and ninety patients met inclusion criteria with adequatefollow-up data and pretreatment imaging. Patients were predominantly male (87.5%male) and smokers (65.6% smokers) with a mean age of 56.7 (standard deviation:9.0 years). Most commonly invaded muscles in the muscle invasion group werehyoglossus (57.8%) and genioglossus (56.3%). There was no statisticallysignificant difference in primary site or nodal recurrence between the combinedgroup, including definite or possible muscle invasion and the group withoutmuscle invasion (P = 0.205 and P = 0.569, respectively). Additionally, nostatistically significant difference was present in recurrence-free anddisease-specific survival between the two groups at 3- and 5-year follow-up(P > 0.05).CONCLUSION: Radiographic evidence of muscle invasion does not appear to be apredictor of human papilloma virus (+) OPSCC recurrence. Additional studies areneeded to validate our findings. Level of Evidence 4. Laryngoscope, 2018.
+© 2018 The American Laryngological, Rhinological and Otological Society, Inc.

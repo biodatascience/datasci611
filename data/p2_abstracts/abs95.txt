@@ -1,41 +1,6 @@
-
-
-96. PLoS Pathog. 2018 Sep 13;14(9):e1007267. doi: 10.1371/journal.ppat.1007267.
-eCollection 2018 Sep.
-
-Chromatin remodeling controls Kaposi's sarcoma-associated herpesvirus
-reactivation from latency.
-
-Hopcraft SE(1), Pattenden SG(2), James LI(2), Frye S(2), Dittmer DP(1), Damania
-B(1).
-
-Author information: 
-(1)Lineberger Comprehensive Cancer Center, Department of Microbiology and
-Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC, United 
-States of America.
-(2)Center for Integrative Chemical Biology and Drug Discovery, Division of
-Chemical Biology and Medicinal Chemistry, Eshelman School of Pharmacy, University
-of North Carolina at Chapel Hill, Chapel Hill, NC, United States of America.
-
-Kaposi's sarcoma-associated herpesvirus (KSHV) is the etiologic agent of three
-human malignancies, the endothelial cell cancer Kaposi's sarcoma, and two B cell 
-cancers, Primary Effusion Lymphoma and multicentric Castleman's disease. KSHV has
-latent and lytic phases of the viral life cycle, and while both contribute to
-viral pathogenesis, lytic proteins contribute to KSHV-mediated oncogenesis.
-Reactivation from latency is driven by the KSHV lytic gene transactivator RTA,
-and RTA transcription is controlled by epigenetic modifications. To identify host
-chromatin-modifying proteins that are involved in the latent to lytic transition,
-we screened a panel of inhibitors that target epigenetic regulatory proteins for 
-their ability to stimulate KSHV reactivation. We found several novel regulators
-of viral reactivation: an inhibitor of Bmi1, PTC-209, two additional histone
-deacetylase inhibitors, Romidepsin and Panobinostat, and the bromodomain
-inhibitor (+)-JQ1. All of these compounds stimulate lytic gene expression, viral 
-genome replication, and release of infectious virions. Treatment with Romidepsin,
-Panobinostat, and PTC-209 induces histone modifications at the RTA promoter, and 
-results in nucleosome depletion at this locus. Finally, silencing Bmi1 induces
-KSHV reactivation, indicating that Bmi1, a member of the Polycomb repressive
-complex 1, is critical for maintaining KSHV latency.
-
-DOI: 10.1371/journal.ppat.1007267 
-PMCID: PMC6136816
-PMID: 30212584 
+Cancer Immunol Res. 2018 Sep 12. doi: 10.1158/2326-6066.CIR-18-0086. [Epub aheadof print]
+Stromal Fibroblasts Mediate Anti-PD-1 Resistance via MMP-9 and Dictate TGFβInhibitor Sequencing in Melanoma.
+Zhao F(1), Evans K(1), Xiao C(1), DeVito N(1), Theivanthiran B(1), HoltzhausenA(2), Siska PJ(3), Blobe GC(1)(4), Hanks BA(5)(4).
+Author information:(1)Department of Medicine, Division of Medical Oncology, Duke Cancer Institute,Duke University Medical Center, Durham, North Carolina.(2)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, North Carolina.(3)Department of Internal Medicine III, University Hospital Regensburg,Regensburg, Germany.(4)Department of Pharmacology and Cancer Biology, Duke University, Durham, NorthCarolina.(5)Department of Medicine, Division of Medical Oncology, Duke Cancer Institute,Duke University Medical Center, Durham, North Carolina. hanks004@mc.duke.edu.
+Although anti-PD-1 therapy has improved clinical outcomes for select patientswith advanced cancer, many patients exhibit either primary or adaptive resistanceto checkpoint inhibitor immunotherapy. The role of the tumor stroma in thedevelopment of these mechanisms of resistance to checkpoint inhibitors remainsunclear. We demonstrated that pharmacologic inhibition of the TGFβ signalingpathway synergistically enhanced the efficacy of anti-CTLA-4 immunotherapy butfailed to augment anti-PD-1/PD-L1 responses in an autochthonous model ofBRAFV600E melanoma. Additional mechanistic studies revealed that TGFβ pathwayinhibition promoted the proliferative expansion of stromal fibroblasts, therebyfacilitating MMP-9-dependent cleavage of PD-L1 surface expression, leading toanti-PD-1 resistance in this model. Further work demonstrated that melanomasescaping anti-PD-1 therapy exhibited a mesenchymal phenotype associated withenhanced TGFβ signaling activity. Delayed TGFβ inhibitor therapy, followinganti-PD-1 escape, better served to control further disease progression and wassuperior to a continuous combination of anti-PD-1 and TGFβ inhibition. This workillustrates that formulating immunotherapy combination regimens to enhance theefficacy of checkpoint blockade requires an in-depth understanding of the impactof these agents on the tumor microenvironment. These data indicated that stromalfibroblast MMP-9 may desensitize tumors to anti-PD-1 and suggests that TGFβinhibition may generate greater immunologic efficacy when administered followingthe development of acquired anti-PD-1 resistance. Cancer Immunol Res; 1-13. ©2018AACR.
+©2018 American Association for Cancer Research.

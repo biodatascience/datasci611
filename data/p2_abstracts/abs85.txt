@@ -1,29 +1,5 @@
-
-
-86. Pharm Nanotechnol. 2018 Sep 18. doi: 10.2174/2211738506666180918122337. [Epub
-ahead of print]
-
-Drug Delivery for Cancer Immunotherapy and Vaccines.
-
-Batty CJ(1), Tiet P(1), Bachelder EM(1), Ainslie KM(1).
-
-Author information: 
-(1)Eshelman School of Pharmacy, Division of Pharmacoengineering and Molecular
-Pharmaceutics, The University of North Carolina at Chapel Hill. United States.
-
-Cancer cells are able to avoid immune surveillance and exploit the immune system 
-to grow and metastasize. With the development of nano- and micro-particles, there
-has been a growing number of immunotherapy delivery systems developed to elicit
-innate and adaptive immune responses to eradicate cancer cells. This can be
-accomplished by training resident immune cells to recognize and eliminate cells
-with tumor-associated antigens or by providing external stimuli to enhance tumor 
-cell apoptosis in the immunosuppressive tumor microenvironment (TME). In this
-review we will focus on nano- and micro-particle (NP and MP) based
-immunotherapies and vaccines used to elicit a potent and sustained antitumor
-immune response.
-
-Copyright© Bentham Science Publishers; For any queries, please email at
-epub@benthamscience.org.
-
-DOI: 10.2174/2211738506666180918122337 
-PMID: 30227827 
+Cells. 2018 Sep 15;7(9). pii: E139. doi: 10.3390/cells7090139.
+Roles for the IKK-Related Kinases TBK1 and IKKε in Cancer.
+Durand JK(1)(2), Zhang Q(3)(4), Baldwin AS(5)(6).
+Author information:(1)Curriculum in Genetics and Molecular Biology, University of North Carolina atChapel Hill, Chapel Hill, NC 27599, USA. joel_durand@med.unc.edu.(2)Lineberger Comprehensive Cancer Center, University of North Carolina, ChapelHill, NC 27599, USA. joel_durand@med.unc.edu.(3)Lineberger Comprehensive Cancer Center, University of North Carolina, ChapelHill, NC 27599, USA. qing_zhang@med.unc.edu.(4)Department of Pathology, University of North Carolina School of Medicine,Chapel Hill, NC 27599, USA. qing_zhang@med.unc.edu.(5)Curriculum in Genetics and Molecular Biology, University of North Carolina atChapel Hill, Chapel Hill, NC 27599, USA. abaldwin@med.unc.edu.(6)Lineberger Comprehensive Cancer Center, University of North Carolina, ChapelHill, NC 27599, USA. abaldwin@med.unc.edu.
+While primarily studied for their roles in innate immune response, the IκB kinase(IKK)-related kinases TANK-binding kinase 1 (TBK1) and IKKε also promote theoncogenic phenotype in a variety of cancers. Additionally, several substrates ofthese kinases control proliferation, autophagy, cell survival, and cancer immuneresponses. Here we review the involvement of TBK1 and IKKε in controllingdifferent cancers and in regulating responses to cancer immunotherapy.

@@ -1,39 +1,5 @@
-
-
-26. Glob Public Health. 2018 Oct 16:1-13. doi: 10.1080/17441692.2018.1534254. [Epub
-ahead of print]
-
-Prevalence of traditional, complementary, and alternative medicine use by cancer 
-patients in low income and lower-middle income countries.
-
-Hill J(1), Mills C(2), Li Q(3), Smith JS(2)(4).
-
-Author information: 
-(1)a Department of Physical Medicine and Rehabilitation, Program on Integrative
-Medicine , University of North Carolina , Chapel Hill , USA.
-(2)b Department of Epidemiology , Gillings School of Global Public Health,
-University of North Carolina , Chapel Hill , USA.
-(3)c Department of Biostatistics , Gillings School of Global Public Health,
-University of North Carolina , Chapel Hill , USA.
-(4)d Lineberger Comprehensive Cancer Center , University of North Carolina ,
-Chapel Hill , USA.
-
-The use of traditional, complementary, and alternative medicine (TCAM) for cancer
-may influence the delivery or effectiveness of conventional cancer treatment. In 
-this systematic review, we aimed to (1) summarise the available prevalence data
-on traditional medicine use by cancer patients in less developed countries
-(LDCs), and (2) stratify the prevalence data by world region and country income
-level. A literature search for cancer, TCAM, and low income (LI) and lower-middle
-income (LMI) countries was conducted across 5 databases. A total of 2,365
-publications were reviewed for eligibility, of which 25 studies met inclusion
-criteria. The combined sample size was 6,878 cancer patients, with a median of
-54.5% reporting the use of TCAM for cancer care. Of the studies providing data on
-the concomitant use of TCAM and conventional cancer treatment (n = 4,872 cancer
-patients), a median of 26.7% of participants reported combining the two systems
-of medicine. From the data available, it is apparent that TCAM use among cancer
-patients in less developed countries is common; however, additional studies are
-needed to support the safe and effective management of cancer for patients in LI 
-and LMI countries.
-
-DOI: 10.1080/17441692.2018.1534254 
-PMID: 30325704 
+Cancer Chemother Pharmacol. 2018 Oct 16. doi: 10.1007/s00280-018-3702-9. [Epubahead of print]
+Mononuclear phagocyte system function and nanoparticle pharmacology in obese andnormal weight ovarian and endometrial cancer patients.
+Starling BR(1), Kumar P(1)(2), Lucas AT(1), Barrow D(3), Farnan L(4), HendrixL(4), Giovinazzo H(1)(5), Song G(1)(6), Gehrig P(7), Bensen JT(4)(8), ZamboniWC(9)(10)(11).
+Author information:(1)Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman Schoolof Pharmacy, University of North Carolina at Chapel Hill, 120 Mason Farm Road,Suite 1013, CB 7361, Chapel Hill, NC, 27599-7361, USA.(2)Clinical Pharmacology, Otsuka Pharmaceutical Companies, Rockville, MD, 20850,USA.(3)UNC Cytokine and Biomarker Core Facility, UNC School of Dentistry, Universityof North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.(4)UNC Lineberger Comprehensive Cancer Center, University of North Carolina atChapel Hill, Chapel Hill, NC, 27514, USA.(5)Department of Pharmacology and Molecular Sciences, Johns Hopkins UniversitySchool of Medicine, Baltimore, MD, 21205, USA.(6)ScitoVation LLC, Research Triangle Park, NC, 27709, USA.(7)Department of Gynecologic Oncology, UNC School of Medicine, University ofNorth Carolina Medical Center, Chapel Hill, NC, 27514, USA.(8)Department of Epidemiology, UNC Gillings School of Public Health, Universityof North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.(9)Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman Schoolof Pharmacy, University of North Carolina at Chapel Hill, 120 Mason Farm Road,Suite 1013, CB 7361, Chapel Hill, NC, 27599-7361, USA. zamboni@email.unc.edu.(10)UNC Lineberger Comprehensive Cancer Center, University of North Carolina atChapel Hill, Chapel Hill, NC, 27514, USA. zamboni@email.unc.edu.(11)Carolina Center of Cancer Nanotechnology Excellence, University of NorthCarolina at Chapel Hill, Chapel Hill, NC, 27599, USA. zamboni@email.unc.edu.
+PURPOSE: Obesity may alter mononuclear phagocyte system (MPS) function and thepharmacology and efficacy of nanoparticles therapies, such as PEGylated liposomaldoxorubicin (PLD). We aimed to evaluate the relationships between hormone andchemokine mediators of MPS function and the pharmacokinetic (PK) exposure of PLDin obese and normal weight patients with ovarian and endometrial cancer.METHODS: Hormone and chemokine mediators in obese and normal weight ovarian andendometrial cancer patients were measured. A separate pharmacology study wasperformed that evaluated the relationship between serum hormone concentrations,MPS function, and PK disposition of PLD in refractory ovarian cancer patients.RESULTS: Univariate analysis revealed a significant relationship between serumestradiol and body mass index (OR 8.64, 95% CI 2.67-28.0, p < 0.001). Estrone andtestosterone concentrations were positively correlated with MPS function(ρ = 0.57 and 0.53, p = 0.14 and 0.18, respectively) and inversely correlatedwith PLD PK exposure (ρ = - 0.75 and - 0.76, respectively, p = 0.02 for both).CONCLUSIONS: Higher MPS function resulting in reduced PLD exposure is a potentialmechanism for reduced efficacy of PLD and other nanoparticles observed in obesepatients with cancer. PK simulations suggest higher doses of PLD are required inobese patients to achieve similar exposures as standard dosing in normal weightpatients.

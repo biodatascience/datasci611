@@ -1,44 +1,5 @@
-
-
-40. Epidemiology. 2018 Oct 1. doi: 10.1097/EDE.0000000000000933. [Epub ahead of
-print]
-
-Lifestyle patterns and survival following breast cancer in the Carolina Breast
-Cancer Study.
-
-Parada H Jr(1), Sun X(2), Tse CK(2), Olshan AF(2), Troester MA(2).
-
-Author information: 
-(1)Division of Epidemiology & Biostatistics, School of Public Health, San Diego
-State University, San Diego, CA, USA.
-(2)Department of Epidemiology, University of North Carolina at Chapel Hill,
-Chapel Hill, NC, USA.
-
-BACKGROUND: Few studies have examined the impact of lifestyle patterns on
-survival following breast cancer. We aimed to identify distinct lifestyle
-patterns based on five behavior/dietary exposures among a population-based sample
-of women diagnosed with breast cancer, and to examine their association with
-subsequent survival.
-METHODS: In the Carolina Breast Cancer Study Phases I/II, we interviewed 1,808
-women aged 20-74 following diagnosis of invasive breast cancer. We determined
-using the National Death Index (717 deaths, 427 from breast cancer; median
-follow-up 13.56 years). We assessed lifestyle patterns using a latent class
-analysis based on five behavioral and dietary exposures: current versus
-never/former smokers; low versus high vegetable and fruit intake; high and
-low/moderate, versus no alcohol consumption; and no and low/moderate, vs. high
-regular physical activity. We used Cox regression to estimate covariate-adjusted 
-hazard ratios (HRs) and 95% confidence intervals (CIs) for all-cause mortality,
-and cause-specific and subdistribution HRs for breast cancer-specific mortality
-within 5 years and 13 years post-diagnosis conditional on 5-year survival.
-RESULTS: We identified three distinct lifestyle patterns: Healthy Behavior and
-Diet (n=916); Healthy Behavior and Unhealthy Diet (n=624); and Unhealthy Behavior
-and Diet (n=268). The Unhealthy (vs. Healthy) Behavior and Diet pattern was
-associated with a 13-year conditional all-cause mortality HR of 1.4
-(95%CI=1.1-1.9) and with 13-year conditional breast cancer-specific and
-subdistribution HRs of 1.2 (95%CI=0.79-1.9) and 1.2 (95%CI=0.77-1.8),
-respectively.
-CONCLUSIONS: Behavioral and dietary patterns can be used to identify lifestyle
-patterns that influence survival patterns following breast cancer diagnosis.
-
-DOI: 10.1097/EDE.0000000000000933 
-PMID: 30299404 
+Int J Hyperthermia. 2018 Oct 10:1-6. doi: 10.1080/02656736.2018.1506167. [Epubahead of print]
+An analysis of the survival impact of dexmedetomidine in children undergoingcytoreductive surgery with hyperthermic intraperitoneal chemotherapy.
+Owusu-Agyemang P(1)(2), Cata JP(1)(2), Kapoor R(1), Zavala AM(1), Williams UU(1),Van Meter A(1), Tsai JY(1), Zhang WH(1), Feng L(3), Hayes-Jordan A(4).
+Author information:(1)a Department of Anesthesiology and Perioperative Medicine , The University ofTexas MD Anderson Cancer Center , Houston , TX , USA.(2)b Anesthesiology and Surgical Oncology Research Group , Houston , TX , USA.(3)c Department of Biostatistics , The University of Texas MD Anderson CancerCenter , Houston , TX , USA.(4)d Division of Pediatric Surgery , University of North Carolina School ofMedicine , Chapel Hill , NC , USA.
+OBJECTIVE: Recent evidence suggests the α2-adrenoreceptor agonist dexmedetomidinemay promote metastasis of cancer cells. In this study we sought to evaluate theimpact of dexmedetomidine administration on the survival of children andadolescents with cancer.DESIGN: Retrospective chart review.SETTING: Comprehensive cancer center.PATIENTS: Children and adolescents who had undergone cytoreductive surgery withhyperthermic intraperitoneal chemotherapy for peritoneal carcinomatosis.INTERVENTION: Intraoperative and/or early postoperative (within 24 hours ofsurgery) administration of dexmedetomidine.MEASUREMENTS: Multivariable cox proportional hazard models were used to assessthe association between dexmedetomidine administration and progression freesurvival (PFS) or overall survival (OS).MAIN RESULTS: Ninety-three patients were identified. The median age was 12 years,42% were female, and 35% received dexmedetomidine. There were no significantdifferences between the baseline and perioperative characteristics of patientswho received dexmedetomidine and those who did not. In the multivariableanalysis, the administration of dexmedetomidine was not associated with PFS(HR = 1.20, 95% CI [0.60-2.41], p = .606) or OS (HR = 0.81, 95% CI [0.35-1.85],p = .611).CONCLUSION: In this retrospective study of children and adolescents who hadundergone a major oncologic surgery, the intraoperative and/or earlypostoperative administration of dexmedetomidine was not associated with survival.

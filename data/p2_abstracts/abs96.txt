@@ -1,52 +1,6 @@
-
-Conflict of interest statement: The authors have declared that no competing
-interests exist.
-
-
-97. Am J Cancer Res. 2018 Aug 1;8(8):1551-1563. eCollection 2018.
-
-ONC201 demonstrates anti-tumorigenic and anti-metastatic activity in uterine
-serous carcinoma in vitro.
-
-Fang Z(1)(2), Wang J(3), Clark LH(2)(4), Sun W(2), Yin Y(2), Kong W(3), Pierce
-SR(2), West L(2), Sullivan SA(2), Tran AQ(2), Prabhu VV(5), Zhou C(2)(4),
-Bae-Jump V(2)(4).
-
-Author information: 
-(1)Department of Obstetrics, Beijing Obstetrics and Gynecology Hospital, Capital 
-Medical University Beijing, P. R. China.
-(2)Division of Gynecologic Oncology, University of North Carolina at Chapel Hill 
-Chapel Hill, NC, USA.
-(3)Department of Gynecologic Oncology, Beijing Obstetrics and Gynecology
-Hospital, Capital Medical University Beijing, P. R. China.
-(4)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
-Hill Chapel Hill, NC, USA.
-(5)Oncoceutics Philadelphia, PA, USA.
-
-Uterine serous carcinoma (USC) represents an aggressive histologic subtype of
-endometrial cancer. It is associated with a poor prognosis, and improved
-therapies for women battling USCs are greatly needed. ONC201 is an orally
-bioavailable, first-in-class small molecule that induces tumor necrosis
-factor-related apoptosis-inducing ligand (TRAIL) independent of p53. ONC201 has
-demonstrated anti-tumorigenic activity in pre-clinical models of solid tumors
-through induction of apoptosis and inactivation of the AKT/MAPK pathways. Recent 
-phase I and II clinical trials have shown that ONC201 is well tolerated and may
-have single agent activity in high grade glioma patients among others. We sought 
-to determine the effects of ONC201 on cell proliferation in USC and identify the 
-mechanisms by which ONC201 inhibits cell growth in this disease. ONC201 inhibited
-cell proliferation in a dose-dependent manner in ARK1, ARK2 and SPEC-2 cell
-lines. The anti-proliferative activity of ONC201 in ARK1 and SPEC-2 cells was
-associated with induction apoptosis independent of p53 via both a TRAIL mediated 
-apoptotic pathway and a mitochondrial apoptosis pathway. Treatment with ONC201
-resulted in significant reduction in adhesion and invasion as well as inhibition 
-of the AKT and MAPK pathways. In addition, ONC201 markedly potentiated the
-anti-tumorigenic effects of paclitaxel in USC cells. Our results suggest that
-ONC201 has significant anti-proliferative and anti-metastatic effects in USC
-cells through both induction of apoptosis and inhibition of the AKT and MAPK
-pathways. ONC201 and paclitaxel are a promising therapeutic combination in USC
-cells. Thus, ONC201 should be evaluated as a single agent and as a therapeutic
-partner with paclitaxel in future clinical trials of USC.
-
-
-PMCID: PMC6129479
-PMID: 30210923 
+J Geriatr Oncol. 2018 Sep 8. pii: S1879-4068(18)30163-2. doi:10.1016/j.jgo.2018.08.009. [Epub ahead of print]
+Mental status evaluation in older adults with cancer: Development of the MentalHealth Index-13.
+Pergolotti M(1), Langer MM(2), Deal AM(3), Muss HB(4), Nyrop K(4), Williams G(5).
+Author information:(1)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, NC, United States. Electronic address:mpergolotti@selectmedical.com.(2)American Institutes for Research, Chapel Hill, NC, United States.(3)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, NC, United States.(4)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, NC, United States; Division of Hematology Oncology, School ofMedicine, University of North Carolina at Chapel Hill, NC, United States;Department of Geriatric Oncology, School of Medicine, University of NorthCarolina at Chapel Hill, NC, United States.(5)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, NC, United States; Department of Geriatric Oncology, School ofMedicine, University of North Carolina at Chapel Hill, NC, United States.
+OBJECTIVES: The Mental Health Index (MHI) is widely used as a measure of mentalhealth status, but has not been evaluated in the geriatric oncology population.This study evaluated the MHI-17 in a geriatric oncology population, to establishvalidity and scoring rules.MATERIALS AND METHODS: The Carolina Senior Registry (NCT01137825) was used toobtain data for 686 patients with cancer 65 and older who completed the MHI-17.The 17-item patient-reported measure produces one total score summing across fourdomains: anxiety, depression, positive affect, and sense of belonging. Cronbach'salpha (α), confirmatory factor analyses (CFA), item-response theory (IRT)analyses, and differential item functioning (DIF) analyses were used to evaluateinternal consistency and validity.RESULTS AND DISCUSSION: The revised MHI retained the 13 best-fitting items fromthe MHI-17 and resulted in a final model that included two subscales: anxiety(four items, RMSEA 0.11; CFI 0.99; TLI 0.98) and depression (9 items, RMSEA 0.10;CFI 0.96; TL 0.95). IRT analyses of the four anxiety items indicated good fit(RMSEA 0.08) and precise measurement of adults with poor mental health, and thenine depression items also fit well (RMSEA 0.05). No meaningful differences werefound by sex, education, or treatment stage. Scores were developed to providemeaningful norms. The new MHI-13 is a shorter, more accurate way to assess mentalhealth in older adults with cancer and most importantly allows clinicians toseparately identify anxiety and/or depression - a clinically importantdistinction as treatment differs among these two types of mental healthimpairment.
+Copyright © 2018 Elsevier Inc. All rights reserved.

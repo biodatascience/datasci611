@@ -1,52 +1,6 @@
-
-Conflict of interest statement: DisclosuresThe authors have declared no potential
-conflicts of interest.
-
-
-54. J Acquir Immune Defic Syndr. 2018 Sep 21. doi: 10.1097/QAI.0000000000001865.
-[Epub ahead of print]
-
-Natural history of cervical intraepithelial neoplasia-2 in HIV-positive women of 
-reproductive age.
-
-Colie C(1), Michel KG(1), Massad LS(2), Wang MC(1), D'Souza G(3), Rahangdale
-L(4), Flowers L(5), Milam J(6), Palefsky JM(7), Minkoff H(8), Strickler HD(9),
-Kassaye SG(1).
-
-Author information: 
-(1)Georgetown University School of Medicine, Washington, DC, USA.
-(2)Washington University School of Medicine, St. Louis, MO, USA.
-(3)Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
-(4)University of North Carolina School of Medicine, Chapel Hill, NC, USA.
-(5)Emory University School of Medicine, Atlanta, GA, USA.
-(6)University of Southern California, Keck School of Medicine, Los Angeles, CA,
-USA.
-(7)University of California, San Francisco, CA, USA.
-(8)Maimonides Medical Center, Brooklyn, NY, USA.
-(9)Albert Einstein College of Medicine, Bronx, NY, USA.
-
-OBJECTIVE: To evaluate the natural history of treated and untreated cervical
-intraepithelial neoplasia-2 (CIN2) among HIV-positive women.
-METHODS: Participants were women enrolled in the Women's Interagency HIV Study
-between 1994 and 2013. 104 HIV-positive women diagnosed with CIN2 before age 46
-were selected, contributing 2,076 visits over a median of 10 years (IQR 5-16).
-The outcome of interest was biopsy-confirmed CIN2 progression, defined as CIN3 or
-invasive cervical cancer. CIN2 treatment was abstracted from medical records.
-RESULTS: The majority of women were African American (53%), current smokers (53%)
-and had a median age of 33 years at CIN2 diagnosis. Among the 104 HIV-positive
-women, 62 (59.6%) did not receive CIN2 treatment. Twelve HIV-positive women
-(11.5%) showed CIN2 progression to CIN3; none were diagnosed with cervical
-cancer. There was no difference in the median time to progression between
-CIN2-treated and -untreated HIV-positive women (2.9 vs. 2.7 years, p=0.41). CIN2 
-treatment was not associated with CIN2 progression in multivariate analysis (aHR 
-[adjusted hazard ratio] 1.82; 95% CI [confidence interval] 0.54, 7.11), adjusting
-for combination antiretroviral therapy (cART) and CD4+ T cell count. In
-HIV-positive women, each increase of 100 CD4+ T cells was associated with a 33%
-decrease in CIN2 progression (aHR 0.67; 95% CI 0.47, 0.88), adjusting for CIN2
-treatment and cART.
-CONCLUSIONS: CIN2 progression is uncommon in this population, regardless of CIN2 
-treatment. Additional studies are needed to identify factors to differentiate
-women at highest risk of CIN2 progression.
-
-DOI: 10.1097/QAI.0000000000001865 
-PMID: 30272635 
+Conflict of interest statement: DisclosuresThe authors have declared no potentialconflicts of interest.
+J Acquir Immune Defic Syndr. 2018 Sep 21. doi: 10.1097/QAI.0000000000001865.[Epub ahead of print]
+Natural history of cervical intraepithelial neoplasia-2 in HIV-positive women ofreproductive age.
+Colie C(1), Michel KG(1), Massad LS(2), Wang MC(1), D'Souza G(3), RahangdaleL(4), Flowers L(5), Milam J(6), Palefsky JM(7), Minkoff H(8), Strickler HD(9),Kassaye SG(1).
+Author information:(1)Georgetown University School of Medicine, Washington, DC, USA.(2)Washington University School of Medicine, St. Louis, MO, USA.(3)Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.(4)University of North Carolina School of Medicine, Chapel Hill, NC, USA.(5)Emory University School of Medicine, Atlanta, GA, USA.(6)University of Southern California, Keck School of Medicine, Los Angeles, CA,USA.(7)University of California, San Francisco, CA, USA.(8)Maimonides Medical Center, Brooklyn, NY, USA.(9)Albert Einstein College of Medicine, Bronx, NY, USA.
+OBJECTIVE: To evaluate the natural history of treated and untreated cervicalintraepithelial neoplasia-2 (CIN2) among HIV-positive women.METHODS: Participants were women enrolled in the Women's Interagency HIV Studybetween 1994 and 2013. 104 HIV-positive women diagnosed with CIN2 before age 46were selected, contributing 2,076 visits over a median of 10 years (IQR 5-16).The outcome of interest was biopsy-confirmed CIN2 progression, defined as CIN3 orinvasive cervical cancer. CIN2 treatment was abstracted from medical records.RESULTS: The majority of women were African American (53%), current smokers (53%)and had a median age of 33 years at CIN2 diagnosis. Among the 104 HIV-positivewomen, 62 (59.6%) did not receive CIN2 treatment. Twelve HIV-positive women(11.5%) showed CIN2 progression to CIN3; none were diagnosed with cervicalcancer. There was no difference in the median time to progression betweenCIN2-treated and -untreated HIV-positive women (2.9 vs. 2.7 years, p=0.41). CIN2treatment was not associated with CIN2 progression in multivariate analysis (aHR[adjusted hazard ratio] 1.82; 95% CI [confidence interval] 0.54, 7.11), adjustingfor combination antiretroviral therapy (cART) and CD4+ T cell count. InHIV-positive women, each increase of 100 CD4+ T cells was associated with a 33%decrease in CIN2 progression (aHR 0.67; 95% CI 0.47, 0.88), adjusting for CIN2treatment and cART.CONCLUSIONS: CIN2 progression is uncommon in this population, regardless of CIN2treatment. Additional studies are needed to identify factors to differentiatewomen at highest risk of CIN2 progression.

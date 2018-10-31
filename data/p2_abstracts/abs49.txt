@@ -1,45 +1,6 @@
-
-
-50. Nat Biomed Eng. 2018;2:443-452. Epub 2018 Apr 23.
-
-Organ-specific metastases obtained by culturing colorectal cancer cells on
-tissue-specific decellularized scaffolds.
-
-Tian X(1), Werner ME(1), Roche KC(1), Hanson AD(2), Foote HP(1), Yu SK(1), Warner
-SB(1), Copp JA(1), Lara H(1), Wauthier EL(2), Caster JM(1), Herring LE(3), Zhang 
-L(4), Tepper JE(1), Hsu DS(5), Zhang T(5), Reid LM(2), Wang AZ(1).
-
-Author information: 
-(1)Laboratory of Nano- and Translational Medicine, Department of Radiation
-Oncology Lineberger Comprehensive Cancer Center, Carolina Center for Cancer
-Nanotechnology Excellence, Carolina Institute of Nanomedicine, University of
-North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.
-(2)Department of Cell and Molecular Physiology, University of North Carolina at
-Chapel Hill, Chapel Hill, NC 27599, USA.
-(3)Department of Pharmacology, UNC Proteomics Core Facility, University of North 
-Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.
-(4)Jiangsu Center for the Collaboration and Innovation of Cancer Biotherapy,
-Affiliated Hospital of Xuzhou Medical College, Cancer Institute of Xuzhou Medical
-College, Jiangsu, China.
-(5)Division of Medical Oncology, Department of Medicine, Duke Cancer Institute,
-Duke University Medical Center, Durham, NC 27705.
-
-Metastatic disease remains the primary cause of mortality in cancer patients. Yet
-the number of available in vitro models to study metastasis is limited by
-challenges in the recapitulation of the metastatic microenvironment in vitro, and
-by difficulties in maintaining colonized-tissue specificity in the expansion and 
-maintenance of metastatic cells. Here, we show that decellularized scaffolds that
-retain tissue-specific extracellular-matrix (ECM) components and bound signaling 
-molecules enable, when seeded with colorectal cancer (CRC) cells, the spontaneous
-formation of three-dimensional cell colonies that histologically, molecularly and
-phenotypically resemble in vivo metastases. Lung and liver metastases obtained by
-culturing CRC cells on, respectively, liver and lung decellularized scaffolds
-retained their tissue-specific tropism when injected in mice. We also found that 
-the engineered metastases contained signet ring cells, which has not previously
-been observed ex vivo. A culture system with tissue-specific decellularized
-scaffolds represents a simple and powerful approach for the study of
-organ-specific cancer metastases.
-
-
-PMCID: PMC6166886
-PMID: 30288339 
+Cancer. 2018 Oct 5. doi: 10.1002/cncr.31705. [Epub ahead of print]
+Association between treatment of superficial bladder cancer and 10-year mortalityin older adults with multiple chronic conditions.
+Garg T(1)(2), Young AJ(3)(4), O'Keeffe-Rosetti M(5), McMullen CK(5), NielsenME(5)(6)(7)(8), Lester Kirchner H(3)(4), Murphy TE(9).
+Author information:(1)Department of Urology, Geisinger, Danville, Pennsylvania.(2)Department of Epidemiology and Health Services Research, Geisinger, Danville,Pennsylvania.(3)Biostatistics Core, Geisinger, Danville, Pennsylvania.(4)Biomedical and Translational Informatics Institute, Geisinger, Danville,Pennsylvania.(5)Center for Health Research, Kaiser Permanente Northwest, Portland, Oregon.(6)Department of Urology, University of North Carolina at Chapel Hill, ChapelHill, North Carolina.(7)Department of Epidemiology, University of North Carolina at Chapel Hill,Chapel Hill, North Carolina.(8)Department of Health Policy and Management, University of North Carolina atChapel Hill, Chapel Hill, North Carolina.(9)Section of Geriatrics, Department of Internal Medicine, Yale University Schoolof Medicine, New Haven, Connecticut.
+BACKGROUND: Multiple chronic conditions (MCC) are common among older patientswith cancer; however, the exclusion of these patients from clinical trials hasresulted in scarce knowledge concerning outcomes, resulting in variations intreatment. Superficial bladder cancer (SBC) disproportionately affects olderadults, yet to the authors' knowledge few studies to date have examined whethertreatment improves long-term survival. In the current study, the authorsevaluated the association between treatment of SBC and 10-year mortality inmedically complex older adults.METHODS: The authors identified 1800 older (aged ≥60 years) patients with SBC(American Joint Committee on Cancer stage ≤I) from 2 community-based healthsystems who received treatment (bladder instillation and/or transurethralresection) or observation. Cox proportional hazards regression was performedadjusting for age, sex, race, health system, stage of disease/grade, and MCC (≥2baseline chronic conditions). Propensity score analysis using stabilized inverseprobability of treatment weights was used to compare 10-year mortality in the 2treatment groups with adjustment for covariates.RESULTS: Overall, 1485 patients (82.5%) and 315 patients (17.5%) receivedtreatment and observation, respectively. In unweighted multivariable analysis,treatment was associated with a 30% reduction in death (adjusted hazard ratio[HR], 0.70; 95% confidence interval [95% CI], 0.58-0.85 [P<.01]) and MCC with a72% increase in death (adjusted HR, 1.72; 95% CI, 1.44-2.05 [P<.01]). Weightedanalysis with adjustment (doubly robust) also demonstrated a survival benefit fortreatment (adjusted HR, 0.66; 95% CI, 0.52-0.84 [P<.01]).CONCLUSIONS: The results of the current study demonstrated a clinicallymeaningful association between cancer treatment and survival benefit in older,medically complex patients with SBC, even after adjustment for medicalcomplexity. These data provide a foundation for future work aimed atpersonalizing the treatment guidance of older patients with cancer with MCC.
+© 2018 American Cancer Society.

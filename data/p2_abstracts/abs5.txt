@@ -1,54 +1,5 @@
-
-
-6. HPB (Oxford). 2018 Oct 23. pii: S1365-182X(18)34468-X. doi:
-10.1016/j.hpb.2018.09.018. [Epub ahead of print]
-
-Cyst location and presence of high grade dysplasia or invasive cancer in
-intraductal papillary mucinous neoplasms of the pancreas: a seven institution
-study from the central pancreas consortium.
-
-Kerlakian S(1), Dhar VK(1), Abbott DE(2), Kooby DA(3), Merchant NB(4), Kim HJ(5),
-Martin RC(6), Scoggins CR(6), Bentrem DJ(7), Weber SM(2), Maithel SK(3), Ahmad
-SA(1), Patel SH(8).
-
-Author information: 
-(1)Department of Surgery, University of Cincinnati College of Medicine,
-Cincinnati, OH, USA.
-(2)Department of Surgery, University of Wisconsin School of Medicine and Public
-Health, Madison, WI, USA.
-(3)Department of Surgery, Emory University School of Medicine, Atlanta, GA, USA.
-(4)Department of Surgery, University of Miami Miller School of Medicine, Miami,
-FL, USA.
-(5)Department of Surgery, University of North Carolina, Chapel Hill, NC, USA.
-(6)Department of Surgery, University of Louisville College of Medicine,
-Louisville, KY, USA.
-(7)Department of Surgery, Northwestern University Feinberg School of Medicine,
-Chicago, IL, USA.
-(8)Department of Surgery, University of Cincinnati College of Medicine,
-Cincinnati, OH, USA. Electronic address: patel5se@ucmail.uc.edu.
-
-BACKGROUND: Traditionally, intraductal papillary mucinous neoplasms (IPMNs) of
-the pancreas with "high risk stigmata" (HRS) or "worrisome features" (WF) are
-referred for resection. We aim to assess if IPMN location is predictive of
-harboring either high grade dysplasia (HGD) or invasive cancer (IC).
-METHODS: Patients undergoing resection for IPMN from seven institutions between
-2000 and 2015 (n = 275) were analyzed. HRS and WF were defined by the 2012
-Fukuoka international consensus guidelines.
-RESULTS: 168 (61%) patients had head/uncinate cysts, while 107 (39%) had
-neck/body/tail cysts. No differences were noted between groups with regard to
-age, duct type, cyst size, or presence of at least one WF. Patients with cysts in
-the head/uncinate were more often male (55% vs. 40%), had at least one HRS (24%
-vs. 11%), and more often harbored HGD or IC(49% vs. 27%)[all p < 0.05]. On
-multivariate analysis, only cyst location in the head/uncinate remained
-associated with presence of HGD or IC(odds ratio 4.76, p = 0.02).
-DISCUSSION: Cyst location is predictive of HGD or IC in patients with IPMNs.
-Head/uncinated cysts are more likely to harbor malignancy compared to those of
-the neck/body/tail. Additional studies are needed to confirm these findings,
-however, cyst location should be considered part of the decision making process
-for surveillance vs. resection for IPMNs.
-
-Copyright © 2018 International Hepato-Pancreato-Biliary Association Inc.
-Published by Elsevier Ltd. All rights reserved.
-
-DOI: 10.1016/j.hpb.2018.09.018 
-PMID: 30361110 
+Gynecol Oncol Rep. 2018 Oct 4;26:60-65. doi: 10.1016/j.gore.2018.10.001.eCollection 2018 Nov.
+A tailored approach to building specialized surgical oncology capacity: Earlyexperiences and outcomes in Malawi.
+Chinula L(1)(2)(3)(4), Hicks M(1)(5), Chiudzu G(3)(4), Tang JH(1)(2)(3)(4), GopalS(2)(6), Tomoka T(2), Kachingwe J(3)(4), Pinder L(1)(5), Hicks M(7),Sahasrabuddhe V(8), Parham G(1)(5).
+Author information:(1)University of North Carolina at Chapel Hill, Department of Obstetrics &Gynecology, Chapel Hill, USA.(2)UNC Project-Malawi, Lilongwe, Malawi.(3)Malawi College of Medicine, Department of Obstetrics & Gynecology, Blantyre,Malawi.(4)Department of Obstetrics and Gynecology, Kamuzu Central Hospital, Lilongwe,Malawi.(5)Department of Obstetrics and Gynecology, University Teaching Hospital - Womenand Newborn Hospital, Lusaka, Zambia.(6)University of North Carolina at Chapel Hill, Lineberger Comprehensive CancerCenter, Chapel Hill, USA.(7)Howard University College of Medicine, Washington, DC, USA.(8)National Cancer Institute, Bethesda, MD, USA.
+Objectives: Cervical cancer can often be cured by surgery alone, if diagnosed andtreated early. However, of the cancer patients who live in the world's poorestcountries less that 5% have access to safe, effective and timely cancer surgery.We designed a novel, competency-based curriculum to rapidly build surgicalcapacity for the treatment of cervical cancer. Here we report experiences andearly outcomes of its implementation in Malawi.Methods: Curriculum implementation consisted of preoperative evaluation ofpatients and surgical video review, discussion of surgical instruments and suturematerial, deconstruction of the surgical procedure into critical subcomponentsincluding trainees walking through the steps of the procedure with the mastertrainers, high-volume surgical repetition over a short time interval,intra-operative mentoring, post-operative case review, and mental narration. Thiswas preceded by self-directed learning and followed by clinical mentorshipthrough electronic communication and quarterly on-site visits.Results: Between June 2015-June 2017, 28 patients underwent radical abdominalhysterectomy with bilateral pelvic lymphadenectomy. The first 8 surgeries wereperformed over 5 days. After the 7th case the trainee could perform the procedurealone. During and between quarterly mentoring-visits the trainee independentlyperformed the procedure on 20 additional patients. Major surgical complicationswere rare.Conclusions: Life-saving surgical treatment for cervical cancer is now availablefor the first time, as a routine clinical service, in Central/Northern, Malawi.

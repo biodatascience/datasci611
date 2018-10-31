@@ -1,44 +1,5 @@
-
-
-72. J Glob Oncol. 2018 Sep;(4):1-8. doi: 10.1200/JGO.2017.010124. Epub 2017 Aug 4.
-
-Improving Access to Cancer Testing and Treatment in Kenya.
-
-Makau-Barasa LK(1), Greene SB(1), Othieno-Abinya NA(1), Wheeler S(1), Skinner
-A(1), Bennett AV(1).
-
-Author information: 
-(1)Louise K. Makau-Barasa, Sandra B. Greene, Stephanie Wheeler, and Antonia V.
-Bennett, University of North Carolina at Chapel Hill, Chapel Hill; Asheley
-Skinner, Duke University, Durham, NC; and Nicholas A. Othieno-Abinya, University 
-of Nairobi, Nairobi, Kenya.
-
-PURPOSE: In response to the increasing cancer burden in Kenya, this study
-identified barriers to patients seeking access to cancer testing and treatment
-and to clinicians in delivering these services. Policy recommendations based on
-findings are presented.
-METHODS: This qualitative study used semistructured key informant interviews.
-Purposive sampling was used to recruit 14 participants: seven oncology clinicians
-and seven support and advocacy leaders for patients with cancer. Qualitative
-analysis was used to identify themes.
-RESULTS: Seven barriers to cancer testing and treatment were identified: high
-cost of testing and treatment, low level of knowledge about cancer among
-population and clinicians, poor health-seeking behaviors among population, long
-distances to access diagnostic and treatment services, lack of decentralized
-diagnostic and treatment facilities, poor communication, and lack of better
-cancer policy development and implementation.
-CONCLUSION: Kenyans seeking cancer services face significant barriers that result
-in late presentation, misdiagnosis, interrupted treatment, stigma, and fear. Four
-policy recommendations to improve access for patients with cancer are (1) improve
-health insurance for patients with cancer; (2) establish testing and treatment
-facilities in all counties; (3) acquire diagnosis and treatment equipment and
-train health personnel to screen, diagnose, and treat cancer; and (4) increase
-public health awareness and education about cancer to improve diagnoses and
-treatment. Effective cancer testing and treatment options can be developed to
-address cancer in a resource-constrained environment like Kenya. An in-depth look
-at effective interventions and policies being implemented in countries facing
-similar challenges would provide valuable lessons to Kenya's health sector and
-policymakers.
-
-DOI: 10.1200/JGO.2017.010124 
-PMID: 30241200 
+J Glob Oncol. 2018 Sep;(4):1-8. doi: 10.1200/JGO.17.00026. Epub 2017 Sep 8.
+Leverage of an Existing Cervical Cancer Prevention Service Platform to InitiateBreast Cancer Control Services in Zambia: Experiences and Early Outcomes.
+Pinder LF(1), Henry-Tillman R(1), Linyama D(1), Kusweje V(1), Nzayisenga JB(1),Shibemba A(1), Sahasrabuddhe V(1), Lishimpi K(1), Mwanahamuntu M(1), Hicks M(1),Parham GP(1).
+Author information:(1)Leeva F. Pinder, David Linyama, Jean-Baptiste Nzayisenga, Aaron Shibemba,Mulindi Mwanahamuntu, and Groesbeck P. Parham, University of Zambia School ofMedicine; Kennedy Lishimpi, Cancer Diseases Hospital, Lusaka; Victor Kusweje,Kabwe General Hospital, Kabwe, Zambia; Leeya F. Pinder, Michael Hicks, andGroesbeck P. Parham, University of North Carolina at Chapel Hill, Chapel Hill,NC; Ronda Henry-Tillman, University of Arkansas for Medical Sciences, LittleRock, AR; and Vikrant Sahasrabuddhe, National Cancer Institute, Bethesda, MD.
+PURPOSE: In 2005, the Cervical Cancer Prevention Program in Zambia (CCPPZ) wasimplemented and has since provided cervical cancer screen-and-treat services tomore than 500,000 women. By leveraging the successes and experiences of theCCPPZ, we intended to build capacity for the early detection and surgicaltreatment of breast cancer.METHODS: Our initiative sought to build capacity for breast cancer care throughthe (1) formation of a breast cancer advocacy alliance to raise awareness, (2)creation of resource-appropriate breast cancer care training curricula for mid-and high-level providers, and (3) implementation of early detection and treatmentcapacity within two major health care facilities.RESULTS: Six months after the completion of the initiative, the followingoutcomes were documented: Breast health education and clinical breast examination(CBE) services were successfully integrated into the service platforms of fourCCPPZ clinics. Two new breast diagnostic centers were opened, which providedaccess to breast ultrasound, ultrasound-guided core needle biopsy, and needleaspiration. Breast health education and CBE were provided to 1,955 clients, 167of whom were evaluated at the two diagnostic centers; 55 of those evaluatedunderwent core-needle biopsy, of which 17 were diagnosed with invasive cancer.Newly trained surgeons performed six sentinel lymph node mappings, eight sentinellymph node dissections, and 10 breast conservation surgeries (lumpectomies).CONCLUSION: This initiative successfully established clinical services in Zambiathat are critical for the early detection and surgical management of breastcancer.

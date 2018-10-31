@@ -1,63 +1,6 @@
-
-
-18. Lab Chip. 2018 Oct 19. doi: 10.1039/c8lc00716k. [Epub ahead of print]
-
-Microfluidic-based solid phase extraction of cell free DNA.
-
-Campos CDM(1), Gamage SST(1), Jackson JM(1), Witek MA(2), Park DS(3), Murphy
-MC(3), Godwin AK(4), Soper SA(5).
-
-Author information: 
-(1)Department of Chemistry, University of Kansas, Lawrence, KS, USA.
-ssoper@ku.edu and Center of Biomodular Multi-scale Systems for Precision
-Medicine, USA.
-(2)Department of Chemistry, University of Kansas, Lawrence, KS, USA.
-ssoper@ku.edu and Center of Biomodular Multi-scale Systems for Precision
-Medicine, USA and Department of Biomedical Engineering, The University of North
-Carolina, Chapel Hill, NC 27599, USA.
-(3)Center of Biomodular Multi-scale Systems for Precision Medicine, USA and
-Department of Mechanical Engineering, Louisiana State University, Baton Rouge,
-LA, USA.
-(4)University of Kansas Cancer Center, University of Kansas Medical Center,
-Kansas City, KS, USA.
-(5)Department of Chemistry, University of Kansas, Lawrence, KS, USA.
-ssoper@ku.edu and Center of Biomodular Multi-scale Systems for Precision
-Medicine, USA and University of Kansas Cancer Center, University of Kansas
-Medical Center, Kansas City, KS, USA and BioEngineering Program, The University
-of Kansas, Lawrence, KS 66047, USA and Department of Mechanical Engineering, The 
-University of Kansas, Lawrence, KS 66047, USA and Ulsan National Institute of
-Science and Technology, Ulsan, Republic of Korea.
-
-Cell-free DNA (cfDNA) is a liquid biopsy marker that can carry signatures (i.e., 
-mutations) associated with certain pathological conditions. Therefore, the
-extraction of cfDNA from a variety of clinical samples can be an effective and
-minimally invasive source of markers for disease detection and subsequent
-management. In the oncological diseases, circulating tumor DNA (ctDNA), a cfDNA
-sub-class, can carry clinically actionable mutations and coupled with next
-generation sequencing or other mutation detection methods provide a venue for
-effective in vitro diagnostics. However, cfDNA mutational analyses require high
-quality inputs. This necessitates extraction platforms that provide high recovery
-over the entire ctDNA size range (50 → 150 bp) with minimal interferences (i.e., 
-co-extraction of genomic DNA), and high reproducibility with a simple workflow.
-Herein, we present a novel microfluidic solid-phase extraction device (μSPE)
-consisting of a plastic chip that is activated with UV/O3 to generate
-surface-confined carboxylic acid functionalities for the μSPE of cfDNA. The μSPE 
-uses an immobilization buffer (IB) consisting of polyethylene glycol and salts
-that induce cfDNA condensation onto the activated plastic microfluidic surface.
-The μSPE consists of an array of micropillars to increase extraction bed load
-(scalable to loads >700 ng of cfDNA) and can be produced at low-cost using
-replication-based techniques. The entire μSPE can be fabricated in a single
-molding step negating the need for adding additional extraction supports to the
-device simplifying production and keeping device and assay cost low. The μSPE
-allowed for recoveries >90% of model cfDNA fragments across a range of sizes
-(100-700 bp) and even the ability to extract efficiently short cfDNA fragments
-(50 bp, >70%). In addition, the composition of the IB allowed for reducing the
-interference of co-extracted genomic DNA. We demonstrated the clinical utility of
-the μSPE by quantifying the levels of cfDNA in healthy donors and patients with
-non-small-cell lung and colorectal cancers. μSPE extracted cfDNA from plasma
-samples was also subjected to a ligase detection reaction (LDR) for determining
-the presence of mutations in the KRAS gene for colorectal and non-small cell lung
-cancer patients.
-
-DOI: 10.1039/c8lc00716k 
-PMID: 30339164 
+Clin Pharmacol Ther. 2018 Oct 19. doi: 10.1002/cpt.1257. [Epub ahead of print]
+The genotype for DPYD risk variants in colorectal cancer patients and the relatedtoxicity management costs in clinical practice.
+Toffoli G(1), Innocenti F(2), Polesel J(3), De Mattia E(1), Sartor F(1), FratteCD(1), Ecca F(1), Dreussi E(1), Palazzari E(4), Guardascione M(1), BuonadonnaA(5), Foltran L(5), Garziera M(1), Bignucolo A(1), Nobili S(6), Mini E(6),Favaretto A(7), Berretta M(5), D'Andrea M(8), De Paoli A(4), Roncato R(1),Cecchin E(1).
+Author information:(1)Experimental and Clinical Pharmacology Unit, CRO Aviano National CancerInstitute, IRCCS, via F. Gallini 2, 33081, Aviano, PN, Italy.(2)Eshelman School of Pharmacy, Center for Pharmacogenomics and IndividualizedTherapy, Lineberger Comprehensive Cancer Center, University of North Carolina,Chapel Hill, NC, USA.(3)Cancer Epidemiology Unit, CRO Aviano National Cancer Institute, IRCCS, via F.Gallini 2, Aviano, PN, Italy.(4)Radiation Oncology Unit, CRO Aviano National Cancer Institute, IRCCS, via F.Gallini 2, Aviano, PN, Italy.(5)Department of Medical Oncology, CRO Aviano National Cancer Institute, IRCCS,via F. Gallini 2, Aviano, PN, Italy.(6)Department of Health Sciences, University of Florence, VialePieraccini 6,50139, Firenze, Italy.(7)Medical Oncology Unit, Ospedale Cà Foncello, Piazzale Ospedale 1, Treviso,Italy.(8)Medical Oncology Unit, San Filippo Neri Hospital", Piazza Di S. Maria DellaPietà, Rome, Italy.
+Lack of information on the clinical utility of preemptive DPYD screening prior tofluoropyrimidine treatment is a major barrier preventing its utilization inclinical practice. This study aimed to define the association between DPYDvariants and fluoropyrimidine-related toxicity management costs. A cost analysiswas conducted on the toxicities experienced by 550 colorectal cancer patientstreated with fluoropyrimidine-based chemotherapy. Genotyping for DPYD*2A,DPYD*13, DPYDc.2846A>T, DPYD-HapB3, and UGT1A1*28 was done retrospectively, anddid not affect patients' treatments. Carriers of at least one DPYD variantexperienced higher toxicity management costs (2,972€, 95%CI 2,456-3,505) thannoncarriers (825€, 95%CI 785-864) (P<0.0001) and had a higher risk for toxicityrequiring hospitalization (OR=4.14, 95%CI 1.87-9.14). In patients receivingfluoropyrimidine/irinotecan, the incremental cost between DPYD variant andUGT1A1*28/*28 carriers and noncarriers was 2,975€. This study suggests that thetoxicity management costs during fluoropyrimidine-based therapy are associatedwith DPYD and UGT1A1*28 variants, and supports the utility of genotyping. Thisarticle is protected by copyright. All rights reserved.
+This article is protected by copyright. All rights reserved.

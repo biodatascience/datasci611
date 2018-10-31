@@ -1,43 +1,5 @@
-
-
-3. Int J Breast Cancer. 2018 Sep 30;2018:2063540. doi: 10.1155/2018/2063540.
-eCollection 2018.
-
-Stable Isotope-Resolved Metabolomic Differences between Hormone-Responsive and
-Triple-Negative Breast Cancer Cell Lines.
-
-Winnike JH(1), Stewart DA(2), Pathmasiri WW(2), McRitchie SL(2), Sumner SJ(2).
-
-Author information: 
-(1)Analytical Sciences, David H. Murdock Research Institute, Kannapolis, NC
-28081, USA.
-(2)NIH Eastern Regional Comprehensive Metabolomics Resource Core, Department of
-Nutrition, University of North Carolina at Chapel Hill Nutrition Research
-Institute, Kannapolis, NC 28081, USA.
-
-Purpose: To conduct an exploratory study to identify mechanisms that
-differentiate Luminal A (BT474 and MCF-7) and triple-negative (MDA-MB-231 and
-MDA-MB-468) breast cancer (BCa) cell lines to potentially provide novel
-therapeutic targets based on differences in energy utilization.
-Methods: Cells were cultured in media containing either [U-13C]-glucose or
-[U-13C]-glutamine for 48 hours. Conditioned media and cellular extracts were
-analyzed by 1H and 13C NMR spectroscopy.
-Results: MCF-7 cells consumed the most glucose, producing the most lactate,
-demonstrating the greatest Warburg effect-associated energy utilization. BT474
-cells had the highest tricarboxylic acid cycle (TCA) activity. The majority of
-energy utilization patterns in MCF-7 cells were more similar to MDA-MB-468 cells,
-while the patterns for BT474 cells were more similar to MDA-MB-231 cells.
-Compared to the Luminal A cell lines, TNBC cell lines consumed more glutamine and
-less glucose. BT474 and MDA-MB-468 cells produced high amounts of 13C-glycine
-from media [U-13C]-glucose which was integrated into glutathione, indicating de
-novo synthesis.
-Conclusions: Stable isotopic resolved metabolomics using 13C substrates provided 
-mechanistic information about energy utilization that was difficult to interpret 
-using 1H data alone. Overall, cell lines that have different hormone receptor
-status have different energy utilization requirements, even if they are
-classified by the same clinical BCa subtype; and these differences offer clues
-about optimizing treatment strategies.
-
-DOI: 10.1155/2018/2063540 
-PMCID: PMC6186330
-PMID: 30363973 
+Cancer Chemother Pharmacol. 2018 Oct 27. doi: 10.1007/s00280-018-3706-5. [Epubahead of print]
+Phase I study of BNC105P, carboplatin and gemcitabine in partiallyplatinum-sensitive ovarian cancer patients in first or second relapse(ANZGOG-1103).
+Lindemann K(1)(2)(3), Beale PJ(4), Rossi E(5), Goh JC(6), Vaughan MM(7), TenneyME(8)(9), Martyn JK(1), Sommeijer D(10)(11), Iglesias JL(12), Kremmidiotis G(13),Simpson J(13), Doolin E(13), Lavranos TC(13), Leske A(13), Veillard AS(1),Espinoza D(1), Stockler MR(1), Rischin D(14)(15); For ANZGOG and HCRNCollaborative Groups.
+Author information:(1)NHMRC Clinical Trials Centre, Sydney, Australia.(2)Division of Medicine, Department of Gynaecological Oncology, Oslo UniversityHospital, Oslo, Norway.(3)Institute of Clinical Medicine, Faculty of Medicine, University of Oslo, Oslo,Norway.(4)Chris O'Brien Lifehouse, Sydney, NSW, Australia.(5)Gynecologic Oncology, Department of Obstetrics and Gynecology, University ofNorth Carolina, Chapel Hill, USA.(6)Royal Brisbane and Women's Hospital, Brisbane, QLD, Australia.(7)Christchurch Hospital, Christchurch, New Zealand.(8)Northside Hospital, University Gynecologic Oncology, Sandy Springs, USA.(9)University of Chicago Medicine, Chicago, IL, USA.(10)Academic Medical Centre, Amsterdam, The Netherlands.(11)Flevohospital, Almere, The Netherlands.(12)Apobiologix, Toronto, ON, M9L2Y6, Canada.(13)Bionomics Ltd, Thebarton, SA, Australia.(14)Peter MacCallum Cancer Centre, 305 Grattan St, Melbourne, VIC, 3000,Australia. danny.rischin@petermac.org.(15)Sir Peter MacCallum Department of Oncology, University of Melbourne,Melbourne, Australia. danny.rischin@petermac.org.
+PURPOSE: The primary objective of this study was to determine the recommendeddose of the vascular disrupting agent, BNC105P, in combination with gemcitabineand carboplatin in patients with ovarian cancer in first or second relapse with aminimum 4 month progression-free interval after last platinum.METHODS: Patients received carboplatin AUC4 on day 1 in combination withescalating doses of 800 or 1000 mg/m2 gemcitabine on days 1 and 8 and escalatingdoses of 12 or 16 mg/m2 BNC105P on days 2 and 9 every 21 days for a maximum forsix cycles. Maintenance treatment with 16 mg/m2 BNC105P treatment continued for amaximum of six additional cycles. Patients were followed for safety andanti-tumor activity.RESULTS: Fifteen patients were enrolled in the study. Adverse events were mostcommonly of hematological origin. Dose-limiting toxicities (thrombocytopenia andneutropenia) occurred in two patients at the dose level of 800 mg/m2 gemcitabine,carboplatin AUC4 and 16 mg/m2 BNC105P. No dose-limiting toxicities were observedat a dose level of gemcitabine 1000 mg/m2, carboplatin AUC4 and BNC105P 12 mg/m2.BNC105P as a single agent was well tolerated at a dose of 16 mg/m2 in maintenancetreatment. Ten patients (67%) achieved a complete or partial response accordingto CA125 and/or RECIST response criteria, four of 13 (31%) responded by RECISTalone. The median progression-free survival was 5.9 months.CONCLUSIONS: We have established that BNC105P 12 mg/m2 with gemcitabine1000 mg/m2 and carboplatin AUC4 is the recommended dose level and has anacceptable toxicity profile. Further exploration of BNC105P in the ovarian cancersetting is planned.

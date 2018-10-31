@@ -1,32 +1,6 @@
-
-
-89. Cells. 2018 Sep 15;7(9). pii: E139. doi: 10.3390/cells7090139.
-
-Roles for the IKK-Related Kinases TBK1 and IKKε in Cancer.
-
-Durand JK(1)(2), Zhang Q(3)(4), Baldwin AS(5)(6).
-
-Author information: 
-(1)Curriculum in Genetics and Molecular Biology, University of North Carolina at 
-Chapel Hill, Chapel Hill, NC 27599, USA. joel_durand@med.unc.edu.
-(2)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
-Hill, NC 27599, USA. joel_durand@med.unc.edu.
-(3)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
-Hill, NC 27599, USA. qing_zhang@med.unc.edu.
-(4)Department of Pathology, University of North Carolina School of Medicine,
-Chapel Hill, NC 27599, USA. qing_zhang@med.unc.edu.
-(5)Curriculum in Genetics and Molecular Biology, University of North Carolina at 
-Chapel Hill, Chapel Hill, NC 27599, USA. abaldwin@med.unc.edu.
-(6)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel
-Hill, NC 27599, USA. abaldwin@med.unc.edu.
-
-While primarily studied for their roles in innate immune response, the IκB kinase
-(IKK)-related kinases TANK-binding kinase 1 (TBK1) and IKKε also promote the
-oncogenic phenotype in a variety of cancers. Additionally, several substrates of 
-these kinases control proliferation, autophagy, cell survival, and cancer immune 
-responses. Here we review the involvement of TBK1 and IKKε in controlling
-different cancers and in regulating responses to cancer immunotherapy.
-
-DOI: 10.3390/cells7090139 
-PMCID: PMC6162516
-PMID: 30223576 
+BJU Int. 2018 Sep 14. doi: 10.1111/bju.14534. [Epub ahead of print]
+Impact of 5α-reductase inhibitor and α-blocker therapy for benign prostatichyperplasia on prostate cancer incidence and mortality.
+Van Rompay MI(1), Curtis Nickel J(2), Ranganathan G(1), Kantoff PW(3), SolomonKR(4)(5), Lund JL(6), McKinlay JB(1)(7).
+Author information:(1)HealthCore-NERI, Watertown, MA, USA.(2)Kingston General Hospital, Queen's University, Kingston, ON, Canada.(3)Memorial Sloan Kettering Cancer Center, Weill Cornell Medical College, NewYork, NY, USA.(4)Department of Orthopaedic Surgery, Harvard Medical School, Boston, MA, USA.(5)Departments of Orthopaedic Surgery and Urology, Boston Children's Hospital,Boston, MA, USA.(6)Department of Epidemiology, University of North Carolina at Chapel Hill,Chapel Hill, NC, USA.(7)Harvard Medical School, Massachusetts General Hospital, Boston, MA, USA.
+OBJECTIVE: To investigate the use of 5α-reductase inhibitors (5ARIs) andα-blockers among men with benign prostatic hyperplasia (BPH) in relation toprostate cancer (PCa) incidence, severity and mortality.PATIENTS AND METHODS: A retrospective 20-year cohort study in men residing inSaskatchewan, aged 40-89 years, with a BPH-coded medical claim between 1995 and2014, was conducted. Cox proportional hazards regression was used to compareincidence of PCa diagnosis, metastatic PCa, Gleason score 8-10 PCa, and PCamortality among 5ARI users (n = 4 571), α-blocker users (n = 7 764) and non-users(n = 11 677).RESULTS: In comparison with both non-users and α-blocker users, 5ARI users had a~40% lower risk of a PCa diagnosis (11.0% and 11.4% vs 5.8%, respectively), andα-blocker users had an 11% lower risk of a PCa diagnosis compared with non-users.Overall, the incidence of metastatic PCa and PCa mortality was not significantlydifferent among 5ARI or α-blocker users compared with non-users (adjusted hazardratios [HR] of metastatic PCa: 1.12 and 1.13, respectively, and PCa mortality:1.11 and 1.18, respectively, P > 0.05 for both drugs), but both 5ARI anda-blocker users had ~30% higher risk of Gleason score 8-10 cancer, adjusted HR1.37, 95% confidence interval [CI] 1.03-1.82, P = 0.03, and adjusted HR 1.28, 95%CI 1.03-1.59, P = 0.02, respectively compared with non-users.CONCLUSION: The use of 5ARIs was associated with lower risk of PCa diagnosis,regardless of comparison group. Risk of high grade PCa was higher among both 5ARIusers and α-blocker users compared with non-users; however, this did nottranslate into higher risk of PCa mortality.
+© 2018 The Authors BJU International © 2018 BJU International Published by JohnWiley & Sons Ltd.

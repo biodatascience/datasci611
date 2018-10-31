@@ -1,32 +1,6 @@
-
-
-82. Am Soc Clin Oncol Educ Book. 2018 May 23;(38):515-522. doi: 10.1200/EDBK_201087.
-
-Personalizing Postoperative Treatment of Head and Neck Cancers.
-
-Maghami E(1), Koyfman SA(1), Weiss J(1).
-
-Author information: 
-(1)From the Division of Head and Neck Surgery, City of Hope National Medical
-Center, Duarte, CA; Department of Radiation Oncology, Cleveland Clinic,
-Cleveland, OH; Department of Medical Oncology, University of North Carolina
-Hospitals, Chapel Hill, NC.
-
-Head and neck cancer (HNC) treatment is a complex multidisciplinary undertaking. 
-Although overtreatment can result in functional and cosmetic defects,
-undertreatment can result in cancer recurrence. Surgery and chemoradiotherapy are
-both accepted standards for the curative intent treatment of locally advanced
-mucosal squamous cell carcinoma of the head and neck, but are often prioritized
-differently depending on the site of tumor origin (e.g., oral cavity/sinonasal
-vs. oropharynx/larynx), tumor burden, tumor biology, quality-life considerations,
-and patient preference. Regardless of modalities chosen, failure to cure remains 
-a considerable problem in locally advanced disease. For patients treated with
-primary surgery, high-risk pathologic features portend higher recurrence rates,
-and adjuvant therapy can reduce these rates and improve outcomes. This report
-details which tumor- and nodal-related factors are indications for adjuvant
-therapy, examines the impact of tumor HPV status on adjuvant treatment paradigms,
-and considers which systemic therapies should be used for which patients when
-trimodality therapy is indicated.
-
-DOI: 10.1200/EDBK_201087 
-PMID: 30231315 
+Ultrasound Med Biol. 2018 Sep 15. pii: S0301-5629(18)30336-3. doi:10.1016/j.ultrasmedbio.2018.08.003. [Epub ahead of print]
+Optimization of Phase-Change Contrast Agents for Targeting MDA-MB-231 BreastCancer Cells.
+Hadinger KP(1), Marshalek JP(1), Sheeran PS(2), Dayton PA(3), Matsunaga TO(4).
+Author information:(1)Department of Medical Imaging, University of Arizona, Tucson, Arizona, USA.(2)Physical Sciences Department, Sunnybrook Research Institute, Toronto, Ontario,Canada; Department of Medical Biophysics, University of Toronto, Toronto,Ontario, Canada.(3)Joint Department of Biomedical Engineering, University of North Carolina andNorth Carolina State University, Chapel Hill, North Carolina, USA.(4)Department of Medical Imaging, University of Arizona, Tucson, Arizona, USA.Electronic address: Tmatsunaga@radiology.arizona.edu.
+Breast cancer remains a leading cause of death for women throughout the world.Recent advances in medical imaging technologies and tumor targeting agentssignify vast potential for progress toward improved management of this globalproblem. Phase-change contrast agents (PCCAs) are dynamic imaging agents withpractical applications in both the research and clinical settings. PCCAs possesscharacteristics that allow for cellular uptake where they can be converted fromliquid-phase PCCAs to gaseous microbubbles via ultrasound energy. Previously, wereported successful internalization of folate-targeted PCCAs in MDA-MB-231 breastcancer cells followed by ultrasound-mediated activation to produce internalizedmicrobubbles. This study examines the binding, internalization and activation offolate-receptor targeted PCCAs in MDA-MB-231 breast cancer cells as a function ofgaseous core compositions, incubation time and ultrasound exposure period. Invitro results indicate that internalization and ultrasound-mediated activation ofPCCAs were significantly greater using a 50:50 mixture ofdecafluorobutane:dodecafluoropentane compared with other core compositions: 50:50octafluoropropane:decafluorobutane (p < 0.0001), decafluorobutane (p < 0.04) anddodecafluoropentane (p < 0.0001). Furthermore, it was found that PCCAs composedof perfluorocarbons with higher boiling points responded with greater activationefficiency when exposed to 12s of ultrasound exposure as opposed to 4s ofultrasound exposure. When evaluating different incubation times, it was foundthat incubating the PCCAs with breast cancer cells for 60min did not producesignificantly greater internalization and activation compared with incubation for10 min; this was concluded after comparing the number of microbubbles present percell before ultrasound versus post-ultrasound, and finding a ratio ofintracellular microbubbles post-ultrasound/pre-ultrasound, 3.46 versus 3.14,respectively. The data collected in this study helps illustrate furtheroptimization of folate-receptor targeted PCCAs for breast cancer targeting andimaging.
+Copyright © 2018 World Federation for Ultrasound in Medicine 8 Biology. Publishedby Elsevier Inc. All rights reserved.

@@ -1,33 +1,5 @@
-
-
-17. Am J Epidemiol. 2018 Oct 19. doi: 10.1093/aje/kwy223. [Epub ahead of print]
-
-General Relative Rate Models for the Analysis of Case-Cohort Designs.
-
-Richardson DB(1), Langholz B(2), Kelly-Reif K(1).
-
-Author information: 
-(1)Department of Epidemiology, School of Public Health, University of North
-Carolina at Chapel Hill, Chapel Hill, North Carolina.
-(2)Division of Biostatistics, Department of Preventive Medicine, Keck School of
-Medicine, University of Southern California, Los Angeles, California.
-
-A standard approach to analysis of case-cohort data involves fitting log-linear
-models. We describe how standard statistical software can be used to fit a broad 
-class of general relative rate models to case-cohort data and derive confidence
-intervals. We focus on a case-cohort design in which a roster has been assembled 
-and events ascertained, but additional information needs to be collected on
-explanatory variables. The additional information is ascertained just for
-individuals who experience the event of interest and for a sample of the cohort
-members enumerated at study entry. One appeal of such a case-cohort design is
-that this sample of the cohort may be used to support analyses of several
-outcomes. The ability to fit general relative rate models to case cohort data may
-allow an investigator to reduce model misspecification in exposure-response
-analyses, fit models in which some factors have effects that are additive and
-others multiplicative, and facilitate estimation of relative excess risk due to
-interaction. We address model fitting for simple random sampling designs as well 
-as stratified designs. Data on lung cancer among radon exposed men are used to
-illustrate these methods.
-
-DOI: 10.1093/aje/kwy223 
-PMID: 30339180 
+Stat Sin. 2018 Oct;28(4):1867-1886. doi: 10.5705/ss.202016.0350.
+Functional Linear Regression Models for Nonignorable Missing Scalar Responses.
+Li T(1), Xie F(2), Feng X(3), Ibrahim JG(4), Zhu H(1)(4).
+Author information:(1)University of Texas MD Anderson Cancer Center.(2)Nanjing Normal University.(3)The Chinese University of Hong Kong.(4)University of North Carolina at Chapel Hill.
+As an important part of modern health care, medical imaging data, which can beregarded as densely sampled functional data, have been widely used for diagnosis,screening, treatment, and prognosis, such as finding breast cancer throughmammograms. The aim of this paper is to propose a functional linear regressionmodel for using functional (or imaging) predictors to predict clinical outcomes(e.g., disease status), while addressing missing clinical outcomes. We introducean exponential tilting semiparametric model to account for the nonignorablemissing data mechanism. We develop a set of estimating equations and itsassociated computational methods for both parameter estimation and the selectionof the tuning parameters. We also propose a bootstrap resampling procedure forcarrying out statistical inference. Under some regularity conditions, wesystematically establish the asymptotic properties (e.g., consistency andconvergence rate) of the estimates calculated from the proposed estimatingequations. Simulation studies and a real data analysis are used to illustrate thefinite sample performance of the proposed methods.

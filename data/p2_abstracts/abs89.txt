@@ -1,63 +1,6 @@
-
-
-90. Eur J Clin Pharmacol. 2018 Sep 15. doi: 10.1007/s00228-018-2552-z. [Epub ahead of
-print]
-
-Pharmacokinetic determinants of cisplatin-induced subclinical kidney injury in
-oncology patients.
-
-Ibrahim ME(1), Chang C(1), Hu Y(2), Hogan SL(2), Mercke N(1), Gomez M(1),
-O'Bryant CL(1)(3), Bowles DW(3), George B(4), Wen X(4), Buckley B(5), Aleksunes
-L(4)(5), Joy MS(6)(7)(8).
-
-Author information: 
-(1)Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and
-Pharmaceutical Sciences, University of Colorado, Anschutz Medical Campus, 12850
-E. Montview Blvd, Mail Stop C238, Room V20-4108, Aurora, CO, 80045, USA.
-(2)Kidney Center, University of North Carolina School of Medicine, Division of
-Nephology and Hypertension, Chapel Hill, NC, 27516, USA.
-(3)Cancer Center, University of Colorado, Anschutz Medical Campus, 1665 Aurora
-Ct, Aurora, CO, 80045, USA.
-(4)Department of Pharmacology and Toxicology, Ernest Mario School of Pharmacy,
-Rutgers University, Davidson Hall, 96 Davidson Rd, Piscataway, NJ, 08854, USA.
-(5)Environmental and Occupational Health Sciences Institute, Rutgers University, 
-170 Frelinghuysen Rd, Piscataway, NJ, 08854, USA.
-(6)Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and
-Pharmaceutical Sciences, University of Colorado, Anschutz Medical Campus, 12850
-E. Montview Blvd, Mail Stop C238, Room V20-4108, Aurora, CO, 80045, USA.
-Melanie.Joy@ucdenver.edu.
-(7)Cancer Center, University of Colorado, Anschutz Medical Campus, 1665 Aurora
-Ct, Aurora, CO, 80045, USA. Melanie.Joy@ucdenver.edu.
-(8)Division of Renal Diseases and Hypertension, University of Colorado, Anschutz 
-Medical Campus, School of Medicine, 13001 E 17th Pl, Aurora, CO, 80045, USA.
-Melanie.Joy@ucdenver.edu.
-
-PURPOSE: The ability to predict and detect clinical and subclinical
-nephrotoxicity early in the course of therapy has the potential to improve
-long-term outcomes in cancer patients receiving cisplatin chemotherapy.
-Pharmacokinetic parameters could serve as predictors of cisplatin-induced
-nephrotoxicity.
-METHODS: Participants [n = 13] were treated with a 1-h cisplatin infusion
-[30-75 mg/m2]. Blood was collected pre-dose and up to 6 h post-dose. Urinary
-biomarkers [KIM-1, calbindin, clusterin, GST-pi, β2M, albumin, NGAL, osteopontin,
-clusterin, MCP-1, cystatin C, and TFF3] were measured at baseline, days 3 and 10.
-Total and unbound platinum concentrations were measured using ICP/MS.
-Noncompartmental analysis was performed, and correlation and regression analyses 
-evaluated the relationships between platinum pharmacokinetics and nephrotoxicity.
-RESULTS: Peak platinum urinary concentrations correlated with urinary levels of
-KIM-1, calbindin, clusterin, GST-pi, β2M, albumin, NGAL, osteopontin, clusterin, 
-cystatin C, and TFF3 at day 10. Unbound platinum plasma concentrations at 2 h
-also correlated with urinary clusterin, β2M, cystatin C, NGAL, osteopontin, and
-TFF3 at day 3. Regression analyses suggested 2-h total plasma platinum
-concentrations greater than 2000 ng/ml, and peak urinary platinum concentrations 
-above 24,000 ng/ml may serve as potential approximations for elevated risk of
-nephrotoxicity. Platinum area under the plasma concentration time curve was
-associated with serum creatinine and estimated glomerular filtration rate.
-CONCLUSIONS: Peak plasma and urinary platinum concentrations and pharmacokinetic 
-parameters were associated with risk of subclinical cisplatin-induced kidney
-injury as assessed using novel urinary biomarkers. Future studies will examine
-these relationships in larger clinical populations of cisplatin-induced acute
-kidney injury.
-
-DOI: 10.1007/s00228-018-2552-z 
-PMID: 30220072 
+Lancet Oncol. 2018 Oct;19(10):1404-1416. doi: 10.1016/S1470-2045(18)30456-X. Epub2018 Sep 10.
+Effect of apalutamide on health-related quality of life in patients withnon-metastatic castration-resistant prostate cancer: an analysis of the SPARTANrandomised, placebo-controlled, phase 3 trial.
+Saad F(1), Cella D(2), Basch E(3), Hadaschik BA(4), Mainwaring PN(5), OudardS(6), Graff JN(7), McQuarrie K(8), Li S(9), Hudgens S(10), Lawson J(11),Lopez-Gitlitz A(12), Yu MK(12), Smith MR(13), Small EJ(14).
+Author information:(1)Centre Hospitalier de l'Université de Montréal, Université de Montréal,Montreal, QC, Canada. Electronic address: fred.saad@umontreal.ca.(2)Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.(3)Cancer Outcomes Research Program, Lineberger Comprehensive Cancer Center,University of North Carolina, NC, USA.(4)University of Duisburg-Essen, German Cancer Consortium (DKTK), partner siteUniversity Hospital Essen, Essen, Germany; Ruprecht-Karls University Heidelberg,Heidelberg, Germany.(5)Center for Personalized Nanomedicine, University of Queensland, Brisbane, QLD,Australia.(6)Georges Pompidou Hospital, Paris, France.(7)VA Portland Health Care System, Portland and Knight Cancer Institute, OregonHealth & Science University, Portland, OR, USA.(8)Janssen Research & Development, Horsham, PA, USA.(9)Janssen Research & Development, Spring House, PA, USA.(10)Clinical Outcomes Solutions, Tucson, AZ, USA.(11)Janssen Research & Development, Raritan, NJ, USA.(12)Janssen Research & Development, Los Angeles, CA, USA.(13)Massachusetts General Hospital Cancer Center and Harvard Medical School,Boston, MA, USA.(14)Helen Diller Family Comprehensive Cancer Center, University of California SanFrancisco, San Francisco, CA, USA.
+BACKGROUND: In the SPARTAN trial, addition of apalutamide to androgen deprivationtherapy, as compared with placebo plus androgen deprivation therapy,significantly improved metastasis-free survival in men with non-metastaticcastration-resistant prostate cancer who were at high risk for development ofmetastases. We aimed to investigate the effects of apalutamide versus placeboadded to androgen deprivation therapy on health-related quality of life (HRQOL).METHODS: SPARTAN is a multicentre, international, randomised, phase 3 trial.Participants were aged 18 years or older, with non-metastaticcastration-resistant prostate cancer, a prostate-specific antigen doubling timeof 10 months or less, and a prostate-specific antigen concentration of 2 ng/mL ormore in serum. Patients were randomly assigned (2:1) to 240 mg oral apalutamideper day plus androgen deprivation therapy, or matched oral placebo plus androgendeprivation therapy, using an interactive voice randomisation system. Permutedblock randomisation was used according to the three baseline stratificationfactors: prostate-specific antigen doubling time (>6 months vs ≤6 months), use ofbone-sparing drugs (yes vs no), and presence of local-regional nodal disease (N0vs N1). Each treatment cycle was 28 days. The primary endpoint wasmetastasis-free survival. The trial was unblinded in July, 2017. In thisprespecified exploratory analysis we assessed HRQOL using the FunctionalAssessment of Cancer Therapy-Prostate (FACT-P) and EQ-5D-3L questionnaires, whichwe collected at baseline, day 1 of cycle 1 (before dose), day 1 of treatmentcycles 1-6, day 1 of every two cycles from cycles 7 to 13, and day 1 of everyfour cycles thereafter. This study is registered with ClinicalTrials.gov, numberNCT01946204.FINDINGS: Between Oct 14, 2013, and Dec 15, 2016, we randomly assigned 1207patients to receive apalutamide (n=806) or placebo (n=401). The clinical cutoffdate, as for the primary analysis, was May 19, 2017. Median follow-up for overallsurvival was 20·3 months (IQR 14·8-26·6). FACT-P total and subscale scores wereassociated with a preservation of HRQOL from baseline to cycle 29 in theapalutamide group; there were similar results for EQ-5D-3L. At baseline, the meanfor FACT-P total score in both the apalutamide and placebo groups were consistentwith the FACT-P general population norm for US adult men. Group meanpatient-reported outcome scores over time show that HRQOL was maintained frombaseline after initiation of apalutamide treatment and was similar over timeamong patients receiving apalutamide versus placebo. Least-squares mean changefrom baseline shows that HRQOL deterioration was more apparent in the placebogroup.INTERPRETATION: In asymptomatic men with high-risk non-metastaticcastration-resistant prostate cancer, HRQOL was maintained after initiation ofapalutamide treatment. Considered with findings from SPARTAN, patients whoreceived apalutamide had longer metastasis-free survival and longer time tosymptomatic progression than did those who received placebo, while preservingHRQOL.FUNDING: Janssen Research & Development.
+Copyright © 2018 Elsevier Ltd. All rights reserved.

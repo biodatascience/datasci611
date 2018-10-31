@@ -1,59 +1,6 @@
-
-
-24. Cancer Chemother Pharmacol. 2018 Oct 16. doi: 10.1007/s00280-018-3702-9. [Epub
-ahead of print]
-
-Mononuclear phagocyte system function and nanoparticle pharmacology in obese and 
-normal weight ovarian and endometrial cancer patients.
-
-Starling BR(1), Kumar P(1)(2), Lucas AT(1), Barrow D(3), Farnan L(4), Hendrix
-L(4), Giovinazzo H(1)(5), Song G(1)(6), Gehrig P(7), Bensen JT(4)(8), Zamboni
-WC(9)(10)(11).
-
-Author information: 
-(1)Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman School
-of Pharmacy, University of North Carolina at Chapel Hill, 120 Mason Farm Road,
-Suite 1013, CB 7361, Chapel Hill, NC, 27599-7361, USA.
-(2)Clinical Pharmacology, Otsuka Pharmaceutical Companies, Rockville, MD, 20850, 
-USA.
-(3)UNC Cytokine and Biomarker Core Facility, UNC School of Dentistry, University 
-of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.
-(4)UNC Lineberger Comprehensive Cancer Center, University of North Carolina at
-Chapel Hill, Chapel Hill, NC, 27514, USA.
-(5)Department of Pharmacology and Molecular Sciences, Johns Hopkins University
-School of Medicine, Baltimore, MD, 21205, USA.
-(6)ScitoVation LLC, Research Triangle Park, NC, 27709, USA.
-(7)Department of Gynecologic Oncology, UNC School of Medicine, University of
-North Carolina Medical Center, Chapel Hill, NC, 27514, USA.
-(8)Department of Epidemiology, UNC Gillings School of Public Health, University
-of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.
-(9)Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman School
-of Pharmacy, University of North Carolina at Chapel Hill, 120 Mason Farm Road,
-Suite 1013, CB 7361, Chapel Hill, NC, 27599-7361, USA. zamboni@email.unc.edu.
-(10)UNC Lineberger Comprehensive Cancer Center, University of North Carolina at
-Chapel Hill, Chapel Hill, NC, 27514, USA. zamboni@email.unc.edu.
-(11)Carolina Center of Cancer Nanotechnology Excellence, University of North
-Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA. zamboni@email.unc.edu.
-
-PURPOSE: Obesity may alter mononuclear phagocyte system (MPS) function and the
-pharmacology and efficacy of nanoparticles therapies, such as PEGylated liposomal
-doxorubicin (PLD). We aimed to evaluate the relationships between hormone and
-chemokine mediators of MPS function and the pharmacokinetic (PK) exposure of PLD 
-in obese and normal weight patients with ovarian and endometrial cancer.
-METHODS: Hormone and chemokine mediators in obese and normal weight ovarian and
-endometrial cancer patients were measured. A separate pharmacology study was
-performed that evaluated the relationship between serum hormone concentrations,
-MPS function, and PK disposition of PLD in refractory ovarian cancer patients.
-RESULTS: Univariate analysis revealed a significant relationship between serum
-estradiol and body mass index (OR 8.64, 95% CI 2.67-28.0, p < 0.001). Estrone and
-testosterone concentrations were positively correlated with MPS function
-(ρ = 0.57 and 0.53, p = 0.14 and 0.18, respectively) and inversely correlated
-with PLD PK exposure (ρ = - 0.75 and - 0.76, respectively, p = 0.02 for both).
-CONCLUSIONS: Higher MPS function resulting in reduced PLD exposure is a potential
-mechanism for reduced efficacy of PLD and other nanoparticles observed in obese
-patients with cancer. PK simulations suggest higher doses of PLD are required in 
-obese patients to achieve similar exposures as standard dosing in normal weight
-patients.
-
-DOI: 10.1007/s00280-018-3702-9 
-PMID: 30327876 
+Cancer Epidemiol Biomarkers Prev. 2018 Oct 17. pii: cebp.0674.2018. doi:10.1158/1055-9965.EPI-18-0674. [Epub ahead of print]
+Adult physical activity and breast cancer risk in women with a family history ofbreast cancer.
+Niehoff NM(1), Nichols HB(2), Zhao S(3), White AJ(4), Sandler DP(4).
+Author information:(1)Epidemiology, University of North Carolina at Chapel Hillnicolen@live.unc.edu.(2)Department of Epidemiology, University of North Carolina at Chapel Hill.(3)Biostatistics & Computational Biology Branch, National Institute ofEnvironmental Health Sciences.(4)Epidemiology Branch, National Institute of Environmental Health Sciences.
+BACKGROUND: Recreational physical activity has been consistently associated withreduced breast cancer risk. Less is known about how family history of breastcancer impacts the association, and whether it varies by menopausal status.METHODS: The Sister Study is a cohort of 50,884 women who had a sister withbreast cancer, but no prior breast cancer themselves. Women reported allrecreational sport/exercise activities they participated in over the past 12months. Hours/week and MET-hours/week of physical activity were considered inassociation with breast cancer risk. Hazard ratios (HRs) and 95% confidenceintervals (CIs) were calculated with Cox regression. Extent of family history,examined as a modifier, was characterized by a Bayesian score incorporatingcharacteristics of the family structure.RESULTS: During follow-up (average 8.4 years), 3,023 cases were diagnosed. Higherhours/week (HR>=7vs<1=0.77; 95%CI: 0.66-0.90) and MET-hours/week(HRquartile4vs1=0.75; 95%CI: 0.67-0.85) of physical activity were associated withreduced postmenopausal breast cancer risk. Hours/week and MET-hours/week wereassociated with suggestive increased premenopausal breast cancer risk(MET-hours/week HRquartile4vs1=1.25; 95%CI: 0.98-1.60). Associations did not varywith extent of family history. However, the increased risk in premenopausal womenmay be limited to those with stronger family history.CONCLUSIONS: In women with a family history of breast cancer, physical activitywas associated with reduced postmenopausal, but not premenopausal, breast cancerrisk and was not modified by extent of family history.IMPACT: This was the first study to examine the association between physicalactivity and breast cancer risk in a large population with a family history ofbreast cancer.
+Copyright ©2018, American Association for Cancer Research.

@@ -1,44 +1,5 @@
-
-
-87. Mol Pharm. 2018 Oct 1. doi: 10.1021/acs.molpharmaceut.8b00672. [Epub ahead of
-print]
-
-Synthesis and Characterization of Cetuximab-Docetaxel and Panitumumab-Docetaxel
-Antibody-Drug Conjugates for EGFR-Overexpressing Cancer Therapy.
-
-Glatt DM(1), Beckford Vera DR(2), Prabhu SS(1), Mumper RJ(1), Luft JC(1),
-Benhabbour SR(1)(3), Parrott MC(2).
-
-Author information: 
-(1)Division of Pharmacoengineering and Molecular Pharmaceutics, UNC Eshelman
-School of Pharmacy , University of North Carolina at Chapel Hill , 125 Mason Farm
-Road , Chapel Hill , North Carolina 27599 , United States.
-(2)Department of Radiology, Biomedical Research Imaging Center , University of
-North Carolina at Chapel Hill , Marsico Hall, 125 Mason Farm Road , Chapel Hill ,
-North Carolina 27599 , United States.
-(3)UNC-NCSU Joint Department of Biomedical Engineering , University of North
-Carolina at Chapel Hill , Marsico Hall, 125 Mason Farm Road , Chapel Hill , North
-Carolina 27599 , United States.
-
-The safety and efficacy of anticancer antibody-drug conjugates (ADCs) depend on
-the selection of tumor-targeting monoclonal antibody (mAb), linker, and drug, as 
-well as their specific chemical arrangement and linkage chemistry. In this study,
-we used a heterobifunctional cross-linker to conjugate docetaxel (DX) to
-cetuximab (CET) or panitumumab (PAN). The resulting ADCs were investigated for
-their in vitro EGFR-specific cytotoxicity and in vivo anticancer activity.
-Reaction conditions, such as reducing agent, time, temperature, and alkylation
-buffer, were optimized to yield potent and stable ADCs with consistent
-batch-to-batch drug-to-antibody ratios (DARs). ADCs were synthesized with DARs
-from 0.4 to 3.0, and all retained their EGFR affinity and specificity after
-modification. ADCs were sensitive to cell surface wildtype EGFR expression,
-demonstrating more cytotoxicity in EGFR-expressing A431 and MDA-MB-231 cell lines
-compared to U87MG cells. A431 tumor-bearing mice treated once weekly for four
-weeks with 100 mg/kg cetuximab-docetaxel ADC (C-SC-DX, DAR 2.5) showed durable
-anticancer responses and improved overall survival compared to the same treatment
-regimen with 1 mg/kg DX, 100 mg/kg CET, or a combination 1 mg/kg DX and 100 mg/kg
-CET. New treatment options are emerging for patients with both wild-type and
-mutated EGFR-overexpressing cancers, and these studies highlight the potential
-role of EGFR-targeted ADC therapies as a promising new treatment option.
-
-DOI: 10.1021/acs.molpharmaceut.8b00672 
-PMID: 30226780 
+Eur J Clin Pharmacol. 2018 Sep 15. doi: 10.1007/s00228-018-2552-z. [Epub ahead ofprint]
+Pharmacokinetic determinants of cisplatin-induced subclinical kidney injury inoncology patients.
+Ibrahim ME(1), Chang C(1), Hu Y(2), Hogan SL(2), Mercke N(1), Gomez M(1),O'Bryant CL(1)(3), Bowles DW(3), George B(4), Wen X(4), Buckley B(5), AleksunesL(4)(5), Joy MS(6)(7)(8).
+Author information:(1)Department of Pharmaceutical Sciences, Skaggs School of Pharmacy andPharmaceutical Sciences, University of Colorado, Anschutz Medical Campus, 12850E. Montview Blvd, Mail Stop C238, Room V20-4108, Aurora, CO, 80045, USA.(2)Kidney Center, University of North Carolina School of Medicine, Division ofNephology and Hypertension, Chapel Hill, NC, 27516, USA.(3)Cancer Center, University of Colorado, Anschutz Medical Campus, 1665 AuroraCt, Aurora, CO, 80045, USA.(4)Department of Pharmacology and Toxicology, Ernest Mario School of Pharmacy,Rutgers University, Davidson Hall, 96 Davidson Rd, Piscataway, NJ, 08854, USA.(5)Environmental and Occupational Health Sciences Institute, Rutgers University,170 Frelinghuysen Rd, Piscataway, NJ, 08854, USA.(6)Department of Pharmaceutical Sciences, Skaggs School of Pharmacy andPharmaceutical Sciences, University of Colorado, Anschutz Medical Campus, 12850E. Montview Blvd, Mail Stop C238, Room V20-4108, Aurora, CO, 80045, USA.Melanie.Joy@ucdenver.edu.(7)Cancer Center, University of Colorado, Anschutz Medical Campus, 1665 AuroraCt, Aurora, CO, 80045, USA. Melanie.Joy@ucdenver.edu.(8)Division of Renal Diseases and Hypertension, University of Colorado, AnschutzMedical Campus, School of Medicine, 13001 E 17th Pl, Aurora, CO, 80045, USA.Melanie.Joy@ucdenver.edu.
+PURPOSE: The ability to predict and detect clinical and subclinicalnephrotoxicity early in the course of therapy has the potential to improvelong-term outcomes in cancer patients receiving cisplatin chemotherapy.Pharmacokinetic parameters could serve as predictors of cisplatin-inducednephrotoxicity.METHODS: Participants [n = 13] were treated with a 1-h cisplatin infusion[30-75 mg/m2]. Blood was collected pre-dose and up to 6 h post-dose. Urinarybiomarkers [KIM-1, calbindin, clusterin, GST-pi, β2M, albumin, NGAL, osteopontin,clusterin, MCP-1, cystatin C, and TFF3] were measured at baseline, days 3 and 10.Total and unbound platinum concentrations were measured using ICP/MS.Noncompartmental analysis was performed, and correlation and regression analysesevaluated the relationships between platinum pharmacokinetics and nephrotoxicity.RESULTS: Peak platinum urinary concentrations correlated with urinary levels ofKIM-1, calbindin, clusterin, GST-pi, β2M, albumin, NGAL, osteopontin, clusterin,cystatin C, and TFF3 at day 10. Unbound platinum plasma concentrations at 2 halso correlated with urinary clusterin, β2M, cystatin C, NGAL, osteopontin, andTFF3 at day 3. Regression analyses suggested 2-h total plasma platinumconcentrations greater than 2000 ng/ml, and peak urinary platinum concentrationsabove 24,000 ng/ml may serve as potential approximations for elevated risk ofnephrotoxicity. Platinum area under the plasma concentration time curve wasassociated with serum creatinine and estimated glomerular filtration rate.CONCLUSIONS: Peak plasma and urinary platinum concentrations and pharmacokineticparameters were associated with risk of subclinical cisplatin-induced kidneyinjury as assessed using novel urinary biomarkers. Future studies will examinethese relationships in larger clinical populations of cisplatin-induced acutekidney injury.

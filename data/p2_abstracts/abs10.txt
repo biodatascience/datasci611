@@ -1,62 +1,6 @@
-
-
-11. Cerebellum. 2018 Oct 22. doi: 10.1007/s12311-018-0987-5. [Epub ahead of print]
-
-TRIM9 and TRIM67 Are New Targets in Paraneoplastic Cerebellar Degeneration.
-
-Do LD(1)(2)(3), Gupton SL(4), Tanji K(5), Bastien J(1)(2)(3), Brugière S(6),
-Couté Y(6), Quadrio I(7), Rogemond V(1)(2)(3), Fabien N(8), Desestret V(1)(2)(3),
-Honnorat J(9)(10)(11)(12).
-
-Author information: 
-(1)French Reference Center for Paraneoplastic Neurological Syndrome, Hospices
-Civils de Lyon, Hôpital Neurologique, F-69677, Bron, France.
-(2)Institut NeuroMyoGene INSERM U1217/CNRS UMR 5310, Université de Lyon -
-Université Claude Bernard Lyon 1, F-69372, Lyon, France.
-(3)University of Lyon, Université Claude Bernard Lyon 1, Lyon, F-69372, Lyon,
-France.
-(4)Department of Cell Biology and Physiology, University of North Carolina,
-Chapel Hill, NC, 27516, USA.
-(5)Department of Neuropathology, Institute of Brain Science, Hirosaki University 
-Graduate School of Medicine, 5 Zaifu-cho, Hirosaki, 036-8562, Japan.
-(6)University Grenoble Alpes, CEA, Inserm, BIG-BGE, 38000, Grenoble, France.
-(7)Neurochemistry Unit, Biochemistry Department, Hospices Civils de Lyon,
-Groupement Hospitalier Est, Bron, France.
-(8)Immunology department, Lyon-Sud Hospital, Hospices Civils de Lyon,
-Pierre-Bénite, France.
-(9)French Reference Center for Paraneoplastic Neurological Syndrome, Hospices
-Civils de Lyon, Hôpital Neurologique, F-69677, Bron, France.
-jerome.honnorat@chu-lyon.fr.
-(10)Institut NeuroMyoGene INSERM U1217/CNRS UMR 5310, Université de Lyon -
-Université Claude Bernard Lyon 1, F-69372, Lyon, France.
-jerome.honnorat@chu-lyon.fr.
-(11)University of Lyon, Université Claude Bernard Lyon 1, Lyon, F-69372, Lyon,
-France. jerome.honnorat@chu-lyon.fr.
-(12)Neuro-Oncologie, Hôpital Neurologique Pierre Wertheimer, 59 Boulevard Pinel, 
-69677, Bron Cedex, France. jerome.honnorat@chu-lyon.fr.
-
-To describe autoantibodies (Abs) against tripartite motif-containing (TRIM)
-protein 9 and 67 in two patients with paraneoplastic cerebellar degeneration
-(PCD) associated with lung adenocarcinoma. Abs were characterized using
-immunohistochemistry, Western blotting, cultures of murine cortical, and
-hippocampal neurons, immunoprecipitation, mass spectrometry, knockout mice for
-Trim9 and 67, and cell-based assay. Control samples included sera from 63
-patients with small cell lung cancer without any paraneoplastic neurological
-syndrome, 36 patients with lung adenocarcinoma and PNS, CSF from 100 patients
-with autoimmune encephalitis, and CSF from 165 patients with neurodegenerative
-diseases. We found Abs targeting TRIM9 and TRIM67 at high concentration in the
-serum and the cerebrospinal fluid (CSF) of a 78-year-old woman and a 65-year-old 
-man. Both developed subacute severe cerebellar ataxia. Brain magnetic resonance
-imaging found no abnormality and no cerebellar atrophy. Both had CSF inflammation
-with mild pleiocytosis and a few oligoclonal bands. We identified a pulmonary
-adenocarcinoma, confirming the paraneoplastic neurological syndrome in both
-patients. They received immunomodulatory and cancer treatments without
-improvement of cerebellar ataxia, even though both were in remission of their
-cancer (for more than 10 years in one patient). Anti-TRIM9 and anti-TRIM67 Abs
-were specific to these two patients. All control serum and CSF samples tested
-were negative for anti-TRIM9 and 67. Anti-TRIM9 and anti-TRIM67 Abs appeared to
-be specific biomarkers of PCD and should be added to the panel of antigens tested
-when this is suspected.
-
-DOI: 10.1007/s12311-018-0987-5 
-PMID: 30350014 
+Urology. 2018 Oct 22. pii: S0090-4295(18)31102-6. doi:10.1016/j.urology.2018.10.016. [Epub ahead of print]
+Perioperative Intravesical Chemotherapy for Patients with Non-Muscle InvasiveBladder Cancer: Understanding the Extent of and Sources of Variation inGuideline-Recommended Use.
+Check DK(1), Aaronson DS(2), Nielsen ME(3), Lee VS(4), Ergas IJ(5), Roh JM(6),Kushi LH(7), Tang L(8), Kwan ML(9).
+Author information:(1)Kaiser Permanente Northern California Division of Research. Electronicaddress: devon.k.check@kp.org.(2)Department of Urology, Kaiser Permanente Northern California Oakland MedicalCenter. Electronic address: david.s.aaronson@kp.org.(3)Department of Urology, University of North Carolina at Chapel Hill. Electronicaddress: mnielsen@med.unc.edu.(4)Kaiser Permanente Northern California Division of Research. Electronicaddress: valerie.s.lee@kp.org.(5)Kaiser Permanente Northern California Division of Research. Electronicaddress: isaac.j.ergas@kp.org.(6)Kaiser Permanente Northern California Division of Research. Electronicaddress: janise.m.roh@kp.org.(7)Kaiser Permanente Northern California Division of Research. Electronicaddress: larry.kushi@kp.org.(8)Department of Cancer Prevention and Control, Roswell Park Comprehensive CancerInstitute. Electronic address: li.tang@roswellpark.org.(9)Kaiser Permanente Northern California Division of Research. Electronicaddress: marilyn.l.kwan@kp.org.
+OBJECTIVE: To examine intravesical chemotherapy (IVC) use according to non-muscleinvasive bladder cancer (NMIBC) patient disease risk, and the contributions ofmulti-level factors to variation in proficient use among patients withlow-intermediate disease.METHODS: This study included 988 patients diagnosed with NMIBC in an integratedhealth system in Northern California from 2015-2017. We calculated IVC receipt bydisease risk, and among patients with low-intermediate risk disease, assessed therelationship between multi-level factors and IVC receipt using a logisticregression model with random intercepts for provider and service area, andpatient-, provider-, and service area-level fixed effects. We further assessedthe association of provider- and service area-level factors with IVC use byexamining intra-class correlation coefficients (ICCs).RESULTS: Similar proportions of low-intermediate (36%) and high-risk (34%)patients received IVC. In the multivariate analysis including low-intermediaterisk patients, service area volume was strongly and statistically significantlyassociated with IVC use (aOR, high- v. low-volume: 0.08, 95% CI: 0.01-0.58).Provider- and service area-level ICCs were large, (38%, p=0.0009 and 39% p=0.03,respectively) indicating that much of the variance in IVC use was explained byfactors at these levels.CONCLUSION: Our findings highlight opportunities to improve proficient use ofIVC. Future research should assess provider- and practice-level barriers to IVCuse among low-intermediate risk patients.
+Copyright © 2018. Published by Elsevier Inc.

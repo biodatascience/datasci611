@@ -1,49 +1,6 @@
-
-
-76. World J Urol. 2018 Sep 20. doi: 10.1007/s00345-018-2486-1. [Epub ahead of print]
-
-SIU-ICUD recommendations on bladder cancer: systemic therapy for metastatic
-bladder cancer.
-
-Merseburger AS(1), Apolo AB(2), Chowdhury S(3), Hahn NM(4), Galsky MD(5),
-Milowsky MI(6), Petrylak D(7), Powles T(8), Quinn DI(9), Rosenberg JE(10),
-Siefker-Radtke A(11), Sonpavde G(12), Sternberg CN(13).
-
-Author information: 
-(1)Department of Urology, Campus Lübeck, University Hospital Schleswig-Holstein, 
-Lübeck, Germany.
-(2)Center for Cancer Research, National Cancer Institute, NIH Maryland, Bethesda,
-USA.
-(3)Guy's and St, Thomas' Hospital, Great Maze Pond, London, UK.
-(4)Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of 
-Medicine, Baltimore, USA.
-(5)Division of Hematology and Medical Oncology, The Tisch Cancer Institute, Icahn
-School of Medicine at Mount Sinai, New York, USA.
-(6)Division of Hematology/Oncology, Department of Medicine, University of North
-Carolina, Lineberger Comprehensive Cancer Center, Chapel Hill, NC, USA.
-(7)Yale Cancer Center, New Haven, CT, USA.
-(8)Barts Cancer Institute, London, USA.
-(9)Norris Comprehensive Cancer Center, University of Southern California, Los
-Angeles, CA, USA.
-(10)Memorial Sloan Kettering Cancer Center, New York, USA.
-(11)Department of Genitourinary Medical Oncology, The University of Texas MD
-Anderson Cancer Center, Houston, TX, USA.
-(12)Department of Medical Oncology, Bladder Cancer Center, Dana Farber Cancer
-Institute, Boston, MA, USA.
-(13)Department of Medical Oncology, San Camillo Forlanini Hospital, Rome, Italy. 
-cnsternberg@corasternberg.com.
-
-The SIU (Société Internationale d'Urologie)-ICUD (International Consultation on
-Urologic Diseases) working group on systemic therapy for metastatic bladder
-cancer has summarized the most recent findings on the aforementioned topic and
-came to conclusions and recommendations according to the evidence published. In
-Europe and the United States, treatment for metastatic UC has changed a great
-deal recently, mainly involving a move from chemotherapy to immune checkpoint
-blockers. This is particularly true in platinum-refractory disease, where
-supportive randomized data exist. Five checkpoint blockers have been approved in 
-this setting by the FDA: avelumab, atezolizumab, durvalumab, nivolumab, and
-pembrolizumab. Nivolumab, pembrolizumab, and atezolizumab have been approved in
-Europe.
-
-DOI: 10.1007/s00345-018-2486-1 
-PMID: 30238401 
+Dis Mon. 2018 Oct;64(10):451-466. doi: 10.1016/j.disamonth.2018.07.002. Epub 2018Sep 18.
+Perspectives on the opioid crisis from pain medicine clinicians.
+Jay GW(1), Barkin RL(2).
+Author information:(1)Clinical Professor, Department of Neurology, University of North Carolina,United States.(2)Professor, Rush University Medical College, Departments of Anesthesiology,Family Medicine, Pharmacology, Clinical Pharmacologist Department ofAnesthesiology, Pain Centers of Skokie and Evanston Hospitals, NorthShoreUniversity Health System, IL, United States. Electronic address:rbarkin@rush.edu.
+Patients experiencing a terminal drug related event reflect a sentinel event. Ifthis pharmacotherapy is a widely used agent, it may be viewed as a catastrophicproblem. If patients are dying from illegal drug use when the medicalestablishment fails them by withdrawing or minimizing their medically prescribedmedication, then the burden rests with their health care providers, legislation,and insurance carriers to actively participate in a collegial fashion to achieveparity. Causing a decay in functionality in previously functional patients, mayoccur with appropriately prescribed opioid medications addressing non-cancer painwhen withdrawing or diminishing either with or without patient consent. Themembers of the medical profession have diminished their prescribing of opioidsfor their patients out of apparent fear of reprisal, state or federal governmentsanctions, and other concerned groups. Diminishing former dosages or deleting theopioid medication, preferably in concert with the patient, often results ininequitable patient care. Enforcing sanctioned decreases or ceasing to prescribefrom their former required/established opioid medications precipitate patientdiscord. In absence of opioid misuse, abuse, diversion or addiction based uponmedical "guidelines" and with a poor foundation of Evidence Based Medicine theCDC guidelines, it may be masked as a true guideline reflecting a decrement ofclinical judgment, wisdom, and compassion. This article also discusses the roleof pharmacy chains, insurance carriers, and their pharmacy benefit managers(PBMs) contribution to this multidimensional problem. There may be a potentialsolution, identified in this paper, if all the associated political, medical andinsurance groups work cohesively to improve patient care. This article and theCDC guidelines are not focused at hospice, palliative, end of life care painmanagement.
+Copyright © 2018. Published by Elsevier Inc.

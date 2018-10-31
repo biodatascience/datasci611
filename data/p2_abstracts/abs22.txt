@@ -1,59 +1,6 @@
-
-
-23. Cell Rep. 2018 Oct 16;25(3):702-714.e6. doi: 10.1016/j.celrep.2018.09.056.
-
-Cdh1 and Pik3ca Mutations Cooperate to Induce Immune-Related Invasive Lobular
-Carcinoma of the Breast.
-
-An Y(1), Adams JR(2), Hollern DP(3), Zhao A(4), Chang SG(4), Gams MS(4), Chung
-PED(5), He X(3), Jangra R(2), Shah JS(2), Yang J(2), Beck LA(2), Raghuram N(1),
-Kozma KJ(1), Loch AJ(2), Wang W(2), Fan C(3), Done SJ(6), Zacksenhaus E(5),
-Guidos CJ(4), Perou CM(7), Egan SE(8).
-
-Author information: 
-(1)Program in Cell Biology, The Peter Gilgan Center for Research and Learning,
-The Hospital for Sick Children, Toronto, ON M5G-0A4, Canada; Department of
-Molecular Genetics, University of Toronto, Toronto, ON, Canada.
-(2)Program in Cell Biology, The Peter Gilgan Center for Research and Learning,
-The Hospital for Sick Children, Toronto, ON M5G-0A4, Canada.
-(3)Lineberger Comprehensive Cancer Center, Departments of Genetics and Pathology,
-University of North Carolina, Chapel Hill, NC 27599, USA.
-(4)Program in Developmental and Stem Cell Biology, The Peter Gilgan Center for
-Research and Learning, The Hospital for Sick Children, Toronto, ON M5G-0A4,
-Canada; Department of Immunology, University of Toronto, Toronto, ON, Canada.
-(5)Division of Cell and Molecular Biology, Toronto General Research Institute,
-University Health Network, and Department of Medicine, University of Toronto,
-Toronto, ON, Canada; Department of Laboratory Medicine and Pathobiology,
-University of Toronto, Toronto, ON, Canada.
-(6)Department of Laboratory Medicine and Pathobiology, University of Toronto,
-Toronto, ON, Canada; Department of Medical Biophysics, University of Toronto,
-Toronto, ON, Canada; The Campbell Family Institute for Breast Cancer Research at 
-the Princess Margaret Cancer Centre and The Laboratory Medicine Program,
-University Health Network, Toronto, ON, Canada.
-(7)Lineberger Comprehensive Cancer Center, Departments of Genetics and Pathology,
-University of North Carolina, Chapel Hill, NC 27599, USA. Electronic address:
-cperou@med.unc.edu.
-(8)Program in Cell Biology, The Peter Gilgan Center for Research and Learning,
-The Hospital for Sick Children, Toronto, ON M5G-0A4, Canada; Department of
-Molecular Genetics, University of Toronto, Toronto, ON, Canada. Electronic
-address: segan@sickkids.ca.
-
-CDH1 and PIK3CA are the two most frequently mutated genes in invasive lobular
-carcinoma (ILC) of the breast. Transcription profiling has identified molecular
-subtypes for ILC, one of which, immune-related (IR), is associated with gene
-expression linked to lymphocyte and macrophage infiltration. Here, we report that
-deletion of Cdh1, together with activation of Pik3ca in mammary epithelium of
-genetically modified mice, leads to formation of IR-ILC-like tumors with immune
-cell infiltration, as well as gene expression linked to T-regulatory (Treg) cell 
-signaling and activation of targetable immune checkpoint pathways. Interestingly,
-these tumors show enhanced Rac1- and Yap-dependent transcription and signaling,
-as well as sensitivity to PI3K, Rac1, and Yap inhibitors in culture. Finally,
-high-dimensional immunophenotyping in control mouse mammary gland and IR-ILC
-tumors by mass cytometry shows dramatic alterations in myeloid and lymphoid
-populations associated with immune suppression and exhaustion, highlighting the
-potential for therapeutic intervention via immune checkpoint regulators.
-
-Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.celrep.2018.09.056 
-PMID: 30332649 
+Cancer Epidemiol Biomarkers Prev. 2018 Oct 17. pii: cebp.0654.2018. doi:10.1158/1055-9965.EPI-18-0654. [Epub ahead of print]
+Body fatness, adipose tissue compartments and biomarkers of inflammation andangiogenesis in colorectal cancer: the ColoCare Study.
+Himbert C(1), Ose J(2), Nattenmüller J(3), Warby CA(4), Holowatyj AN(5), BöhmJ(6), Lin T(7), Haffa M(8), Gigic B(9), Hardikar S(1), Scherer D(10), ZielskeL(11), Schrotz-King P(12), Koelsch T(11), Siegel EM(13), Shibata D(14), UlrichA(15), Schneider M(16), Hursting SD(17), Kauczor HU(18), Ulrich CM(19).
+Author information:(1)Population Sciences, Huntsman Cancer Institute.(2)Population Health Sciences, Huntsman Cancer Institute.(3)Diagnostic and Interventional Radiology, University Hospital Heidelberg.(4)Cancer Control and Population Sciences, Huntsman Cancer Institute.(5)Population Health Sciences, Huntsman Cancer Institute, University of Utah.(6)Huntsman Cancer Insitute.(7)Huntsman Cancer Institute.(8)Translational Oncology, German Cancer Research Center.(9)Department of General, Visceral and Transplantation Surgery, HeidelbergUniversity Hospital.(10)University Hospital Heidelberg.(11)Department of Surgery, University Clinic of Heidelberg.(12)Department of Preventive Oncology, National Center for Tumor Diseases, GermanCancer Research Center.(13)Cancer Epidemiology Program, Division of Population Sciences, H. Lee MoffittCancer Center & Research Institute.(14)University of Tennessee Health Science Center.(15)General, Visceral and Transplantation Surgery, Heidelberg UniversityHospital.(16)Department of General, Visceral and Transplantation Surgery, University ofHeidelberg.(17)Nutrition, University of North Carolina at Chapel Hill.(18)Radiology, University of Heidelberg.(19)Huntsman Cancer Insitute neli.ulrich@hci.utah.edu.
+BACKGROUND: Adiposity has been linked to both risk and prognosis of colorectalcancer; however, the impact of different fat areas [visceral (VFA) vs.subcutaneous fat area (SFA)] is unclear. We investigated associations betweenadiposity and biomarkers of inflammation and angiogenesis among patients withcolorectal cancer.METHODS: Preoperative serum samples and computed tomography scans were obtainedfrom 188 patients diagnosed with primary invasive stage I-IV colorectal cancerenrolled in the ColoCare Study. Adiposity was assessed by area-basedquantification of VFA, SFA, and VFA:SFA ratio on spinal levels L3/L4 and L4/L5.Circulating levels of inflammation (CRP, SAA, sICAM-1, sVCAM-1) and angiogenesis(VEGF-A, VEGF-D) were assessed from patient sera on the Meso-Scale-Discoveriesplatform. Partial correlations and regression analyses, adjusted for age, sex,and tumor stage, were performed.RESULTS: VFA was moderately correlated with CRP and SAA (CRP: L3/L4 andL4/L5:r=0.21, p=0.01; SAA: L3/L4:r=0.17, p=0.04). The correlation between SFA andthe measured biomarkers were weak (r≤0.13, not significant). The ratio of VFA:SFAat L3/L4 was moderately correlated with VEGF-A (r=0.28, p=0.0008), and SAA(r=0.24, p=0.006), and less so with CRP (r=0.18, p=0.04) and sICAM-1 (r=0.18,p=0.04). Similar correlations were found for VFA:SFA ratio at L4/L5.CONCLUSIONS: We observed an association between visceral adiposity and biomarkersof inflammation and angiogenesis in colorectal cancer patients. In particular,the VFA:SFA ratio was correlated with circulating levels of pro-angiogenicbiomarker VEGF-A.IMPACT: Our findings support a direct association of visceral adipose tissue withinflammatory and angiogenic processes, which play fundamental roles in thedevelopment and progression of colorectal cancer.
+Copyright ©2018, American Association for Cancer Research.

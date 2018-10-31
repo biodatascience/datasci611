@@ -1,18 +1,5 @@
-
-
-101. J Gen Intern Med. 2018 Sep 11. doi: 10.1007/s11606-018-4652-y. [Epub ahead of
-print]
-
-Pap Testing in the USA and Potential Association with HPV Vaccination: a
-Cross-sectional Analysis of the BRFSS Data (2007-2016).
-
-Zhang D(1), Sun X(2).
-
-Author information: 
-(1)Department of Oncology, Georgetown University School of Medicine, Washington, 
-DC, USA. dz216@georgetown.edu.
-(2)Department of Epidemiology, University of North Carolina at Chapel Hill
-Gillings School of Global Public Health, Chapel Hill, NC, USA.
-
-DOI: 10.1007/s11606-018-4652-y 
-PMID: 30206792 
+Epidemiology. 2018 Sep 6. doi: 10.1097/EDE.0000000000000917. [Epub ahead ofprint]
+Metallic Air Pollutants and Breast Cancer Risk in a Nationwide Cohort Study.
+White AJ(1), O'Brien KM(2), Niehoff NM(3), Carroll R(2), Sandler DP(1).
+Author information:(1)Epidemiology Branch, National Institute of Environmental Health Sciences, NIH,Research Triangle Park, NC, USA.(2)Biostatistics Branch, National Institute of Environmental Health Sciences,NIH, Research Triangle Park, NC, USA.(3)Department of Epidemiology, University of North Carolina at Chapel Hill, NC,USA.
+BACKGROUND: Toxic metals show evidence of carcinogenic and estrogenic properties.However, little is known about the relationship between airborne metals andbreast cancer. We evaluated the risk of breast cancer in relation to exposure totoxic metallic substances in air, individually and combined, in a U.S. widecohort.METHODS: We recruited Sister Study participants (n=50,884), breast cancer-freewomen who had a sister with breast cancer, from 2003-2009. The 2005 EnvironmentalProtection Agency National Air Toxic Assessment's census-tract estimates of metalconcentrations in air (antimony, arsenic, cadmium, chromium, cobalt, lead,manganese, mercury, nickel, and selenium) were matched to participants'enrollment residence. We used Cox regression to estimate the association betweenquintiles of individual metals and breast cancer incidence and weighted quantilesum regression to model the association between the metal mixture and breastcancer.RESULTS: 2,587 breast cancer cases were diagnosed during follow-up (mean=7.4years). In individual chemical analyses comparing the highest to lowestquintiles, postmenopausal breast cancer risk was elevated for mercury (hazardratio [HR]=1.3, 95% confidence interval [CI]: 1.1-1.5), cadmium (HR=1.1, 95%CI:0.96-1.3), and lead (HR=1.1, 95%CI: 0.98-1.3). The weighted quantile sum indexwas associated with postmenopausal breast cancer (odds ratio (OR)=1.1, 95%CI:1.0-1.1). Consistent with the individual chemical analysis, the most highlyweighted chemicals for predicting postmenopausal breast cancer risk were lead,cadmium, and mercury. Results were attenuated for overall breast cancer.CONCLUSIONS: Higher levels of some airborne metals, specifically mercury,cadmium, and lead, were associated with a higher risk of postmenopausal breastcancer.

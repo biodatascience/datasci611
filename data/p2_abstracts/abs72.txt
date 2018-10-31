@@ -1,46 +1,5 @@
-
-
-73. J Glob Oncol. 2018 Sep;(4):1-8. doi: 10.1200/JGO.17.00026. Epub 2017 Sep 8.
-
-Leverage of an Existing Cervical Cancer Prevention Service Platform to Initiate
-Breast Cancer Control Services in Zambia: Experiences and Early Outcomes.
-
-Pinder LF(1), Henry-Tillman R(1), Linyama D(1), Kusweje V(1), Nzayisenga JB(1),
-Shibemba A(1), Sahasrabuddhe V(1), Lishimpi K(1), Mwanahamuntu M(1), Hicks M(1), 
-Parham GP(1).
-
-Author information: 
-(1)Leeva F. Pinder, David Linyama, Jean-Baptiste Nzayisenga, Aaron Shibemba,
-Mulindi Mwanahamuntu, and Groesbeck P. Parham, University of Zambia School of
-Medicine; Kennedy Lishimpi, Cancer Diseases Hospital, Lusaka; Victor Kusweje,
-Kabwe General Hospital, Kabwe, Zambia; Leeya F. Pinder, Michael Hicks, and
-Groesbeck P. Parham, University of North Carolina at Chapel Hill, Chapel Hill,
-NC; Ronda Henry-Tillman, University of Arkansas for Medical Sciences, Little
-Rock, AR; and Vikrant Sahasrabuddhe, National Cancer Institute, Bethesda, MD.
-
-PURPOSE: In 2005, the Cervical Cancer Prevention Program in Zambia (CCPPZ) was
-implemented and has since provided cervical cancer screen-and-treat services to
-more than 500,000 women. By leveraging the successes and experiences of the
-CCPPZ, we intended to build capacity for the early detection and surgical
-treatment of breast cancer.
-METHODS: Our initiative sought to build capacity for breast cancer care through
-the (1) formation of a breast cancer advocacy alliance to raise awareness, (2)
-creation of resource-appropriate breast cancer care training curricula for mid-
-and high-level providers, and (3) implementation of early detection and treatment
-capacity within two major health care facilities.
-RESULTS: Six months after the completion of the initiative, the following
-outcomes were documented: Breast health education and clinical breast examination
-(CBE) services were successfully integrated into the service platforms of four
-CCPPZ clinics. Two new breast diagnostic centers were opened, which provided
-access to breast ultrasound, ultrasound-guided core needle biopsy, and needle
-aspiration. Breast health education and CBE were provided to 1,955 clients, 167
-of whom were evaluated at the two diagnostic centers; 55 of those evaluated
-underwent core-needle biopsy, of which 17 were diagnosed with invasive cancer.
-Newly trained surgeons performed six sentinel lymph node mappings, eight sentinel
-lymph node dissections, and 10 breast conservation surgeries (lumpectomies).
-CONCLUSION: This initiative successfully established clinical services in Zambia 
-that are critical for the early detection and surgical management of breast
-cancer.
-
-DOI: 10.1200/JGO.17.00026 
-PMID: 30241176 
+J Neuropathol Exp Neurol. 2018 Nov 1;77(11):1039-1054. doi: 10.1093/jnen/nly085.
+A Revised Diagnostic Classification of Canine Glioma: Towards Validation of theCanine Glioma Patient as a Naturally Occurring Preclinical Model for HumanGlioma.
+Koehler JW(1), Miller AD(2), Miller CR(3)(4)(5), Porter B(6), Aldape K(7), BeckJ(8), Brat D(9), Cornax I(10), Corps K(11), Frank C(12), Giannini C(13),Horbinski C(14)(15), Huse JT(16), O'Sullivan MG(17), Rissi DR(18), Mark SimpsonR(19), Woolard K(20), Shih JH(21), Mazcko C(22), Gilbert MR(23), LeBlanc AK(24).
+Author information:(1)Department of Pathobiology, College of Veterinary Medicine, Auburn University,Auburn, Alabama.(2)Department of Biomedical Sciences, Section of Anatomic Pathology, College ofVeterinary Medicine, Cornell University, Ithaca, New York.(3)Department of Pathology and Laboratory Medicine.(4)Department of Neurology.(5)Department of Pharmacology, Lineberger Comprehensive Cancer Center andNeuroscience Center, University of North Carolina School of Medicine, ChapelHill, North Carolina.(6)Department of Veterinary Pathobiology, College of Veterinary Medicine andBiomedical Sciences, Texas A&M University, College Station, Texas.(7)Laboratory of Pathology, Center for Cancer Research, National CancerInstitute, National Institutes of Health, Bethesda, Maryland.(8)Laboratory of Human Carcinogenesis, Center for Cancer Research, NationalCancer Institute, National Institutes of Health, Bethesda, Maryland.(9)Department of Pathology, Feinberg School of Medicine, Northwestern University,Chicago, Illinois.(10)Department of Pediatrics, University of California-San Diego, San DiegoCalifornia.(11)National Institute of Neurological Disorders and Stroke, National Institutesof Health, Viral Immunology and Intravital Imaging Section, Bethesda, Maryland.(12)Department of Microbiology, Immunology, and Pathology, College of VeterinaryMedicine and Biomedical Sciences, Colorado State University, Ft. Collins,Colorado.(13)Division of Anatomic Pathology, Department of Laboratory Medicine andPathology, Mayo Clinic College of Medicine, Rochester, Minnesota.(14)Department of Pathology.(15)Department of Neurosurgery, Feinberg School of Medicine, NorthwesternUniversity, Chicago, Illinois.(16)Departments of Pathology and Translational Molecular Pathology, TheUniversity of Texas MD Anderson Cancer Center, Houston, Texas.(17)Masonic Cancer Center Comparative Pathology Shared Resource and Department ofVeterinary Population Medicine, College of Veterinary Medicine, University ofMinnesota, St. Paul, Minnesota.(18)Department of Pathology and Athens Veterinary Diagnostic Laboratory, Collegeof Veterinary Medicine, University of Georgia, Athens, Georgia.(19)Center for Cancer Research, National Cancer Institute, National Institutes ofHealth, Molecular Pathology Unit, Laboratory of Cancer Biology and Genetics,Bethesda, Maryland.(20)Department of Pathology, Microbiology, and Immunology, School of VeterinaryMedicine, University of California-Davis, Davis, California.(21)Biometrics Research Program, Division of Cancer Treatment and Diagnosis,National Cancer Institute, National Institutes of Health, Bethesda, Maryland.(22)Comparative Oncology Program, Center for Cancer Research, National CancerInstitute, National Institutes of Health, Bethesda, Maryland.(23)National Institute of Neurological Disorders and Stroke and the Center forCancer Research, National Cancer Institute, National Institutes of Health,NeuroOncology Branch, Bethesda, Maryland.(24)National Cancer Institute, National Institutes of Health, ComparativeOncology Program, Center for Cancer Research, Bethesda, Maryland.
+The National Cancer Institute-led multidisciplinary Comparative Brain TumorConsortium (CBTC) convened a glioma pathology board, comprising both veterinarianand physician neuropathologists, and conducted a comprehensive review of 193cases of canine glioma. The immediate goal was to improve existing gliomaclassification methods through creation of a histologic atlas of features, thusyielding greater harmonization of phenotypic characterization. The long-term goalwas to support future incorporation of clinical outcomes and genomic data intoproposed simplified diagnostic schema, so as to further bridge the worlds ofveterinary and physician neuropathology and strengthen validity of the dog as anaturally occurring, translationally relevant animal model of human glioma. Allcases were morphologically reclassified according to a new schema devised by theentire board, yielding a majority opinion diagnosis of astrocytoma (43, 22.3%),19 of which were low-grade and 24 high-grade, and oligodendroglioma (134, 69.4%),35 of which were low-grade and 99 were high-grade. Sixteen cases (8.3%) could notbe classified as oligodendroglioma or astrocytoma based on morphology alone andwere designated as undefined gliomas. The simplified classification schemeproposed herein provides a tractable means for future addition of molecular data,and also serves to highlight histologic similarities and differences betweenhuman and canine glioma.

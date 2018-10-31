@@ -1,49 +1,6 @@
-
-Conflict of interest statement: The authors have declared that no competing
-interests exist.
-
-
-35. J Med Virol. 2018 Oct 11. doi: 10.1002/jmv.25336. [Epub ahead of print]
-
-Epstein-Barr virus, but not human cytomegalovirus, is associated with a high
-grade human papillomavirus-associated cervical lesions among women in North
-Carolina.
-
-Kienka T(1), Varga MG(2)(3), Caves J(2), Smith JS(2)(3), Sivaraman V(1).
-
-Author information: 
-(1)Department of Biological and Biomedical Sciences, North Carolina Central
-University, Durham, NC, USA.
-(2)Department of Epidemiology, UNC Gillings School of Global Public Health,
-University of North Carolina Chapel Hill, NC, USA.
-(3)Lineberger Comprehensive Cancer Center, University of North Carolina Chapel
-Hill, NC, USA.
-
-STATEMENT OF THE PROBLEM: Human papillomavirus (HPV) infection is known to
-contribute to cervical carcinogenesis, yet other co-factors that may contribute
-to oncogenesis are poorly understood. Herein, we examine whether Epstein-Barr
-virus (EBV) and human cytomegalovirus (CMV), two onco-modulatory viruses, are
-associated with HPV-mediated cervical neoplastic progression.
-METHODS OF STUDY: Sixty patient cervical brush samples from a study of North
-Carolina women were obtained. HPV RNA positivity was determined by Aptima testing
-(Hologic Corporation). The level of viral transcripts for EBV and CMV were
-quantified (RT-PCR analysis), and co-infection status with HPV was then compared 
-to the patient's cervical cytology grade.
-RESULTS: Over one third (38.3%) of the study population was CMV-positive, while
-43.3% was EBV-positive. When sample data were stratified by cytology grade, 36.5%
-(19/52) of normal patients, 75% (3/4) of low-grade squamous intraepithelial
-lesions (LSIL) and 100% (4/4) of patients with high-grade SIL (HSIL) were EBV
-positive. Conversely, 35.2% (18/52) of normal patients, 25% (1/4) of patients
-with LSIL and 50% (2/4) of patients with HSIL were CMV positive. When examining
-only HPV-positive associated HSIL,100% (4/4) were positive for both HPV and EBV
-detection. This suggests co-viral detection with HPV and EBV is associated with
-more advanced HSIL cervical lesions, while CMV displayed no clear association
-with higher grade of cervical cytology.
-CONCLUSIONS: Co-viral detection with EBV may increase the oncogenicity and/or
-serve as a viral marker of progression to HPV-associated high-grade cervical
-dysplasia. This article is protected by copyright. All rights reserved.
-
-This article is protected by copyright. All rights reserved.
-
-DOI: 10.1002/jmv.25336 
-PMID: 30307626 
+Hum Mutat. 2018 Nov;39(11):1542-1552. doi: 10.1002/humu.23640.
+Integrating somatic variant data and biomarkers for germline variantclassification in cancer predisposition genes.
+Walsh MF(1), Ritter DI(2), Kesserwan C(3), Sonkin D(4), Chakravarty D(1), ChaoE(5), Ghosh R(2), Kemel Y(1), Wu G(3), Lee K(6), Kulkarni S(2), Hedges D(3),Mandelker D(1), Ceyhan-Birsoy O(1), Luo M(7), Drazer M(8), Zhang L(1), OffitK(1), Plon SE(2).
+Author information:(1)Memorial Sloan Kettering Cancer Center, New York City, New York, USA.(2)Baylor College of Medicine, Houston, Texas, USA.(3)St. Jude Children's Hospital, Memphis, Tennessee, USA.(4)National Cancer Institute, Bethesda, Maryland, USA.(5)University of California, Irvine, California, USA.(6)University of North Carolina, Chapel Hill, North Carolina, USA.(7)Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.(8)University of Chicago, Chicago, Illinois, USA.
+In its landmark paper about Standards and Guidelines for the Interpretation ofSequence Variants, the American College of Medical Genetics and Genomics (ACMG),and Association for Molecular Pathology (AMP) did not address how to use tumordata when assessing the pathogenicity of germline variants. The Clinical GenomeResource (ClinGen) established a multidisciplinary working group, theGermline/Somatic Variant Subcommittee (GSVS) with this focus. The GSVSimplemented a survey to determine current practices of integrating somatic datawhen classifying germline variants in cancer predisposition genes. The GSVS thenreviewed and analyzed available resources of relevant somatic data, and performedintegrative germline variant curation exercises. The committee determined thatsomatic hotspots could be systematically integrated into moderate evidence ofpathogenicity (PM1). Tumor RNA sequencing data showing altered splicing may beconsidered as strong evidence in support of germline pathogenicity (PVS1) andtumor phenotypic features such as mutational signatures be considered supportingevidence of pathogenicity (PP4). However, at present, somatic data such as focalloss of heterozygosity and mutations occurring on the alternative allele are notrecommended to be systematically integrated, instead, incorporation of this typeof data should take place under the advisement of multidisciplinary cancer centertumor-normal sequencing boards.
+© 2018 Wiley Periodicals, Inc.

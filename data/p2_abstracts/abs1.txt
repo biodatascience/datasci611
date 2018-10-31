@@ -1,38 +1,5 @@
-
-
-2. Contemp Clin Trials Commun. 2018 Sep 22;12:98-102. doi:
-10.1016/j.conctc.2018.09.003. eCollection 2018 Dec.
-
-Patient navigation and clinical trial participation: A randomized controlled
-trial design.
-
-Uveges MK(1), Lansey DG(2), Mbah O(3), Gray T(4), Sherden L(2), Wenzel J(5).
-
-Author information: 
-(1)Harvard Medical School, Center for Bioethics, 641 Huntington Avenue, Boston,
-MA, 02115, USA.
-(2)Department of Oncology, Johns Hopkins School of Medicine, 1600 North Wolfe
-Street, Baltimore, MD, 21205, USA.
-(3)The University of North Carolina at Chapel Hill, School of Public Health, 135 
-Dauer Drive, Chapel Hill, NC, 27599, USA.
-(4)Dana-Farber/Harvard Cancer Center, 450 Brookline Avenue, Boston, MA, 02215,
-USA.
-(5)Department of Acute and Chronic Care, Johns Hopkins School of Nursing, 525
-North Wolfe Street, Baltimore, MD, 21205, USA.
-
-Background: To our knowledge, no published studies utilizing a randomized
-controlled design have examined the efficacy of patient navigation for improving 
-clinical trial enrollment.
-Methods: This patient navigation and clinical trial participation study is a
-randomized controlled trial to assess the effect of a patient navigator on
-enrollment into therapeutic cancer clinical trials. Participants are randomly
-assigned to high intensity, patient navigator-delivered patient educational
-materials (PEM) and needs assessment vs. low intensity patient navigation
-(patient navigator-delivered patient educational materials [PEM] alone).
-Discussion: Effective enrollment strategies may include utilization of patient
-navigators as away to meet individual needs, barriers, and concerns of
-participants enrolled in clinical trials.
-
-DOI: 10.1016/j.conctc.2018.09.003 
-PMCID: PMC6197623
-PMID: 30364638 
+Support Care Cancer. 2018 Oct 27. doi: 10.1007/s00520-018-4518-1. [Epub ahead ofprint]
+Parental psychological distress and cancer stage: a comparison of adults withmetastatic and non-metastatic cancer.
+Park EM(1)(2)(3), Stephenson EM(4), Moore CW(5), Deal AM(6), Muriel AC(7).
+Author information:(1)Department of Psychiatry, University of North Carolina, 170 Manning Drive, CB#7305, Chapel Hill, NC, 27599, USA. leeza_park@med.unc.edu.(2)Department of Medicine, University of North Carolina, Chapel Hill, NC, USA.leeza_park@med.unc.edu.(3)Lineberger Comprehensive Cancer Center, University of North Carolina, ChapelHill, NC, USA. leeza_park@med.unc.edu.(4)Department of Psychiatry, Vanderbilt University, Nashville, TN, USA.(5)Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA.(6)Lineberger Comprehensive Cancer Center, University of North Carolina, ChapelHill, NC, USA.(7)Department of Psychosocial Oncology and Palliative Care, Dana Farber CancerInstitute, Boston, MA, USA.
+PURPOSE: Parents with cancer have unique and often under-recognized psychologicaldistress about the impact of their illness on their children. Relatively littleis known about how parenting concerns may differ among patients by cancer stage.METHODS: This is a secondary data analysis of 203 adults with cancer who hadchildren < 18 years old from two geographically distinct areas. We used ananalysis of covariance to estimate the mean differences in PCQ, depressionsymptom severity and anxiety symptom severity (Hospital Anxiety and DepressionScale, HADS) scores between participants with metastatic and non-metastaticdisease, and Pearson's correlation coefficients to assess associations betweenHADS and PCQ scores by cancer stage.RESULTS: Seventy-two percent of participants (n = 146) had metastatic solid tumorcancer. In adjusted analyses, mean PCQ scores did not significantly differbetween parents with metastatic and non-metastatic disease (2.0 vs. 2.2,p = 0.06). Differences in mean PCQ scores were driven by a single questionconcerning the impact of death on children (2.3 vs. 2.9, p = 0.004). Mean HADSscores did not significantly differ between groups, although PCQ scores explaineda greater amount of variance in HADS scores for the metastatic group as comparedto the non-metastatic group.CONCLUSIONS: With the exception of concerns about death, intensity of parentingconcerns, as measured by the PCQ, was similar between parents with metastatic andnon-metastatic cancer. However, parenting concerns may be more strongly linked tooverall psychological distress in patients with metastatic disease. Furtherresearch is needed to clarify how parenting concerns uniquely relate to advancedstage illness.

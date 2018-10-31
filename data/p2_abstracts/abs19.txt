@@ -1,52 +1,5 @@
-
-
-20. Sci Rep. 2018 Oct 17;8(1):15304. doi: 10.1038/s41598-018-33601-w.
-
-The Cancer/Testes (CT) Antigen HORMAD1 promotes Homologous Recombinational DNA
-Repair and Radioresistance in Lung adenocarcinoma cells.
-
-Gao Y(1), Kardos J(2), Yang Y(1), Tamir TY(3), Mutter-Rottmayer E(1), Weissman
-B(1)(2), Major MB(3), Kim WY(2), Vaziri C(4)(5).
-
-Author information: 
-(1)Department of Pathology and Laboratory Medicine, University of North Carolina 
-at Chapel Hill, 614 Brinkhous-Bullitt Building, Chapel Hill, NC, 27599, USA.
-(2)Lineberger Comprehensive Cancer Center, Curriculum in Genetics and Molecular
-Biology, and Department of Biochemistry and Biophysics, University of North
-Carolina, Chapel Hill, NC, 27599, USA.
-(3)Department of Cell Biology and Physiology, Lineberger Comprehensive Cancer
-Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.
-(4)Department of Pathology and Laboratory Medicine, University of North Carolina 
-at Chapel Hill, 614 Brinkhous-Bullitt Building, Chapel Hill, NC, 27599, USA.
-cyrus_vaziri@med.unc.edu.
-(5)Lineberger Comprehensive Cancer Center, Curriculum in Genetics and Molecular
-Biology, and Department of Biochemistry and Biophysics, University of North
-Carolina, Chapel Hill, NC, 27599, USA. cyrus_vaziri@med.unc.edu.
-
-The Cancer/Testes (CT) Antigen HORMAD1 is germ cell-restricted and plays
-developmental roles in generation and processing of meiotic DNA Double Strand
-Breaks (DSB). Many tumors aberrantly overexpress HORMAD1 yet the potential impact
-of this CT antigen on cancer biology is unclear. We tested a potential role of
-HORMAD1 in genome maintenance in lung adenocarcinoma cells. We show that HORMAD1 
-re-distributes to nuclear foci and co-localizes with the DSB marker γH2AX in
-response to ionizing radiation (IR) and chemotherapeutic agents. The HORMA domain
-and C-term disordered oligomerization motif are necessary for localization of
-HORMAD1 to IR-induced foci (IRIF). HORMAD1-depleted cells are sensitive to IR and
-camptothecin. In reporter assays, Homologous Recombination (HR)-mediated repair
-of targeted ISce1-induced DSBs is attenuated in HORMAD1-depleted cells. In
-Non-Homologous End Joining (NHEJ) reporter assays, HORMAD1-depletion does not
-affect repair of ISce1-induced DSB. Early DSB signaling events (including ATM
-phosphorylation and formation of γH2AX, 53BP1 and NBS1 foci) are intact in
-HORMAD1-depleted cells. However, generation of RPA-ssDNA foci and redistribution 
-of RAD51 to DSB are compromised in HORMAD1-depleted cells, suggesting that
-HORMAD1 promotes DSB resection. HORMAD1-mediated HR is a neomorphic activity that
-is independent of its meiotic partners (including HORMAD2 and CCDC36.
-Bioinformatic analysis of TCGA data show that similar to known HR pathway genes
-HORMAD1 is overexpressed in lung adenocarcinomas. Overexpression of HR genes is
-associated with specific mutational profiles (including copy number variation).
-Taken together, we identify HORMAD1-dependent DSB repair as a new mechanism of
-radioresistance and a probable determinant of mutability in lung adenocarcinoma.
-
-DOI: 10.1038/s41598-018-33601-w 
-PMCID: PMC6192992
-PMID: 30333500 
+Lab Chip. 2018 Oct 19. doi: 10.1039/c8lc00716k. [Epub ahead of print]
+Microfluidic-based solid phase extraction of cell free DNA.
+Campos CDM(1), Gamage SST(1), Jackson JM(1), Witek MA(2), Park DS(3), MurphyMC(3), Godwin AK(4), Soper SA(5).
+Author information:(1)Department of Chemistry, University of Kansas, Lawrence, KS, USA.ssoper@ku.edu and Center of Biomodular Multi-scale Systems for PrecisionMedicine, USA.(2)Department of Chemistry, University of Kansas, Lawrence, KS, USA.ssoper@ku.edu and Center of Biomodular Multi-scale Systems for PrecisionMedicine, USA and Department of Biomedical Engineering, The University of NorthCarolina, Chapel Hill, NC 27599, USA.(3)Center of Biomodular Multi-scale Systems for Precision Medicine, USA andDepartment of Mechanical Engineering, Louisiana State University, Baton Rouge,LA, USA.(4)University of Kansas Cancer Center, University of Kansas Medical Center,Kansas City, KS, USA.(5)Department of Chemistry, University of Kansas, Lawrence, KS, USA.ssoper@ku.edu and Center of Biomodular Multi-scale Systems for PrecisionMedicine, USA and University of Kansas Cancer Center, University of KansasMedical Center, Kansas City, KS, USA and BioEngineering Program, The Universityof Kansas, Lawrence, KS 66047, USA and Department of Mechanical Engineering, TheUniversity of Kansas, Lawrence, KS 66047, USA and Ulsan National Institute ofScience and Technology, Ulsan, Republic of Korea.
+Cell-free DNA (cfDNA) is a liquid biopsy marker that can carry signatures (i.e.,mutations) associated with certain pathological conditions. Therefore, theextraction of cfDNA from a variety of clinical samples can be an effective andminimally invasive source of markers for disease detection and subsequentmanagement. In the oncological diseases, circulating tumor DNA (ctDNA), a cfDNAsub-class, can carry clinically actionable mutations and coupled with nextgeneration sequencing or other mutation detection methods provide a venue foreffective in vitro diagnostics. However, cfDNA mutational analyses require highquality inputs. This necessitates extraction platforms that provide high recoveryover the entire ctDNA size range (50 → 150 bp) with minimal interferences (i.e.,co-extraction of genomic DNA), and high reproducibility with a simple workflow.Herein, we present a novel microfluidic solid-phase extraction device (μSPE)consisting of a plastic chip that is activated with UV/O3 to generatesurface-confined carboxylic acid functionalities for the μSPE of cfDNA. The μSPEuses an immobilization buffer (IB) consisting of polyethylene glycol and saltsthat induce cfDNA condensation onto the activated plastic microfluidic surface.The μSPE consists of an array of micropillars to increase extraction bed load(scalable to loads >700 ng of cfDNA) and can be produced at low-cost usingreplication-based techniques. The entire μSPE can be fabricated in a singlemolding step negating the need for adding additional extraction supports to thedevice simplifying production and keeping device and assay cost low. The μSPEallowed for recoveries >90% of model cfDNA fragments across a range of sizes(100-700 bp) and even the ability to extract efficiently short cfDNA fragments(50 bp, >70%). In addition, the composition of the IB allowed for reducing theinterference of co-extracted genomic DNA. We demonstrated the clinical utility ofthe μSPE by quantifying the levels of cfDNA in healthy donors and patients withnon-small-cell lung and colorectal cancers. μSPE extracted cfDNA from plasmasamples was also subjected to a ligase detection reaction (LDR) for determiningthe presence of mutations in the KRAS gene for colorectal and non-small cell lungcancer patients.

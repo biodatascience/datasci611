@@ -1,47 +1,5 @@
-
-
-71. J Glob Oncol. 2018 Sep;(4):1-7. doi: 10.1200/JGO.17.00003. Epub 2017 Jul 17.
-
-Cost of Providing Quality Cancer Care at the Butaro Cancer Center of Excellence
-in Rwanda.
-
-Neal C(1), Rusangwa C(1), Borg R(1), Tapela N(1), Mugunga JC(1), Pritchett N(1), 
-Shyirambere C(1), Ntakirutimana E(1), Park PH(1), Shulman LN(1), Mpunga T(1).
-
-Author information: 
-(1)Claire Neal, University of North Carolina Gillings School of Global Public
-Health, University of North Carolina, Chapel Hill, NC; Christian Rusangwa, Ryan
-Borg, Natalie Pritchett, Cyprien Shyirambere, Elisephan Ntakirutimana, and Paul
-H. Park, Partners In Health/Inshuti Mu Buzima, Kigali; Tharcisse Mpunga, Ministry
-of Health, Butaro, Rwanda; Neo Tapela and Paul H. Park, Brigham and Women's
-Hospital; Jean Claude Mugunga, Partners In Health, Boston, MA; and Lawrence N.
-Shulman, Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA.
-
-PURPOSE: The cost of providing cancer care in low-income countries remains
-largely unknown, which creates a significant barrier to effective planning and
-resource allocation. This study examines the cost of providing comprehensive
-cancer care at the Butaro Cancer Center of Excellence (BCCOE) in Rwanda.
-METHODS: A retrospective costing analysis was conducted from the provider
-perspective by using secondary data from the administrative systems of the BCCOE.
-We identified the start-up funds necessary to begin initial implementation and
-determined the fiscal year 2013-2014 operating cost of the cancer program,
-including capital expenditures and fixed and variable costs.
-RESULTS: A total of $556,105 US dollars was assessed as necessary start-up
-funding to implement the program. The annual operating cost of the cancer program
-was found to be $957,203 US dollars. Radiotherapy, labor, and chemotherapy were
-the most significant cost drivers. Radiotherapy services, which require sending
-patients out of country because there are no radiation units in Rwanda, comprised
-25% of program costs, labor accounted for 21%, and chemotherapy, supportive
-medications, and consumables accounted for 15%. Overhead, training, computed
-tomography scans, surgeries, blood products, pathology, and social services
-accounted for less than 10% of the total.
-CONCLUSION: This study is one of the first to examine operating costs for
-implementing a cancer center in a low-income country. Having a strong commitment 
-to cancer care, adapting clinical protocols to the local setting, shifting tasks,
-and creating collaborative partnerships make it possible for BCCOE to provide
-quality cancer care at a fraction of the cost seen in middle- and high-income
-countries, which has saved many lives and improved survival. Not all therapies,
-though, were available because of limited financial resources.
-
-DOI: 10.1200/JGO.17.00003 
-PMID: 30241219 
+J Glob Oncol. 2018 Sep;(4):1-8. doi: 10.1200/JGO.2017.010124. Epub 2017 Aug 4.
+Improving Access to Cancer Testing and Treatment in Kenya.
+Makau-Barasa LK(1), Greene SB(1), Othieno-Abinya NA(1), Wheeler S(1), SkinnerA(1), Bennett AV(1).
+Author information:(1)Louise K. Makau-Barasa, Sandra B. Greene, Stephanie Wheeler, and Antonia V.Bennett, University of North Carolina at Chapel Hill, Chapel Hill; AsheleySkinner, Duke University, Durham, NC; and Nicholas A. Othieno-Abinya, Universityof Nairobi, Nairobi, Kenya.
+PURPOSE: In response to the increasing cancer burden in Kenya, this studyidentified barriers to patients seeking access to cancer testing and treatmentand to clinicians in delivering these services. Policy recommendations based onfindings are presented.METHODS: This qualitative study used semistructured key informant interviews.Purposive sampling was used to recruit 14 participants: seven oncology cliniciansand seven support and advocacy leaders for patients with cancer. Qualitativeanalysis was used to identify themes.RESULTS: Seven barriers to cancer testing and treatment were identified: highcost of testing and treatment, low level of knowledge about cancer amongpopulation and clinicians, poor health-seeking behaviors among population, longdistances to access diagnostic and treatment services, lack of decentralizeddiagnostic and treatment facilities, poor communication, and lack of bettercancer policy development and implementation.CONCLUSION: Kenyans seeking cancer services face significant barriers that resultin late presentation, misdiagnosis, interrupted treatment, stigma, and fear. Fourpolicy recommendations to improve access for patients with cancer are (1) improvehealth insurance for patients with cancer; (2) establish testing and treatmentfacilities in all counties; (3) acquire diagnosis and treatment equipment andtrain health personnel to screen, diagnose, and treat cancer; and (4) increasepublic health awareness and education about cancer to improve diagnoses andtreatment. Effective cancer testing and treatment options can be developed toaddress cancer in a resource-constrained environment like Kenya. An in-depth lookat effective interventions and policies being implemented in countries facingsimilar challenges would provide valuable lessons to Kenya's health sector andpolicymakers.

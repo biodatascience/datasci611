@@ -1,0 +1,6 @@
+Trends Endocrinol Metab. 2018 Aug;29(8):529-531. doi: 10.1016/j.tem.2018.05.004.Epub 2018 Jun 5.
+A Reversible Epigenetic Link between Obesity and Cancer Risk.
+Bultman SJ(1).
+Author information:(1)Department of Genetics and Lineberger Comprehensive Cancer Center, Universityof North Carolina, Chapel Hill, NC 27599, USA. Electronic address:scott_bultman@med.unc.edu.
+In a recent Cell Reports article, Li et al. report that obesity is associatedwith altered fatty acid metabolism and DNA methylation in the colonic epithelium,which precede a tumor-prone gene-expression profile. Interestingly,obesity-associated methylation and transcriptome changes were reversed by weightloss, and the duration of weight loss correlated with the extent of restored geneexpression. These findings have implications that are encouraging for weight lossand cancer prevention.
+Copyright © 2018 Elsevier Ltd. All rights reserved.

@@ -1,51 +1,5 @@
-
-
-92. BJU Int. 2018 Sep 14. doi: 10.1111/bju.14534. [Epub ahead of print]
-
-Impact of 5α-reductase inhibitor and α-blocker therapy for benign prostatic
-hyperplasia on prostate cancer incidence and mortality.
-
-Van Rompay MI(1), Curtis Nickel J(2), Ranganathan G(1), Kantoff PW(3), Solomon
-KR(4)(5), Lund JL(6), McKinlay JB(1)(7).
-
-Author information: 
-(1)HealthCore-NERI, Watertown, MA, USA.
-(2)Kingston General Hospital, Queen's University, Kingston, ON, Canada.
-(3)Memorial Sloan Kettering Cancer Center, Weill Cornell Medical College, New
-York, NY, USA.
-(4)Department of Orthopaedic Surgery, Harvard Medical School, Boston, MA, USA.
-(5)Departments of Orthopaedic Surgery and Urology, Boston Children's Hospital,
-Boston, MA, USA.
-(6)Department of Epidemiology, University of North Carolina at Chapel Hill,
-Chapel Hill, NC, USA.
-(7)Harvard Medical School, Massachusetts General Hospital, Boston, MA, USA.
-
-OBJECTIVE: To investigate the use of 5α-reductase inhibitors (5ARIs) and
-α-blockers among men with benign prostatic hyperplasia (BPH) in relation to
-prostate cancer (PCa) incidence, severity and mortality.
-PATIENTS AND METHODS: A retrospective 20-year cohort study in men residing in
-Saskatchewan, aged 40-89 years, with a BPH-coded medical claim between 1995 and
-2014, was conducted. Cox proportional hazards regression was used to compare
-incidence of PCa diagnosis, metastatic PCa, Gleason score 8-10 PCa, and PCa
-mortality among 5ARI users (n = 4 571), α-blocker users (n = 7 764) and non-users
-(n = 11 677).
-RESULTS: In comparison with both non-users and α-blocker users, 5ARI users had a 
-~40% lower risk of a PCa diagnosis (11.0% and 11.4% vs 5.8%, respectively), and
-α-blocker users had an 11% lower risk of a PCa diagnosis compared with non-users.
-Overall, the incidence of metastatic PCa and PCa mortality was not significantly 
-different among 5ARI or α-blocker users compared with non-users (adjusted hazard 
-ratios [HR] of metastatic PCa: 1.12 and 1.13, respectively, and PCa mortality:
-1.11 and 1.18, respectively, P > 0.05 for both drugs), but both 5ARI and
-a-blocker users had ~30% higher risk of Gleason score 8-10 cancer, adjusted HR
-1.37, 95% confidence interval [CI] 1.03-1.82, P = 0.03, and adjusted HR 1.28, 95%
-CI 1.03-1.59, P = 0.02, respectively compared with non-users.
-CONCLUSION: The use of 5ARIs was associated with lower risk of PCa diagnosis,
-regardless of comparison group. Risk of high grade PCa was higher among both 5ARI
-users and α-blocker users compared with non-users; however, this did not
-translate into higher risk of PCa mortality.
-
-© 2018 The Authors BJU International © 2018 BJU International Published by John
-Wiley & Sons Ltd.
-
-DOI: 10.1111/bju.14534 
-PMID: 30216624 
+PLoS Pathog. 2018 Sep 13;14(9):e1007267. doi: 10.1371/journal.ppat.1007267.eCollection 2018 Sep.
+Chromatin remodeling controls Kaposi's sarcoma-associated herpesvirusreactivation from latency.
+Hopcraft SE(1), Pattenden SG(2), James LI(2), Frye S(2), Dittmer DP(1), DamaniaB(1).
+Author information:(1)Lineberger Comprehensive Cancer Center, Department of Microbiology andImmunology, University of North Carolina at Chapel Hill, Chapel Hill, NC, UnitedStates of America.(2)Center for Integrative Chemical Biology and Drug Discovery, Division ofChemical Biology and Medicinal Chemistry, Eshelman School of Pharmacy, Universityof North Carolina at Chapel Hill, Chapel Hill, NC, United States of America.
+Kaposi's sarcoma-associated herpesvirus (KSHV) is the etiologic agent of threehuman malignancies, the endothelial cell cancer Kaposi's sarcoma, and two B cellcancers, Primary Effusion Lymphoma and multicentric Castleman's disease. KSHV haslatent and lytic phases of the viral life cycle, and while both contribute toviral pathogenesis, lytic proteins contribute to KSHV-mediated oncogenesis.Reactivation from latency is driven by the KSHV lytic gene transactivator RTA,and RTA transcription is controlled by epigenetic modifications. To identify hostchromatin-modifying proteins that are involved in the latent to lytic transition,we screened a panel of inhibitors that target epigenetic regulatory proteins fortheir ability to stimulate KSHV reactivation. We found several novel regulatorsof viral reactivation: an inhibitor of Bmi1, PTC-209, two additional histonedeacetylase inhibitors, Romidepsin and Panobinostat, and the bromodomaininhibitor (+)-JQ1. All of these compounds stimulate lytic gene expression, viralgenome replication, and release of infectious virions. Treatment with Romidepsin,Panobinostat, and PTC-209 induces histone modifications at the RTA promoter, andresults in nucleosome depletion at this locus. Finally, silencing Bmi1 inducesKSHV reactivation, indicating that Bmi1, a member of the Polycomb repressivecomplex 1, is critical for maintaining KSHV latency.

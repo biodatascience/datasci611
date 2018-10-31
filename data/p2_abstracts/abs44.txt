@@ -1,49 +1,6 @@
-
-
-45. Br J Cancer. 2018 Oct;119(7):801-807. doi: 10.1038/s41416-018-0229-0. Epub 2018
-Oct 8.
-
-Phase II trial of palbociclib in patients with metastatic urothelial cancer after
-failure of first-line chemotherapy.
-
-Rose TL(1), Chism DD(2), Alva AS(3), Deal AM(4), Maygarden SJ(5), Whang YE(1),
-Kardos J(4), Drier A(4), Basch E(1), Godley PA(1), Dunn MW(1), Kim WY(1),
-Milowsky MI(6).
-
-Author information: 
-(1)Division of Hematology/Oncology, Lineberger Comprehensive Cancer Center,
-University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
-(2)Division of Hematology and Oncology, Department of Medicine, Vanderbilt-Ingram
-Cancer Center, Vanderbilt University Medical Center, Nashville, TN, USA.
-(3)Division of Hematology/Oncology, University of Michigan, Ann Arbor, MI, USA.
-(4)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
-Hill, Chapel Hill, NC, USA.
-(5)Department of Pathology and Laboratory Medicine, University of North Carolina 
-at Chapel Hill, Chapel Hill, NC, USA.
-(6)Division of Hematology/Oncology, Lineberger Comprehensive Cancer Center,
-University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
-matt_milowsky@med.unc.edu.
-
-BACKGROUND: The majority of urothelial cancers (UC) harbor alterations in
-retinoblastoma (Rb) pathway genes that can lead to loss of Rb tumour suppressor
-function. Palbociclib is an oral, selective inhibitor of CDK 4/6 that restores Rb
-function and promotes cell cycle arrest.
-METHODS: In this phase II trial, patients with metastatic platinum-refractory UC 
-molecularly selected for p16 loss and intact Rb by tumour immunohistochemistry
-received palbociclib 125 mg p.o. daily for 21 days of a 28-day cycle. Primary
-endpoint was progression-free survival at 4 months (PFS4) using a Simon's
-two-stage design. Next-generation sequencing including Rb pathway alterations was
-conducted.
-RESULTS: Twelve patients were enrolled and two patients (17%) achieved PFS4 with 
-insufficient activity to advance to stage 2. No responses were seen. Median PFS
-was 1.9 months (95% CI 1.8-3.7 months) and median overall survival was 6.3 months
-(95% CI 2.2-12.6 months). Fifty-eight percent of patients had grade ≥3
-hematologic toxicity. There were no CDKN2A alterations found and no correlation
-of Rb pathway alterations with clinical outcome.
-CONCLUSIONS: Palbociclib did not demonstrate meaningful activity in selected
-patients with platinum-refractory metastatic UC. Further development of
-palbociclib should only be considered with improved integral biomarker selection 
-or in rational combination with other therapies.
-
-DOI: 10.1038/s41416-018-0229-0 
-PMID: 30293995 
+Gastroenterology. 2018 Oct 5. pii: S0016-5085(18)35088-1. doi:10.1053/j.gastro.2018.09.054. [Epub ahead of print]
+Serological response to Helicobacter pylori proteins associate with risk ofcolorectal cancer among diverse populations in the United States.
+Butt J(1), Varga MG(2), Blot WJ(3), Teras L(4), Visvanathan K(5), Le MarchandL(6), Haiman C(7), Chen Y(8), Bao Y(9), Sesso HD(10), Wassertheil-Smoller S(11),Ho GYF(12), Tinker LE(13), Peek RM(14), Potter JD(15), Cover TL(16), HendrixLH(17), Huang LC(18), Hyslop T(19), Um C(4), Grodstein F(20), Song M(21),Zeleniuch-Jacquotte A(8), Berndt S(22), Hildesheim A(22), Waterboer T(23),Pawlita M(23), Epplein M(24).
+Author information:(1)Infection and Cancer Epidemiology, Division of Molecular Diagnostics ofOncogenic Infections, German Cancer Research Center (DKFZ), Im Neuenheimer Feld280, 69120 Heidelberg, Germany; Cancer Control and Population Sciences Program,Duke Cancer Institute, and Department of Population Health Sciences, DukeUniversity, 2424 Erwin Road, Suite 602, Durham, NC 27705, USA.(2)University of North Carolina at Chapel Hill, Department of Epidemiology,Gillings School for Global Public Health and Lineberger Comprehensive CancerCenter, 2102E McGavran Greenberg Hall, Chapel Hill, NC 27599, USA.(3)Division of Epidemiology, Vanderbilt University Medical Center, 2525 West EndAvenue Nashville, TN 37203, USA.(4)Behavioral and Epidemiology Research Group, American Cancer Society, 250Williams St, Atlanta, GA 30303, USA.(5)Department of Epidemiology, Johns Hopkins School of Public Health, 615 N.Wolfe Street, Baltimore, MD 21205 USA.(6)Epidemiology Program, University of Hawai'i Cancer Center, 701 Ilalo Street,Honolulu, HI 96813 USA.(7)University of Southern California and USC Norris Comprehensive Cancer Center,Los Angeles, CA, USA.(8)Department of Population Health, New York University School of Medicine, 650First Avenue, New York, NY 10016 USA.(9)Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115 USA.(10)Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115 USA;Department of Epidemiology, Harvard T.H. Chan School of Public Health, 667Huntington Avenue, Boston, MA 02115 USA.(11)Department of Epidemiology & Population Health, Albert Einstein College ofMedicine, 1300 Morris Park Avenue, Bronx, NY 10461 USA.(12)Department of Occupational Medicine, Epidemiology and Prevention, FeinsteinInstitute for Medical Research, Northwell Health; Donald and Barbara ZuckerSchool of Medicine at Hofstra/Northwell, Great Neck, NY 11021 USA.(13)Cancer Prevention Program, Division of Public Health Sciences at FredHutchinson Cancer Research Center, 1100 Fairview Avenue, Seattle, WA 98109 USA.(14)Division of Gastroenterology, Department of Medicine, Vanderbilt UniversityMedical Center, 2215 Garland Avenue, 1030C MRB IV (1025C), Nashville, TN 37232USA.(15)Fred Hutchinson Cancer Research Center, 1100 Fairview Avenue, Seattle WA98109 USA.(16)Department of Medicine and Department of Pathology, Microbiology andImmunology, Vanderbilt University Medical Center, Nashville, TN 37232 USA;Veterans Affairs Tennessee Valley Healthcare System, Nashville, TN USA.(17)Department of Biostatistics and Bioinformatics, Duke University, 2424 ErwinRoad, Durham, NC 27705 USA.(18)Department of Biostatistics, Vanderbilt University Medical Center, Nashville,TN 37203 USA.(19)Cancer Control and Population Sciences Program, Duke Cancer Institute, andDepartment of Population Health Sciences, Duke University, 2424 Erwin Road, Suite602, Durham, NC 27705, USA; Department of Biostatistics and Bioinformatics, DukeUniversity, 2424 Erwin Road, Durham, NC 27705 USA.(20)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 667Huntington Avenue, Boston, MA 02115 USA.(21)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 667Huntington Avenue, Boston, MA 02115 USA; Department of Nutrition, Harvard T.H.Chan School of Public Health, Boston, MA 02115 USA; Clinical and TranslationalEpidemiology Unit and Division of Gastroenterology, Massachusetts GeneralHospital and Harvard Medical School, Boston, MA 02115 USA.(22)Infections and Immunoepidemiology Branch, Division of Cancer Epidemiology andGenetics, National Cancer Institute, National Institutes of Health, 9609 MedicalCenter Drive, Room SG/6E102, Rockville, MD 20850 USA.(23)Infection and Cancer Epidemiology, Division of Molecular Diagnostics ofOncogenic Infections, German Cancer Research Center (DKFZ), Im Neuenheimer Feld280, 69120 Heidelberg, Germany.(24)Cancer Control and Population Sciences Program, Duke Cancer Institute, andDepartment of Population Health Sciences, Duke University, 2424 Erwin Road, Suite602, Durham, NC 27705, USA. Electronic address: meira.epplein@duke.edu.
+BACKGROUND & AIMS: Previous studies reported an association of the bacteriaHelicobacter pylori, the primary cause of gastric cancer, and risk of colorectalcancer (CRC). However, these findings have been inconsistent, appear to vary withpopulation characteristics, and may be specific for virulence factor VacA. Tomore thoroughly evaluate the potential association of H pylori antibodies withCRC risk, we assembled a large consortium of cohorts representing diversepopulations in the United States.METHODS: We used H pylori multiplex serologic assays to analyze serum samplesfrom 4063 incident cases of CRC, collected before diagnosis, and 4063 matchedindividuals without CRC (controls) from 10 prospective cohorts for antibodyresponses to 13 H pylori proteins, including virulence factors VacA and CagA. Theassociation of sero-positivity to H pylori proteins, as well as protein-specificantibody level, with odds of CRC was determined by conditional logisticregression.RESULTS: Overall 40% of controls and 41% of cases were H. pylori sero-positive(odds ratio [OR], 1.09; 95% CI, 0.99-1.20). H pylori VacA-specificsero-positivity was associated with an 11% increased odds of CRC (OR, 1.11; 95%CI, 1.01-1.22), and this association was particularly strong among AfricanAmericans (OR, 1.45; 95% CI, 1.08-1.95). Additionally, odds of CRC increased withlevel of VacA antibody in the overall cohort (P=.008) and specifically amongAfrican Americans (P=.007).CONCLUSION: In an analysis of a large consortium of cohorts representing diversepopulations, we found serologic responses to H pylori VacA to associate withincreased risk of CRC risk-particularly for African Americans. Future studiesshould seek to understand whether this marker is related to virulent H pyloristrains carried in these populations.
+Copyright © 2018 AGA Institute. Published by Elsevier Inc. All rights reserved.

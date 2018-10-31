@@ -1,0 +1,6 @@
+Risk Anal. 2018 Jul;38(7):1474-1489. doi: 10.1111/risa.12947. Epub 2017 Dec 6.
+Quantifying Cancer Risk from Radiation.
+Keil AP(1), Richardson DB(1).
+Author information:(1)Department of Epidemiology, University of North Carolina Chapel Hill, ChapelHill, NC, USA.
+Complex statistical models fitted to data from studies of atomic bomb survivorsare used to estimate the human health effects of ionizing radiation exposures. Wedescribe and illustrate an approach to estimate population risks from ionizingradiation exposure that relaxes many assumptions about radiation-relatedmortality. The approach draws on developments in methods for causal inference.The results offer a different way to quantify radiation's effects and show thatconventional estimates of the population burden of excess cancer at highradiation doses are driven strongly by projecting outside the range of currentdata. Summary results obtained using the proposed approach are similar inmagnitude to those obtained using conventional methods, although estimates ofradiation-related excess cancers differ for many age, sex, and dose groups. Atlow doses relevant to typical exposures, the strength of evidence in data issurprisingly weak. Statements regarding human health effects at low doses relystrongly on the use of modeling assumptions.
+© 2017 Society for Risk Analysis.

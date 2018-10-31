@@ -1,54 +1,6 @@
-
-
-57. Ann Epidemiol. 2018 Sep 5. pii: S1047-2797(18)30283-7. doi:
-10.1016/j.annepidem.2018.08.012. [Epub ahead of print]
-
-Dietary patterns based on the Mediterranean diet and DASH diet are inversely
-associated with high aggressive prostate cancer in PCaP.
-
-Schneider L(1), Su LJ(2), Arab L(3), Bensen JT(4), Farnan L(4), Fontham ETH(5),
-Song L(4), Hussey J(1), Merchant AT(1), Mohler JL(6), Steck SE(7).
-
-Author information: 
-(1)Department of Epidemiology and Biostatistics, Arnold School of Public Health, 
-University of South Carolina, Columbia, SC.
-(2)Winthrop P Rockefeller Cancer Institute and College of Public Health,
-University of Arkansas for Medical Sciences, Little Rock, AR.
-(3)David Geffen School of Medicine, University of California Los Angeles, Los
-Angeles, CA.
-(4)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
-Hill, Chapel Hill, NC.
-(5)School of Public Health, Louisiana State University Health Sciences Center,
-New Orleans, LA.
-(6)Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, NY; 
-Department of Urology, University of North Carolina at Chapel Hill, Chapel Hill, 
-NC.
-(7)Department of Epidemiology and Biostatistics, Arnold School of Public Health, 
-University of South Carolina, Columbia, SC. Electronic address: ssteck@sc.edu.
-
-BACKGROUND: Several foods and nutrients have been linked to the development of
-prostate cancer, but the association between healthy dietary patterns and
-prostate cancer aggressiveness is less studied. The aim of this study was to
-evaluate the relationship between the Mediterranean diet (MED) and Dietary
-Approaches to Stop Hypertension (DASH) diet scores and prostate cancer
-aggressiveness by race.
-METHODS: Data from the population-based, case-only North Carolina-Louisiana
-Prostate Cancer Project (PCaP) were used to examine the association between diet 
-quality, measured by MED and DASH scores, and prostate cancer aggressiveness in
-1899 African American (AA) and European American (EA) research subjects. Dietary 
-intake was assessed using a modified National Cancer Institute Diet History
-Questionnaire. Logistic regression was used to estimate adjusted odds ratios
-(ORs) and 95% confidence intervals (CIs) for high versus low-intermediate
-aggressive prostate cancer.
-RESULTS: Higher MED scores were inversely associated with high aggressive
-prostate cancer overall (OR: 0.66; 95% CI: 0.46, 0.95 for high versus low
-scores); results were similar for AA and EA men. A weaker inverse association
-between DASH scores and prostate cancer aggressiveness was found (OR: 0.76; 95%
-CI: 0.55, 1.06).
-CONCLUSIONS: Higher diet quality, as represented by a Mediterranean-style diet or
-DASH diet, may reduce the odds of high aggressive prostate cancer.
-
+Ann Epidemiol. 2018 Sep 5. pii: S1047-2797(18)30283-7. doi:10.1016/j.annepidem.2018.08.012. [Epub ahead of print]
+Dietary patterns based on the Mediterranean diet and DASH diet are inverselyassociated with high aggressive prostate cancer in PCaP.
+Schneider L(1), Su LJ(2), Arab L(3), Bensen JT(4), Farnan L(4), Fontham ETH(5),Song L(4), Hussey J(1), Merchant AT(1), Mohler JL(6), Steck SE(7).
+Author information:(1)Department of Epidemiology and Biostatistics, Arnold School of Public Health,University of South Carolina, Columbia, SC.(2)Winthrop P Rockefeller Cancer Institute and College of Public Health,University of Arkansas for Medical Sciences, Little Rock, AR.(3)David Geffen School of Medicine, University of California Los Angeles, LosAngeles, CA.(4)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, NC.(5)School of Public Health, Louisiana State University Health Sciences Center,New Orleans, LA.(6)Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, NY;Department of Urology, University of North Carolina at Chapel Hill, Chapel Hill,NC.(7)Department of Epidemiology and Biostatistics, Arnold School of Public Health,University of South Carolina, Columbia, SC. Electronic address: ssteck@sc.edu.
+BACKGROUND: Several foods and nutrients have been linked to the development ofprostate cancer, but the association between healthy dietary patterns andprostate cancer aggressiveness is less studied. The aim of this study was toevaluate the relationship between the Mediterranean diet (MED) and DietaryApproaches to Stop Hypertension (DASH) diet scores and prostate canceraggressiveness by race.METHODS: Data from the population-based, case-only North Carolina-LouisianaProstate Cancer Project (PCaP) were used to examine the association between dietquality, measured by MED and DASH scores, and prostate cancer aggressiveness in1899 African American (AA) and European American (EA) research subjects. Dietaryintake was assessed using a modified National Cancer Institute Diet HistoryQuestionnaire. Logistic regression was used to estimate adjusted odds ratios(ORs) and 95% confidence intervals (CIs) for high versus low-intermediateaggressive prostate cancer.RESULTS: Higher MED scores were inversely associated with high aggressiveprostate cancer overall (OR: 0.66; 95% CI: 0.46, 0.95 for high versus lowscores); results were similar for AA and EA men. A weaker inverse associationbetween DASH scores and prostate cancer aggressiveness was found (OR: 0.76; 95%CI: 0.55, 1.06).CONCLUSIONS: Higher diet quality, as represented by a Mediterranean-style diet orDASH diet, may reduce the odds of high aggressive prostate cancer.
 Copyright © 2018 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.annepidem.2018.08.012 
-PMID: 30268488 

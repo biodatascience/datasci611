@@ -1,33 +1,5 @@
-
-
-14. Stat Sin. 2018 Oct;28(4):1867-1886. doi: 10.5705/ss.202016.0350.
-
-Functional Linear Regression Models for Nonignorable Missing Scalar Responses.
-
-Li T(1), Xie F(2), Feng X(3), Ibrahim JG(4), Zhu H(1)(4).
-
-Author information: 
-(1)University of Texas MD Anderson Cancer Center.
-(2)Nanjing Normal University.
-(3)The Chinese University of Hong Kong.
-(4)University of North Carolina at Chapel Hill.
-
-As an important part of modern health care, medical imaging data, which can be
-regarded as densely sampled functional data, have been widely used for diagnosis,
-screening, treatment, and prognosis, such as finding breast cancer through
-mammograms. The aim of this paper is to propose a functional linear regression
-model for using functional (or imaging) predictors to predict clinical outcomes
-(e.g., disease status), while addressing missing clinical outcomes. We introduce 
-an exponential tilting semiparametric model to account for the nonignorable
-missing data mechanism. We develop a set of estimating equations and its
-associated computational methods for both parameter estimation and the selection 
-of the tuning parameters. We also propose a bootstrap resampling procedure for
-carrying out statistical inference. Under some regularity conditions, we
-systematically establish the asymptotic properties (e.g., consistency and
-convergence rate) of the estimates calculated from the proposed estimating
-equations. Simulation studies and a real data analysis are used to illustrate the
-finite sample performance of the proposed methods.
-
-DOI: 10.5705/ss.202016.0350 
-PMCID: PMC6191855 [Available on 2019-04-01]
-PMID: 30344426 
+Cerebellum. 2018 Oct 22. doi: 10.1007/s12311-018-0987-5. [Epub ahead of print]
+TRIM9 and TRIM67 Are New Targets in Paraneoplastic Cerebellar Degeneration.
+Do LD(1)(2)(3), Gupton SL(4), Tanji K(5), Bastien J(1)(2)(3), Brugière S(6),Couté Y(6), Quadrio I(7), Rogemond V(1)(2)(3), Fabien N(8), Desestret V(1)(2)(3),Honnorat J(9)(10)(11)(12).
+Author information:(1)French Reference Center for Paraneoplastic Neurological Syndrome, HospicesCivils de Lyon, Hôpital Neurologique, F-69677, Bron, France.(2)Institut NeuroMyoGene INSERM U1217/CNRS UMR 5310, Université de Lyon -Université Claude Bernard Lyon 1, F-69372, Lyon, France.(3)University of Lyon, Université Claude Bernard Lyon 1, Lyon, F-69372, Lyon,France.(4)Department of Cell Biology and Physiology, University of North Carolina,Chapel Hill, NC, 27516, USA.(5)Department of Neuropathology, Institute of Brain Science, Hirosaki UniversityGraduate School of Medicine, 5 Zaifu-cho, Hirosaki, 036-8562, Japan.(6)University Grenoble Alpes, CEA, Inserm, BIG-BGE, 38000, Grenoble, France.(7)Neurochemistry Unit, Biochemistry Department, Hospices Civils de Lyon,Groupement Hospitalier Est, Bron, France.(8)Immunology department, Lyon-Sud Hospital, Hospices Civils de Lyon,Pierre-Bénite, France.(9)French Reference Center for Paraneoplastic Neurological Syndrome, HospicesCivils de Lyon, Hôpital Neurologique, F-69677, Bron, France.jerome.honnorat@chu-lyon.fr.(10)Institut NeuroMyoGene INSERM U1217/CNRS UMR 5310, Université de Lyon -Université Claude Bernard Lyon 1, F-69372, Lyon, France.jerome.honnorat@chu-lyon.fr.(11)University of Lyon, Université Claude Bernard Lyon 1, Lyon, F-69372, Lyon,France. jerome.honnorat@chu-lyon.fr.(12)Neuro-Oncologie, Hôpital Neurologique Pierre Wertheimer, 59 Boulevard Pinel,69677, Bron Cedex, France. jerome.honnorat@chu-lyon.fr.
+To describe autoantibodies (Abs) against tripartite motif-containing (TRIM)protein 9 and 67 in two patients with paraneoplastic cerebellar degeneration(PCD) associated with lung adenocarcinoma. Abs were characterized usingimmunohistochemistry, Western blotting, cultures of murine cortical, andhippocampal neurons, immunoprecipitation, mass spectrometry, knockout mice forTrim9 and 67, and cell-based assay. Control samples included sera from 63patients with small cell lung cancer without any paraneoplastic neurologicalsyndrome, 36 patients with lung adenocarcinoma and PNS, CSF from 100 patientswith autoimmune encephalitis, and CSF from 165 patients with neurodegenerativediseases. We found Abs targeting TRIM9 and TRIM67 at high concentration in theserum and the cerebrospinal fluid (CSF) of a 78-year-old woman and a 65-year-oldman. Both developed subacute severe cerebellar ataxia. Brain magnetic resonanceimaging found no abnormality and no cerebellar atrophy. Both had CSF inflammationwith mild pleiocytosis and a few oligoclonal bands. We identified a pulmonaryadenocarcinoma, confirming the paraneoplastic neurological syndrome in bothpatients. They received immunomodulatory and cancer treatments withoutimprovement of cerebellar ataxia, even though both were in remission of theircancer (for more than 10 years in one patient). Anti-TRIM9 and anti-TRIM67 Abswere specific to these two patients. All control serum and CSF samples testedwere negative for anti-TRIM9 and 67. Anti-TRIM9 and anti-TRIM67 Abs appeared tobe specific biomarkers of PCD and should be added to the panel of antigens testedwhen this is suspected.

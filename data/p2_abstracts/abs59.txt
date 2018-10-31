@@ -1,55 +1,6 @@
-
-
-60. Cell Rep. 2018 Sep 25;24(13):3513-3527.e7. doi: 10.1016/j.celrep.2018.08.086.
-
-BRCA1 Mutation-Specific Responses to 53BP1 Loss-Induced Homologous Recombination 
-and PARP Inhibitor Resistance.
-
-Nacson J(1), Krais JJ(2), Bernhardy AJ(2), Clausen E(2), Feng W(3), Wang Y(2),
-Nicolas E(4), Cai KQ(5), Tricarico R(6), Hua X(7), DiMarcantonio D(7), Martinez
-E(7), Zong D(8), Handorf EA(9), Bellacosa A(6), Testa JR(10), Nussenzweig A(8),
-Gupta GP(3), Sykes SM(7), Johnson N(11).
-
-Author information: 
-(1)Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA
-19111, USA; Temple University, Lewis Katz School of Medicine, Philadelphia, PA
-19140, USA.
-(2)Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA
-19111, USA.
-(3)Department of Radiation Oncology, UNC Lineberger Comprehensive Cancer Center, 
-University of North Carolina, Chapel Hill, NC 27599, USA.
-(4)Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA
-19111, USA; Genomics Facility, Fox Chase Cancer Center, Philadelphia, PA 19111,
-USA.
-(5)Histopathology Facility, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.
-(6)Cancer Epigenetics Program, Fox Chase Cancer Center, Philadelphia, PA 19111,
-USA.
-(7)Blood Cell Development and Function Program, Fox Chase Cancer Center,
-Philadelphia, PA 19111, USA.
-(8)Laboratory of Genome Integrity, National Cancer Institute, NIH, Bethesda, MD
-20892, USA.
-(9)Biostatistics and Bioinformatics Facility, Fox Chase Cancer Center,
-Philadelphia, PA 19111, USA.
-(10)Cancer Biology Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.
-(11)Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA
-19111, USA. Electronic address: neil.johnson@fccc.edu.
-
-BRCA1 functions in homologous recombination (HR) both up- and downstream of DNA
-end resection. However, in cells with 53BP1 gene knockout (KO), BRCA1 is
-dispensable for the initiation of resection, but whether BRCA1 activity is
-entirely redundant after end resection is unclear. Here, we found that 53bp1 KO
-rescued the embryonic viability of a Brca1ΔC/ΔC mouse model that harbors a stop
-codon in the coiled-coil domain. However, Brca1ΔC/ΔC;53bp1-/- mice were
-susceptible to tumor formation, lacked Rad51 foci, and were sensitive to PARP
-inhibitor (PARPi) treatment, indicative of suboptimal HR. Furthermore, BRCA1
-mutant cancer cell lines were dependent on truncated BRCA1 proteins that retained
-the ability to interact with PALB2 for 53BP1 KO induced RAD51 foci and PARPi
-resistance. Our data suggest that the overall efficiency of 53BP1 loss of
-function induced HR may be BRCA1 mutation dependent. In the setting of 53BP1 KO, 
-hypomorphic BRCA1 proteins are active downstream of end resection, promoting
-RAD51 loading and PARPi resistance.
-
+Cell Rep. 2018 Sep 25;24(13):3513-3527.e7. doi: 10.1016/j.celrep.2018.08.086.
+BRCA1 Mutation-Specific Responses to 53BP1 Loss-Induced Homologous Recombinationand PARP Inhibitor Resistance.
+Nacson J(1), Krais JJ(2), Bernhardy AJ(2), Clausen E(2), Feng W(3), Wang Y(2),Nicolas E(4), Cai KQ(5), Tricarico R(6), Hua X(7), DiMarcantonio D(7), MartinezE(7), Zong D(8), Handorf EA(9), Bellacosa A(6), Testa JR(10), Nussenzweig A(8),Gupta GP(3), Sykes SM(7), Johnson N(11).
+Author information:(1)Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA19111, USA; Temple University, Lewis Katz School of Medicine, Philadelphia, PA19140, USA.(2)Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA19111, USA.(3)Department of Radiation Oncology, UNC Lineberger Comprehensive Cancer Center,University of North Carolina, Chapel Hill, NC 27599, USA.(4)Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA19111, USA; Genomics Facility, Fox Chase Cancer Center, Philadelphia, PA 19111,USA.(5)Histopathology Facility, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.(6)Cancer Epigenetics Program, Fox Chase Cancer Center, Philadelphia, PA 19111,USA.(7)Blood Cell Development and Function Program, Fox Chase Cancer Center,Philadelphia, PA 19111, USA.(8)Laboratory of Genome Integrity, National Cancer Institute, NIH, Bethesda, MD20892, USA.(9)Biostatistics and Bioinformatics Facility, Fox Chase Cancer Center,Philadelphia, PA 19111, USA.(10)Cancer Biology Program, Fox Chase Cancer Center, Philadelphia, PA 19111, USA.(11)Molecular Therapeutics Program, Fox Chase Cancer Center, Philadelphia, PA19111, USA. Electronic address: neil.johnson@fccc.edu.
+BRCA1 functions in homologous recombination (HR) both up- and downstream of DNAend resection. However, in cells with 53BP1 gene knockout (KO), BRCA1 isdispensable for the initiation of resection, but whether BRCA1 activity isentirely redundant after end resection is unclear. Here, we found that 53bp1 KOrescued the embryonic viability of a Brca1ΔC/ΔC mouse model that harbors a stopcodon in the coiled-coil domain. However, Brca1ΔC/ΔC;53bp1-/- mice weresusceptible to tumor formation, lacked Rad51 foci, and were sensitive to PARPinhibitor (PARPi) treatment, indicative of suboptimal HR. Furthermore, BRCA1mutant cancer cell lines were dependent on truncated BRCA1 proteins that retainedthe ability to interact with PALB2 for 53BP1 KO induced RAD51 foci and PARPiresistance. Our data suggest that the overall efficiency of 53BP1 loss offunction induced HR may be BRCA1 mutation dependent. In the setting of 53BP1 KO,hypomorphic BRCA1 proteins are active downstream of end resection, promotingRAD51 loading and PARPi resistance.
 Copyright © 2018 The Author(s). Published by Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.celrep.2018.08.086 
-PMID: 30257212 

@@ -1,35 +1,6 @@
-
-
-5. Adv Exp Med Biol. 2018;1032:127-143. doi: 10.1007/978-3-319-98788-0_10.
-
-ALDH1L1 and ALDH1L2 Folate Regulatory Enzymes in Cancer.
-
-Krupenko SA(1)(2), Krupenko NI(3)(4).
-
-Author information: 
-(1)Department of Nutrition, University of North Carolina, Chapel Hill, NC, USA.
-sergey_krupenko@unc.edu.
-(2)UNC Nutrition Research Institute, Chapel Hill, NC, USA.
-sergey_krupenko@unc.edu.
-(3)Department of Nutrition, University of North Carolina, Chapel Hill, NC, USA.
-(4)UNC Nutrition Research Institute, Chapel Hill, NC, USA.
-
-Epidemiological studies implicate excess ethanol ingestion as a risk factor for
-several cancers and support the concept of a synergistic effect of chronic
-alcohol consumption and folate deficiency on carcinogenesis. Alcohol consumption 
-affects folate-related genes and enzymes including two major folate-metabolizing 
-enzymes, ALDH1L1 and ALDH1L2. ALDH1L1 (cytosolic 10-formyltetrahydrofolate
-dehydrogenase) is a regulatory enzyme in folate metabolism that controls the
-overall flux of one-carbon groups in folate-dependent biosynthetic pathways. It
-is strongly and ubiquitously down-regulated in malignant tumors via promoter
-methylation, and recent studies underscored this enzyme as a candidate tumor
-suppressor and potential marker of aggressive cancers. A related enzyme, ALDH1L2,
-is the mitochondrial homolog of ALDH1L1 encoded by a separate gene. In contrast
-to its cytosolic counterpart, ALDH1L2 is expressed in malignant tumors and cancer
-cell lines and was implicated in metastasis regulation. This review discusses the
-link between folate and cancer, modifying effects of alcohol consumption on
-folate-associated carcinogenesis, and putative roles of ALDH1L1 and ALDH1L2 in
-this process.
-
-DOI: 10.1007/978-3-319-98788-0_10 
-PMID: 30362096 
+Vaccine. 2018 Oct 23. pii: S0264-410X(18)31419-1. doi:10.1016/j.vaccine.2018.10.053. [Epub ahead of print]
+A content analysis of HPV vaccination messages available online.
+Calo WA(1), Gilkey MB(2), Malo TL(3), Robichaud M(4), Brewer NT(2).
+Author information:(1)Department of Public Health Sciences, Penn State College of Medicine, Hershey,PA 17033, USA; Penn State Cancer Institute, Hershey, PA 17033, USA. Electronicaddress: wcalo@phs.psu.edu.(2)Department of Health Behavior, Gillings School of Global Public Health,University of North Carolina, Chapel Hill, NC 27599, USA; LinebergerComprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599,USA.(3)Lineberger Comprehensive Cancer Center, University of North Carolina, ChapelHill, NC 27599, USA.(4)Department of Health Behavior, Gillings School of Global Public Health,University of North Carolina, Chapel Hill, NC 27599, USA.
+Parents have varied HPV vaccine communication needs, which presents a challengefor healthcare providers. To improve communication resources for providers, wesought to characterize HPV vaccination messages available in existing educationalmaterials. In fall 2016, we searched PubMed, educational material clearinghouses,and Google for English language HPV vaccination messages. We extracted messagesthat a provider might use when raising the topic of HPV vaccination, answeringcommon questions, and motivating vaccination. Two reviewers independently codedeach message. The search identified 267 unique messages about HPV vaccination.Messages generally were long (mean no. of words = 44, standard deviation[SD] = 33) and required a high level of education to read (mean reading gradelevel = 10, SD = 3). Only 32% of messages were shorter than 25 words, and 12% hada readability at or below grade 6. Most frequent were messages to address commonparent questions or concerns (62%); the most common topics were diseasesprevented by HPV vaccine (18%) and safety and side effects (16%). Many messagesincluded information about cancer prevention (26%) and same-day vaccination(13%). Few messages (6%) used a presumptive style to recommend HPV vaccination.In conclusion, available messages about HPV vaccination were markedly varied. Weidentified few messages that were both brief (to facilitate providers memorizingthem) and accessible (to facilitate parents understanding them). Future researchshould identify which messages lead to HPV vaccine uptake.
+Copyright © 2018 Elsevier Ltd. All rights reserved.

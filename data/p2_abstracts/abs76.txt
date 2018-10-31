@@ -1,48 +1,5 @@
-
-
-77. Dis Mon. 2018 Oct;64(10):451-466. doi: 10.1016/j.disamonth.2018.07.002. Epub 2018
-Sep 18.
-
-Perspectives on the opioid crisis from pain medicine clinicians.
-
-Jay GW(1), Barkin RL(2).
-
-Author information: 
-(1)Clinical Professor, Department of Neurology, University of North Carolina,
-United States.
-(2)Professor, Rush University Medical College, Departments of Anesthesiology,
-Family Medicine, Pharmacology, Clinical Pharmacologist Department of
-Anesthesiology, Pain Centers of Skokie and Evanston Hospitals, NorthShore
-University Health System, IL, United States. Electronic address:
-rbarkin@rush.edu.
-
-Patients experiencing a terminal drug related event reflect a sentinel event. If 
-this pharmacotherapy is a widely used agent, it may be viewed as a catastrophic
-problem. If patients are dying from illegal drug use when the medical
-establishment fails them by withdrawing or minimizing their medically prescribed 
-medication, then the burden rests with their health care providers, legislation, 
-and insurance carriers to actively participate in a collegial fashion to achieve 
-parity. Causing a decay in functionality in previously functional patients, may
-occur with appropriately prescribed opioid medications addressing non-cancer pain
-when withdrawing or diminishing either with or without patient consent. The
-members of the medical profession have diminished their prescribing of opioids
-for their patients out of apparent fear of reprisal, state or federal government 
-sanctions, and other concerned groups. Diminishing former dosages or deleting the
-opioid medication, preferably in concert with the patient, often results in
-inequitable patient care. Enforcing sanctioned decreases or ceasing to prescribe 
-from their former required/established opioid medications precipitate patient
-discord. In absence of opioid misuse, abuse, diversion or addiction based upon
-medical "guidelines" and with a poor foundation of Evidence Based Medicine the
-CDC guidelines, it may be masked as a true guideline reflecting a decrement of
-clinical judgment, wisdom, and compassion. This article also discusses the role
-of pharmacy chains, insurance carriers, and their pharmacy benefit managers
-(PBMs) contribution to this multidimensional problem. There may be a potential
-solution, identified in this paper, if all the associated political, medical and 
-insurance groups work cohesively to improve patient care. This article and the
-CDC guidelines are not focused at hospice, palliative, end of life care pain
-management.
-
-Copyright © 2018. Published by Elsevier Inc.
-
-DOI: 10.1016/j.disamonth.2018.07.002 
-PMID: 30236900  [Indexed for MEDLINE]
+AJR Am J Roentgenol. 2018 Nov;211(5):957-963. doi: 10.2214/AJR.17.19350. Epub2018 Sep 20.
+The Effect of Digital Breast Tomosynthesis Adoption on Facility-Level BreastCancer Screening Volume.
+Lee CI(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Zhu W(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),Onega TL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), GerminoJ(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), O'Meara ES(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),Lehman CD(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), HendersonLM(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Haas JS(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),Kerlikowske K(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), SpragueBL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Rauscher GH(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),Tosteson ANA(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Alford-TeasterJ(1)(2)(3)(4)(5)(6)(7)(8)(9)(10), Wernli KJ(1)(2)(3)(4)(5)(6)(7)(8)(9)(10),Miglioretti DL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10).
+Author information:(1)1 Department of Radiology, University of Washington School of Medicine, 825Eastlake Ave E, G3-200, Seattle, WA 98109.(2)2 Kaiser Permanente Washington Health Research Institute, Seattle, WA.(3)3 Dartmouth Institute for Health Policy & Clinical Practice, Norris CottonCancer Center, Geisel School of Medicine, Lebanon, NH.(4)4 Department of Radiology, Massachusetts General Hospital, Harvard MedicalSchool, Boston, MA.(5)5 Department of Radiology, University of North Carolina, Chapel Hill, ChapelHill, NC.(6)6 Department of Medicine, Brigham and Women's Hospital, Harvard MedicalSchool, Dana Farber Harvard Cancer Institute, Harvard School of Public Health,Boston, MA.(7)7 Department of Medicine, University of California, San Francisco, SanFrancisco, CA.(8)8 Department of Surgery, University of Vermont, Burlington, VT.(9)9 Department of Epidemiology, University of Illinois at Chicago, Chicago, IL.(10)10 Division of Biostatistics, University of California, Davis, Davis, CA.
+OBJECTIVE: The purpose of this study was to determine whether digital breasttomosynthesis (DBT) adoption was associated with a decrease in screeningmammography capacity across Breast Cancer Screening Consortium facilities, givenconcerns about increasing imaging and interpretation times associated with DBT.SUBJECTS AND METHODS: Facility characteristics and examination volume data werecollected prospectively from Breast Cancer Screening Consortium facilities thatadopted DBT between 2011 and 2014. Interrupted time series analyses using Poissonregression models in which facility was considered a random effect were used toevaluate differences between monthly screening volumes during the 12-monthpreadoption period and the 12-month postadoption period (with the two periodsseparated by a 3-month lag) and to test for changes in month-to-monthfacility-level screening volume during the preadoption and postadoption periods.RESULTS: Across five regional breast imaging registries, 15 of 83 facilities(18.1%) adopted DBT for screening between 2011 and 2014. Most had no academicaffiliation (73.3% [11/15]), were nonprofit (80.0% [12/15]), and were generalradiology practices (66.7% [10/15]). Facility-level monthly screening volumeswere slightly higher during the postadoption versus preadoption periods (relativerisk [RR], 1.09; 95% CI, 1.06-1.11). Monthly screening volumes remainedrelatively stable within the preadoption period (RR, 1.00 per month; 95% CI1.00-1.01 per month) and the postadoption period (RR, 1.00; 95% CI, 1.00-1.01 permonth).CONCLUSION: In a cohort of facilities with varied characteristics, monthlyscreening examination volumes did not decrease after DBT adoption.

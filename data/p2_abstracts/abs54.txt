@@ -1,47 +1,5 @@
-
-
-55. mSystems. 2018 Sep 25;3(5). pii: e00081-18. doi: 10.1128/mSystems.00081-18.
-eCollection 2018 Sep-Oct.
-
+mSystems. 2018 Sep 25;3(5). pii: e00081-18. doi: 10.1128/mSystems.00081-18.eCollection 2018 Sep-Oct.
 Epstein-Barr Virus-Positive Cancers Show Altered B-Cell Clonality.
-
 Selitsky SR(1), Marron D(1), Mose LE(1), Parker JS(1)(2), Dittmer DP(1)(3).
-
-Author information: 
-(1)Lineberger Comprehensive Cancer Center, School of Medicine at the University
-of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.
-(2)Department of Genetics, University of North Carolina at Chapel Hill, Chapel
-Hill, North Carolina, USA.
-(3)Department of Microbiology and Immunology, University of North Carolina at
-Chapel Hill, Chapel Hill, North Carolina, USA.
-
-Epstein-Barr virus (EBV) is convincingly associated with gastric cancer,
-nasopharyngeal carcinoma, and certain lymphomas, but its role in other cancer
-types remains controversial. To test the hypothesis that there are additional
-cancer types with high prevalence of EBV, we determined EBV viral expression in
-all the Cancer Genome Atlas Project (TCGA) mRNA sequencing (mRNA-seq) samples (n 
-= 10,396) from 32 different tumor types. We found that EBV was present in gastric
-adenocarcinoma and lymphoma, as expected, and was also present in >5% of samples 
-in 10 additional tumor types. For most samples, EBV transcript levels were low,
-which suggests that EBV was likely present due to infected infiltrating B cells. 
-In order to determine if there was a difference in the B-cell populations, we
-assembled B-cell receptors for each sample and found B-cell receptor abundance (P
-≤ 1.4 × 10-20) and diversity (P ≤ 8.3 × 10-27) were significantly higher in
-EBV-positive samples. Moreover, diversity was independent of B-cell abundance,
-suggesting that the presence of EBV was associated with an increased and altered 
-B-cell population. IMPORTANCE Around 20% of human cancers are associated with
-viruses. Epstein-Barr virus (EBV) contributes to gastric cancer, nasopharyngeal
-carcinoma, and certain lymphomas, but its role in other cancer types remains
-controversial. We assessed the prevalence of EBV in RNA-seq from 32 tumor types
-in the Cancer Genome Atlas Project (TCGA) and found EBV to be present in >5% of
-samples in 12 tumor types. EBV infects epithelial cells and B cells and in B
-cells causes proliferation. We hypothesized that the low expression of EBV in
-most of the tumor types was due to infiltration of B cells into the tumor. The
-increase in B-cell abundance and diversity in subjects where EBV was detected in 
-the tumors strengthens this hypothesis. Overall, we found that EBV was associated
-with an increased and altered immune response. This result is not evidence of
-causality, but a potential novel biomarker for tumor immune status.
-
-DOI: 10.1128/mSystems.00081-18 
-PMCID: PMC6156273
-PMID: 30271878 
+Author information:(1)Lineberger Comprehensive Cancer Center, School of Medicine at the Universityof North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.(2)Department of Genetics, University of North Carolina at Chapel Hill, ChapelHill, North Carolina, USA.(3)Department of Microbiology and Immunology, University of North Carolina atChapel Hill, Chapel Hill, North Carolina, USA.
+Epstein-Barr virus (EBV) is convincingly associated with gastric cancer,nasopharyngeal carcinoma, and certain lymphomas, but its role in other cancertypes remains controversial. To test the hypothesis that there are additionalcancer types with high prevalence of EBV, we determined EBV viral expression inall the Cancer Genome Atlas Project (TCGA) mRNA sequencing (mRNA-seq) samples (n= 10,396) from 32 different tumor types. We found that EBV was present in gastricadenocarcinoma and lymphoma, as expected, and was also present in >5% of samplesin 10 additional tumor types. For most samples, EBV transcript levels were low,which suggests that EBV was likely present due to infected infiltrating B cells.In order to determine if there was a difference in the B-cell populations, weassembled B-cell receptors for each sample and found B-cell receptor abundance (P≤ 1.4 × 10-20) and diversity (P ≤ 8.3 × 10-27) were significantly higher inEBV-positive samples. Moreover, diversity was independent of B-cell abundance,suggesting that the presence of EBV was associated with an increased and alteredB-cell population. IMPORTANCE Around 20% of human cancers are associated withviruses. Epstein-Barr virus (EBV) contributes to gastric cancer, nasopharyngealcarcinoma, and certain lymphomas, but its role in other cancer types remainscontroversial. We assessed the prevalence of EBV in RNA-seq from 32 tumor typesin the Cancer Genome Atlas Project (TCGA) and found EBV to be present in >5% ofsamples in 12 tumor types. EBV infects epithelial cells and B cells and in Bcells causes proliferation. We hypothesized that the low expression of EBV inmost of the tumor types was due to infiltration of B cells into the tumor. Theincrease in B-cell abundance and diversity in subjects where EBV was detected inthe tumors strengthens this hypothesis. Overall, we found that EBV was associatedwith an increased and altered immune response. This result is not evidence ofcausality, but a potential novel biomarker for tumor immune status.

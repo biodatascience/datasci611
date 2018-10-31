@@ -1,48 +1,5 @@
-
-
-41. Surg Endosc. 2018 Oct 8. doi: 10.1007/s00464-018-6451-2. [Epub ahead of print]
-
-The incidence of lymph node metastasis in submucosal early gastric cancer
-according to the expanded criteria: a systematic review.
-
-Abdelfatah MM(1), Barakat M(2), Othman MO(3), Grimm IS(4), Uedo N(5).
-
-Author information: 
-(1)Division of Gastroenterology and Hepatology, East Carolina University,
-Greenville, NC, 27834, USA. dr.mohamed.magdy@hotmail.com.
-(2)Department of Internal Medicine, NYC Health, New York, NY, USA.
-(3)Gastroenterology and Hepatology Section, Baylor College of Medicine, Houston, 
-TX, USA.
-(4)Division of Gastroenterology and Hepatology, University of North Carolina,
-Chapel Hill, NC, USA.
-(5)Department of Gastrointestinal Oncology, Osaka International Cancer Institute,
-Osaka, Japan.
-
-BACKGROUND: For successful endoscopic treatment of early gastric cancer (EGC),
-absolute criteria for a curative en bloc resection were initially established to 
-include predominantly differentiated mucosal lesions ≤ 2 cm in diameter without
-ulceration. These indications were subsequently expanded to include larger,
-ulcerated, and predominantly undifferentiated mucosal lesions. In addition,
-differentiated type adenocarcinomas ≤ 3 cm with slight submucosal invasion of
-< 500 µm (pT1b1) are regarded as "curative" under the expanded criteria. However,
-data derived from studies of surgical specimens in patients with pT1b1 EGC have
-yielded varying rates of lymph node metastasis (LNM).
-METHOD: A systemic review was conducted using the pooled analysis to calculate
-the incidence of LNM in pT1b1 EGC, and to investigate whether using a cut-off
-value of < 300 µm would decrease the risk of LNM in patients with submucosal EGC.
-RESULTS: Nineteen articles were included. 1507 patients with pT1b1 EGC met the
-expanded indications. The incidence of LNM was 3% (45 out of 1507 patients). In a
-subgroup analysis of three studies, there was no significant difference in the
-LNM between pT1b EGC < 300 µm and < 500 µm [3/121(2.5%) vs. 5/180 (2.8%)] (OR
-0.89, 95% CI 0.22-3.54).
-CONCLUSION: Overall, expanding the indications for endoscopic resection of EGC to
-include lesions ≤ 3 cm T1b1 is associated with a potential risk of LNM of 3%. In 
-countries outside of Japan, we found a slightly higher risk of LNM (4.0%). These 
-estimates of LNM should be incorporated into decisions regarding further
-management of patients with EGC ≤ 3 cm who are found to have slight submucosal
-invasion (< 500 µm) in an ESD specimen. Standardization of specimen handling and 
-histological evaluation is essential if the Japanese results of endoscopic
-treatment for EGC are to be successfully applied in other parts of the world.
-
-DOI: 10.1007/s00464-018-6451-2 
-PMID: 30298447 
+SSM Popul Health. 2018 Sep 25;6:158-168. doi: 10.1016/j.ssmph.2018.09.009.eCollection 2018 Dec.
+Canadian report card on health equity across the life-course: Analysis of timetrends and cross-national comparisons with the United Kingdom.
+Blair A(1)(2)(3), Siddiqi A(4)(5), Frank J(3)(6).
+Author information:(1)Département de Médecine Sociale et Préventive, École de Santé Publique,Université de Montréal, 7101 Park Ave, Montréal, Québec, Canada H3N 1X9.(2)Centre de Recherche du Centre hospitalier de l'Université de Montréal(CRCHUM), 850 St Denis St, Montréal, Québec, Canada H2X 0A9.(3)Scottish Collaboration for Public Health Research and Policy, University ofEdinburgh, 20 West Richmond Street, Edinburgh EH8 9DX, United Kingdom.(4)Division of Epidemiology, Dalla Lana School of Public Health, University ofToronto, 155 College Street, Toronto, Ontario, Canada M5T 3M7.(5)Department of Health Behavior, Gillings School of Global Public Health,University of North Carolina at Chapel Hill, 302 Rosenau Hall, CB #7440, ChapelHill, NC 27599-7440, United States.(6)Usher Institute of Population Health Sciences and Informatics, University ofEdinburgh, Old Medical School, Teviot Place, Edinburgh EH8 9AG, United Kingdom.
+Addressing social determinants of health (SDoH) has been acknowledged as anessential objective for the promotion of both population health and healthequity. Extant literature has identified seven potential areas of investment toaddress SDoH: investments in sexual and reproductive health and family planning,early learning and child care, education, universal health care, as well asinvestments to reduce child poverty, ensure sustainable economic development, andcontrol health hazards. The aim of this paper is to produce a 'report card' onCanada's success in reducing socioeconomic and health inequities pertaining tothese seven policy domains, and to assess how Canadian trends compare to those inthe United Kingdom (UK), a country with a similar health and welfare system.Summarising evidence from published studies and national statistics, we foundthat Canada's best successes were in reducing socioeconomic inequalities in earlylearning and child care and reproductive health-specifically in improving equityin maternal employment and infant mortality. Comparative data suggest thatCanada's outcomes in the latter areas were like those in the UK. In contrast,Canada's least promising equity outcomes were in relation to health hazardcontrol (specifically, tobacco) and child poverty. Though Canada and the UKobserved similar inequities in smoking, Canada's slow upward trend in childpoverty prevalence is distinct from the UK's small but steady reduction of childpoverty. This divergence from the UK's trends indicates that alternativeinvestment types and levels may be needed in Canada to achieve similar outcomesto those in the UK.

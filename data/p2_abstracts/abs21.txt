@@ -1,48 +1,5 @@
-
-
-22. Cancer Epidemiol Biomarkers Prev. 2018 Oct 17. pii: cebp.0674.2018. doi:
-10.1158/1055-9965.EPI-18-0674. [Epub ahead of print]
-
-Adult physical activity and breast cancer risk in women with a family history of 
-breast cancer.
-
-Niehoff NM(1), Nichols HB(2), Zhao S(3), White AJ(4), Sandler DP(4).
-
-Author information: 
-(1)Epidemiology, University of North Carolina at Chapel Hill
-nicolen@live.unc.edu.
-(2)Department of Epidemiology, University of North Carolina at Chapel Hill.
-(3)Biostatistics & Computational Biology Branch, National Institute of
-Environmental Health Sciences.
-(4)Epidemiology Branch, National Institute of Environmental Health Sciences.
-
-BACKGROUND: Recreational physical activity has been consistently associated with 
-reduced breast cancer risk. Less is known about how family history of breast
-cancer impacts the association, and whether it varies by menopausal status.
-METHODS: The Sister Study is a cohort of 50,884 women who had a sister with
-breast cancer, but no prior breast cancer themselves. Women reported all
-recreational sport/exercise activities they participated in over the past 12
-months. Hours/week and MET-hours/week of physical activity were considered in
-association with breast cancer risk. Hazard ratios (HRs) and 95% confidence
-intervals (CIs) were calculated with Cox regression. Extent of family history,
-examined as a modifier, was characterized by a Bayesian score incorporating
-characteristics of the family structure.
-RESULTS: During follow-up (average 8.4 years), 3,023 cases were diagnosed. Higher
-hours/week (HR>=7vs<1=0.77; 95%CI: 0.66-0.90) and MET-hours/week
-(HRquartile4vs1=0.75; 95%CI: 0.67-0.85) of physical activity were associated with
-reduced postmenopausal breast cancer risk. Hours/week and MET-hours/week were
-associated with suggestive increased premenopausal breast cancer risk
-(MET-hours/week HRquartile4vs1=1.25; 95%CI: 0.98-1.60). Associations did not vary
-with extent of family history. However, the increased risk in premenopausal women
-may be limited to those with stronger family history.
-CONCLUSIONS: In women with a family history of breast cancer, physical activity
-was associated with reduced postmenopausal, but not premenopausal, breast cancer 
-risk and was not modified by extent of family history.
-IMPACT: This was the first study to examine the association between physical
-activity and breast cancer risk in a large population with a family history of
-breast cancer.
-
-Copyright ©2018, American Association for Cancer Research.
-
-DOI: 10.1158/1055-9965.EPI-18-0674 
-PMID: 30333218 
+Sci Rep. 2018 Oct 17;8(1):15304. doi: 10.1038/s41598-018-33601-w.
+The Cancer/Testes (CT) Antigen HORMAD1 promotes Homologous Recombinational DNARepair and Radioresistance in Lung adenocarcinoma cells.
+Gao Y(1), Kardos J(2), Yang Y(1), Tamir TY(3), Mutter-Rottmayer E(1), WeissmanB(1)(2), Major MB(3), Kim WY(2), Vaziri C(4)(5).
+Author information:(1)Department of Pathology and Laboratory Medicine, University of North Carolinaat Chapel Hill, 614 Brinkhous-Bullitt Building, Chapel Hill, NC, 27599, USA.(2)Lineberger Comprehensive Cancer Center, Curriculum in Genetics and MolecularBiology, and Department of Biochemistry and Biophysics, University of NorthCarolina, Chapel Hill, NC, 27599, USA.(3)Department of Cell Biology and Physiology, Lineberger Comprehensive CancerCenter, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA.(4)Department of Pathology and Laboratory Medicine, University of North Carolinaat Chapel Hill, 614 Brinkhous-Bullitt Building, Chapel Hill, NC, 27599, USA.cyrus_vaziri@med.unc.edu.(5)Lineberger Comprehensive Cancer Center, Curriculum in Genetics and MolecularBiology, and Department of Biochemistry and Biophysics, University of NorthCarolina, Chapel Hill, NC, 27599, USA. cyrus_vaziri@med.unc.edu.
+The Cancer/Testes (CT) Antigen HORMAD1 is germ cell-restricted and playsdevelopmental roles in generation and processing of meiotic DNA Double StrandBreaks (DSB). Many tumors aberrantly overexpress HORMAD1 yet the potential impactof this CT antigen on cancer biology is unclear. We tested a potential role ofHORMAD1 in genome maintenance in lung adenocarcinoma cells. We show that HORMAD1re-distributes to nuclear foci and co-localizes with the DSB marker γH2AX inresponse to ionizing radiation (IR) and chemotherapeutic agents. The HORMA domainand C-term disordered oligomerization motif are necessary for localization ofHORMAD1 to IR-induced foci (IRIF). HORMAD1-depleted cells are sensitive to IR andcamptothecin. In reporter assays, Homologous Recombination (HR)-mediated repairof targeted ISce1-induced DSBs is attenuated in HORMAD1-depleted cells. InNon-Homologous End Joining (NHEJ) reporter assays, HORMAD1-depletion does notaffect repair of ISce1-induced DSB. Early DSB signaling events (including ATMphosphorylation and formation of γH2AX, 53BP1 and NBS1 foci) are intact inHORMAD1-depleted cells. However, generation of RPA-ssDNA foci and redistributionof RAD51 to DSB are compromised in HORMAD1-depleted cells, suggesting thatHORMAD1 promotes DSB resection. HORMAD1-mediated HR is a neomorphic activity thatis independent of its meiotic partners (including HORMAD2 and CCDC36.Bioinformatic analysis of TCGA data show that similar to known HR pathway genesHORMAD1 is overexpressed in lung adenocarcinomas. Overexpression of HR genes isassociated with specific mutational profiles (including copy number variation).Taken together, we identify HORMAD1-dependent DSB repair as a new mechanism ofradioresistance and a probable determinant of mutability in lung adenocarcinoma.

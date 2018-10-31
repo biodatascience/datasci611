@@ -1,44 +1,6 @@
-
-
-13. J Oncol Pharm Pract. 2018 Oct 22:1078155218808084. doi: 10.1177/1078155218808084.
-[Epub ahead of print]
-
-Infusion reactions following administration of intravenous rolapitant at an
-academic medical center.
-
-Cass AS(1), Odinet JS(1), Valgus JM(1)(2), Crona DJ(1)(3)(4).
-
-Author information: 
-(1)1 Department of Pharmacy, University of North Carolina Hospitals and Clinics, 
-Chapel Hill, NC, USA.
-(2)2 Division of Practice Advancement and Continuing Education, Eshelman School
-of Pharmacy, University of North Carolina, Chapel Hill, NC, USA.
-(3)3 Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School
-of Pharmacy, University of North Carolina, Chapel Hill, NC, USA.
-(4)4 Lineberger Comprehensive Cancer Center, School of Medicine, University of
-North Carolina, Chapel Hill, NC, USA.
-
-In 2017, due to a fluid shortage secondary to Hurricane Maria's devastation of
-Puerto Rico, hospitals and health-systems began to substitute rolapitant for
-fosaprepitant as part of chemotherapy-induced nausea and vomiting prevention and 
-treatment strategies. However, despite advantageous pharmacologic and formulation
-(e.g. long half-life, quicker time to onset, and lack of first-pass hepatic
-metabolism) profiles, there seems to be significant risk of infusion-related
-hypersensitivity reactions associated with the administration of intravenous
-rolapitant. In January 2018, the U.S. FDA issued a Health Care Provider Letter
-stating that anaphylaxis, anaphylactic shock, and other serious hypersensitivity 
-reactions have been reported in the postmarketing setting. Importantly, these
-reactions were observed at a higher rate than initially reported in the phase 1
-bioequivalence study that led to FDA approval of intravenous rolapitant (2.8%),
-with many resulting in hospitalizations. At our institution, rolapitant-induced
-infusion-related reactions also occurred in more patients than expected (8.7%).
-Described herein are six cases of infusion-related hypersensitivity reactions
-with intravenous rolapitant at the North Carolina Cancer Hospital. Due to the
-quick onset of the infusion-related hypersensitivity reactions with intravenous
-rolapitant, interpatient differences in pharmacokinetics or pharmacodynamics are 
-unlikely to be the cause. An objective assessment utilizing the Naranjo Causality
-Scale rates these infusion-related hypersensitivity reactions as definite adverse
-drug reactions.
-
-DOI: 10.1177/1078155218808084 
-PMID: 30348072 
+Psychooncology. 2018 Oct 23. doi: 10.1002/pon.4928. [Epub ahead of print]
+Associations of functional, psychosocial, medical, and socio-demographic factorswith cognitive screening in chemotherapy naïve patients with breast cancer.
+Nakamura ZM(1), Deal AM(2), Nyrop KA(2)(3), Choi SK(4), Wood WA(2)(3), MussHB(2)(3).
+Author information:(1)Department of Psychiatry, University of North Carolina at Chapel Hill, ChapelHill, NC, USA.(2)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, NC, USA.(3)Department of Medicine, Division of Hematology/Oncology, University of NorthCarolina at Chapel Hill, Chapel Hill, NC, USA.(4)Department of Health Behavior, Gillings School of Global Public Health,University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+OBJECTIVE: To describe associations of functional, psychosocial, medical, andsocio-demographic factors with performance on a cognitive screening test inchemotherapy naïve patients with breast cancer.METHODS: Women with breast cancer were recruited between 2009 and 2018. TheBlessed Orientation Memory Concentration Test (BOMC) was administered prior tochemotherapy. Associations between baseline BOMC and functional (KarnofskySelf-Reported Performance Rating Scale (KPS), Time Up and Go Test (TUG), MedicalOutcomes Study (MOS) Physical Function, Instrumental Activities of Daily Living(IADL)), psychosocial (Mental Health Inventory-13, MOS Social Activity Limitationand Social Support Survey), medical, and socio-demographic variables wereassessed using linear regression analysis.RESULTS: In a sample of 331 women with breast cancer, the mean age was 65.2 yearsand 68.6% were 65 and older. Mean BOMC score was 3.60 on a scale from 0 (best) to28 (worst). After controlling for demographic factors, worse BOMC screening testresults were associated with KPS < 80 (p=0.01), IADL< 14 (p=0.02), TUG ≥ 14seconds (p=0.001), worse MOS Physical Function (p=0.0006), depressive symptoms(p=0.04), and social activity limitations (p=0.01).CONCLUSION: In a sample of women with breast cancer, pre-treatment cognitivescreening scores did not reveal profound cognitive impairment. BOMC screeningscores were associated with multiple measures of physical function, but furtherresearch is needed to determine a clinically meaningful cut point in the BOMC forscreening of cancer-related cognitive impairment.
+This article is protected by copyright. All rights reserved.

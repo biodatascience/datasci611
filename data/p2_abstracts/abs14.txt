@@ -1,31 +1,5 @@
-
-
-15. Am J Prev Med. 2018 Oct 18. pii: S0749-3797(18)32156-1. doi:
-10.1016/j.amepre.2018.07.023. [Epub ahead of print]
-
-Preempting Racial Inequities in Lung Cancer Screening.
-
-Richmond J(1), M Mbah O(2), Z Dard S(3), Jordan LC(2), Cools KS(4), Samuel CA(5),
-M Khan J(6), A Manning M(6).
-
-Author information: 
-(1)Department of Health Behavior, Gillings School of Global Public Health,
-University of North Carolina at Chapel Hill, Chapel Hill, North Carolina;
-American Institutes for Research, Research and Evaluation, Chapel Hill, North
-Carolina. Electronic address: jenni404@email.unc.edu.
-(2)Department of Health Policy and Management, Gillings School of Global Public
-Health, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina.
-(3)North Carolina Translational and Clinical Sciences Institute, University of
-North Carolina at Chapel Hill, Chapel Hill, North Carolina.
-(4)Department of Health Policy and Management, Gillings School of Global Public
-Health, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina;
-Department of Surgery, University of North Carolina School of Medicine, Chapel
-Hill, North Carolina.
-(5)Department of Health Policy and Management, Gillings School of Global Public
-Health, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina;
-Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
-Hill, Chapel Hill, North Carolina.
-(6)Cone Health Cancer Center, Radiation Oncology, Greensboro, North Carolina.
-
-DOI: 10.1016/j.amepre.2018.07.023 
-PMID: 30344035 
+Breast Cancer Res. 2018 Oct 22;20(1):126. doi: 10.1186/s13058-018-1054-3.
+Tumor-derived granulocyte colony-stimulating factor diminishes efficacy of breasttumor cell vaccines.
+Ravindranathan S(1), Nguyen KG(2)(3), Kurtz SL(1), Frazier HN(4), Smith SG(1)(5),Koppolu BP(1)(5), Rajaram N(1), Zaharoff DA(6)(7)(8)(9)(10).
+Author information:(1)Department of Biomedical Engineering, University of Arkansas, Fayetteville,AR, USA.(2)Cell and Molecular Biology Program, University of Arkansas, Fayetteville, AR,USA.(3)Department of Microbiology and Immunology, University of North Carolina,Chapel Hill, NC, USA.(4)Honors College, University of Arkansas, Fayetteville, AR, USA.(5)Joint Department of Biomedical Engineering, University of North Carolina,Chapel Hill, NC and North Carolina State University, Raleigh, NC, USA.(6)Department of Biomedical Engineering, University of Arkansas, Fayetteville,AR, USA. dazaharo@ncsu.edu.(7)Cell and Molecular Biology Program, University of Arkansas, Fayetteville, AR,USA. dazaharo@ncsu.edu.(8)Department of Microbiology and Immunology, University of North Carolina,Chapel Hill, NC, USA. dazaharo@ncsu.edu.(9)Honors College, University of Arkansas, Fayetteville, AR, USA.dazaharo@ncsu.edu.(10)Joint Department of Biomedical Engineering, University of North Carolina,Chapel Hill, NC and North Carolina State University, Raleigh, NC, USA.dazaharo@ncsu.edu.
+BACKGROUND: Although metastasis is ultimately responsible for about 90% of breastcancer mortality, the vast majority of breast-cancer-related deaths are due toprogressive recurrences from non-metastatic disease. Current adjuvant therapiesare unable to prevent progressive recurrences for a significant fraction ofpatients with breast cancer. Autologous tumor cell vaccines (ATCVs) are a safeand potentially useful strategy to prevent breast cancer recurrence, in apersonalized and patient-specific manner, following standard-of-care tumorresection. Given the high intra-patient and inter-patient heterogeneity in breastcancer, it is important to understand which factors influence the immunogenicityof breast tumor cells in order to maximize ATCV effectiveness.METHODS: The relative immunogenicity of two murine breast carcinomas, 4T1 andEMT6, were compared in a prophylactic vaccination-tumor challenge model.Differences in cell surface expression of antigen-presentation-related andcostimulatory molecules were compared along with immunosuppressive cytokineproduction. CRISPR/Cas9 technology was used to modulate tumor-derived cytokinesecretion. The impacts of cytokine deletion on splenomegaly, myeloid-derivedsuppressor cell (MDSC) accumulation and ATCV immunogenicity were assessed.RESULTS: Mice vaccinated with an EMT6 vaccine exhibited significantly greaterprotective immunity than mice vaccinated with a 4T1 vaccine. Hybrid vaccinationstudies revealed that the 4T1 vaccination induced both local and systemic immuneimpairments. Although there were significant differences between EMT6 and 4T1 inthe expression of costimulatory molecules, major disparities in the secretion ofimmunosuppressive cytokines likely accounts for differences in immunogenicitybetween the cell lines. Ablation of one cytokine in particular,granulocyte-colony stimulating factor (G-CSF), reversed MDSC accumulation andsplenomegaly in the 4T1 model. Furthermore, G-CSF inhibition enhanced theimmunogenicity of a 4T1-based vaccine to the extent that all vaccinated micedeveloped complete protective immunity.CONCLUSIONS: Breast cancer cells that express high levels of G-CSF have thepotential to diminish or abrogate the efficacy of breast cancer ATCVs.Fortunately, this study demonstrates that genetic ablation of immunosuppressivecytokines, such as G-CSF, can enhance the immunogenicity of breast cancercell-based vaccines. Strategies that combine inhibition of immunosuppressivefactors with immune stimulatory co-formulations already under development mayhelp ATCVs reach their full potential.

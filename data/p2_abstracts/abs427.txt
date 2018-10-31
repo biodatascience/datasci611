@@ -1,0 +1,6 @@
+Cold Spring Harb Perspect Med. 2018 Sep 4;8(9). pii: a031435. doi:10.1101/cshperspect.a031435.
+KRAS: The Critical Driver and Therapeutic Target for Pancreatic Cancer.
+Waters AM(1), Der CJ(1).
+Author information:(1)University of North Carolina at Chapel Hill, Lineberger Comprehensive CancerCenter, Chapel Hill, North Carolina 27599.
+RAS genes (HRAS, KRAS, and NRAS) comprise the most frequently mutated oncogenefamily in human cancer. With the highest RAS mutation frequencies seen with thetop three causes of cancer deaths in the United States (lung, colorectal, andpancreatic cancer), the development of anti-RAS therapies is a major priority forcancer research. Despite more than three decades of intense effort, no effectiveRAS inhibitors have yet to reach the cancer patient. With bitter lessons learnedfrom past failures and with new ideas and strategies, there is renewed hope thatundruggable RAS may finally be conquered. With the KRAS isoform mutated in 84% ofall RAS-mutant cancers, we focus on KRAS. With a near 100% KRAS mutationfrequency, pancreatic ductal adenocarcinoma (PDAC) is considered the mostRAS-addicted of all cancers. We review the role of KRAS as a driver andtherapeutic target in PDAC.
+Copyright © 2018 Cold Spring Harbor Laboratory Press; all rights reserved.

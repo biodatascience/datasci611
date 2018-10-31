@@ -1,57 +1,6 @@
-
-
-83. J Womens Health (Larchmt). 2018 Sep 27. doi: 10.1089/jwh.2017.6884. [Epub ahead
-of print]
-
-Rural-Urban Residence and Stage at Breast Cancer Diagnosis Among Postmenopausal
-Women: The Women's Health Initiative.
-
-Sealy-Jefferson S(1), Roseland ME(2), Cote ML(3), Lehman A(4), Whitsel EA(5),
-Mustafaa FN(6), Booza J(7), Simon MS(3).
-
-Author information: 
-(1)1 Division of Epidemiology, College of Public Health, The Ohio State
-University , Columbus, Ohio.
-(2)2 Beaumont Hospital Oakwood Campus , Dearborn, Michigan.
-(3)3 Department Oncology and Karmanos Cancer Institute, Wayne State University , 
-Detroit, Michigan.
-(4)4 Center for Biostatistics, The Ohio State University , Columbus, Ohio.
-(5)5 Department of Epidemiology, University of North Carolina School of Global
-Public Health , Chapel Hill, North Carolina.
-(6)6 Department of Psychology, University of California at Berkeley , Berkeley,
-California.
-(7)7 Department of Family Medicine and Public Health Sciences, Wayne State
-University , Detroit, Michigan.
-
-BACKGROUND: Although social exposures have complex and dynamic relationships and 
-interactions, the existing literature on the impact of rural-urban residence on
-stage at breast cancer diagnosis does not examine heterogeneity of effect. We
-examined the joint effect of social support, social relationship strain, and
-rural-urban residence on stage at breast cancer diagnosis.
-METHODS: Using data from the Women's Health Initiative (WHI) (n = 161,808), we
-describe the distribution of social, behavioral, and clinical factors by
-rural-urban residence among postmenopausal women with incident breast cancer
-(n = 7,120). We used rural-urban commuting area (RUCA) codes to categorize
-baseline residential addresses as urban, large rural city/town, or small rural
-town, and the surveillance, epidemiology, and end results staging system to
-categorize breast cancer stage at diagnosis (dichotomized as early or late). We
-then used univariable and multivariable logistic regression to estimate odds
-ratios (ORs) and associated 95% confidence intervals (95% CI) for the
-relationship between rural-urban residence and stage at breast cancer diagnosis. 
-We included separate interaction terms between rural-urban residence and social
-strain and social support to test for statistical interaction.
-RESULTS: Of the social, behavioral, and clinical factors we examined, only
-younger age at WHI enrollment screening was significantly associated with late
-stage at breast cancer diagnosis (p = 0.003). Contrary to our hypothesis,
-rural-urban residence was not significantly associated with stage at breast
-cancer diagnosis among postmenopausal women ([adjusted OR, 95% CI] for urban
-compared with small town: 1.08 [0.76-1.53]; large town compared with small town: 
-1.16 [0.74-1.84]; and urban compared with large town: 0.93 [0.68-1.26]).The
-associations did not vary by social support or social strain (p for interaction
-between RUCA and social strain and social support, respectively: 0.99 and 0.17).
-CONCLUSIONS: Future studies should examine other potential effect modifiers to
-identify novel factors predictive or protective for late stage at breast cancer
-diagnosis associated with rural-urban residence.
-
-DOI: 10.1089/jwh.2017.6884 
-PMID: 30230942 
+Pharm Nanotechnol. 2018 Sep 18. doi: 10.2174/2211738506666180918122337. [Epubahead of print]
+Drug Delivery for Cancer Immunotherapy and Vaccines.
+Batty CJ(1), Tiet P(1), Bachelder EM(1), Ainslie KM(1).
+Author information:(1)Eshelman School of Pharmacy, Division of Pharmacoengineering and MolecularPharmaceutics, The University of North Carolina at Chapel Hill. United States.
+Cancer cells are able to avoid immune surveillance and exploit the immune systemto grow and metastasize. With the development of nano- and micro-particles, therehas been a growing number of immunotherapy delivery systems developed to elicitinnate and adaptive immune responses to eradicate cancer cells. This can beaccomplished by training resident immune cells to recognize and eliminate cellswith tumor-associated antigens or by providing external stimuli to enhance tumorcell apoptosis in the immunosuppressive tumor microenvironment (TME). In thisreview we will focus on nano- and micro-particle (NP and MP) basedimmunotherapies and vaccines used to elicit a potent and sustained antitumorimmune response.
+Copyright© Bentham Science Publishers; For any queries, please email atepub@benthamscience.org.

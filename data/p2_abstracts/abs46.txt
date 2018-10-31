@@ -1,48 +1,5 @@
-
-
-47. Cancer. 2018 Oct 6. doi: 10.1002/cncr.31775. [Epub ahead of print]
-
-Changes in cardiovascular disease risk and risk factors among women with and
-without breast cancer.
-
-Anderson C(1), Nichols HB(1), Deal AM(2), Park YM(3), Sandler DP(3).
-
-Author information: 
-(1)Department of Epidemiology, University of North Carolina at Chapel Hill,
-Chapel Hill, North Carolina.
-(2)Biostatistics and Clinical Data Management Core, University of North Carolina 
-Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
-Hill, Chapel Hill, North Carolina.
-(3)Epidemiology Branch, National Institute of Environmental Health Sciences,
-Research Triangle Park, North Carolina.
-
-BACKGROUND: Cardiovascular disease (CVD) risk is an important health concern
-among survivors of breast cancer. However, few studies to date have examined
-whether trajectories of CVD risk and major risk factors are worse among women
-with a breast cancer diagnosis compared with those without.
-METHODS: Changes in weight, body mass index, waist circumference, systolic blood 
-pressure, and 10-year CVD risk were compared between women with (813 women) and
-without (1049 women) an incident breast cancer diagnosis while they were enrolled
-in the National Institute of Environmental Health Sciences Sister Study cohort.
-Blood pressure and adiposity measures were collected by trained examiners at an
-enrollment visit (≥1 year before breast cancer diagnosis) and a second home visit
-4 to 11 years later (≥1 year after breast cancer diagnosis). The
-non-laboratory-based Framingham risk score, a measure of 10-year general CVD
-risk, was calculated at both the enrollment and second visits. All analyses were 
-stratified by menopausal status at the time of enrollment.
-RESULTS: Women who were premenopausal at the time of enrollment experienced
-moderate increases in weight, waist circumference, systolic blood pressure, and
-CVD risk over the study period. Those who were postmenopausal at the time of
-enrollment demonstrated little change in weight, but were found to have increases
-in waist circumference, systolic blood pressure, and CVD risk. In both groups,
-changes over time did not differ significantly according to breast cancer status.
-Neither chemotherapy nor endocrine therapy were found to be associated with
-greater increases in CVD risk or risk factors.
-CONCLUSIONS: In the current study cohort, changes over time in CVD risk,
-adiposity measures, and blood pressure were similar between women who developed
-an incident breast cancer and those who did not.
-
-© 2018 American Cancer Society.
-
-DOI: 10.1002/cncr.31775 
-PMID: 30291812 
+Br J Cancer. 2018 Oct;119(7):801-807. doi: 10.1038/s41416-018-0229-0. Epub 2018Oct 8.
+Phase II trial of palbociclib in patients with metastatic urothelial cancer afterfailure of first-line chemotherapy.
+Rose TL(1), Chism DD(2), Alva AS(3), Deal AM(4), Maygarden SJ(5), Whang YE(1),Kardos J(4), Drier A(4), Basch E(1), Godley PA(1), Dunn MW(1), Kim WY(1),Milowsky MI(6).
+Author information:(1)Division of Hematology/Oncology, Lineberger Comprehensive Cancer Center,University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.(2)Division of Hematology and Oncology, Department of Medicine, Vanderbilt-IngramCancer Center, Vanderbilt University Medical Center, Nashville, TN, USA.(3)Division of Hematology/Oncology, University of Michigan, Ann Arbor, MI, USA.(4)Lineberger Comprehensive Cancer Center, University of North Carolina at ChapelHill, Chapel Hill, NC, USA.(5)Department of Pathology and Laboratory Medicine, University of North Carolinaat Chapel Hill, Chapel Hill, NC, USA.(6)Division of Hematology/Oncology, Lineberger Comprehensive Cancer Center,University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.matt_milowsky@med.unc.edu.
+BACKGROUND: The majority of urothelial cancers (UC) harbor alterations inretinoblastoma (Rb) pathway genes that can lead to loss of Rb tumour suppressorfunction. Palbociclib is an oral, selective inhibitor of CDK 4/6 that restores Rbfunction and promotes cell cycle arrest.METHODS: In this phase II trial, patients with metastatic platinum-refractory UCmolecularly selected for p16 loss and intact Rb by tumour immunohistochemistryreceived palbociclib 125 mg p.o. daily for 21 days of a 28-day cycle. Primaryendpoint was progression-free survival at 4 months (PFS4) using a Simon'stwo-stage design. Next-generation sequencing including Rb pathway alterations wasconducted.RESULTS: Twelve patients were enrolled and two patients (17%) achieved PFS4 withinsufficient activity to advance to stage 2. No responses were seen. Median PFSwas 1.9 months (95% CI 1.8-3.7 months) and median overall survival was 6.3 months(95% CI 2.2-12.6 months). Fifty-eight percent of patients had grade ≥3hematologic toxicity. There were no CDKN2A alterations found and no correlationof Rb pathway alterations with clinical outcome.CONCLUSIONS: Palbociclib did not demonstrate meaningful activity in selectedpatients with platinum-refractory metastatic UC. Further development ofpalbociclib should only be considered with improved integral biomarker selectionor in rational combination with other therapies.

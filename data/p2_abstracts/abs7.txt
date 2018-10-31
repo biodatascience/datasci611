@@ -1,45 +1,5 @@
-
-
-8. J Oncol Pract. 2018 Oct 24:JOP1800120. doi: 10.1200/JOP.18.00120. [Epub ahead of 
-print]
-
-Financial Toxicity in Adults With Cancer: Adverse Outcomes and Noncompliance.
-
-Knight TG(1), Deal AM(1), Dusetzina SB(1), Muss HB(1), Choi SK(1), Bensen JT(1), 
-Williams GR(1).
-
-Author information: 
-(1)Atrium Health, Charlotte; University of North Carolina, Chapel Hill, NC;
-Vanderbilt University Medical Center, Nashville, TN; The University of Alabama at
-Birmingham, Birmingham, AL.
-
-PURPOSE:: Because of the escalating cost of cancer care coupled with high
-insurance deductibles, premiums, and uninsured populations, patients with cancer 
-are affected by treatment-related financial harm, known as financial toxicity.
-The purpose of this study was to describe individuals reporting financial
-toxicity and to identify rates of and reasons for affordability-related treatment
-noncompliance.
-METHODS:: From May 2010 to November 2015, adult patients (age ≥ 18 years) with
-cancer were identified from a Health Registry/Cancer Survivorship Cohort.
-Financial toxicity was defined as agreement with the phrase "You have to pay for 
-more medical care than you can afford" from the Patient Satisfaction
-Questionnaire-18. Logistic regression and Fisher exact tests were used to compare
-groups.
-RESULTS:: Of 1,988 participants, 524 (26%) reported financial toxicity. Patients 
-reporting financial toxicity were more likely age 65 years or younger, female,
-nonwhite, non-English speaking, not married, less educated, and to have received 
-a diagnosis more recently (all P < .001). Participants with financial toxicity
-were more likely to report noncompliance with medication, owing to inability to
-afford prescription drugs (relative risk [RR], 3.55; 95% CI, 2.53 to 4.98), and
-reported forgoing mental health care (RR, 3.89; 95% CI, 2.04 to 7.45), doctor's
-visits (RR, 2.98; 95% CI, 1.97 to 4.51), and medical tests (RR, 2.54; 95% CI,
-1.49 to 4.34). The most endorsed reasons for delayed care were not having
-insurance coverage and being unable to afford household expenses.
-CONCLUSION:: More than 25% of adults with cancer reported financial toxicity that
-was associated with an increased risk for medical noncompliance. Financial
-toxicity remains a major issue in cancer care, and efforts are needed to ensure
-patients experiencing high levels of financial toxicity are able to access
-recommended care.
-
-DOI: 10.1200/JOP.18.00120 
-PMID: 30355027 
+Int J Breast Cancer. 2018 Sep 30;2018:2063540. doi: 10.1155/2018/2063540.eCollection 2018.
+Stable Isotope-Resolved Metabolomic Differences between Hormone-Responsive andTriple-Negative Breast Cancer Cell Lines.
+Winnike JH(1), Stewart DA(2), Pathmasiri WW(2), McRitchie SL(2), Sumner SJ(2).
+Author information:(1)Analytical Sciences, David H. Murdock Research Institute, Kannapolis, NC28081, USA.(2)NIH Eastern Regional Comprehensive Metabolomics Resource Core, Department ofNutrition, University of North Carolina at Chapel Hill Nutrition ResearchInstitute, Kannapolis, NC 28081, USA.
+Purpose: To conduct an exploratory study to identify mechanisms thatdifferentiate Luminal A (BT474 and MCF-7) and triple-negative (MDA-MB-231 andMDA-MB-468) breast cancer (BCa) cell lines to potentially provide noveltherapeutic targets based on differences in energy utilization.Methods: Cells were cultured in media containing either [U-13C]-glucose or[U-13C]-glutamine for 48 hours. Conditioned media and cellular extracts wereanalyzed by 1H and 13C NMR spectroscopy.Results: MCF-7 cells consumed the most glucose, producing the most lactate,demonstrating the greatest Warburg effect-associated energy utilization. BT474cells had the highest tricarboxylic acid cycle (TCA) activity. The majority ofenergy utilization patterns in MCF-7 cells were more similar to MDA-MB-468 cells,while the patterns for BT474 cells were more similar to MDA-MB-231 cells.Compared to the Luminal A cell lines, TNBC cell lines consumed more glutamine andless glucose. BT474 and MDA-MB-468 cells produced high amounts of 13C-glycinefrom media [U-13C]-glucose which was integrated into glutathione, indicating denovo synthesis.Conclusions: Stable isotopic resolved metabolomics using 13C substrates providedmechanistic information about energy utilization that was difficult to interpretusing 1H data alone. Overall, cell lines that have different hormone receptorstatus have different energy utilization requirements, even if they areclassified by the same clinical BCa subtype; and these differences offer cluesabout optimizing treatment strategies.
