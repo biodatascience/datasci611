@@ -1,0 +1,38 @@
+---
+  title: "BIOS 611 HW9 Python"
+  author: "(Your full name here)"
+  date: "`r format(Sys.time(), '%m/%d/%Y')`"
+  output: html_document
+---
+  (This homework is due Mon. November 19th at 6 PM.)
+
+
+# Exercise 1
+
+Write a python script called "hw9_1.py" that takes as command-line arguments numbers (there can be any number of inputs) and then print out only even numbers.  
+
+For example, python hw9_1.py 2 3 7 4 6   
+Should print out:  
+2  
+4  
+6
+
+# Exercise 2
+Write a python script called "hw9_2.py" that takes as arguments 3 numbers. This script should have a list of 5 numbers: 1,6,9,8,14. The 3 numbers from the arguments should then be appended to the list. Print out this list. Print out the number of elements in the list. Sort the list and then print out the sorted list.  
+
+For example, python hw9_2.py 5 2 17  
+Should print out:  
+[1,6,9,8,14,5,2,17]  
+8  
+[1, 2, 5, 6, 8, 9, 14, 17]
+
+# Exercise 3
+
+Write a python script called "hw9_3.py". Create a pandas DataFrame with 5 columns of 20 random numbers in each column(uniform distribution over [0, 1), use a function from numpy to do this). For the random number generation, use numpy and set the random seed as followed: numpy.random.seed(0). The script should then print out the mean of each column.
+
+# Exercise 4
+
+Write a python script called "hw9_4.py". The script takes 3 command line arguments. The first and second argument is the mean and standard deviation of a normal distribution. The third argument is a number where the probability density function and cumulative density function should be evaluated. Write a function that takes these three arguments and print out both the normal PDF and CDF. (Hint: Use scipy.stats.norm)
+
+# Exercise 5
+Write a python script called "hw9_5.py". The script takes in 2 command line arguments. Suppose the first argument is $x$ and the second argument is $y$. Write a function that returns the following sum $\sum_{j=x}^yj^2$. The script should then print out the value of this sum.
