@@ -1,0 +1,36 @@
+library(tidyverse)
+library(modelr)
+
+# Generate example data
+# y = 0.5 + 0x + 1x^2 + noise
+set.seed(181117)
+x = seq(0,10,0.1)
+y = x^2 + 0.5 + 3*rnorm(n=length(x))
+data = tibble(x=x, y=y)
+
+# Given 3 parameters, evaluate and return a set of y values
+model1 = function(a, data) {
+  tmp_y = a[1] + data$x * a[2] + data$x^2 * a[3]
+  return(tmp_y)
+}
+
+# Given a set of y values from a model, 
+# determine sum squared residuals (i.e. distance) of model
+# from data
+measure_distance = function(mod, data) {
+  diff = data$y - model1(mod, data)
+  sum_sqr_error = sqrt(mean(diff ^ 2))
+  return(sum_sqr_error)
+}
+
+# Find the best fit parameters
+best = optim(c(0, 0, 0), measure_distance, data = data)
+
+# Visualize best fit model
+fit_y = best$par[1] + data$x * best$par[2] + data$x^2 * best$par[3]
+fit_df = tibble(x=x, y=fit_y)
+
+ggplot(data, aes(x,y)) + 
+ # geom_line(data = fit_df, size = 1.5, color='red', aes(x, y)) +
+  geom_point(alpha=0.5, size=2)
+  
