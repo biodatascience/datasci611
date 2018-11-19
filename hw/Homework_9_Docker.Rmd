@@ -30,7 +30,7 @@
 
    (Hint: To get the output files, 
    instead of running `python ... > output.txt` in a `docker run` command,
-   run a bash script `/bin/bash/ -c "python .... > output.txt"` (or `/bin/sh/` depending on the docker image).
+   run a bash script `/bin/bash/ -c "python .... > output.txt"`.
    Otherwise, your append (`>`) operator will not be wrapped within `docker run` command
    but will act on all the previous things, i.e. on `docker run ... python ....`. ).
 
@@ -45,6 +45,7 @@
    The arguments to be passed to each file are:
    0 1 2  for `hw9_4.py` and
    3 5 for `hw9_5.py`.
+   Hint:  use `/bin/sh/` instead of `/bin/bash/' for this container.
 
 
 7. Write a bash command that prints out the list of file names in the output folder.
