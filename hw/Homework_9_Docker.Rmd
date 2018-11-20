@@ -30,8 +30,8 @@
 
    (Hint: To get the output files, 
    instead of running `python ... > output.txt` in a `docker run` command,
-   run a bash script `/bin/bash/ -c "python .... > output.txt"`. Otherwise,
-   your append (`>`) operator will not be wrapped within `docker run` command
+   run a bash script `/bin/bash/ -c "python .... > output.txt"`.
+   Otherwise, your append (`>`) operator will not be wrapped within `docker run` command
    but will act on all the previous things, i.e. on `docker run ... python ....`. ).
 
 5. Write a bash command that pulls a publicly available Docker image
@@ -45,12 +45,13 @@
    The arguments to be passed to each file are:
    0 1 2  for `hw9_4.py` and
    3 5 for `hw9_5.py`.
+   Hint:  use `/bin/sh/` instead of `/bin/bash/` for this container.
 
 
 7. Write a bash command that prints out the list of file names in the output folder.
 
 8. Finally, write a Makefile that
-  1. constructs the folder structure (from part 1),
+  (This step is not needed) 1. constructs the folder structure (from part 1), (This step is not needed)  
   2. builds and pulls a Docker image (from parts 2, 3 and 5),
   3. runs the three python scripts on a Docker container (part 4),  
   4. runs the other two python scripts on another Docker container (part 6), and  
