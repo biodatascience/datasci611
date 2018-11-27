@@ -1,0 +1,235 @@
+---
+  title: "BIOS 611 HW10 Model basics (Chapters 23 and 24)"
+  author: "(Your full name here)"
+  date: "`r format(Sys.time(), '%m/%d/%Y')`"
+  output: html_document
+---
+```{r include=FALSE}
+  library(tidyverse)
+```
+
+
+  This homework is due at 6 pm on Monday, December 3.  
+
+  This set of exercise is largely taken from R for Data Science by Garrett Grolemund and Hadley Wickham.  
+
+# Exercise 1
+
+1.  One downside of the linear model is that it is sensitive to unusual values
+    because the distance incorporates a squared term. Fit a linear model to 
+    the simulated data below, and visualise the results. Rerun a few times to
+    generate different simulated datasets. What do you notice about the model? 
+    
+    ```{r}
+    set.seed(1)
+    sim1a <- tibble(
+      x = rep(1:10, each = 3),
+      y = x * 1.5 + 6 + rt(length(x), df = 2)
+    )
+    ```
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+2.  There are multiple ways to get the MSE (mean squared error. i.e. 
+    $\sum_{i=1}^{n} \frac {(y_i - \hat{y}_i)^2}{n - p}$ where $n$ is the sample  
+    size, $p$ is the number of covariates plus 1). from an `lm` object.  
+    Illustrate three different ways of getting the MSE from the following object.  
+    
+    ```{r}
+    sim1_mod <- lm(y~x, data = modelr::sim1)
+    ```
+    
+    Hint: 1) using `predict()`,   
+          2) extracting `residual`,   
+          3) using `summary()` to get some quantity related to MSE.  
+          If you are not sure what the object contains, use `str()`.  
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+# Exercise 2
+
+1.  Instead of using `lm()` to fit a straight line, you can use `loess()`
+    to fit a smooth curve. Repeat the process of model fitting, 
+    grid generation, predictions, and visualisation on `modelr::sim1` using 
+    `loess()` instead of `lm()`. How does the result compare to 
+    `geom_smooth()`?
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+2.  What does `geom_ref_line()` do? What package does it come from?
+    Why is displaying a reference line in plots showing residuals
+    useful and important?
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+    
+3.  In high-dimensional settings, some extension to linear models have been   
+    developed to control the effect of noise variables. LASSO, ridge regression, 
+    and elastic nets are such examples. Fit usual linear model,
+    LASSO, and ridge regression using `mtcars` data: i.e. `lm(mpg ~ ., mtcars)`
+    for usual linear model. Use `glmnet::glmnet()` with
+    `alpha = 1` for LASSO and `alpha = 0` for ridge regression.  
+    To find the best amount of penalty (`lambda`), usually cross validation is 
+    done, but here, simply put `lambda = 0.6`.  
+    What is the main difference bewteen LASSO and ridge regression? (Look
+    at their coefficients using `coef()` function. Keyword: sparsity)
+    
+    Answer: 
+
+    ```{r}
+
+    ```
+    
+# Exercise 3
+
+
+1.  Write a model formula in `lm()` in R that represents the following formula:  
+    $E[y|x_1, x_2] = \beta_0 + \beta_1x_1 + \beta_2x_1^2 + \beta_3x_1x_2 + \beta_4e^{x_1}$.  
+    Note: Beware that there is no main effect term for $x_2$.  
+    Use the following data (`dat`).  
+    
+    ```{r}
+    set.seed(1)
+    dat <- data_frame(x1 = rnorm(30), x2 = rnorm(30), y = x1*(x1-x2) - exp(x1)/3 + rnorm(30))
+    ```
+    
+    
+    Answer:
+    
+    ```{r}
+
+    ```
+
+2.  Suppose for some reason, you do not want to include an intercept term in your
+    linear model.  e.g. $E[y|x_1] = \beta_1x_1$.
+    
+    A. How would you remove the intercept in `lm()`? Write a code for such a model
+    (Use the same dataset (`dat`)). 
+    
+    Answer:  
+    
+    ```{r}
+
+    ```
+
+    
+    B. Compare and contrast models with and without the intercept term using  
+       `modelr::sim1`.  Plot the predicted values for comaparison.  
+     
+    Answer:  
+    
+    ```{r}
+
+    ```
+  
+    C. Repeat part B using data `modelr::sim2`.
+    
+    Answer:  
+    
+    ```{r}
+
+    ```
+
+
+# Exercise 4
+
+1.  Using the data `daily` given below, do the following.  
+    Create a new variable that splits the `wday` variable into terms, but only
+    for Saturdays, i.e. it should have `Thurs`, `Fri`, but `Sat-summer`, 
+    `Sat-spring`, `Sat-fall`. How does this model (`lm()` with `n` as the outcome) 
+    compare with the model with every combination of `wday` and `term`?
+    
+    ```{r}
+    term <- function(date) {
+      cut(date, breaks = lubridate::ymd(20130101, 20130605, 20130825, 20140101),
+          labels = c("spring", "summer", "fall"))
+      }
+    daily <- nycflights13::flights %>% 
+      mutate(date = lubridate::make_date(year, month, day)) %>% 
+      group_by(date) %>% 
+      summarise(n = n()) %>% 
+      mutate(wday = lubridate::wday(date, label = TRUE),
+             term = term(date))
+    ```
+    
+    Answer: 
+
+    ```{r}
+    
+    ```
+
+2.  Create a new `wday` variable that combines the day of week, term 
+    (for Saturdays), and public holidays. What do the residuals of 
+    that model look like?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+3.  What happens if you fit a day of week effect that varies by month 
+    (i.e. `n ~ wday * month`)? Why is this not very helpful? 
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+4.  What would you expect the model `n ~ wday + ns(date, 5)` to look like?
+    Knowing what you know about the data, why would you expect it to be
+    not particularly effective?
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+5.  It's a little frustrating that Sunday and Saturday are on separate ends
+    of the plot. Write a small function to set the levels of the 
+    factor so that the week starts on Monday.
+
+    Answer: 
+
+    ```{r}
+
+    ```
+
+
+# Exercise 5 `caret`
+
+1.  Using the `iris` dataset, find which machine learning algorithm gives
+    the best prediction accuracy for predicting `Species` among `knn`, 
+    `rf` (randomForest), and `nnet` (neuralnet).  
+    
+    Show a) how you partition the data (training and test sets), b) how you
+    train the models, and c) how you evaluate the models.  
+    
+    Fix the seed number within each chunk as needed for replication.  
+    You do not have to customize the tuning parameters (i.e. use the default set).  
+    Standardize the dataset before training using `preProcess()` or 
+    `train(..., preProcess = ...)`.  
+
+     
+    Answer: 
+
+    ```{r}
+
+    ```
+            
