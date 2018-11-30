@@ -1,0 +1,269 @@
+---
+title: "BIOS611 Practice"
+output:
+  html_document: default
+---
+
+**Starting materials.**
+```{r}
+library(tidyverse)
+library(modelr)
+library(stringr)
+library(caret)
+
+set.seed(0)
+
+data("mtcars")
+car_names = rownames(mtcars)
+mtcars_df = as.tibble(mtcars)
+mtcars_df$name = car_names
+```
+
+**1.** Using `mtcars_df`, select all the columns with the letter "a" in the title.
+
+```{r}
+mtcars_df %>% select(contains('a'))
+```
+
+**2.** What is the average MPG and HP for cars with either 6 or 8 cylinders? 
+
+```{r}
+mtcars_df %>% filter(cyl == 6 | cyl == 8) %>% select(mpg, hp) %>% colMeans()
+```
+
+**3a.** Write a function called `ratio_1` that takes an `mpg` value and a `cyl` value and calulates the `mpg` per `cyl` value.
+
+```{r}
+ratio_1 = function(m, c) {
+  return(m/c)
+}
+```
+
+**3b.** Write a for loop that operates over the rows of `mtcars`. During each iteration, pass the values of `mpg` and `cyl` to your function `ratio_1`. Store the results and at the end of the for loop, add a new column called `mpg_per_cyl` to `mtcars` with the values calculated by `ratio_1`. 
+
+```{r}
+mpg_per_cyl = rep(0, nrow(mtcars_df))
+for (i in 1:nrow(mtcars_df)){
+  mpg_per_cyl[i] = ratio_1(mtcars_df$mpg[i], mtcars_df$cyl[i])
+}
+mtcars_df$mpg_per_cyl = mpg_per_cyl
+mtcars_df
+```
+
+**3c.** Which car has the highest `mpg_per_cyl` score? Sort the dataframe to find the answer.
+
+```{r}
+
+mtcars_df %>% arrange(-mpg_per_cyl)
+```
+
+**4.**  Read in the file "practice_data/librarians-by-msa.csv" to a tibble called `librarians_df` (sourced from [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/librarians)). Make sure numeric columns are read in correctly.
+
+```{r}
+librarians_df = read_csv('practice_data/librarians-by-msa.csv', na = '**')
+head(librarians_df)
+```
+
+**5.** Read in the file "practice_data/congress_terms.csv" to a tibble called `congress_df` (sourced from [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/congress-age)). 
+
+```{r}
+congress_df = read_csv('practice_data/congress-terms.csv')
+head(congress_df)
+```
+
+**6a.** From `librarians_df` create a dataframe with an average `jobs_1000` value for each state. Call this dataframe `state_lib_1000_df`. Rename `prim_state` to `state`.
+
+```{r}
+state_lib_1000_df = librarians_df %>%
+  group_by(prim_state) %>%
+  summarise(jobs_1000 = mean(jobs_1000)) %>%
+  mutate(state = prim_state) %>%
+  select(state, jobs_1000)
+head(state_lib_1000_df)
+```
+
+**6b.** Left join `congress_df` with `state_lib_1000_df` on the `state` variable. Identify congressmen `lastnames`, `party`, `state`, and `congress` from states with the most and fewest librarians per 1000. Only include the most recent congress in the data set.
+
+```{r}
+lib_cong_df = congress_df %>% 
+  left_join(state_lib_1000_df, by='state') %>%
+  select(congress, lastname, birthday, state, party, jobs_1000) %>%
+  arrange(jobs_1000)
+
+least_lib_state = lib_cong_df$state[1]
+most_lib_state = lib_cong_df$state[nrow(lib_cong_df)]
+
+congressmen_from_least_lib_state = lib_cong_df %>% 
+  filter(state == least_lib_state & congress == max(congress)) %>% 
+  select(lastname, party, state, congress)
+congressmen_from_most_lib_state = lib_cong_df %>% 
+  filter(state == most_lib_state & congress == max(congress)) %>% 
+  select(lastname, party, state, congress)
+
+head(congressmen_from_least_lib_state)
+head(congressmen_from_most_lib_state)
+```
+
+**7.** Fit a linear model that predicts number of librarians per 1000 people `jobs_1000` from total librarians employed `tot_emp`. Plot the model predictions as a red line overlayed on a scatterplot of the raw data. 
+
+```{r}
+lib_model = lm(jobs_1000 ~ tot_emp, data=librarians_df)
+
+mod_predictions = librarians_df %>%
+  data_grid(tot_emp) %>%
+  add_predictions(lib_model, 'jobs_1000')
+
+ggplot(librarians_df, aes(tot_emp, jobs_1000)) +
+  geom_point() +
+  geom_line(data=mod_predictions, color='red')
+
+```
+
+
+**8.** Write a function `rmm` that removes any words starting with "M" from a phrase, and returns the new phrase.
+
+```{r}
+rmm <- function(phrase) {
+  new_phrase = str_replace_all(phrase, pattern="\\bM[:alpha:]*", replacement = "")
+  return(new_phrase)
+}
+```
+
+**8b.** Apply the function `rmm` to the `area_name` column in the `librarians_df` dataframe, and save as a new column `no_m_area_name`.
+
+```{r}
+ldf = librarians_df %>% 
+  select(area_name) %>%
+  mutate(no_m_area_name = rmm(area_name)) 
+ldf
+```
+
+**9a.** Scale and center the numerical columns of `librarians_df` and then cluster using heirarchical clustering with the "ward" method. Plot the dendrogram. 
+
+```{r}
+hclust_sol = librarians_df %>% 
+  select(tot_emp, emp_prse, jobs_1000, loc_quotient) %>%
+  na.omit() %>%
+  preProcess(method=c("center", "scale")) %>%
+  predict(librarians_df) %>%
+  na.omit() %>%
+  dist() %>%
+  hclust(method="ward")
+
+plot(hclust_sol)
+```
+
+**9b.** Based on the dendrogram, select a reasonable number of clusters and assign all the datapoints to a cluster. Produce a scatterplot where points are colored by cluster membership. 
+
+```{r}
+area_c = cutree(hclust_sol, k=2)
+
+librarians_df %>%
+  na.omit() %>%
+  mutate(cluster = factor(area_c)) %>%
+  ggplot(aes(emp_prse, tot_emp)) +
+  geom_point(aes(color=cluster))
+
+```
+
+
+**10.** Write an informative title for this figure. State a conclusion from the data rather than descibing "what" the figure is. Image courtesy of [FiveThirtyEight](https://fivethirtyeight.com/features/both-republicans-and-democrats-have-an-age-problem/)
+![](practice_data/silver-congress-age.png)
+
+```{}
+Example: Political conviction increases with age
+```
+
+**11.** What is the docker command to list running containers?
+
+```{}
+docker ps
+```
+
+**12a.** Consider the following shell script:
+
+```{}
+#!/usr/bin/env bash
+
+docker run -d --rm -v /home/user/test:/work -w /work python:2.7 $@
+
+```
+
+What does the "$@" mean? 
+
+```{}
+
+```
+
+**12b.** What is the name of the docker container being run in the shell script?
+
+```{}
+
+```
+
+**13.** What is the bash command to delete a directory `dir_name` full of files?
+
+```{}
+rm -r dir_name
+```
+
+
+**14.** Given an existing python dictionary `D = {'a':1, 'b':62, 'c':9, 'd':13}`, how would you add a new key:value pair "'e':8" without re-creating the whole dictionary?
+
+```{}
+D['e'] = 8
+```
+
+*15** Given a string "s = 'Spaghetti carbonara and parmessian cheese`", what would be the result of executing the following python code, and why? 
+
+`S.find("bonara")`
+
+```{}
+13, because "String.find(substring)" returns the index of the first occurence of the substring in String
+```
+
+
+**16.** Given a Pandas Dataframe like `librarians_df`, how would you use a for loop to calculate the average `jobs_1000` per state?
+
+```{}
+for state, state_df in librarians_df.groupby('prim_state'):
+  state_df['jobs_1000'].mean()
+```
+
+**17.** Given the following Makefile, what is the sequence of events that would happen if the user 
+typed the phrase `make histogram.png`? Describe which targets would run, scripts that would run, and files that would be created.
+
+```{}
+raw.tsv:
+  curl -o raw.tsv http://fakedata.unc/data.tsv
+  
+data.csv: raw.tsv
+  Rscript format_data.R raw.tsv
+
+histogram.png: data.csv
+  docker run -d -v $(shell pwd):/work -w /work rocker/tidyverse Rscript plot_maker.R data.csv
+
+```
+
+```{}
+Typing "make histogram.png" will trigger the dependencies to run if they are not already up to date.
+Tracing back, the first dependency to run will be raw.tsv, which will download data using curl and save to a file.
+Data.csv will be created by an Rscript that processes the raw.tsv.
+histogram.png is created by an Rscript that is run in a docker container.
+```
+
+
+**18a.** Consider the example [Nextflow script from class](https://github.com/biodatascience/datasci611/blob/gh-pages/scripts/nextflow_example1/main.nf).
+  
+In the process `get_seq_length`, what does "$f" refer to? 
+
+```{}
+$f refers to the next file from file_channel, which are fasta files accessed from 'data/fastas/*.fasta.
+```
+
+*18b.** In what order will files be processed by `get_seq_length`?
+
+```{}
+The order is random. Because files are processed in parallel, they are processed asynchronously.
+```
+
