@@ -52,7 +52,8 @@ mtcars_df$name = car_names
 **4.**  Read in the file "practice_data/librarians-by-msa.csv" to a tibble called `librarians_df` (sourced from [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/librarians)). Make sure numeric columns are read in correctly.
 
 ```{r}
-
+librarians_df = read_csv('practice_data/librarians-by-msa.csv', na = '**')
+head(librarians_df)
 ```
 
 **5.** Read in the file "practice_data/congress_terms.csv" to a tibble called `congress_df` (sourced from [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/congress-age)). 
@@ -94,12 +95,29 @@ mtcars_df$name = car_names
 **9a.** Scale and center the numerical columns of `librarians_df` and then cluster using heirarchical clustering with the "ward" method. Plot the dendrogram. 
 
 ```{r}
+hclust_sol = librarians_df %>% 
+  select(tot_emp, emp_prse, jobs_1000, loc_quotient) %>%
+  na.omit() %>%
+  preProcess(method=c("center", "scale")) %>%
+  predict(librarians_df) %>%
+  na.omit() %>%
+  dist() %>%
+  hclust(method="ward")
 
+plot(hclust_sol)
 ```
 
 **9b.** Based on the dendrogram, select a reasonable number of clusters and assign all the datapoints to a cluster. Produce a scatterplot where points are colored by cluster membership. 
 
 ```{r}
+
+o = cutree(hclust_sol, k=2)
+
+librarians_df %>%
+  na.omit() %>%
+  mutate(cluster=o) %>%
+  ggplot(aes(tot_emp, emp_prse)) +
+  geom_point(aes(color=cluster))
 
 ```
 
@@ -118,10 +136,13 @@ mtcars_df$name = car_names
 ```
 
 **12a.** Consider the following shell script:
-
 ```{}
+#!/usr/bin/env bash
+
+docker run -d --rm -v /home/user/test:/work -w /work python:2.7 $@
 
 ```
+
 
 What does the "$@" mean? 
 
