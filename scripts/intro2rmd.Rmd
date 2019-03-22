@@ -1,0 +1,24 @@
+---
+title: "ggplot2_two"
+author: "Matt Biggs"
+output: html_document
+---
+## Markdown is a simple document formatting language
+
+A cheat sheet can be found [here](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf).
+
+The really powerful thing is that code can be embedding in your document!
+```{r}
+library(ggplot2)
+```
+
+Not only is the code provided with the document, but the output is displayed too.
+
+```{r}
+ggplot(diamonds, aes(x=cut, y=carat)) +
+  geom_violin()
+```
+
+## You can include special symbols using the `$` operator.
+
+$\sum_{n=1}^{10} n^2$
