@@ -65,4 +65,10 @@ ggplot(df, aes(x=x, y=y, group=group)) +
   theme(legend.position = "none", 
         axis.ticks.length = unit(2, "cm"))
 
-
+# You can include special fonts or symbols in your 
+# titles and labels using the "expression" function
+ggplot(diamonds, aes(x=cut)) +
+  geom_bar() +
+labs(x='Diamond Type',
+     y=expression(paste('Count'['diamond'])),
+     title=expression(paste('Higher quality diamonds are most common'^{'*'})))
