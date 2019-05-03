@@ -1,4 +1,5 @@
 library(tidyverse)
+library(mclust) 
 
 # A quick refresher on native R clustering algorithms: https://www.statmethods.net/advstats/cluster.html
 
@@ -22,7 +23,7 @@ ggplot(gene_df, aes(gene_a, gene_b)) +
 #-------------------------
 fit = gene_df %>%
   select(gene_a, gene_b) %>%
-  kmeans(3) 
+  kmeans(10) 
 
 # Append cluster assignment
 gene_df$cluster = as.factor(fit$cluster)
@@ -45,7 +46,7 @@ kmeans_wss <- Vectorize(function(c){
 cluster_fit = tibble(num_centers=1:15) %>%
   mutate(wss = kmeans_wss(num_centers), diff_wss = wss - lag(wss))
 
-ggplot(cluster_fit, aes(num_centers, wss)) +
+ggplot(cluster_fit, aes(num_centers, diff_wss)) +
   geom_point() +
   geom_line() +
   labs(x="Number of Clusters",
@@ -70,26 +71,24 @@ gene_df$cluster_h = as.factor(groups)
 rect.hclust(hfit, k=3, border="red")
 
 # Plot results
+ggplot(gene_df, aes(gene_a, gene_b, group=cluster_h)) +
+  geom_point(size=2, alpha=0.75, aes(color=cluster_h))
+
+
+#-------------------------
+# EM Clustering
+# http://rstudio-pubs-static.s3.amazonaws.com/154174_78c021bc71ab42f8add0b2966938a3b8.html
+#-------------------------
+# Calculate distance between all observations
+em_fit = fit = gene_df %>%
+  select(gene_a, gene_b) %>%
+  Mclust(G=3)
+
+# Append cluster assignment
+gene_df$cluster = as.factor(em_fit$classification)
+gene_df$uncertainty = -em_fit$uncertainty
+
+# Plot results
 ggplot(gene_df, aes(gene_a, gene_b, group=cluster)) +
-  geom_point(size=2, alpha=0.75, aes(color=cluster))
+  geom_point(alpha=0.75, aes(color=cluster, size=-uncertainty))
 
-
-#-------------------------
-# Classification
-#-------------------------
-library(caret)
-
-# Expected to be from type 2
-new_samples = tibble(gene_a = rnorm(n=10, mean=1), gene_b = rnorm(n=10, mean=1))
-
-# Train a k-nearest-neighbors model
-knn_fit = train(type ~ gene_a + gene_b, data = gene_df, method = "knn")
-
-# Predict type for new data
-knn_classification = predict(knn_fit, new_samples, type="raw")
-
-# Train a support vector machine
-svm_fit = train(type ~ gene_a + gene_b, data = gene_df, method = "svmLinear")
-
-# Predict type for new data
-svm_classification = predict(svm_fit, new_samples, type="raw")
