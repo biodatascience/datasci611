@@ -79,7 +79,6 @@ ggplot(gene_df, aes(gene_a, gene_b, group=cluster_h)) +
 # EM Clustering
 # http://rstudio-pubs-static.s3.amazonaws.com/154174_78c021bc71ab42f8add0b2966938a3b8.html
 #-------------------------
-# Calculate distance between all observations
 em_fit = fit = gene_df %>%
   select(gene_a, gene_b) %>%
   Mclust(G=3)
