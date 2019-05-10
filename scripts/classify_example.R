@@ -51,3 +51,16 @@ ggplot(gene_df, aes(gene_a, gene_b)) +
   geom_point(data=new_samples, size=4, aes(color=new_samples$svm_class)) +
   ggtitle('svm_classification') +
   theme(legend.position = "none")
+
+# Train a random forest classifier
+rf_fit = train(type ~ gene_a + gene_b, data = gene_df, method = "ranger")
+
+# Predict type for new data
+rf_classification = predict(rf_fit, new_samples, type="raw")
+new_samples$rf_class = rf_classification
+
+ggplot(gene_df, aes(gene_a, gene_b)) +
+  geom_point(size=2, alpha=0.75) +
+  geom_point(data=new_samples, size=4, aes(color=new_samples$rf_class)) +
+  ggtitle('rf_classification') +
+  theme(legend.position = "none")
