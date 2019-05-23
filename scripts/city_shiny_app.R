@@ -7,7 +7,7 @@ city_df = read_csv(url("https://gist.githubusercontent.com/Miserlou/11500b2345d3
 ui <- fluidPage(
   
   # App title ----
-  titlePanel("Hello Shiny!"),
+  titlePanel("US Cities Dashboard"),
   
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
@@ -17,10 +17,10 @@ ui <- fluidPage(
       
       # Input: Integer for the number of bins ----
       numericInput(inputId = "bins",
-                  label = "Number of bins:",
-                  min = 1,
-                  max = 50,
-                  value = 30)
+                   label = "Number of bins:",
+                   min = 1,
+                   max = 50,
+                   value = 30)
     ),
     
     # Main panel for displaying outputs ----
