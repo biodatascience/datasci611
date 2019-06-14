@@ -1,0 +1,19 @@
+Your project was super interesting. 
+I liked your use of clustering to identify unique subgroups, 
+and then how you applied the results as a color layer in figure 3. 
+
+There was no description of the axis units in that same figure 
+though, which makes it hard to interpret. 
+
+You also use some jargon terms in paragraph 3 that would be hard
+for non statistitians to understand. Because this project is intended
+to be read and acted upon by community volunteers with many backgrounds,
+I suggest replacing the word "Heteroscedasticity" with "unequal variance", 
+and then describe why the reader should care (in practical terms).
+
+It might help to include a histogram or violin plot (maybe as a figure 4)
+to give your readers a better idea of the shape of the data 
+at the time point you highlight in the text.
+
+Good luck!
+
