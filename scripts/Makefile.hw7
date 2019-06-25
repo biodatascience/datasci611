@@ -1,0 +1,11 @@
+build-image: Dockerfile.hw7
+	docker build -t mf2g -f Dockerfile.hw7 . && touch $@
+
+.PHONY: run_make2graph
+run_make2graph: build-image
+	docker run -it --rm -v $(pwd):/unc -w /unc mf2g \
+	"make -f Makefile.hw7 rename -Bnd | make2graph | dot -Tpng -o hw7_out.png" 
+
+.PHONY: rename
+rename: run_make2graph
+	mv out.png graph.png
