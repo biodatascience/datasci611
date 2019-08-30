@@ -12,12 +12,28 @@ The really powerful thing is that code can be embedded in your document!
 library(ggplot2)
 ```
 
+
+Notice that "cells" or "code blocks" are defined with the "```" delimiters, and the type of code you're running in curly brackets (e.g. "{r}").
+
+You can run the code in a cell with the little green play button.
+
 Not only is the code provided with the document, but the output is displayed too.
 
 ```{r}
 ggplot(diamonds, aes(x=cut, y=carat)) +
   geom_violin()
 ```
+
+You can modulate whether code, output, or warnings are run or displayed.
+
+```{r eval=FALSE}
+ggplot(diamonds, aes(x=cut, y=carat)) +
+  geom_violin()
+```
+
+## You can include R code in your text
+
+The easiest way to do math like "4 + 5 = `r 4 + 5`" is the let the computer handle it.
 
 ## You can include special symbols using the `$` operator.
 

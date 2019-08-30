@@ -1,21 +1,30 @@
-library(ggplot2)
 library(tidyverse)
+library(RColorBrewer)
 
-# ggplot creates a plot object when called.
-# You can add to the plot object repeatedly 
-p = ggplot(diamonds, aes(x=cut, y=price)) 
-p = p + geom_jitter(alpha=0.2)
-p = p + geom_violin(alpha=0.4, aes(color=cut))
-print(p)
+# Preview the data
+diamonds
+diamonds_subset = sample_n(diamonds, 1000, replace=FALSE)
+
 
 # Bar charts are another example of a statistical transformation
 # (like histograms). 
-ggplot(diamonds, aes(x=cut)) +
-  geom_bar()
+ggplot(diamonds_subset, aes(x=cut)) +
+  geom_bar(aes(fill=cut))
 
-# Stacked bar charts are as simple as mapping a variable to the fill
+# Create a custom color scale
+?brewer.pal
+myColors = brewer.pal(5,"BrBG") # produces an array/list of colors
+names(myColors) = levels(diamonds_subset$cut) # converts to a named list
+
+ggplot(diamonds_subset, aes(x=cut)) +
+  geom_bar(aes(fill=cut)) +
+  scale_fill_manual(values = myColors) # provides color scale for fill aesthetic
+
+
+
+# Stacked bar charts are created by mapping a variable to the fill
 # aesthetic
-ggplot(diamonds, aes(x=cut)) +
+ggplot(diamonds_subset, aes(x=cut)) +
   geom_bar(aes(fill=color))
 
 # To connect lines, you need to group points
@@ -32,6 +41,8 @@ ggplot(df, aes(x=x, y=y, group=group)) +
   geom_line(size=1.5, aes(color=group)) +
   geom_point(size=2)
 
+
+
 # Annotations can be added using an "annotation" layer
 # https://ggplot2.tidyverse.org/reference/annotate.html
 ggplot(df, aes(x=x, y=y, group=group)) +
@@ -45,6 +56,17 @@ ggplot(df, aes(x=x, y=y, group=group)) +
   geom_hline(yintercept = 1.2, color='red', linetype='dashed') +
   geom_vline(xintercept = 2, color='blue', linetype='dashed')
 
+
+
+# You can change the default axis limits
+ggplot(df, aes(x=x, y=y, group=group)) +
+  geom_line(size=1.5, aes(color=group)) +
+  geom_point(size=2) +
+  geom_hline(yintercept = 1.2, color='red', linetype='dashed') +
+  geom_vline(xintercept = 2, color='blue', linetype='dashed') +
+  xlim(1,2)
+
+
 # The classic ggplot theme isn't bad, but often it's good to 
 # have simpler backgrounds and plot structure
 ggplot(df, aes(x=x, y=y, group=group)) +
@@ -53,6 +75,7 @@ ggplot(df, aes(x=x, y=y, group=group)) +
   geom_hline(yintercept = 1.2, color='red', linetype='dashed') +
   geom_vline(xintercept = 2, color='blue', linetype='dashed') +
   theme_minimal()
+
 
 # More generally, any characteristic of a figure can be changed 
 # using the theme layer
@@ -65,10 +88,16 @@ ggplot(df, aes(x=x, y=y, group=group)) +
   theme(legend.position = "none", 
         axis.ticks.length = unit(2, "cm"))
 
+
 # You can include special fonts or symbols in your 
 # titles and labels using the "expression" function
 ggplot(diamonds, aes(x=cut)) +
   geom_bar() +
 labs(x='Diamond Type',
      y=expression(paste('Count'['diamond'])),
-     title=expression(paste('Higher quality diamonds are most common'^{'*'})))
+     title=expression(paste('Higher quality diamonds are most common'^{'usually'})))
+
+# Follow the link in the slides for more detailed examples, but to get started:
+# paste() concatenates strings together
+# [] = subscript
+# ^{} = superscript
