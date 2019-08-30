@@ -5,12 +5,6 @@ library(dplyr)
 diamonds
 diamonds_subset = sample_n(diamonds, 1000, replace=FALSE)
 
-# To start, assign variables to the x and y axes, 
-# and pick a geom (here I chose scatter plot or "geom_point")
-ggplot(diamonds_subset,aes(x=carat, y=price)) +
-  geom_point()
-
-
 # Take a moment to learn some Rstudio features:
 # - "CTRL + Enter" to run selected code (or "Run" button above)
 # - Environment tab to view data
@@ -19,12 +13,21 @@ ggplot(diamonds_subset,aes(x=carat, y=price)) +
 # - ?function to access help
 
 
+# To start, assign variables to the x and y axes, 
+# and pick a geom (here I chose scatter plot or "geom_point")
+ggplot(diamonds_subset,aes(x=carat, y=price)) +
+  geom_point()
+
+
 # Examples of other geoms
 # Notice that these ones include a statistical transform
 ggplot(diamonds_subset, aes(x=carat, y=price)) +
   geom_hex()
 
-
+# Notice the aes() or "aesthetic" function nested under
+# the ggplot() function. That is where you assign global
+# figure properties. In this case, assigning data to the 
+# x or y axes.
 
 ggplot(diamonds_subset, aes(x=carat, y=price)) +
   geom_bin2d()
@@ -32,7 +35,7 @@ ggplot(diamonds_subset, aes(x=carat, y=price)) +
 
 
 # It's easy to add layers ... just tack on another "geom"
-# Take a moment to explore all the possible geom layers
+# Take a moment to explore all the possible geom
 ggplot(diamonds_subset,aes(x=carat, y=price)) +
   geom_point() +
   geom_rug(alpha=0.3)
@@ -61,7 +64,8 @@ ggplot(diamonds_subset,aes(x=carat, y=price)) +
 
 # To link the appearance of the elements of a layer to 
 # variables in the data, use the same specifications as above
-# but define the dependency in an "aes" section
+# but define the dependency in an "aes()" function for that
+# layer.
 ggplot(diamonds_subset,aes(x=carat, y=price)) +
   geom_point(size=4, aes(shape=cut)) +
   geom_smooth() +
@@ -111,6 +115,17 @@ ggplot(diamonds_subset,aes(x=price)) +
        title='Distribution of Diamond Prices')
 
 
+# Note that figures can be saved as objects
+p = ggplot(diamonds_subset, aes(x=price))
+p = p + geom_histogram()
+p = p + labs(x='Price in US Dollars',
+             y='Count',
+             title='Distribution of Diamond Prices')
 
-# And finally, to save a figure as a file
+print(p)
+
+# And finally, to save a figure as a file (Saves the most recent figure)
 ggsave('outfile.png', height=3, width=5)
+
+# And finally, to save a figure as a file (Saves figure p)
+ggsave(p, 'outfile.png', height=3, width=5)
