@@ -20,6 +20,7 @@ ggplot(diamonds_subset, aes(x=cut)) +
   geom_bar(aes(fill=cut)) +
   scale_fill_manual(values = myColors) # provides color scale for fill aesthetic
 
+# https://www.w3schools.com/colors/colors_picker.asp
 
 
 # Stacked bar charts are created by mapping a variable to the fill
@@ -41,6 +42,16 @@ ggplot(df, aes(x=x, y=y, group=group)) +
   geom_line(size=1.5, aes(color=group)) +
   geom_point(size=2)
 
+
+# Including another data set in a specific layer
+df2 = tibble(x = c(1, 1, 1.5, 1.5, 2, 2, 2.5, 2.5), 
+             y = c(1, 1.1, 1.1, 1.2, 1.2, 1.3, 1.3, 1.4),
+             group = factor(rep(1, 8)))
+
+ggplot(df, aes(x=x, y=y, group=group)) +
+  geom_line(size=1.5, aes(color=group)) +
+  geom_point(size=2) +
+  geom_line(data=df2, aes(x=x, y=y, group=group))
 
 
 # Annotations can be added using an "annotation" layer
@@ -93,9 +104,9 @@ ggplot(df, aes(x=x, y=y, group=group)) +
 # titles and labels using the "expression" function
 ggplot(diamonds, aes(x=cut)) +
   geom_bar() +
-labs(x='Diamond Type',
-     y=expression(paste('Count'['diamond'])),
-     title=expression(paste('Higher quality diamonds are most common'^{'usually'})))
+  labs(x='Diamond Type',
+       y=expression(paste('Count'['diamond'])),
+       title=expression(paste('Higher quality diamonds are most common'^{'usually'})))
 
 # Follow the link in the slides for more detailed examples, but to get started:
 # paste() concatenates strings together
