@@ -108,7 +108,15 @@ ggplot(diamonds, aes(x=cut)) +
        y=expression(paste('Count'['diamond'])),
        title=expression(paste('Higher quality diamonds are most common'^{'usually'})))
 
+ggplot(diamonds, aes(x=price)) +
+  geom_histogram() +
+  labs(x='Diamond Price ($)',
+       y=expression(paste('Count'['diamond'])),
+       title=expression(paste('Higher quality diamonds are most common ', lambda, ' ', pi)))
+
+
 # Follow the link in the slides for more detailed examples, but to get started:
 # paste() concatenates strings together
 # [] = subscript
 # ^{} = superscript
+# special characters such as "lambda"

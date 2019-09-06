@@ -1,7 +1,7 @@
 ---
 title: "ggplot2_two"
 author: "Matt Biggs"
-output: html_document
+output: pdf_document
 ---
 ## Markdown is a simple document formatting language
 
