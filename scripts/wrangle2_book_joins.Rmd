@@ -1,9 +1,7 @@
 ---
 title: "book_joins"
 author: "Matthew Biggs"
-output:
-  pdf_document: default
-  html_document: default
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
