@@ -10,7 +10,7 @@ police_df = read_csv(url("https://raw.githubusercontent.com/fivethirtyeight/data
 large_force = police_df %>%
   filter(police_force_size > 4000) %>%
   arrange(all) %>%
-  head()
+  head(5)
 large_force
 
 # Find the cities where the police force contains less than 4000 officers,
@@ -19,7 +19,7 @@ large_force
 small_force = police_df %>%
   mutate(w.nw.ratio = white / `non-white`) %>%
   arrange(w.nw.ratio) %>%
-  tail()
+  tail(5)
 small_force
 
 ## Gathering
