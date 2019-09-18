@@ -40,4 +40,15 @@ spread_df = gathered_df %>%
   spread(key='w.b.rates', value='rate.val')
 spread_df
 
+## Group_by() and Summarise
+head(diamonds)
+
+diamonds %>% 
+  group_by(color)%>%
+  summarise(count=n())
+
+diamonds %>% 
+  group_by(color)%>%
+  summarise(count=n(), ave.price = mean(price))
+
 ## Joining
