@@ -46,7 +46,7 @@ kmeans_wss <- Vectorize(function(c){
 cluster_fit = tibble(num_centers=1:15) %>%
   mutate(wss = kmeans_wss(num_centers), diff_wss = wss - lag(wss))
 
-ggplot(cluster_fit, aes(num_centers, diff_wss)) +
+ggplot(cluster_fit, aes(num_centers, wss)) +
   geom_point() +
   geom_line() +
   labs(x="Number of Clusters",
