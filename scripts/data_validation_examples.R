@@ -3,7 +3,7 @@ library(caret)
 
 ## Standardization example (i.e. centering and scaling)
 
-# First, notice how halfing one variable or another 
+# First, notice how halving one variable or another 
 # impacts the distance between observations
 astronaut_df = tibble(astronaut_id = c(13, 45, 81), 
                       age = c(36, 47, 38), 
@@ -104,7 +104,7 @@ adf_11[3,2] = NA
 
 astro_preproc_vals = adf_11 %>%
   select(-astronaut_id) %>%
-  preProcess(method = c("knnImpute"), k=1) # Automatically selects enough principal components to capture 95% variance
+  preProcess(method = c("knnImpute"), k=1) # Fills in missing values based on the nearest neighbor
 
 astronaut_stnd_df_5 = predict(astro_preproc_vals, adf_11)
 
@@ -115,7 +115,7 @@ set.seed(0)
 N = 20
 ages = sample(seq(28,57), replace=T, size=N)
 hours_in_space = ages * 100 - sample(seq(-500,500), replace=T, size=N)
-astronaut_df = tibble(astronaut_id = c(c(13, 45, 81), seq(1,N,1)), 
+astronaut_df = tibble(astronaut_id = c(c(13, 45, 81), seq(81+1,81+N,1)), 
                       age = c(c(36, 47, 38), ages), 
                       heart_rate = c(c(45, 52,42), sample(seq(38,61), replace=T, size=N)), 
                       hours_in_space = c(c(2208, 3791, 1823), hours_in_space ))
@@ -176,7 +176,7 @@ for(i in 1:length(model_list)){
 # N-fold cross validation - do the same thing as above,
 # but multiple times
 train_i = createDataPartition(astronaut_df$astronaut_id, p = .5, list=FALSE, times=10)
-
+sse_tibble = tibble()
 for(i in 1:ncol(train_i)){
   train_df = astronaut_df[train_i[,i],]
   test_df = astronaut_df[-train_i[,i],]
@@ -190,6 +190,10 @@ for(i in 1:ncol(train_i)){
   for(i in 1:length(model_list)){
     sse_values[i] = sse_test(test_df, model_list[[i]])
   }
-  print(sse_values)
-  
+  sse_tibble = rbind(sse_tibble, sse_values)
 }
+names(sse_tibble) = c('model1', 'model5', 'model15')
+print(sse_tibble)
+
+sse_tibble %>% 
+  summarise(m1 = mean(model1), m5 = mean(model5), m15 = mean(model15))
