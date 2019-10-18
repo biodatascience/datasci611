@@ -2,9 +2,9 @@
 
 # Find the top ten words that occur before the word "thee"
 
-grep -Eio "\w+ thee" $1 | \
+cat $1 | grep -Eio "\w+ thee" | \
 	cut -d ' ' -f 1 | \
 	sort | \
 	uniq -c | \
-	sort -r | \
+	sort -nr | \
 	head -10
